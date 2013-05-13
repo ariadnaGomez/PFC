@@ -1,0 +1,1362 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Barfield">
+    <yago:hasName xml:lang="en">Owen Barfield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Onions">
+    <yago:hasName xml:lang="en">Oliver Onions</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bal%C3%A1zs_Orb%C3%A1n">
+    <yago:hasName xml:lang="en">Orbán Balázs</yago:hasName>
+    <yago:hasName xml:lang="en">Orban Balazs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oto_Horvat">
+    <yago:hasName xml:lang="en">Oto Horvat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Bayer">
+    <yago:hasName xml:lang="en">Osvaldo Bayer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otakar_Hostinsk%C3%BD">
+    <yago:hasName xml:lang="en">Otakar Hostinsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ott_Arder">
+    <yago:hasName xml:lang="en">Ott Arder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otokar_Ker%C5%A1ovani">
+    <yago:hasName xml:lang="en">Otokar Kersovani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympia_Vernon">
+    <yago:hasName xml:lang="en">Olympia Vernon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Welden">
+    <yago:hasName xml:lang="en">Oliver Welden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Jahn">
+    <yago:hasName xml:lang="en">Otto Jahn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omid_Memarian">
+    <yago:hasName xml:lang="en">Omid Memarian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obert_Skye">
+    <yago:hasName xml:lang="en">Obert Skye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Tokarczuk">
+    <yago:hasName xml:lang="en">Olga Tokarczuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Hijuelos">
+    <yago:hasName xml:lang="en">Oscar Jerome Hijuelos</yago:hasName>
+    <yago:hasName xml:lang="en">Oscar Hijuelos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onyema_Ugochukwu">
+    <yago:hasName xml:lang="en">Onyema Ugochukwu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Viker">
+    <yago:hasName xml:lang="en">Ola Viker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._A._Bushnell">
+    <yago:hasName xml:lang="en">O. A. Bushnell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oakley_Hall">
+    <yago:hasName xml:lang="en">Oakley Hall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dael_Orlandersmith">
+    <yago:hasName xml:lang="en">Orlandersmith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%96d%C3%B6n_von_Horv%C3%A1th">
+    <yago:hasName xml:lang="en">Odon Von Horvath</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_Custance">
+    <yago:hasName xml:lang="en">Olive Custance</yago:hasName>
+    <yago:hasName xml:lang="en">Olive Eleanor Custance</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Od%C3%B3n_Betanzos_Palacios">
+    <yago:hasName xml:lang="en">Odon Betanzos Palacios</yago:hasName>
+    <yago:hasName xml:lang="en">Odón Betanzos Palacios</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Jacoby">
+    <yago:hasName xml:lang="en">Oswald Jacoby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Gildemeister">
+    <yago:hasName xml:lang="en">Otto Gildemeister</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oben_%C3%96zayd%C4%B1n">
+    <yago:hasName xml:lang="en">Oben Ozaydin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O%C4%9Fuz_Atay">
+    <yago:hasName xml:lang="en">Oğuz Atay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovid">
+    <yago:hasName xml:lang="en">Ovid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orde_M._Coombs">
+    <yago:hasName xml:lang="en">Orde M. Coombs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93ndra_%C5%81ysohorsky">
+    <yago:hasName xml:lang="en">Ondra Lysohorsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onni_Palaste">
+    <yago:hasName xml:lang="en">Onni Palaste</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otis_O&apos;Solomon">
+    <yago:hasName xml:lang="en">Otis Osolomon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oku_Onuora">
+    <yago:hasName xml:lang="en">Oku Onuora</yago:hasName>
+    <yago:hasName xml:lang="en">Oku Nagba Ozala Onuora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Davi%C4%8Do">
+    <yago:hasName xml:lang="en">Oskar Davico</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._Douglas">
+    <yago:hasName xml:lang="en">O. Douglas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Poole_(journalist)">
+    <yago:hasName xml:lang="en">Oliver Poole</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Novo">
+    <yago:hasName xml:lang="en">Olga Novo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Man_Bukashkin">
+    <yago:hasName xml:lang="en">Old Man Bukashkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovid_Densusianu">
+    <yago:hasName xml:lang="en">Ovid Densusianu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Wilde">
+    <yago:hasName xml:lang="en">Oscar Wilde</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Kesselring">
+    <yago:hasName xml:lang="en">Otto Kesselring</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osmar_Santos">
+    <yago:hasName xml:lang="en">Osmar Santos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okot_p&apos;Bitek">
+    <yago:hasName xml:lang="en">Okot Pbitek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Martynova">
+    <yago:hasName xml:lang="en">Olga Martynova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otsuichi">
+    <yago:hasName xml:lang="en">Otsuichi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Steeds">
+    <yago:hasName xml:lang="en">Oliver Steeds</yago:hasName>
+    <yago:hasName xml:lang="en">Olly Steeds</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Overton">
+    <yago:hasName xml:lang="en">Overton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_La_Farge">
+    <yago:hasName xml:lang="en">Oliver La Farge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_A._Oppel,_Jr.">
+    <yago:hasName xml:lang="en">Oppel, Richard A., Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouyang_Tzu">
+    <yago:hasName xml:lang="en">Ouyang Tzu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Teliha">
+    <yago:hasName xml:lang="en">Olena Ivanivna Teliha</yago:hasName>
+    <yago:hasName xml:lang="en">Olena Teliha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Marshall">
+    <yago:hasName xml:lang="en">Owen Marshall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_Mart%C3%ADnez_Howley">
+    <yago:hasName xml:lang="en">Orlando Martínez Howley</yago:hasName>
+    <yago:hasName xml:lang="en">Orlando Martinez Howley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_By_Rise">
+    <yago:hasName xml:lang="en">Ola By Rise</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93engus_of_Tallaght">
+    <yago:hasName xml:lang="en">Oengus Of Tallaght</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olufemi_Terry">
+    <yago:hasName xml:lang="en">Olufemi Terry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_Necmi_G%C3%BCrmen">
+    <yago:hasName xml:lang="en">Osman Necmi Gurmen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Ottati_(Junior)">
+    <yago:hasName xml:lang="en">Ottati</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Sambrano_Urdaneta">
+    <yago:hasName xml:lang="en">Oscar Sambrano Urdaneta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliverio_Girondo">
+    <yago:hasName xml:lang="en">Oliverio Girondo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Aramayo">
+    <yago:hasName xml:lang="en">Omar Aramayo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olfert_Dapper">
+    <yago:hasName xml:lang="en">Olfert Dapper</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osama_Anwar_Okasha">
+    <yago:hasName xml:lang="en">Osama Anwar Okasha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Prokofiev">
+    <yago:hasName xml:lang="en">Oleg Prokofiev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Khayy%C3%A1m">
+    <yago:hasName xml:lang="en">Omar Khayyám</yago:hasName>
+    <yago:hasName xml:lang="en">Omar Khayyam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympe_de_Gouges">
+    <yago:hasName xml:lang="en">Olympe de Gouges</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ormond_McGill">
+    <yago:hasName xml:lang="en">Ormond McGill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_B%C3%B8rretzen">
+    <yago:hasName xml:lang="en">Odd Borretzen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Ward_Bush">
+    <yago:hasName xml:lang="en">Olivia Ward</yago:hasName>
+    <yago:hasName xml:lang="en">Olivia Ward Bush</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_de_Andrade">
+    <yago:hasName xml:lang="en">Oswald de Andrade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Os%C3%B3rio_Duque-Estrada">
+    <yago:hasName xml:lang="en">Osório Duque-Estrada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_Mirzayev">
+    <yago:hasName xml:lang="en">Osman Mirzayev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olof_von_Dalin">
+    <yago:hasName xml:lang="en">Olof Dalin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Kamm">
+    <yago:hasName xml:lang="en">Oliver Kamm</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Thanvi">
+    <yago:hasName xml:lang="en">Om Thanvi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Vujovi%C4%87">
+    <yago:hasName xml:lang="en">Oliver Vujovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Kozerod">
+    <yago:hasName xml:lang="en">Oleg Kozerod</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Wister">
+    <yago:hasName xml:lang="en">Owen Wister</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_lo_Templier">
+    <yago:hasName xml:lang="en">Olivier Lo Templier</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ottakoothar">
+    <yago:hasName xml:lang="en">Ottakoothar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Stanis%C5%82awska">
+    <yago:hasName xml:lang="en">Olga Stanislawska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Ostenso">
+    <yago:hasName xml:lang="en">Ostenso</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Kirsch">
+    <yago:hasName xml:lang="en">Olga Kirsch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Ali-Shah">
+    <yago:hasName xml:lang="en">Omar Ali-Shah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olja_Be%C4%87kovi%C4%87">
+    <yago:hasName xml:lang="en">Olja Beckovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_Mej%C3%ADa_Rivera">
+    <yago:hasName xml:lang="en">Orlando Mejia Rivera</yago:hasName>
+    <yago:hasName xml:lang="en">Orlando Mejía Rivera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Grushin">
+    <yago:hasName xml:lang="en">Olga Grushin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavian_Goga">
+    <yago:hasName xml:lang="en">Octavian Goga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Bang-Hansen">
+    <yago:hasName xml:lang="en">Odd Bang-Hansen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%98ystein_Hauge">
+    <yago:hasName xml:lang="en">Oeystein Hauge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osip_Notovich">
+    <yago:hasName xml:lang="en">Osip Konstantinovich Notovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._L._Oldie">
+    <yago:hasName xml:lang="en">Oleg Ladyzhensky, Dmitry Gromov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Mbuyiseni_Mtshali">
+    <yago:hasName xml:lang="en">Oswald Mbuyiseni Mtshali</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Gullv%C3%A5g">
+    <yago:hasName xml:lang="en">Olav Gullvaag</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olle_W%C3%A4stberg">
+    <yago:hasName xml:lang="en">Olle Wastberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ov%C3%ADdio_Martins">
+    <yago:hasName xml:lang="en">Ovidio Martins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oddvar_Korme">
+    <yago:hasName xml:lang="en">Oddvar Korme</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onofrio_Catacchio">
+    <yago:hasName xml:lang="en">Onofrio Catacchio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswell_Blakeston">
+    <yago:hasName xml:lang="en">Oswald Blakeston</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Lamborghini">
+    <yago:hasName xml:lang="en">Osvaldo Lamborghini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Othman_Karim">
+    <yago:hasName xml:lang="en">Othman Karim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%98yvind_Rimbereid">
+    <yago:hasName xml:lang="en">Oeyvind Rimbereid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Al_Issawi">
+    <yago:hasName xml:lang="en">Omar al Issawi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Luihn">
+    <yago:hasName xml:lang="en">Otto Luihn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otilio_Ulate_Blanco">
+    <yago:hasName xml:lang="en">Otilio Ulate Blanco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Manning">
+    <yago:hasName xml:lang="en">Olivia Manning</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olaf_Skavlan">
+    <yago:hasName xml:lang="en">Olaf Skavlan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Kalytiak_Davis">
+    <yago:hasName xml:lang="en">Olena Kalytiak Davis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffrey_Archer">
+    <yago:hasName xml:lang="en">of Weston-super-Mare</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_O._Howard">
+    <yago:hasName xml:lang="en">Oliver Otis Howard</yago:hasName>
+    <yago:hasName xml:lang="en">Oliver O. Howard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olaf_Stapledon">
+    <yago:hasName xml:lang="en">Olaf Stapledon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Amundsen_Buslett">
+    <yago:hasName xml:lang="en">Ole Amundsen Buslett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Zahm">
+    <yago:hasName xml:lang="en">Olivier Zahm</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oz_Clarke">
+    <yago:hasName xml:lang="en">Oz Clarke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Bauer">
+    <yago:hasName xml:lang="en">Ola Bauer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Cotte">
+    <yago:hasName xml:lang="en">Olivier Cotte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Oberdorfer">
+    <yago:hasName xml:lang="en">Oberdorfer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obaidullah_Aleem">
+    <yago:hasName xml:lang="en">Obaidullah Aleem</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Penn_Fitzgerald">
+    <yago:hasName xml:lang="en">Oscar Penn Fitzgerald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Tschirky">
+    <yago:hasName xml:lang="en">Oscar Tschirky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Moore_(novelist)">
+    <yago:hasName xml:lang="en">Oscar Moore</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_de_la_Paz">
+    <yago:hasName xml:lang="en">Oliver de La Paz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ousmane_Semb%C3%A8ne">
+    <yago:hasName xml:lang="en">Ousmane Sembène</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oriana_Fallaci">
+    <yago:hasName xml:lang="en">Oriana Fallaci</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onyeka_Nwelue">
+    <yago:hasName xml:lang="en">Onyeka Nwelue</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Magnus_von_Stackelberg_%28archaeologist%29">
+    <yago:hasName xml:lang="en">Otto Magnus von Stackelberg</yago:hasName>
+    <yago:hasName xml:lang="en">Otto Magnus Stackelburg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dovzhenko">
+    <yago:hasName xml:lang="en">Olexandr Dovzhenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ormond_Robbins">
+    <yago:hasName xml:lang="en">Ormond Orlea Robbins</yago:hasName>
+    <yago:hasName xml:lang="en">Ormond Robbins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Masters">
+    <yago:hasName xml:lang="en">Olga Masters</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ostap_Vyshnya">
+    <yago:hasName xml:lang="en">Ostap Vyshnya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orson_Scott_Card">
+    <yago:hasName xml:lang="en">Orson Scott Card</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ond%C5%99ej_Hejma">
+    <yago:hasName xml:lang="en">Ondřej Hejma</yago:hasName>
+    <yago:hasName xml:lang="en">Ondrej Hejma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._N._V._Kurup">
+    <yago:hasName xml:lang="en">O. N. V. Kurup</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osip_Mandelstam">
+    <yago:hasName xml:lang="en">Osip Mandelstam</yago:hasName>
+    <yago:hasName xml:lang="en">Osip Emilyevich Mandelstam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odet_de_Turn%C3%A8be">
+    <yago:hasName xml:lang="en">Odet de Turnebe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odysseas_Elytis">
+    <yago:hasName xml:lang="en">Odysseas Elytis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Os_Guinness">
+    <yago:hasName xml:lang="en">Os Guinness</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oj%C4%81rs_V%C4%81cietis">
+    <yago:hasName xml:lang="en">Ojars Vacietis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Durand">
+    <yago:hasName xml:lang="en">Oswald Durand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_North">
+    <yago:hasName xml:lang="en">Oliver North</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oksana_Lushchevska">
+    <yago:hasName xml:lang="en">Oksana Lushchevska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okello_Oculi">
+    <yago:hasName xml:lang="en">Okello Oculi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Manninen">
+    <yago:hasName xml:lang="en">Otto Manninen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Heinrich_von_Loeben">
+    <yago:hasName xml:lang="en">Otto Heinrich von Loben</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Basselin">
+    <yago:hasName xml:lang="en">Olivier Basselin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Chase">
+    <yago:hasName xml:lang="en">Owen Chase</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Luts">
+    <yago:hasName xml:lang="en">Oskar Luts</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Ozerov">
+    <yago:hasName xml:lang="en">Ozerov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Prakash_Aditya">
+    <yago:hasName xml:lang="en">Om Prakash Aditya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Prakash_Sharma">
+    <yago:hasName xml:lang="en">Om Prakash Sharma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Asche">
+    <yago:hasName xml:lang="en">Oscar Asche</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Kvaal_Pedersen">
+    <yago:hasName xml:lang="en">Odd Kvaal Pedersen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Ferdinand_Telgmann">
+    <yago:hasName xml:lang="en">Oscar Ferdinand Telgmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ottavio_Profeta">
+    <yago:hasName xml:lang="en">Ottavio Profeta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogden_Nash">
+    <yago:hasName xml:lang="en">Ogden Nash</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olvido_Garc%C3%ADa_Vald%C3%A9s">
+    <yago:hasName xml:lang="en">Olvido García Valdés</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otep_Shamaya">
+    <yago:hasName xml:lang="en">Otep Shamaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._Henry">
+    <yago:hasName xml:lang="en">O. Henry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleksandr_Oles">
+    <yago:hasName xml:lang="en">Oleksandr Oles</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O%C4%9Fuz_Tansel">
+    <yago:hasName xml:lang="en">Oguz Tansel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oniroku_Dan">
+    <yago:hasName xml:lang="en">Oniroku Dan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owain_Owain">
+    <yago:hasName xml:lang="en">Owain Owain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Da_Lage">
+    <yago:hasName xml:lang="en">Olivier Da Lage</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olavi_Paavolainen">
+    <yago:hasName xml:lang="en">Olavi Paavolainen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavia_E._Butler">
+    <yago:hasName xml:lang="en">Octavia Estelle Butler</yago:hasName>
+    <yago:hasName xml:lang="en">Octavia E. Butler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._D._James">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omkar_Goswami">
+    <yago:hasName xml:lang="en">Omkar Goswami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Barman">
+    <yago:hasName xml:lang="en">Ole Barman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okky_Madasari">
+    <yago:hasName xml:lang="en">Okky Madasari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_von_Corvin">
+    <yago:hasName xml:lang="en">Otto Von Corvin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogulsapar_Myradowa">
+    <yago:hasName xml:lang="en">Ogulsapar Myradowa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Forsh">
+    <yago:hasName xml:lang="en">Olga Forsh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osamu_Tezuka">
+    <yago:hasName xml:lang="en">Osamu Tezuka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osmar_White">
+    <yago:hasName xml:lang="en">Osmar White</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Bergholz">
+    <yago:hasName xml:lang="en">Olga Berggolts</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Herford">
+    <yago:hasName xml:lang="en">Oliver Herford</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Milosz">
+    <yago:hasName xml:lang="en">Oscar Vladislas de Lubicz Milosz</yago:hasName>
+    <yago:hasName xml:lang="en">Oscar Milosz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavius_Brooks_Frothingham">
+    <yago:hasName xml:lang="en">Octavius Brooks Frothingham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Gleiberman">
+    <yago:hasName xml:lang="en">Owen Gleiberman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Petrova">
+    <yago:hasName xml:lang="en">Olga Petrova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oka_Rusmini">
+    <yago:hasName xml:lang="en">Oka Rusmini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Crawford">
+    <yago:hasName xml:lang="en">Oliver Crawford</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_August">
+    <yago:hasName xml:lang="en">Oliver August</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Kokoschka">
+    <yago:hasName xml:lang="en">Oskar Kokoschka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovidiu_Papadima">
+    <yago:hasName xml:lang="en">Ovidiu Papadima</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osip_Brik">
+    <yago:hasName xml:lang="en">Osip Brik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dukhnovich">
+    <yago:hasName xml:lang="en">Oleksandr Dukhnovych</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oduvaldo_Vianna_Filho">
+    <yago:hasName xml:lang="en">Oduvaldo Viana Filho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ove_Karlsson_(sports_journalist)">
+    <yago:hasName xml:lang="en">Ove Karlsson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93scar_Acosta">
+    <yago:hasName xml:lang="en">Oscar Acosta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Casares">
+    <yago:hasName xml:lang="en">Oscar Casares</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Braaten">
+    <yago:hasName xml:lang="en">Oskar Braaten</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Garcia_Rivera,_Sr.">
+    <yago:hasName xml:lang="en">Oscar Garcia Rivera, Sr.</yago:hasName>
+    <yago:hasName xml:lang="en">Oscar Garcia Rivera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogiwara_Seisensui">
+    <yago:hasName xml:lang="en">Ogiwara Seisensui</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_C._Eliason">
+    <yago:hasName xml:lang="en">Oscar C. Eliason</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Obukhova">
+    <yago:hasName xml:lang="en">Olga Obukhova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Orozco">
+    <yago:hasName xml:lang="en">Olga Orozco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oton_%C5%BDupan%C4%8Di%C4%8D">
+    <yago:hasName xml:lang="en">Oton Zupancic</yago:hasName>
+    <yago:hasName xml:lang="en">Oton Župančič</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%96mer_Seyfettin">
+    <yago:hasName xml:lang="en">Omer Seyfettin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ondaatje">
+    <yago:hasName xml:lang="en">OC</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Thomas_(playwright)">
+    <yago:hasName xml:lang="en">Owen Thomas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ond%C5%99ej_Neff">
+    <yago:hasName xml:lang="en">Ondrej Neff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ota_Filip">
+    <yago:hasName xml:lang="en">Ota Filip</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olexiy_Yurin">
+    <yago:hasName xml:lang="en">Olexiy Yurin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%96sten_Sj%C3%B6strand">
+    <yago:hasName xml:lang="en">Osten Sjostrand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Ottendorfer">
+    <yago:hasName xml:lang="en">Oswald Ottendorfer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okey_Ndibe">
+    <yago:hasName xml:lang="en">Okey Ndibe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovadia_Hedaya">
+    <yago:hasName xml:lang="en">Ovadia Hedaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ozaki_H%C5%8Dsai">
+    <yago:hasName xml:lang="en">Ozaki Hōsai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onir">
+    <yago:hasName xml:lang="en">Onir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_von_Redwitz">
+    <yago:hasName xml:lang="en">Oskar Von Redwitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Tyree">
+    <yago:hasName xml:lang="en">Omar Tyree</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%8Ctar%C5%8D_Maij%C5%8D">
+    <yago:hasName xml:lang="en">Otaro Maijo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oonya_Kempadoo">
+    <yago:hasName xml:lang="en">Oonya Kempadoo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orhan_Pamuk">
+    <yago:hasName xml:lang="en">Orhan Pamuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olavo_Bilac">
+    <yago:hasName xml:lang="en">Olavo Bilac</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Thommessen">
+    <yago:hasName xml:lang="en">Ola Thommessen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Julius_Bierbaum">
+    <yago:hasName xml:lang="en">Otto Julius Bierbaum</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Binder">
+    <yago:hasName xml:lang="en">Otto Binder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Adam">
+    <yago:hasName xml:lang="en">Olivier Adam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odell_Shepard">
+    <yago:hasName xml:lang="en">Odell Shepard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osha_Gray_Davidson">
+    <yago:hasName xml:lang="en">Osha Gray Davidson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Yanes">
+    <yago:hasName xml:lang="en">Oscar Yanes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdurehim_%C3%96tk%C3%BCr">
+    <yago:hasName xml:lang="en">Otkur Abdurehim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ossian_Elgstr%C3%B6m">
+    <yago:hasName xml:lang="en">Ossian Elgstrom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Kureishi">
+    <yago:hasName xml:lang="en">Omar Kureishi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Scott">
+    <yago:hasName xml:lang="en">Otto Scott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Johnson">
+    <yago:hasName xml:lang="en">Owen Johnson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monika_Olejnik">
+    <yago:hasName xml:lang="en">Olejnik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otis_James">
+    <yago:hasName xml:lang="en">Otis B James</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olle_Hedberg">
+    <yago:hasName xml:lang="en">Olle Hedberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Tickell">
+    <yago:hasName xml:lang="en">Oliver Tickell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orya_Maqbool_Jan">
+    <yago:hasName xml:lang="en">Orya Maqbool Jan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Cole_(poet)">
+    <yago:hasName xml:lang="en">Olivia Cole</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Goldsmith">
+    <yago:hasName xml:lang="en">Oliver Goldsmith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_H%C3%B8laas">
+    <yago:hasName xml:lang="en">Odd Holaas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Lira">
+    <yago:hasName xml:lang="en">Osvaldo Lira</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diego_Odoh_Okenyodo">
+    <yago:hasName xml:lang="en">Odoh Diego Okenyodo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oksana_Zabuzhko">
+    <yago:hasName xml:lang="en">Oksana Zabuzhko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Devrient">
+    <yago:hasName xml:lang="en">Otto Devrient</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fraley">
+    <yago:hasName xml:lang="en">Oscar Fraley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Friedrich_Gruppe">
+    <yago:hasName xml:lang="en">Otto Gruppe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavus_Roy_Cohen">
+    <yago:hasName xml:lang="en">Octavus Roy Cohen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tor_Obrestad">
+    <yago:hasName xml:lang="en">Obrestad Tor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Megaton">
+    <yago:hasName xml:lang="en">Olivier Megaton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Rosenfeld">
+    <yago:hasName xml:lang="en">Oskar Rosenfeld</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Jones_(writer)">
+    <yago:hasName xml:lang="en">Owen Jones</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Bye">
+    <yago:hasName xml:lang="en">Odd Bye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Pratchett">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Blumenthal">
+    <yago:hasName xml:lang="en">Oscar Blumenthal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olavo_de_Carvalho">
+    <yago:hasName xml:lang="en">Olavo De Carvalho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O_Yoon">
+    <yago:hasName xml:lang="en">Oh Yoon</yago:hasName>
+    <yago:hasName xml:lang="en">O yoon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Feltham">
+    <yago:hasName xml:lang="en">Owen Feltham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angela_Rippon">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Magnus_von_Stackelberg_(archaeologist)">
+    <yago:hasName xml:lang="en">Otto Magnus von Stackelberg</yago:hasName>
+    <yago:hasName xml:lang="en">Otto Magnus von Stackelburg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Solumsmoen">
+    <yago:hasName xml:lang="en">Odd Solumsmoen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleh_Lysheha">
+    <yago:hasName xml:lang="en">Oleh Lysheha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Torvalds">
+    <yago:hasName xml:lang="en">Ole Torvalds</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_O&apos;Leary">
+    <yago:hasName xml:lang="en">Olivia Oleary</yago:hasName>
+    <yago:hasName xml:lang="en">Olivia O'Leary</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%9E%C3%B3rarinn_Eldj%C3%A1rn">
+    <yago:hasName xml:lang="en">orarinn Eldjarn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okamoto_Kanoko">
+    <yago:hasName xml:lang="en">Okamoto Kanoko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovidio_Lagos">
+    <yago:hasName xml:lang="en">Ovidio Lagos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fay_Adams">
+    <yago:hasName xml:lang="en">Oscar Fay Adams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Colbj%C3%B8rnsen">
+    <yago:hasName xml:lang="en">Ole Colbjoernsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Nygard">
+    <yago:hasName xml:lang="en">Olav Nygard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orly_Castel-Bloom">
+    <yago:hasName xml:lang="en">Orly Castel-Bloom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Kryuchkova">
+    <yago:hasName xml:lang="en">Olga Evgenevna Kryuchkova</yago:hasName>
+    <yago:hasName xml:lang="en">Olga Kryuchkova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ozaki_K%C5%8Dy%C5%8D">
+    <yago:hasName xml:lang="en">Ozaki Kōyō</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ove_R%C3%B8sbak">
+    <yago:hasName xml:lang="en">Ove Roesbak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_%C4%90iki%C4%87">
+    <yago:hasName xml:lang="en">Osman Dikic</yago:hasName>
+    <yago:hasName xml:lang="en">Osman Đikić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Erich_Hartleben">
+    <yago:hasName xml:lang="en">Otto Erich Hartleben</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Hallesby">
+    <yago:hasName xml:lang="en">Ole Kristian Hallesby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oren_Lavie">
+    <yago:hasName xml:lang="en">Oren Lavie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otis_Adelbert_Kline">
+    <yago:hasName xml:lang="en">Otis Adelbert Kline</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orville_Lloyd_Douglas">
+    <yago:hasName xml:lang="en">Orville Lloyd Douglas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_Schreiner">
+    <yago:hasName xml:lang="en">Olive Schreiner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orhan_Veli_Kan%C4%B1k">
+    <yago:hasName xml:lang="en">Orhan Veli Kanik</yago:hasName>
+    <yago:hasName xml:lang="en">Orhan Veli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Hammerstein_II">
+    <yago:hasName xml:lang="en">Oscar Hammerstein II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_J._Corral">
+    <yago:hasName xml:lang="en">Oscar J. Corral</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olwen_Wymark">
+    <yago:hasName xml:lang="en">Olwen Wymark</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Bennett-Jones">
+    <yago:hasName xml:lang="en">Owen Bennett-Jones</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Malik">
+    <yago:hasName xml:lang="en">Om Perkash Malik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Kashin">
+    <yago:hasName xml:lang="en">Oleg Kashin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Raknes">
+    <yago:hasName xml:lang="en">Ola Raknes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oseodion_Aburime">
+    <yago:hasName xml:lang="en">Oseodion Aburime</yago:hasName>
+    <yago:hasName xml:lang="en">Oseodion  Aburime</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Hall">
+    <yago:hasName xml:lang="en">Owen Hall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olaf_Bull">
+    <yago:hasName xml:lang="en">Olaf Bull</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onat_Kutlar">
+    <yago:hasName xml:lang="en">Onat Kutlar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obo_Aba_Hisanjani">
+    <yago:hasName xml:lang="en">Obo Aba Hisanjani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owl_Goingback">
+    <yago:hasName xml:lang="en">Owl Goingback</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orhan_Kemal">
+    <yago:hasName xml:lang="en">Orhan Kemal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavien_de_Saint-Gelais">
+    <yago:hasName xml:lang="en">Octavien de Saint-Gelais</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obs_de_Biguli">
+    <yago:hasName xml:lang="en">Obs De Biguli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orson_F._Whitney">
+    <yago:hasName xml:lang="en">Orson Ferguson Whitney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Broumas">
+    <yago:hasName xml:lang="en">Olga Broumas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovidiu_Pecican">
+    <yago:hasName xml:lang="en">Ovidiu Pecican</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Scheinpflugov%C3%A1">
+    <yago:hasName xml:lang="en">Olga Scheinpflugová</yago:hasName>
+    <yago:hasName xml:lang="en">Olga Scheinpflugova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oli_Ahad">
+    <yago:hasName xml:lang="en">Oli Ahad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Pchilka">
+    <yago:hasName xml:lang="en">Olena Pchilka</yago:hasName>
+    <yago:hasName xml:lang="en">Olha Petrivna Kosach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Abrahamsen">
+    <yago:hasName xml:lang="en">Odd Abrahamsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owais_Tohid">
+    <yago:hasName xml:lang="en">Owais Tohid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Versto">
+    <yago:hasName xml:lang="en">Olav Versto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orrick_Glenday_Johns">
+    <yago:hasName xml:lang="en">Orrick Glenday Johns</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%98vre_Richter_Frich">
+    <yago:hasName xml:lang="en">Ovre Richter Frich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavio_Paz">
+    <yago:hasName xml:lang="en">Octavio Paz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outi_Alanne">
+    <yago:hasName xml:lang="en">Outi Alanne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OpenCOBOL">
+    <yago:hasName xml:lang="en">OpenCOBOL</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_San_Louie_Anderson">
+    <yago:hasName xml:lang="en">Olive San Louie Anderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_LeWinter">
+    <yago:hasName xml:lang="en">Oswald LeWinter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Ren%C3%A9_Castillo">
+    <yago:hasName xml:lang="en">Otto Rene Castillo</yago:hasName>
+    <yago:hasName xml:lang="en">Otto René Castillo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Haza">
+    <yago:hasName xml:lang="en">Oscar Haza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Galzi">
+    <yago:hasName xml:lang="en">Olivier Galzi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Davis">
+    <yago:hasName xml:lang="en">Owen Davis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Morgan">
+    <yago:hasName xml:lang="en">Owen Morgan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Dodson">
+    <yago:hasName xml:lang="en">Owen Dodson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otohiko_Kaga">
+    <yago:hasName xml:lang="en">Otohiko Kaga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olaus_Murie">
+    <yago:hasName xml:lang="en">Olaus Murie</yago:hasName>
+    <yago:hasName xml:lang="en">Olaus J. Murie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_Shapley">
+    <yago:hasName xml:lang="en">Olive Shapley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Eidem">
+    <yago:hasName xml:lang="en">Odd Eidem</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Duun">
+    <yago:hasName xml:lang="en">Olav Duun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._V._Vijayan">
+    <yago:hasName xml:lang="en">O. V. Vijayan</yago:hasName>
+    <yago:hasName xml:lang="en">Ootupulackal Velukkuty Vijayan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oriel_Gray">
+    <yago:hasName xml:lang="en">Oriel Gray</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oddvar_Stenstr%C3%B8m">
+    <yago:hasName xml:lang="en">Oddvar Stenstroem</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_N%C3%BCckel">
+    <yago:hasName xml:lang="en">Otto Nuckel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orest_Miller">
+    <yago:hasName xml:lang="en">Orest Miller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oren_Peli">
+    <yago:hasName xml:lang="en">Oren Peli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Prytula">
+    <yago:hasName xml:lang="en">Olena Prytula</yago:hasName>
+    <yago:hasName xml:lang="en">Olena Yuriivna Prytula</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otokar_Fischer">
+    <yago:hasName xml:lang="en">Otokar Fischer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_Winger">
+    <yago:hasName xml:lang="en">Odd Winger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Elizabeth_Winslow">
+    <yago:hasName xml:lang="en">Ola Elizabeth Winslow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octave_Mirbeau">
+    <yago:hasName xml:lang="en">Octave Mirbeau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ola_Rotimi">
+    <yago:hasName xml:lang="en">Ola Rotimi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osbert_Sitwell">
+    <yago:hasName xml:lang="en">Osbert Sitwell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ove_von_Spaeth">
+    <yago:hasName xml:lang="en">Ove von Spaeth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otokar_B%C5%99ezina">
+    <yago:hasName xml:lang="en">Otokar Brezina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Latsis">
+    <yago:hasName xml:lang="en">Otto Latsis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Holt">
+    <yago:hasName xml:lang="en">Oliver Holt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ove_Gjerl%C3%B8w_Meyer">
+    <yago:hasName xml:lang="en">Ove Gjerloew Meyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okab_Sakr">
+    <yago:hasName xml:lang="en">Okab Sakr</yago:hasName>
+    <yago:hasName xml:lang="en">Okab Sakr  or Oakab Saker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Williams">
+    <yago:hasName xml:lang="en">Olivia Williams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Felix_Kanitz">
+    <yago:hasName xml:lang="en">Otto Felix Kanitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Stringfellow">
+    <yago:hasName xml:lang="en">Olga Stringfellow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Patric_Sturzen-Becker">
+    <yago:hasName xml:lang="en">Oscar Patrik Sturzen-Becker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Bogayev">
+    <yago:hasName xml:lang="en">Oleg Bogayev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Walter_Cisek">
+    <yago:hasName xml:lang="en">Oscar Walter Cisek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_Barone">
+    <yago:hasName xml:lang="en">Orlando Barone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ond%C5%99ej_Sekora">
+    <yago:hasName xml:lang="en">Ondřej Sekora</yago:hasName>
+    <yago:hasName xml:lang="en">Ondrej Sekora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ofeibea_Quist-Arcton">
+    <yago:hasName xml:lang="en">Ofeibea Quist-Arcton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Spencer-Thomas">
+    <yago:hasName xml:lang="en">Owen Spencer-Thomas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_St._John_Gogarty">
+    <yago:hasName xml:lang="en">Oliver Gogarty</yago:hasName>
+    <yago:hasName xml:lang="en">Oliver St John Gogarty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Williams">
+    <yago:hasName xml:lang="en">Oscar Williams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oh_Jung-hee_(writer)">
+    <yago:hasName xml:lang="en">Oh Jung-hee</yago:hasName>
+    <yago:hasName xml:lang="en">Oh Jung-Hee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ois%C3%ADn_McGann">
+    <yago:hasName xml:lang="en">Oisin McGann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olappamanna">
+    <yago:hasName xml:lang="en">Olappamanna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernie_Wise">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93_Maoilciaran_an_Fili">
+    <yago:hasName xml:lang="en">O Maoilciaran an Fili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Harbach">
+    <yago:hasName xml:lang="en">Otto Harbach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ochirbatyn_Dashbalbar">
+    <yago:hasName xml:lang="en">Ochirbatyn Dashbalbar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otar_Chiladze">
+    <yago:hasName xml:lang="en">Otar Chiladze</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Hatherley">
+    <yago:hasName xml:lang="en">Owen Hatherley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Shivpuri">
+    <yago:hasName xml:lang="en">Om Shivpuri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleksandr_Konysky">
+    <yago:hasName xml:lang="en">Oleksandr Konysky</yago:hasName>
+    <yago:hasName xml:lang="en">Oleksandr Yakovych Konysky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Angell">
+    <yago:hasName xml:lang="en">Olav Angell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ono_no_Komachi">
+    <yago:hasName xml:lang="en">Ono no Komachi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_M%C3%A9t%C3%A9nier">
+    <yago:hasName xml:lang="en">Oscar Metenier</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Elena_Mattei">
+    <yago:hasName xml:lang="en">Olga Elena Mattei</yago:hasName>
+    <yago:hasName xml:lang="en">Olga Elena Mattei Echavarría</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ossie_Davis">
+    <yago:hasName xml:lang="en">Ossie Davis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Seaman">
+    <yago:hasName xml:lang="en">Owen Seaman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Callan">
+    <yago:hasName xml:lang="en">Oliver Callan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Maria_Graf">
+    <yago:hasName xml:lang="en">Oskar Maria Graf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Soriano">
+    <yago:hasName xml:lang="en">Oslvado Soriano</yago:hasName>
+    <yago:hasName xml:lang="en">Osvaldo Soriano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oggy_Boytchev">
+    <yago:hasName xml:lang="en">Oggy Boytchev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_Senior">
+    <yago:hasName xml:lang="en">Olive Senior</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Hageberg">
+    <yago:hasName xml:lang="en">Otto Hageberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osbern_Bokenam">
+    <yago:hasName xml:lang="en">Osbern Bokenam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Panizza">
+    <yago:hasName xml:lang="en">Oskar Panizza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Drag%C3%BAn">
+    <yago:hasName xml:lang="en">Osvaldo Dragun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouyang_Yu">
+    <yago:hasName xml:lang="en">Ouyang Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Alfaro">
+    <yago:hasName xml:lang="en">Oscar Alfaro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Edvart_R%C3%B8lvaag">
+    <yago:hasName xml:lang="en">Ole Edvart Roelvaag</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platon_Oyunsky">
+    <yago:hasName xml:lang="en">Oyunsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Haslavsky">
+    <yago:hasName xml:lang="en">Oleg Haslavsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_Sabri">
+    <yago:hasName xml:lang="en">Osman Sabri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Sheers">
+    <yago:hasName xml:lang="en">Owen Sheers</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Perry">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oktay_R%C4%B1fat_Horozcu">
+    <yago:hasName xml:lang="en">Oktay Rifat Horozcu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Dalgard">
+    <yago:hasName xml:lang="en">Olav Dalgard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octave_Cr%C3%A9mazie">
+    <yago:hasName xml:lang="en">Octave Crémazie</yago:hasName>
+    <yago:hasName xml:lang="en">Octave Cremazie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%98yvind_Berg_(lyric_poet)">
+    <yago:hasName xml:lang="en">Oeyvind Berg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Shapir">
+    <yago:hasName xml:lang="en">Olga Shapir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Erich_Deutsch">
+    <yago:hasName xml:lang="en">Otto Erich Deutsch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Bernard">
+    <yago:hasName xml:lang="en">Oliver Bernard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_F._Lindberg">
+    <yago:hasName xml:lang="en">Odd F. Lindberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovid_Demaris">
+    <yago:hasName xml:lang="en">Ovid Demaris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odveig_Klyve">
+    <yago:hasName xml:lang="en">Odveig Klyve</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ota_Pavel">
+    <yago:hasName xml:lang="en">Ota Pavel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Hime">
+    <yago:hasName xml:lang="en">Olivia Hime</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odimumba_Kwamdela">
+    <yago:hasName xml:lang="en">Odimumba Kwamdela</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Moro">
+    <yago:hasName xml:lang="en">Oscar Moro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Knight">
+    <yago:hasName xml:lang="en">Olivia Knight</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opie_Read">
+    <yago:hasName xml:lang="en">Opie Read</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ophelia_Alcantara_Dimalanta">
+    <yago:hasName xml:lang="en">Ophelia Alcantara Dimalanta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._F._Snelling">
+    <yago:hasName xml:lang="en">O.F. Snelling</yago:hasName>
+    <yago:hasName xml:lang="en">O. F. (Oswald Frederick) Snelling</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_King">
+    <yago:hasName xml:lang="en">Owen King</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octavia_Nasr">
+    <yago:hasName xml:lang="en">Octavia Nasr</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._O._McIntyre">
+    <yago:hasName xml:lang="en">O. O. Macintyre</yago:hasName>
+    <yago:hasName xml:lang="en">Oscar Odd McIntyre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_H._Hauge">
+    <yago:hasName xml:lang="en">Olav Hauge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Pastior">
+    <yago:hasName xml:lang="en">Oskar Pastior</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouida">
+    <yago:hasName xml:lang="en">Ouida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obaidullah_Baig">
+    <yago:hasName xml:lang="en">Obaidullah Baig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Grigoriev">
+    <yago:hasName xml:lang="en">Oleg Grigoriev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Gentile">
+    <yago:hasName xml:lang="en">Olivia Gentile</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%96zcan_Buze">
+    <yago:hasName xml:lang="en">Ozcan Buze</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%98yvind_Myhre">
+    <yago:hasName xml:lang="en">Oyvind Myhre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Hoprekstad">
+    <yago:hasName xml:lang="en">Olav Hoprekstad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oek_de_Jong">
+    <yago:hasName xml:lang="en">Oek Jong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oya_Baydar">
+    <yago:hasName xml:lang="en">Oya Baydar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Lipovskaya">
+    <yago:hasName xml:lang="en">Olga Lipovskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Reyes">
+    <yago:hasName xml:lang="en">Oscar Reyes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onyeka">
+    <yago:hasName xml:lang="en">Onyeka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_S%C4%B1nav">
+    <yago:hasName xml:lang="en">Osman Sınav</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oyin_Adejobi">
+    <yago:hasName xml:lang="en">Oyin Adejobi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Nj%C3%B8lstad">
+    <yago:hasName xml:lang="en">Olav Njolstad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Goldsmith">
+    <yago:hasName xml:lang="en">Olivia Goldsmith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osamu_Dazai">
+    <yago:hasName xml:lang="en">Osamu Dazai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ozaki_Kihachi">
+    <yago:hasName xml:lang="en">Ozaki Kihachi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleg_Pavlov">
+    <yago:hasName xml:lang="en">Oleg Pavlov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Funk">
+    <yago:hasName xml:lang="en">Otto Funk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Sutermeister">
+    <yago:hasName xml:lang="en">Otto Sutermeister</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Humphries">
+    <yago:hasName xml:lang="en">Oscar Humphries</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_N._Hoemsnes">
+    <yago:hasName xml:lang="en">Ole Hoemsnes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onesimo_Makani_Kabweza">
+    <yago:hasName xml:lang="en">Onesimo Makani Kabweza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Taher">
+    <yago:hasName xml:lang="en">Omar Taher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olier_Mordrel">
+    <yago:hasName xml:lang="en">Olier Mordrel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Benjamin">
+    <yago:hasName xml:lang="en">Oliver Benjamin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._Abdurahman">
+    <yago:hasName xml:lang="en">O. Abdurahman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ulrich_Giesy">
+    <yago:hasName xml:lang="en">Otis Adelbert Kline</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Bayer">
+    <yago:hasName xml:lang="en">Oswald Bayer</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

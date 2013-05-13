@@ -1,0 +1,2496 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V8_(JavaScript_engine)">
+    <yago:hasName xml:lang="en">V8 JavaScript Engine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Stallwood">
+    <yago:hasName xml:lang="en">Victoria Stallwood</yago:hasName>
+    <yago:hasName xml:lang="en">Veronica Stallwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivibear">
+    <yago:hasName xml:lang="en">Vivibear</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Obruchev">
+    <yago:hasName xml:lang="en">Vladimir Afanasyevich Obruchev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Pribylovsky">
+    <yago:hasName xml:lang="en">Vladimir Pribylovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Sokolov">
+    <yago:hasName xml:lang="en">Victor Sokolov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vauro_Senesi">
+    <yago:hasName xml:lang="en">Vauro Senesi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Grant">
+    <yago:hasName xml:lang="en">Vanessa Grant</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C4%81tsy%C4%81yana">
+    <yago:hasName xml:lang="en">Vātsyāyana</yago:hasName>
+    <yago:hasName xml:lang="en">Vatsyayana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venedikt_Yerofeyev">
+    <yago:hasName xml:lang="en">Venedikt Yerofeyev</yago:hasName>
+    <yago:hasName xml:lang="en">Venedict Yerofeyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinko_Nikoli%C4%87">
+    <yago:hasName xml:lang="en">Vinko Nikolić</yago:hasName>
+    <yago:hasName xml:lang="en">Vinko Nikolic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A4in%C3%B6_Linna">
+    <yago:hasName xml:lang="en">Vaino Linna</yago:hasName>
+    <yago:hasName xml:lang="en">Väinö Linna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Place">
+    <yago:hasName xml:lang="en">Vanessa Place</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valya_Dudycz_Lupescu">
+    <yago:hasName xml:lang="en">Valya Dudycz Lupescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Brome">
+    <yago:hasName xml:lang="en">Vincent Brome</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Hamilton">
+    <yago:hasName xml:lang="en">Virginia Hamilton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Jacob">
+    <yago:hasName xml:lang="en">Violet Jacob</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victorino_Matus">
+    <yago:hasName xml:lang="en">Victorino Matus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Kamensky">
+    <yago:hasName xml:lang="en">Vasily Kamensky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Lewis_Thompson">
+    <yago:hasName xml:lang="en">Vicki Lewis Thompson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Ferrini">
+    <yago:hasName xml:lang="en">Vincent Ferrini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Badham">
+    <yago:hasName xml:lang="en">Van Badham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitan_Mal">
+    <yago:hasName xml:lang="en">Vitan Mal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Beekman">
+    <yago:hasName xml:lang="en">Vladimir Beekman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Schertzinger">
+    <yago:hasName xml:lang="en">Victor L. Schertzinger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicky_Morales">
+    <yago:hasName xml:lang="en">Vicky Morales</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Vishnevsky">
+    <yago:hasName xml:lang="en">Vsevolod Vishnevskiy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Valentine">
+    <yago:hasName xml:lang="en">Victoria Valentine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Langley">
+    <yago:hasName xml:lang="en">Victoria Langley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Reca%C3%B1o">
+    <yago:hasName xml:lang="en">Victoria Recaño</yago:hasName>
+    <yago:hasName xml:lang="en">Victoria Recano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Delany">
+    <yago:hasName xml:lang="en">Vicki Delany</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veniamin_Kaverin">
+    <yago:hasName xml:lang="en">Veniamin Kaverin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volter_Kilpi">
+    <yago:hasName xml:lang="en">Volter Kilpi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Lee_Burton">
+    <yago:hasName xml:lang="en">Virginia Lee Burton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksey_Vysotsky">
+    <yago:hasName xml:lang="en">Vysotsky Aleksej Vladimirovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vonani_Bila">
+    <yago:hasName xml:lang="en">Vonani Bila</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_Stanshall">
+    <yago:hasName xml:lang="en">Vivian Stanshall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenzo_Cardarelli">
+    <yago:hasName xml:lang="en">Vincenzo Cardarelli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADctor_Montoya">
+    <yago:hasName xml:lang="en">Víctor Montoya</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Montaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spyridon_Vassiliadis">
+    <yago:hasName xml:lang="en">Vassiliadis Spyridon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Adolfovitch_Rusanov">
+    <yago:hasName xml:lang="en">Vladislav Adolfovitch Rusanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Henry">
+    <yago:hasName xml:lang="en">Veronica Henry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittoria_Aganoor">
+    <yago:hasName xml:lang="en">Vittoria Aganoor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Boyd">
+    <yago:hasName xml:lang="en">Valerie Boyd</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinayak_Chakravorty">
+    <yago:hasName xml:lang="en">Vinayak Chakravorty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaan_Nguyen">
+    <yago:hasName xml:lang="en">Vaan Nguyen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxim_Kalashnikov">
+    <yago:hasName xml:lang="en">Vladimir Kucherenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veni_Markovski">
+    <yago:hasName xml:lang="en">Veni Markovski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Kilmer">
+    <yago:hasName xml:lang="en">Val Edward Kilmer</yago:hasName>
+    <yago:hasName xml:lang="en">Val Kilmer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Micle">
+    <yago:hasName xml:lang="en">Veronica Micle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaali_%28poet%29">
+    <yago:hasName xml:lang="en">Vaali</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Albreht">
+    <yago:hasName xml:lang="en">Vera Albreht</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikram_Chandra">
+    <yago:hasName xml:lang="en">Vikram Chandra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Narbut">
+    <yago:hasName xml:lang="en">Vladimir Narbut</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kusumagraj">
+    <yago:hasName xml:lang="en">Vishnu Vāman Shirwadkar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasireddy_Seethadevi">
+    <yago:hasName xml:lang="en">Vasireddy Seethadevi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valery_Marakou">
+    <yago:hasName xml:lang="en">Valery Marakou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volker_Str%C3%BCbing">
+    <yago:hasName xml:lang="en">Volker Strübing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Alexander">
+    <yago:hasName xml:lang="en">Victoria Alexander</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Solovyov">
+    <yago:hasName xml:lang="en">Vsevolod Solovyov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Mirolyubov">
+    <yago:hasName xml:lang="en">Viktor Sergeevich Mirolyubov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladim%C3%ADr_Bystrov">
+    <yago:hasName xml:lang="en">Vladimír Bystrov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Bystrov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Madgearu">
+    <yago:hasName xml:lang="en">Virgil Madgearu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Pikul">
+    <yago:hasName xml:lang="en">Valentin Pikul</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor-Joseph_%C3%89tienne_de_Jouy">
+    <yago:hasName xml:lang="en">Victor-Joseph Etienne De Jouy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Malarek">
+    <yago:hasName xml:lang="en">Victor Malarek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veikko_Antero_Koskenniemi">
+    <yago:hasName xml:lang="en">Veikko Antero Koskenniemi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Bulatovi%C4%87_Vib">
+    <yago:hasName xml:lang="en">Vladimir Bulatović Vib</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Bulatović</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Areh">
+    <yago:hasName xml:lang="en">Valentin Areh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Botkin">
+    <yago:hasName xml:lang="en">Vasily Botkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Krapivin">
+    <yago:hasName xml:lang="en">Vladislav Krapivin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Gotera">
+    <yago:hasName xml:lang="en">Vince Gotera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Propp">
+    <yago:hasName xml:lang="en">Vladimir Propp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veran_Mati%C4%87">
+    <yago:hasName xml:lang="en">Veran Matić</yago:hasName>
+    <yago:hasName xml:lang="en">Veran Matic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Daley">
+    <yago:hasName xml:lang="en">Victor Daley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Schmidt">
+    <yago:hasName xml:lang="en">Vera Schmidt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijaya_Lakshmi_Pandit">
+    <yago:hasName xml:lang="en">Vijaya Lakshmi Pandit</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladim%C3%ADr_Neff">
+    <yago:hasName xml:lang="en">Vladimir Neff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernard_Eller">
+    <yago:hasName xml:lang="en">Vernard Marion Eller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Zhukovsky">
+    <yago:hasName xml:lang="en">Vasily Zhukovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Astafyev">
+    <yago:hasName xml:lang="en">Viktor Astafiyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vimala_Devi">
+    <yago:hasName xml:lang="en">Vimala Devi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Woods">
+    <yago:hasName xml:lang="en">Vanessa Woods</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Whitechurch">
+    <yago:hasName xml:lang="en">Victor Lorenzo Whitechurch</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Whitechurch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ion_Popa">
+    <yago:hasName xml:lang="en">Victor Ion Popa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasile_Alecsandri">
+    <yago:hasName xml:lang="en">Vasile Alecsandri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Mihaiu">
+    <yago:hasName xml:lang="en">Virgil Mihaiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varley_O&apos;Connor">
+    <yago:hasName xml:lang="en">Varley O'Connor</yago:hasName>
+    <yago:hasName xml:lang="en">Varley Oconnor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Gedroitz">
+    <yago:hasName xml:lang="en">Vera Gedroitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaali_(poet)">
+    <yago:hasName xml:lang="en">Vaali</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Miner">
+    <yago:hasName xml:lang="en">Valerie Minder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Zarev">
+    <yago:hasName xml:lang="en">Vladimir Zarev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Parnakh">
+    <yago:hasName xml:lang="en">Valentin Parnakh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Henley">
+    <yago:hasName xml:lang="en">Virginia Syddall Henley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voydan_Pop_Georgiev_%E2%80%93_Chernodrinski">
+    <yago:hasName xml:lang="en">Vojdan Chernodrinksi</yago:hasName>
+    <yago:hasName xml:lang="en">Vojdan Pop Georgiev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaduvur_Duraisami_Iyengar">
+    <yago:hasName xml:lang="en">Vadavur Iyengar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Mayakovsky">
+    <yago:hasName xml:lang="en">Vladimir Mayakovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Iremonger">
+    <yago:hasName xml:lang="en">Valentin Iremonger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Vettori">
+    <yago:hasName xml:lang="en">Vettori</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Strong-Boag">
+    <yago:hasName xml:lang="en">Veronica Strong-Boag</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgilio_S._Almario">
+    <yago:hasName xml:lang="en">Virgilio Almario</yago:hasName>
+    <yago:hasName xml:lang="en">Virgilio Senadren Almario</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Spencer_Carr">
+    <yago:hasName xml:lang="en">Virginia Spencer Carr</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Winspear">
+    <yago:hasName xml:lang="en">Violet Winspear</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidar_Sandem">
+    <yago:hasName xml:lang="en">Vidar Sandem</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Biever">
+    <yago:hasName xml:lang="en">Vernon Biever</yago:hasName>
+    <yago:hasName xml:lang="en">Vernon Joseph Biever</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADt%C4%9Bzslav_Nezval">
+    <yago:hasName xml:lang="en">Vítězslav Nezval</yago:hasName>
+    <yago:hasName xml:lang="en">Vitezslav Nezval</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidal_Medina">
+    <yago:hasName xml:lang="en">Vidal Medina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Kaspruk">
+    <yago:hasName xml:lang="en">Viktor Kaspruk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Sereni">
+    <yago:hasName xml:lang="en">Vittorio Sereni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%8Cestm%C3%ADr_Vejd%C4%9Blek">
+    <yago:hasName xml:lang="en">Vejdelek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidoe_Podgorec">
+    <yago:hasName xml:lang="en">Vidoe Podgorec</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Aleixandre">
+    <yago:hasName xml:lang="en">Vicente Aleixandre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivien_Goldman">
+    <yago:hasName xml:lang="en">Vivien Goldman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_F._Kumpo%C5%A1t">
+    <yago:hasName xml:lang="en">Václav Kumpošt</yago:hasName>
+    <yago:hasName xml:lang="en">Vaclav Kumpost</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viviane_Forrester">
+    <yago:hasName xml:lang="en">Viviane Forrester</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenc_Prasek">
+    <yago:hasName xml:lang="en">Vincenc Prasek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Daou">
+    <yago:hasName xml:lang="en">Vanessa Daou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanda_Symon">
+    <yago:hasName xml:lang="en">Vanda Symon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Basov">
+    <yago:hasName xml:lang="en">Vladimir Basov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Blue">
+    <yago:hasName xml:lang="en">Violet Blue</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronika_Dolina">
+    <yago:hasName xml:lang="en">Veronika Dolina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vita_Sackville-West">
+    <yago:hasName xml:lang="en">Vita Sackville-West</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Dyk">
+    <yago:hasName xml:lang="en">Viktor Dyk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Mackenzie">
+    <yago:hasName xml:lang="en">Vicki Mackenzie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Rozhdestvensky">
+    <yago:hasName xml:lang="en">Vsevolod Rozhdestvensky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasilije_III_Petrovi%C4%87-Njego%C5%A1">
+    <yago:hasName xml:lang="en">Vasilije 03 Petrovic Njegos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_DeBerry">
+    <yago:hasName xml:lang="en">Virginia Deberry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._K._Madhavan_Kutty">
+    <yago:hasName xml:lang="en">V. K. Madhavan Kutty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vojt%C4%9Bch_Ku%C4%8Dera">
+    <yago:hasName xml:lang="en">Vojtech Kucera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivien_Noakes">
+    <yago:hasName xml:lang="en">Vivien Noakes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Corderi">
+    <yago:hasName xml:lang="en">Victoria Corderi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilhelm_Moberg">
+    <yago:hasName xml:lang="en">Vilhelm Moberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanita_Srivastava">
+    <yago:hasName xml:lang="en">Vanita Srivastava</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vardis_Fisher">
+    <yago:hasName xml:lang="en">Vardis Fisher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._K._Gokak">
+    <yago:hasName xml:lang="en">V. K. Gokak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Geng">
+    <yago:hasName xml:lang="en">V Geng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varand">
+    <yago:hasName xml:lang="en">Varand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Scannell">
+    <yago:hasName xml:lang="en">Vernon Scannell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_K%C3%BClf%C3%B6ldi">
+    <yago:hasName xml:lang="en">Viktor Kulfoldi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veijo_Meri">
+    <yago:hasName xml:lang="en">Veijo Meri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Zaharieva">
+    <yago:hasName xml:lang="en">Virginia Zaharieva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viriato_da_Cruz">
+    <yago:hasName xml:lang="en">Viriato Da Cruz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verandah_Porche">
+    <yago:hasName xml:lang="en">Verandah Porche</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginie_Despentes">
+    <yago:hasName xml:lang="en">Virginie Despentes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanchinbalyn_Gularans">
+    <yago:hasName xml:lang="en">Vanchinbalyn Gularans</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaughan_Wilkins">
+    <yago:hasName xml:lang="en">Vaughan Wilkins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Alexeyevich_Kara-Murza">
+    <yago:hasName xml:lang="en">Vladimir A. Kara-Murza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V.T._Arasu">
+    <yago:hasName xml:lang="en">V. T. Arasu</yago:hasName>
+    <yago:hasName xml:lang="en">V.T. Arasu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vida_Brest">
+    <yago:hasName xml:lang="en">Vida Brest</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Anand">
+    <yago:hasName xml:lang="en">Valerie Anand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vere_Johns">
+    <yago:hasName xml:lang="en">Vere Johns</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijay_Seshadri">
+    <yago:hasName xml:lang="en">Vijay Seshadri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_Garvin">
+    <yago:hasName xml:lang="en">Viola Garvin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_de_Semir">
+    <yago:hasName xml:lang="en">Vladimir de Semir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Chang">
+    <yago:hasName xml:lang="en">Victoria Chang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valter_Prette">
+    <yago:hasName xml:lang="en">Valter Prette</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Courtney">
+    <yago:hasName xml:lang="en">Victor Courtney</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Desmond Courtney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Louis_Parrington">
+    <yago:hasName xml:lang="en">Vernon Louis Parrington</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidosav_Stevanovi%C4%87">
+    <yago:hasName xml:lang="en">Vidosav Stevanović</yago:hasName>
+    <yago:hasName xml:lang="en">Vidosav Stevanovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinko_M%C3%B6derndorfer">
+    <yago:hasName xml:lang="en">Vinko Möderndorfer</yago:hasName>
+    <yago:hasName xml:lang="en">Vinko Moderndorfer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Havel">
+    <yago:hasName xml:lang="en">Václav Havel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volkan_%C5%9E._Ediger">
+    <yago:hasName xml:lang="en">Volkan Ş. Ediger</yago:hasName>
+    <yago:hasName xml:lang="en">Volkan S. Ediger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vital_Aza">
+    <yago:hasName xml:lang="en">Vital Aza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verbswish">
+    <yago:hasName xml:lang="en">Verbswish</yago:hasName>
+    <yago:hasName xml:lang="en">verbswish</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Coren">
+    <yago:hasName xml:lang="en">Victoria Coren</yago:hasName>
+    <yago:hasName xml:lang="en">Victoria Elizabeth Coren</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenofon_Verykios">
+    <yago:hasName xml:lang="en">Verykios Xenofon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasile_C%C3%A2rlova">
+    <yago:hasName xml:lang="en">Vasile Cârlova</yago:hasName>
+    <yago:hasName xml:lang="en">Vasile Carlova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_L&apos;vovich_Korvin-Piotrovskii">
+    <yago:hasName xml:lang="en">Vladimir L'vovich Korvin-Piotrovskii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonidas_Varouxis">
+    <yago:hasName xml:lang="en">Varouxis Leonidas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Boin">
+    <yago:hasName xml:lang="en">Victor Boin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoire_L%C3%A9odile_B%C3%A9ra">
+    <yago:hasName xml:lang="en">Victoire Leodile Bera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A9nus_Khoury-Ghata">
+    <yago:hasName xml:lang="en">Venus Khoury-Ghata</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Woolf">
+    <yago:hasName xml:lang="en">Virginia Woolf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vemana">
+    <yago:hasName xml:lang="en">Vemana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijay_V._Vaitheeswaran">
+    <yago:hasName xml:lang="en">Vijay V. Vaitheeswaran</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassar_Miller">
+    <yago:hasName xml:lang="en">Vassar Miller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serge_Venturini">
+    <yago:hasName xml:lang="en">Venturini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Gusev">
+    <yago:hasName xml:lang="en">Viktor Gusev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishnu_Sakharam_Khandekar">
+    <yago:hasName xml:lang="en">Vishnu Sakharam Khandekar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Var%C4%81hamihira">
+    <yago:hasName xml:lang="en">Varahamihir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._S._Naipaul">
+    <yago:hasName xml:lang="en">V. S. Naipaul</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Su%C3%A1rez">
+    <yago:hasName xml:lang="en">Virgil Suárez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vineet_Narain">
+    <yago:hasName xml:lang="en">Vineet Narain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentina_Dmitryeva">
+    <yago:hasName xml:lang="en">Valentina Dmitryeva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vandana_Singh">
+    <yago:hasName xml:lang="en">Vandana Singh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Mock">
+    <yago:hasName xml:lang="en">Vanessa Mock</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ved_Mehta">
+    <yago:hasName xml:lang="en">Ved Mehta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vennikkulam_Gopala_Kurup">
+    <yago:hasName xml:lang="en">Vennikkulam Gopala Kurup</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivimarie_Vanderpoorten">
+    <yago:hasName xml:lang="en">Vivimarie VanderPoorten</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vito_Pallavicini">
+    <yago:hasName xml:lang="en">Vito Pallavicini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Messori">
+    <yago:hasName xml:lang="en">Vittorio Messori</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velina_Hasu_Houston">
+    <yago:hasName xml:lang="en">Velina Hasu Houston</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vibhuti_Narain_Rai">
+    <yago:hasName xml:lang="en">Vibhuti Narain Rai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Kane">
+    <yago:hasName xml:lang="en">Vincent Kane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Sharpe_Patterson">
+    <yago:hasName xml:lang="en">Virginia Sharpe Patterson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatroslav_Lichtenegger">
+    <yago:hasName xml:lang="en">Vatroslav Lichtenegger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veikko_Ennala">
+    <yago:hasName xml:lang="en">Veikko Ennala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Martin">
+    <yago:hasName xml:lang="en">Valerie Martin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Bartol">
+    <yago:hasName xml:lang="en">Vladimir Bartol</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vern_Sneider">
+    <yago:hasName xml:lang="en">Vern Sneider</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._T._Bhattathiripad">
+    <yago:hasName xml:lang="en">V. T. Bhattathiripad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Panova">
+    <yago:hasName xml:lang="en">Vera Panova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_LaValle">
+    <yago:hasName xml:lang="en">Victor Lavalle</yago:hasName>
+    <yago:hasName xml:lang="en">Victor LaValle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Ivanov">
+    <yago:hasName xml:lang="en">Vsevolod Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Collingridge">
+    <yago:hasName xml:lang="en">Vanessa Collingridge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violette_Leduc">
+    <yago:hasName xml:lang="en">Violette Leduc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerio_Massimo_Manfredi">
+    <yago:hasName xml:lang="en">Valerio Massimo Manfredi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Noir">
+    <yago:hasName xml:lang="en">Victor Noir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Vasilyev_%28writer%29">
+    <yago:hasName xml:lang="en">Vladimir Vasilyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Titov">
+    <yago:hasName xml:lang="en">Vladislav Titov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladislav Andreevich Titov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Shantaram">
+    <yago:hasName xml:lang="en">V. Shantaram</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Lanier">
+    <yago:hasName xml:lang="en">Virginia Lanier</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Vashi">
+    <yago:hasName xml:lang="en">Victor Vashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Arenev">
+    <yago:hasName xml:lang="en">Vladimir Arenev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Colin">
+    <yago:hasName xml:lang="en">Vladimir Colin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Thompson">
+    <yago:hasName xml:lang="en">Virgil Thompson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentino_Zeichen">
+    <yago:hasName xml:lang="en">Valentino Zeichen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Marek_%28writer%29">
+    <yago:hasName xml:lang="en">Václav Marek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Sleptsov">
+    <yago:hasName xml:lang="en">Vasily Sleptsov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vuk_Dra%C5%A1kovi%C4%87">
+    <yago:hasName xml:lang="en">Vuk Draskovic</yago:hasName>
+    <yago:hasName xml:lang="en">Vuk Drašković</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_van_Beers">
+    <yago:hasName xml:lang="en">Van Beers</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentine_Cameron_Prinsep">
+    <yago:hasName xml:lang="en">Valentine Cameron Prinsep</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vintil%C4%83_Horia">
+    <yago:hasName xml:lang="en">Vintila Horia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeeva_%28artist%29">
+    <yago:hasName xml:lang="en">V. Jeevanantham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Louis_Carrella">
+    <yago:hasName xml:lang="en">Vincent Louis Carrella</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_DeVeau">
+    <yago:hasName xml:lang="en">Vincent Deveau</yago:hasName>
+    <yago:hasName xml:lang="en">Vincent DeVeau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_W._Hwang">
+    <yago:hasName xml:lang="en">Victor W. Hwang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasiliy_Mihaylovich_Peskov">
+    <yago:hasName xml:lang="en">Vasiliy Peskov</yago:hasName>
+    <yago:hasName xml:lang="en">Vasily Mihaylovich Peskov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlado_Maleski">
+    <yago:hasName xml:lang="en">Vlado Maleski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V_Madhusoodanan_Nair">
+    <yago:hasName xml:lang="en">V Madhusoodanan Nair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Rybakov">
+    <yago:hasName xml:lang="en">Vyacheslav Rybakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Zhitarenko">
+    <yago:hasName xml:lang="en">Vladimir Zhitarenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Vida">
+    <yago:hasName xml:lang="en">Viktor Vida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Henriksen">
+    <yago:hasName xml:lang="en">Vera Henriksen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vesna_Lemai%C4%87">
+    <yago:hasName xml:lang="en">Vesna Lemaic</yago:hasName>
+    <yago:hasName xml:lang="en">Vesna Lemaić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Hunt">
+    <yago:hasName xml:lang="en">Violet Hunt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verna_Arvey">
+    <yago:hasName xml:lang="en">Verna Arvey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Rybakov">
+    <yago:hasName xml:lang="en">Vladimir Rybakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Pettersson">
+    <yago:hasName xml:lang="en">Vicki Pettersson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Voinovich">
+    <yago:hasName xml:lang="en">Vladimir Voinovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hern%C3%A1ndez_Cruz">
+    <yago:hasName xml:lang="en">Victor Hernández Cruz</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Hernandez Cruz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Davis_Hanson">
+    <yago:hasName xml:lang="en">Victor Davis Hanson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinayak_Janardan_Karandikar">
+    <yago:hasName xml:lang="en">Vinayak Janardan Karandikar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikas_Swarup">
+    <yago:hasName xml:lang="en">Vikas Swarup</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Wohlfeld">
+    <yago:hasName xml:lang="en">Valerie Wohlfeld</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vin_Diesel">
+    <yago:hasName xml:lang="en">Vin Diesel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vettam_Mani">
+    <yago:hasName xml:lang="en">Vetom Mani</yago:hasName>
+    <yago:hasName xml:lang="en">Vettam Mani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlado_Taneski">
+    <yago:hasName xml:lang="en">Vlado Taneski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Shileyko">
+    <yago:hasName xml:lang="en">Vladimir Kazimirovich Shileyko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Kataev">
+    <yago:hasName xml:lang="en">Valentin Kataev</yago:hasName>
+    <yago:hasName xml:lang="en">Valentin Petrovich Katayev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Grabovskyj">
+    <yago:hasName xml:lang="en">Viktor Grabovskyj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Hislop">
+    <yago:hasName xml:lang="en">Victoria Hislop</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Petkovi%C4%87_Dis">
+    <yago:hasName xml:lang="en">Vladislav Petković Dis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Canby">
+    <yago:hasName xml:lang="en">Vincent Canby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_S._Wendt">
+    <yago:hasName xml:lang="en">Viola Sophia Wendt, Ph.D.</yago:hasName>
+    <yago:hasName xml:lang="en">Viola A. Wendt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vjekoslav_Klai%C4%87">
+    <yago:hasName xml:lang="en">Vjekoslav Klaić</yago:hasName>
+    <yago:hasName xml:lang="en">Vjekoslav Klaic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Alejandro_Guillam%C3%B3n">
+    <yago:hasName xml:lang="en">Vicente Alejandro Guillamon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Alfano">
+    <yago:hasName xml:lang="en">Vanessa Alfano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishnu_Sharma">
+    <yago:hasName xml:lang="en">Vishnu Sharma</yago:hasName>
+    <yago:hasName xml:lang="en">Vishnu Sharman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Gischler">
+    <yago:hasName xml:lang="en">Victor Gischler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahe_Vahian">
+    <yago:hasName xml:lang="en">Vahe-Vahian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Ren%C4%8D">
+    <yago:hasName xml:lang="en">Vaclav Renc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Paskov">
+    <yago:hasName xml:lang="en">Viktor Paskov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Lasky">
+    <yago:hasName xml:lang="en">Victor Lasky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Krasnogorov">
+    <yago:hasName xml:lang="en">Valentin Krasnogorov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikram_Bhatt">
+    <yago:hasName xml:lang="en">Vikram Bhatt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moyinkutty_Vaidyar">
+    <yago:hasName xml:lang="en">Vaidyar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Maslin_Yeates">
+    <yago:hasName xml:lang="en">Vic Yeates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Franco">
+    <yago:hasName xml:lang="en">Veronica Franco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenzo_Monti">
+    <yago:hasName xml:lang="en">Vincenzo Monti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Lugovskoy">
+    <yago:hasName xml:lang="en">Vladimir Lugovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Kostenko">
+    <yago:hasName xml:lang="en">Vladimir Kostenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhimit%C3%ABr_Pasko">
+    <yago:hasName xml:lang="en">Vedat Kokona</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Stan">
+    <yago:hasName xml:lang="en">Valerian Stan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vangjel_Meksi">
+    <yago:hasName xml:lang="en">Vangjel Meksi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Lathrop">
+    <yago:hasName xml:lang="en">Virginia Lathrop</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronika_Cherkasova">
+    <yago:hasName xml:lang="en">Veronika Cherkasova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Tendryakov">
+    <yago:hasName xml:lang="en">Vladimir Tendryakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Bamford">
+    <yago:hasName xml:lang="en">V. James Bamford</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_McDermid">
+    <yago:hasName xml:lang="en">Val McDermid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vempati_Sadasivabrahmam">
+    <yago:hasName xml:lang="en">Vempati Sadasivabrahmam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerasimos_Vokos">
+    <yago:hasName xml:lang="en">Vokos Gerasimos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valzhyna_Mort">
+    <yago:hasName xml:lang="en">Valzhyna Mort</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Hanna">
+    <yago:hasName xml:lang="en">Vincent Hanna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilborg_Dav%C3%AD%C3%B0sd%C3%B3ttir">
+    <yago:hasName xml:lang="en">Vilborg Davidsdottir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._Lawrence_Vaincourt">
+    <yago:hasName xml:lang="en">Vaincourt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenzo_da_Filicaja">
+    <yago:hasName xml:lang="en">Vicenzo da Filicaja</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_de_Bonald">
+    <yago:hasName xml:lang="en">Victor de Bonald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Ross">
+    <yago:hasName xml:lang="en">Val Ross</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vuk%C5%A1a_Veli%C4%8Dkovi%C4%87">
+    <yago:hasName xml:lang="en">Vuksa Velickovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veno_Taufer">
+    <yago:hasName xml:lang="en">Veno Taufer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijaya_Mehta">
+    <yago:hasName xml:lang="en">Vijaya Mehta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viv_Groskop">
+    <yago:hasName xml:lang="en">Viv Groskop</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Hale">
+    <yago:hasName xml:lang="en">Val Hale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vee_F._Browne">
+    <yago:hasName xml:lang="en">Vee Browne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinicius_de_Moraes">
+    <yago:hasName xml:lang="en">Vinícius de Moraes</yago:hasName>
+    <yago:hasName xml:lang="en">Vinícius Demoraes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Cronin">
+    <yago:hasName xml:lang="en">Vincent Cronin</yago:hasName>
+    <yago:hasName xml:lang="en">Vincent Archibald Patrick Cronin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Muravin">
+    <yago:hasName xml:lang="en">Viktor Muravin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahan_Malezian">
+    <yago:hasName xml:lang="en">Vahan Malezian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanna_Bonta">
+    <yago:hasName xml:lang="en">Vanna Bonta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Worth">
+    <yago:hasName xml:lang="en">Valerie Worth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Pelevin">
+    <yago:hasName xml:lang="en">Victor Pelevin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Cespedes">
+    <yago:hasName xml:lang="en">Vincent Cespedes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeeva_(artist)">
+    <yago:hasName xml:lang="en">V. Jeevanantham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verily_Anderson">
+    <yago:hasName xml:lang="en">Verily Bruce Anderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viken_Berberian">
+    <yago:hasName xml:lang="en">Viken Berberian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Watkins">
+    <yago:hasName xml:lang="en">Vernon Watkins</yago:hasName>
+    <yago:hasName xml:lang="en">Vernon Phillips Watkins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Allen_Plexico">
+    <yago:hasName xml:lang="en">Van Allen Plexico</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vern_Thiessen">
+    <yago:hasName xml:lang="en">Vern Thiessen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vachel_Lindsay">
+    <yago:hasName xml:lang="en">Vachel Lindsay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentyn_Rechmedin">
+    <yago:hasName xml:lang="en">Valentyn Rechmedin</yago:hasName>
+    <yago:hasName xml:lang="en">Valentyn Ostapovych Rechmedin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Poga%C4%8Di%C4%87">
+    <yago:hasName xml:lang="en">Vladimir Pogacic</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Pogačić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADctor_Jara">
+    <yago:hasName xml:lang="en">Víctor Jara</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Jara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Butler-Henderson">
+    <yago:hasName xml:lang="en">Vicki Butler-Henderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginius_Dabney">
+    <yago:hasName xml:lang="en">Virginius Dabney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vartan_Pasha">
+    <yago:hasName xml:lang="en">Vartan Pasha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Wong">
+    <yago:hasName xml:lang="en">Victor Wong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Kostrov">
+    <yago:hasName xml:lang="en">Vladimir Kostrov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Andreyevich Kostrov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vebj%C3%B8rn_Selbekk">
+    <yago:hasName xml:lang="en">Vebjoern Selbekk</yago:hasName>
+    <yago:hasName xml:lang="en">Vebjørn K. Selbekk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Balakrishnan_(author)">
+    <yago:hasName xml:lang="en">V. Balakrishnan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasile_Pogor">
+    <yago:hasName xml:lang="en">Vasile V. Pogor</yago:hasName>
+    <yago:hasName xml:lang="en">Vasile Pogor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADctor_Domingo_Silva">
+    <yago:hasName xml:lang="en">Victor Domingo Silva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentino_Bompiani">
+    <yago:hasName xml:lang="en">Valentino Bompiani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Edward_Vickers">
+    <yago:hasName xml:lang="en">Vickers</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_S%C3%A9jour">
+    <yago:hasName xml:lang="en">Victor Sejour</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vah%C3%A9_Oshagan">
+    <yago:hasName xml:lang="en">Vahe Oshagan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valent%C3%ADn_Paz-Andrade">
+    <yago:hasName xml:lang="en">Valentín Paz-Andrade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidya_Niwas_Mishra">
+    <yago:hasName xml:lang="en">Vidya Niwas Mishra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ved_Pratap_Vaidik">
+    <yago:hasName xml:lang="en">Ved Pratap Vaidik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaikkath_Pachu_Moothathu">
+    <yago:hasName xml:lang="en">Vaikkathu Pachu Moothathu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Blue_(author)">
+    <yago:hasName xml:lang="en">Violet Blue</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Lam">
+    <yago:hasName xml:lang="en">Vincent Lam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Popkov">
+    <yago:hasName xml:lang="en">Viktor Popkov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeri_Brainin">
+    <yago:hasName xml:lang="en">Valeri Brainin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vic_Elias">
+    <yago:hasName xml:lang="en">Vic Elias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Yumashev">
+    <yago:hasName xml:lang="en">Valentin Yumashev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Biryukov">
+    <yago:hasName xml:lang="en">Vladislav Biryukov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlas_Doroshevich">
+    <yago:hasName xml:lang="en">Vlas Doroshevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Echols">
+    <yago:hasName xml:lang="en">Vanessa Echols</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Vodnik">
+    <yago:hasName xml:lang="en">Valentin Vodnik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Muyzhel">
+    <yago:hasName xml:lang="en">Viktor Muyzhel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Bockris">
+    <yago:hasName xml:lang="en">Victor Bockris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Cressy-Marcks">
+    <yago:hasName xml:lang="en">Violet Olivia Cressy-Marcks</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaidehi_(Kannada_writer)">
+    <yago:hasName xml:lang="en">Vaidehi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voltaire">
+    <yago:hasName xml:lang="en">Voltaire</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Gessler">
+    <yago:hasName xml:lang="en">Vincent Gessler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Mogens">
+    <yago:hasName xml:lang="en">Victor Mogens</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidar_Sandbeck">
+    <yago:hasName xml:lang="en">Vidar Sandbeck</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Akilesapillai">
+    <yago:hasName xml:lang="en">V. Akilesapillai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vayalar_Ramavarma">
+    <yago:hasName xml:lang="en">Vayalar Ramavarma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Kamsha">
+    <yago:hasName xml:lang="en">Vera Kamsha (</yago:hasName>
+    <yago:hasName xml:lang="en">Vera Kamsha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Pringle">
+    <yago:hasName xml:lang="en">Valerie Pringle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hugo">
+    <yago:hasName xml:lang="en">Victor-Marie Hugo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valter_hugo_m%C3%A3e">
+    <yago:hasName xml:lang="en">valter hugo mãe</yago:hasName>
+    <yago:hasName xml:lang="en">Valter hugo mãe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahram_Alazan">
+    <yago:hasName xml:lang="en">Vahram Alazan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Posner">
+    <yago:hasName xml:lang="en">Vladimir Posner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerio_Evangelisti">
+    <yago:hasName xml:lang="en">Valerio Evangelisti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Herzog">
+    <yago:hasName xml:lang="en">Vlado Herzog</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verner_von_Heidenstam">
+    <yago:hasName xml:lang="en">Verner Von Heidenstam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Brittain">
+    <yago:hasName xml:lang="en">Vera Brittain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vissarion_Belinsky">
+    <yago:hasName xml:lang="en">Vissarion Belinsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitaly_Korotich">
+    <yago:hasName xml:lang="en">Vitaly Korotich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidadi_Babanli">
+    <yago:hasName xml:lang="en">Vidadi Babanli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_marquis_de_Villette">
+    <yago:hasName xml:lang="en">Villette, Charles Michel, Marquis de</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasyl_Symonenko">
+    <yago:hasName xml:lang="en">Vasyl Symonenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venkatesh_Kulkarni">
+    <yago:hasName xml:lang="en">Venkatesh Srinivas Kulkarni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijaydan_Detha">
+    <yago:hasName xml:lang="en">Vijaydan Detha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Rozanov">
+    <yago:hasName xml:lang="en">Vasily Rozanov</yago:hasName>
+    <yago:hasName xml:lang="en">V. V. Rozanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaughan_Smith">
+    <yago:hasName xml:lang="en">Vaughan Smith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernor_Vinge">
+    <yago:hasName xml:lang="en">Vernor Steffen Vinge</yago:hasName>
+    <yago:hasName xml:lang="en">Vernor Vinge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_Schilling">
+    <yago:hasName xml:lang="en">Vivian Schilling</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Posse">
+    <yago:hasName xml:lang="en">Vladimir Posse</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahan_Terian">
+    <yago:hasName xml:lang="en">Vahan Teryan</yago:hasName>
+    <yago:hasName xml:lang="en">Vahan Terian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Rydberg">
+    <yago:hasName xml:lang="en">Viktor Rydberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vendela_Vida">
+    <yago:hasName xml:lang="en">Vendela Vida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Visvanatha_Sastriyar">
+    <yago:hasName xml:lang="en">Visvanatha Sastriyar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Hamilton_Adair">
+    <yago:hasName xml:lang="en">Virginia Hamilton Adair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Solanas">
+    <yago:hasName xml:lang="en">Valerie Solanas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Pecherin">
+    <yago:hasName xml:lang="en">Vladimir Pecherin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vira_Vovk">
+    <yago:hasName xml:lang="en">Vira Vovk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Keegan">
+    <yago:hasName xml:lang="en">Victor Keegan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volker_Zotz">
+    <yago:hasName xml:lang="en">Volker Zotz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Pedrosa">
+    <yago:hasName xml:lang="en">Veronica Pedrosa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgilio_D%C3%A1vila">
+    <yago:hasName xml:lang="en">Virgilio Dávila</yago:hasName>
+    <yago:hasName xml:lang="en">Virgilio Davila</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Llona">
+    <yago:hasName xml:lang="en">Victor Llona</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vakhtang_Orbeliani">
+    <yago:hasName xml:lang="en">Vakhtang Orbeliani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijay_Bhatt">
+    <yago:hasName xml:lang="en">Vijay Bhatt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Socor">
+    <yago:hasName xml:lang="en">Vladimir Socor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Maykov">
+    <yago:hasName xml:lang="en">Valerian Maykov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_DeMentri">
+    <yago:hasName xml:lang="en">Vince Dementri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishal_Bhardwaj">
+    <yago:hasName xml:lang="en">Vishal Bhardwaj</yago:hasName>
+    <yago:hasName xml:lang="en">Vishal Bharadwaj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%AA_V%C4%83n_H%C6%B0u">
+    <yago:hasName xml:lang="en">Van Huu Le</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasos_Vagenas">
+    <yago:hasName xml:lang="en">Vagenas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoriano_Cr%C3%A9mer">
+    <yago:hasName xml:lang="en">Victoriano Cremer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Barbieri">
+    <yago:hasName xml:lang="en">Vicente Barbieri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_E._van_Vriesland">
+    <yago:hasName xml:lang="en">Victor E. Van Vriesland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Solovyov_(journalist)">
+    <yago:hasName xml:lang="en">Vladimir Solovyov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeen_Tippetts_Avery">
+    <yago:hasName xml:lang="en">Valeen Tippetts Avery</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Chertkov">
+    <yago:hasName xml:lang="en">Vladimir Chertkov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlado_%C5%BDabot">
+    <yago:hasName xml:lang="en">Vlado Zabot</yago:hasName>
+    <yago:hasName xml:lang="en">Vlado Žabot</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Lewis-Smith">
+    <yago:hasName xml:lang="en">Victor Lewis-Smith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vigdis_Stokkelien">
+    <yago:hasName xml:lang="en">Vigdis Stokkelien</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Pi%C5%A1talo">
+    <yago:hasName xml:lang="en">Vladimir Pištalo</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Pistalo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentine_Ackland">
+    <yago:hasName xml:lang="en">Valentine Ackland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Nemirovich-Danchenko">
+    <yago:hasName xml:lang="en">Vasily Nemirovich-Danchenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADctor_Alba">
+    <yago:hasName xml:lang="en">Victor Alba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Kirshon">
+    <yago:hasName xml:lang="en">Vladimir Mikhailovich Kirshon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Makanin">
+    <yago:hasName xml:lang="en">Vladimir Makanin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Sosyura">
+    <yago:hasName xml:lang="en">Volodymyr Sosyura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Viidikas">
+    <yago:hasName xml:lang="en">Vicki Viidikas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vance_Randolph">
+    <yago:hasName xml:lang="en">Vance Randolph</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vereen_Bell">
+    <yago:hasName xml:lang="en">Vereen Bell</yago:hasName>
+    <yago:hasName xml:lang="en">Vereen M. Bell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vertamae_Grosvenor">
+    <yago:hasName xml:lang="en">Vertamae Grosvenor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinnie_Tortorich">
+    <yago:hasName xml:lang="en">Vinnie Tortorich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._J._P._Saldanha">
+    <yago:hasName xml:lang="en">Vincent John Peter Saldanha</yago:hasName>
+    <yago:hasName xml:lang="en">V.J.P. Saldanha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._J._Jerome">
+    <yago:hasName xml:lang="en">V. J. J. Jerome</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_S._Green">
+    <yago:hasName xml:lang="en">Vincent S Green</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veturi_Prabhakara_Sastri">
+    <yago:hasName xml:lang="en">Veturi Prabhakara Sastri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Fane">
+    <yago:hasName xml:lang="en">Violet Fane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilborg_Dagbjartsd%C3%B3ttir">
+    <yago:hasName xml:lang="en">Vilborg Dagbjartsdottir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Hnatiuk">
+    <yago:hasName xml:lang="en">Volodymyr Hnatiuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Kaplick%C3%BD">
+    <yago:hasName xml:lang="en">Vaclav Kaplicky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Lukov">
+    <yago:hasName xml:lang="en">Vladimir Lukov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Kliment_Klicpera">
+    <yago:hasName xml:lang="en">Vaclav Kliment Klicpera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varsha_Adalja">
+    <yago:hasName xml:lang="en">Varsha‏ Adalja</yago:hasName>
+    <yago:hasName xml:lang="en">Varsha Adalja</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Gardin">
+    <yago:hasName xml:lang="en">Vladimir Gardin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vjenceslav_Novak">
+    <yago:hasName xml:lang="en">Vjenceslav Novak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vartkes_Sereng%C3%BClian">
+    <yago:hasName xml:lang="en">Vartkes Serengulian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaman_Pandit">
+    <yago:hasName xml:lang="en">Vaman Pandit</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._C._Kulandaiswamy">
+    <yago:hasName xml:lang="en">V C Kulandaiswamy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vakkom_Moulavi">
+    <yago:hasName xml:lang="en">Vakkom Abdul Khadir Moulavi</yago:hasName>
+    <yago:hasName xml:lang="en">Vakkom Moulavi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Duri%C3%A8s">
+    <yago:hasName xml:lang="en">Vanessa Duries</yago:hasName>
+    <yago:hasName xml:lang="en">Vanessa Duriès</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_J._Cardinal">
+    <yago:hasName xml:lang="en">Vincent J. Cardinal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Anamika">
+    <yago:hasName xml:lang="en">V. Anamika</yago:hasName>
+    <yago:hasName xml:lang="en">V.Anamika</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Nekrasov">
+    <yago:hasName xml:lang="en">Viktor Nekrasov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balakumaran">
+    <yago:hasName xml:lang="en">V. Balakumaran</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Schwab">
+    <yago:hasName xml:lang="en">Victoria (V.E.) Schwab</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Likhonosov">
+    <yago:hasName xml:lang="en">Viktor Ivanovich Likhonosov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Saul_Navasky">
+    <yago:hasName xml:lang="en">Victor Navasky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Dergachev">
+    <yago:hasName xml:lang="en">Vladimir Dergachev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoriano_Lillo_Catal%C3%A1n">
+    <yago:hasName xml:lang="en">Victoriano Lillo Catalan</yago:hasName>
+    <yago:hasName xml:lang="en">Victoriano Lillo Catalán</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeriano_Orob%C3%B3n_Fern%C3%A1ndez">
+    <yago:hasName xml:lang="en">Valeriano Orobon Fernandez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Morrow">
+    <yago:hasName xml:lang="en">Victoria Morrow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivienne_Rae-Ellis">
+    <yago:hasName xml:lang="en">Vivienne Rae Ellis</yago:hasName>
+    <yago:hasName xml:lang="en">Vivienne Rae-Ellis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Sidur">
+    <yago:hasName xml:lang="en">Vadim Sidur</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Papworth">
+    <yago:hasName xml:lang="en">Veronica Papworth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Antonovych">
+    <yago:hasName xml:lang="en">Volodymyr Antonovych</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_J._Banis">
+    <yago:hasName xml:lang="en">Victor J. Banis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Venevitinov">
+    <yago:hasName xml:lang="en">Venevitinov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahan_Totovents">
+    <yago:hasName xml:lang="en">Vahan Totovents</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Bene%C5%A1_T%C5%99eb%C3%ADzsk%C3%BD">
+    <yago:hasName xml:lang="en">Vaclav Benes Trebizsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Gambara">
+    <yago:hasName xml:lang="en">Veronica Gambara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_F._Ribnikar">
+    <yago:hasName xml:lang="en">Vladislav F. Ribnikar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasyl_Stus">
+    <yago:hasName xml:lang="en">Vasyl Stus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_Schiller">
+    <yago:hasName xml:lang="en">Vivian Schiller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vesna_Parun">
+    <yago:hasName xml:lang="en">Vesna Parun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Serge">
+    <yago:hasName xml:lang="en">Victor Serge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viviana_Guzm%C3%A1n">
+    <yago:hasName xml:lang="en">Vivana Guzman</yago:hasName>
+    <yago:hasName xml:lang="en">Viviana Guzman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varun_Singh">
+    <yago:hasName xml:lang="en">Varun Singh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Stanley_Alder">
+    <yago:hasName xml:lang="en">Vera Stanley Alder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Savin">
+    <yago:hasName xml:lang="en">Viktor Savin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Lewton">
+    <yago:hasName xml:lang="en">Val Lewton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_Vande_Velde">
+    <yago:hasName xml:lang="en">Vivian Vande Velde</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vengayil_Kunhiraman_Nayanar">
+    <yago:hasName xml:lang="en">Vengayil Kunhiraman Nayanar</yago:hasName>
+    <yago:hasName xml:lang="en">Vangayil Nayanar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Florence_Martin">
+    <yago:hasName xml:lang="en">Violet Florence Martin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Hrab%C4%9B">
+    <yago:hasName xml:lang="en">Vaclav Hrabe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitorino_Nem%C3%A9sio">
+    <yago:hasName xml:lang="en">Vitorino Nemésio</yago:hasName>
+    <yago:hasName xml:lang="en">Vitorino Nemesio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Krestovsky">
+    <yago:hasName xml:lang="en">Vsevolod Krestovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verma_Malik">
+    <yago:hasName xml:lang="en">Verma Malik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vougar_Aslanov">
+    <yago:hasName xml:lang="en">Vougar Aslanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Oravsky">
+    <yago:hasName xml:lang="en">Vladimir Oravsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Grant">
+    <yago:hasName xml:lang="en">Vernon Grant</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Villy_S%C3%B8rensen">
+    <yago:hasName xml:lang="en">Villy Sørensen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Nieto">
+    <yago:hasName xml:lang="en">Victor Nieto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ville_Sorvali">
+    <yago:hasName xml:lang="en">Ville Sorvali</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Goncharov">
+    <yago:hasName xml:lang="en">Vasily Goncharov</yago:hasName>
+    <yago:hasName xml:lang="en">Vasily Mikhailovich Goncharov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varujan_Vosganian">
+    <yago:hasName xml:lang="en">Varujan Vosganian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinod_Jose">
+    <yago:hasName xml:lang="en">Vinod Jose</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivek_Pereira">
+    <yago:hasName xml:lang="en">Vivek Pereira</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volcatius_Sedigitus">
+    <yago:hasName xml:lang="en">Volcatius Sedigitus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aimilios_Veakis">
+    <yago:hasName xml:lang="en">Veakis Aimilios</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vbcc">
+    <yago:hasName xml:lang="en">vbcc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Michael_Brown">
+    <yago:hasName xml:lang="en">Vincent Michael Brown</yago:hasName>
+    <yago:hasName xml:lang="en">Vincent Brown</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilas_Sarang">
+    <yago:hasName xml:lang="en">Vilas Sarang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivienne_Parry">
+    <yago:hasName xml:lang="en">Vivienne Parry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Mart%C3%ADnez">
+    <yago:hasName xml:lang="en">Valerie Martinez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Hendricks">
+    <yago:hasName xml:lang="en">Vicki Hendricks</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Myron">
+    <yago:hasName xml:lang="en">Vicki Myron</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasile_Conta">
+    <yago:hasName xml:lang="en">Vasile Conta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlad_Georgescu">
+    <yago:hasName xml:lang="en">Vlad Georgescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venkatarama_Ramalingam_Pillai">
+    <yago:hasName xml:lang="en">Venkatarama Ramalingam Pillai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishnuvardhan_(director)">
+    <yago:hasName xml:lang="en">Vishnuvardhan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varlam_Cherkezishvili">
+    <yago:hasName xml:lang="en">Varlam Cherkezishvili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varlam_Shalamov">
+    <yago:hasName xml:lang="en">Varlam Shalamov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vjekoslav_Perica">
+    <yago:hasName xml:lang="en">Vjekoslav Perica</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Burtsev">
+    <yago:hasName xml:lang="en">Vladimir Burtsev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vintsent_Dunin-Martsinkyevich">
+    <yago:hasName xml:lang="en">Vintsent Dunin-Martsinkyevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasant_Abaji_Dahake">
+    <yago:hasName xml:lang="en">Vasant Abaji Dahake</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Plarr">
+    <yago:hasName xml:lang="en">Victor Plarr</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijita_Fernando">
+    <yago:hasName xml:lang="en">Vijita Fernando</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Walters">
+    <yago:hasName xml:lang="en">Vanessa Walters</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Ierunca">
+    <yago:hasName xml:lang="en">Virgil Ierunca</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Mary_Clarke">
+    <yago:hasName xml:lang="en">Victoria Mary Clarke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_d&apos;Hupay">
+    <yago:hasName xml:lang="en">Victor Hupay de Fuveau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Cherbuliez">
+    <yago:hasName xml:lang="en">Victor Cherbuliez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Gassman">
+    <yago:hasName xml:lang="en">Vittorio Gassman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vickram_Bahl">
+    <yago:hasName xml:lang="en">Vickram Bahl</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaikom_Muhammad_Basheer">
+    <yago:hasName xml:lang="en">Vaikom Muhammad Basheer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velimir_Khlebnikov">
+    <yago:hasName xml:lang="en">Velimir Khlebnikov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vipin_Sharma">
+    <yago:hasName xml:lang="en">Vipen Sharma</yago:hasName>
+    <yago:hasName xml:lang="en">Vipin Sharma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Bot%C3%ADn">
+    <yago:hasName xml:lang="en">Vicente Luis Botin</yago:hasName>
+    <yago:hasName xml:lang="en">Vicente Botín</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._S._Pritchett">
+    <yago:hasName xml:lang="en">V. S. Pritchett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Horne">
+    <yago:hasName xml:lang="en">Victoria Horne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Garshin">
+    <yago:hasName xml:lang="en">Vsevolod Garshin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Menshov">
+    <yago:hasName xml:lang="en">Vladimir Menshov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Valentinovich Menshov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatslav_Mikhalsky">
+    <yago:hasName xml:lang="en">Vatslav Mikhalsky</yago:hasName>
+    <yago:hasName xml:lang="en">Vatslav Vatslavovich Mikhalsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Mulkerns">
+    <yago:hasName xml:lang="en">Val Mulkerns</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Gribayedoff">
+    <yago:hasName xml:lang="en">Valerian Gribayedoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasil_Barnovi">
+    <yago:hasName xml:lang="en">Vasil Barnovi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasilisk_Gnedov">
+    <yago:hasName xml:lang="en">Vasilisk Gnedov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaja-Pshavela">
+    <yago:hasName xml:lang="en">Vazha-Pshavela</yago:hasName>
+    <yago:hasName xml:lang="en">Vaja-Pshavela</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeri_Petrov">
+    <yago:hasName xml:lang="en">Valeri Petrov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Khodasevich">
+    <yago:hasName xml:lang="en">Vladislav Khodasevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoang_Van_Chi">
+    <yago:hasName xml:lang="en">Van Chi Hoang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vedam_Venkataraya_Sastry">
+    <yago:hasName xml:lang="en">Vedam Venkataraya Sastry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Parv">
+    <yago:hasName xml:lang="en">Valerie Parv</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronika_Tushnova">
+    <yago:hasName xml:lang="en">Veronika Tushnova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Strauss">
+    <yago:hasName xml:lang="en">Victoria Strauss</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitaly_Portnikov">
+    <yago:hasName xml:lang="en">Vitaly Portnikov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Inber">
+    <yago:hasName xml:lang="en">Vera Inber</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viljo_Kajava">
+    <yago:hasName xml:lang="en">Viljo Kajava</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitaly_Bianki">
+    <yago:hasName xml:lang="en">Vitaly Bianki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Newton">
+    <yago:hasName xml:lang="en">Victoria Newton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Le%C3%B1ero">
+    <yago:hasName xml:lang="en">Vicente Lenero</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vartika_Nanda">
+    <yago:hasName xml:lang="en">Vartika Nanda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vito_Nikoli%C4%87">
+    <yago:hasName xml:lang="en">Vito Nikolic</yago:hasName>
+    <yago:hasName xml:lang="en">Vitomir "Vito" Nikolić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Vasilyev_(writer)">
+    <yago:hasName xml:lang="en">Vladimir Vasilyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varian_Fry">
+    <yago:hasName xml:lang="en">Varian Fry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volker_Handloik">
+    <yago:hasName xml:lang="en">Volker Handloik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Feltri">
+    <yago:hasName xml:lang="en">Vittorio Feltri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Woods">
+    <yago:hasName xml:lang="en">Vincent Woods</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Shukshin">
+    <yago:hasName xml:lang="en">Vasily Shukshin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Eftimiu">
+    <yago:hasName xml:lang="en">Victor Eftimiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vonne_van_der_Meer">
+    <yago:hasName xml:lang="en">Vonne van der Meer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassilis_Alexakis">
+    <yago:hasName xml:lang="en">Vassilis Alexakis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yianis_Vilaras">
+    <yago:hasName xml:lang="en">Vilaras Ioannis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valmiki">
+    <yago:hasName xml:lang="en">Valmiki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_Garfield">
+    <yago:hasName xml:lang="en">Viola Garfield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vagif_Bayatly_Oner">
+    <yago:hasName xml:lang="en">Vagif Bayatly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Delaunay">
+    <yago:hasName xml:lang="en">Vadim Delaunay</yago:hasName>
+    <yago:hasName xml:lang="en">Vadim Nikolaevich Delaunay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_Wilmer">
+    <yago:hasName xml:lang="en">Val Wilmer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladan_Desnica">
+    <yago:hasName xml:lang="en">Vladan Desnica</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Erofeyev">
+    <yago:hasName xml:lang="en">Victor Erofeyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Flynn">
+    <yago:hasName xml:lang="en">Vince Flynn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Shenderovich">
+    <yago:hasName xml:lang="en">Viktor Shenderovich</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Shenderovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Rodger">
+    <yago:hasName xml:lang="en">Victor Rodger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Pasteur_Vallery-Radot">
+    <yago:hasName xml:lang="en">Vallery-Radot</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladim%C3%ADr_K%C3%B6rner">
+    <yago:hasName xml:lang="en">Vladimir Korner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladim%C3%ADr_%C5%A0%C5%A5astn%C3%BD">
+    <yago:hasName xml:lang="en">Vladimir Stastny</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vizma_Bel%C5%A1evica">
+    <yago:hasName xml:lang="en">Vizma Belševica</yago:hasName>
+    <yago:hasName xml:lang="en">Vizma Belsevica</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_de_Sola_Pinto">
+    <yago:hasName xml:lang="en">Vivian Pinto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Anestin">
+    <yago:hasName xml:lang="en">Victor Anestin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishnu_Som">
+    <yago:hasName xml:lang="en">Vishnu Som</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vetrli%C3%B0i_Sumarli%C3%B0ason">
+    <yago:hasName xml:lang="en">Vetrlidhi Sumarlidhason</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Coigney">
+    <yago:hasName xml:lang="en">Virginia Coigney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Voiture">
+    <yago:hasName xml:lang="en">Vincent Voiture</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Rich">
+    <yago:hasName xml:lang="en">Vera Rich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasile_Voiculescu">
+    <yago:hasName xml:lang="en">Vasile Voiculescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Car_Emin">
+    <yago:hasName xml:lang="en">Viktor Car Emin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaidehi_%28Kannada_writer%29">
+    <yago:hasName xml:lang="en">Vaidehi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Finlay">
+    <yago:hasName xml:lang="en">Victoria Finlay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitali_Vitaliev">
+    <yago:hasName xml:lang="en">Vital Vitaliev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venero_Armanno">
+    <yago:hasName xml:lang="en">Venero Armanno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlaho_Getaldi%C4%87">
+    <yago:hasName xml:lang="en">Vlaho Getaldic</yago:hasName>
+    <yago:hasName xml:lang="en">Vlaho Getaldić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Nemoianu">
+    <yago:hasName xml:lang="en">Virgil Nemoianu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijayalakshmi_Navaneethakrishnan">
+    <yago:hasName xml:lang="en">Vijayalakshmi Navaneethakrishnan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velda_Johnston">
+    <yago:hasName xml:lang="en">Velda Johnston</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vespasiano_da_Bisticci">
+    <yago:hasName xml:lang="en">Vespasiano Da Bisticci</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidyapati">
+    <yago:hasName xml:lang="en">Vidyapati</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasudev_Vishnu_Mirashi">
+    <yago:hasName xml:lang="en">Vasudev Vishnu Mirashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veljko_Petrovi%C4%87_(poet)">
+    <yago:hasName xml:lang="en">Veljko Petrovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadivel_Nimalarajah">
+    <yago:hasName xml:lang="en">Vadivel Nimalarajah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Dudintsev">
+    <yago:hasName xml:lang="en">Vladimir Dudintsev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincenzo_Cuoco">
+    <yago:hasName xml:lang="en">Vincenzo Cuoco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Hearne">
+    <yago:hasName xml:lang="en">Vicki Hearne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viatcheslav_Repin">
+    <yago:hasName xml:lang="en">Viatcheslav Repin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeriy_Priyomykhov">
+    <yago:hasName xml:lang="en">Valeriy Priyomykhov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikramaditya_Motwane">
+    <yago:hasName xml:lang="en">Vikramaditya Motwane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vic_Reeves">
+    <yago:hasName xml:lang="en">Vic Reeves</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vajjala_Shiva_Kumar">
+    <yago:hasName xml:lang="en">Vajjala Shiva Kumar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Ovechkin">
+    <yago:hasName xml:lang="en">Valentin Ovechkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vi%C3%B1a_Delmar">
+    <yago:hasName xml:lang="en">Viña Delmar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vir_Sanghvi">
+    <yago:hasName xml:lang="en">Vir Sanghvi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicky_Ward">
+    <yago:hasName xml:lang="en">Vicky Ward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasilis_Michaelides">
+    <yago:hasName xml:lang="en">Vasilis Michaelides</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valery_Bryusov">
+    <yago:hasName xml:lang="en">Valery Bryusov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vamsy">
+    <yago:hasName xml:lang="en">Vamsy</yago:hasName>
+    <yago:hasName xml:lang="en">Vamsi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vin_Ray">
+    <yago:hasName xml:lang="en">Vin Ray</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicky_Pel%C3%A1ez">
+    <yago:hasName xml:lang="en">Vicky Pelaez</yago:hasName>
+    <yago:hasName xml:lang="en">Virginia "Vicky" Peláez Ocampo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varavara_Rao">
+    <yago:hasName xml:lang="en">Varavara Rao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venu_V._Desom">
+    <yago:hasName xml:lang="en">Venu V. Desam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Odom">
+    <yago:hasName xml:lang="en">Vernon Odom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viviane_Reding">
+    <yago:hasName xml:lang="en">Viviane Reding</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Caspary">
+    <yago:hasName xml:lang="en">Vera Caspary</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Lee">
+    <yago:hasName xml:lang="en">Vernon (pen name) Lee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_Meynell">
+    <yago:hasName xml:lang="en">Viola Meynell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Boix">
+    <yago:hasName xml:lang="en">Vicente Boix</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Bulgakov">
+    <yago:hasName xml:lang="en">Valentin Bulgakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Soloukhin">
+    <yago:hasName xml:lang="en">Vladimir Alexeyevich Soloukhin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Starrett">
+    <yago:hasName xml:lang="en">Vincent Starrett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilho_Helanen">
+    <yago:hasName xml:lang="en">Vilho Helanen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Foa">
+    <yago:hasName xml:lang="en">Vittorio Foa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Kelleher">
+    <yago:hasName xml:lang="en">Victor Kelleher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Lebedev-Kumach">
+    <yago:hasName xml:lang="en">Vasily Lebedev-Kumach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Wilson_Wesley">
+    <yago:hasName xml:lang="en">Valerie Wilson Wesley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Bumbalo">
+    <yago:hasName xml:lang="en">Victor Bumbalo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahagn_Davtyan">
+    <yago:hasName xml:lang="en">Vahagn Davtyan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Vincent_Wright">
+    <yago:hasName xml:lang="en">Vincent Ernest Wright</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Aksyonov">
+    <yago:hasName xml:lang="en">Vasily Aksyonov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivek_Tiwary">
+    <yago:hasName xml:lang="en">Vivek Tiwary</yago:hasName>
+    <yago:hasName xml:lang="en">Vivek J. Tiwary</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Powell">
+    <yago:hasName xml:lang="en">Vince Powell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Ghika">
+    <yago:hasName xml:lang="en">Vladimir Ghika</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_E._Marsden">
+    <yago:hasName xml:lang="en">Victor E. Marsden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivien_Spitz">
+    <yago:hasName xml:lang="en">Vivien Spitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Reyes">
+    <yago:hasName xml:lang="en">Vicente Reyes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%ADctor_Hugo_Ar%C3%A9valo_Jord%C3%A1n">
+    <yago:hasName xml:lang="en">Victor Arevalo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varvara_Annenkova">
+    <yago:hasName xml:lang="en">Varvara Annenkova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viggo_Mortensen">
+    <yago:hasName xml:lang="en">Viggo Mortensen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassilis_Vassilikos">
+    <yago:hasName xml:lang="en">Vassilis Vassilikos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Milan">
+    <yago:hasName xml:lang="en">Victor Milan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Suvorov">
+    <yago:hasName xml:lang="en">Vladimir Bogdanovich Rezun</yago:hasName>
+    <yago:hasName xml:lang="en">Viktor Suvorov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Blasco_Ib%C3%A1%C3%B1ez">
+    <yago:hasName xml:lang="en">Vicente Blasco Ibanez</yago:hasName>
+    <yago:hasName xml:lang="en">Vicente Blasco Ibáñez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viswanatha_Satyanarayana">
+    <yago:hasName xml:lang="en">Viswanatha Satyanarayana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Kalinka">
+    <yago:hasName xml:lang="en">V Kalinka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ventura_Ruiz_Aguilera">
+    <yago:hasName xml:lang="en">Ventura Ruiz Aguilera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Rodrigues">
+    <yago:hasName xml:lang="en">Victor Rodrigues</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vallathol_Narayana_Menon">
+    <yago:hasName xml:lang="en">Vallathol Narayana Menon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Ivasyuk">
+    <yago:hasName xml:lang="en">Volodymyr Mykhailovych Ivasiuk</yago:hasName>
+    <yago:hasName xml:lang="en">Volodymyr Ivasyuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Hendrix">
+    <yago:hasName xml:lang="en">Veronica Hendrix</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Nazor">
+    <yago:hasName xml:lang="en">Vladimir Nazor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Kapnist">
+    <yago:hasName xml:lang="en">Vasily Kapnist</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Acosta">
+    <yago:hasName xml:lang="en">Vicente Acosta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vahur_Afanasjev">
+    <yago:hasName xml:lang="en">Vahur Afanasjev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Segalen">
+    <yago:hasName xml:lang="en">Victor Segalen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._K._N.">
+    <yago:hasName xml:lang="en">V.K.N</yago:hasName>
+    <yago:hasName xml:lang="en">VKN Nair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Belov">
+    <yago:hasName xml:lang="en">Vasily Belov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velma_Wallis">
+    <yago:hasName xml:lang="en">Velma Wallis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valdete_Antoni">
+    <yago:hasName xml:lang="en">Valdete Antoni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_G._Rossi">
+    <yago:hasName xml:lang="en">Vittorio G. Rossi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Kozhevnikov">
+    <yago:hasName xml:lang="en">Vadim Mikhaylovich Kozhevnikov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Korolenko">
+    <yago:hasName xml:lang="en">Vladimir Galaktionovich Korolenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Forester">
+    <yago:hasName xml:lang="en">Victoria Forester</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Ivan%C4%8Di%C4%87">
+    <yago:hasName xml:lang="en">Viktor Ivancic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Nabokov">
+    <yago:hasName xml:lang="en">Vladimir Nabokov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Vladimirovich Nabokov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinita_Nair">
+    <yago:hasName xml:lang="en">Vinita Nair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vendela_Skytte">
+    <yago:hasName xml:lang="en">Vendela Skytte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Shefner">
+    <yago:hasName xml:lang="en">Vadim Shefner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Trediakovsky">
+    <yago:hasName xml:lang="en">Vasily Trediakovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Vildrac">
+    <yago:hasName xml:lang="en">Vildrac</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Beiser">
+    <yago:hasName xml:lang="en">Vince Beiser</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victorin-Hippolyte_Jasset">
+    <yago:hasName xml:lang="en">Victorin-Hippolyte Jasset</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Vidri%C4%87">
+    <yago:hasName xml:lang="en">Vladimir Vidric</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Riesel">
+    <yago:hasName xml:lang="en">Victor Riesel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varjesh_Solanki">
+    <yago:hasName xml:lang="en">Varjesh Solanki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Darchiashvili">
+    <yago:hasName xml:lang="en">Vladimir Darchiashvili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Jarrett">
+    <yago:hasName xml:lang="en">Vernon Jarrett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Ivanovich_Ivanov">
+    <yago:hasName xml:lang="en">Vyacheslav Ivanovich Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Gaos">
+    <yago:hasName xml:lang="en">Vincente Gaos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vagaland">
+    <yago:hasName xml:lang="en">Vagaland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Bartlett">
+    <yago:hasName xml:lang="en">Vernon Bartlett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Nekipelov">
+    <yago:hasName xml:lang="en">Viktor Alexandrovich Nekipelov</yago:hasName>
+    <yago:hasName xml:lang="en">Viktor Nekipelov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Felea">
+    <yago:hasName xml:lang="en">Victor Felea</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vigdis_Hjorth">
+    <yago:hasName xml:lang="en">Vigdis Hjorth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vibhut_Shah">
+    <yago:hasName xml:lang="en">Vibhut Shah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Celorio">
+    <yago:hasName xml:lang="en">Victor Celorio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vida_Ognjenovi%C4%87">
+    <yago:hasName xml:lang="en">Vida Ognjenović</yago:hasName>
+    <yago:hasName xml:lang="en">Vida Ognjenovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Rasputin">
+    <yago:hasName xml:lang="en">Valentin Rasputin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinnie_Politan">
+    <yago:hasName xml:lang="en">Vinnie Politan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Landsburg">
+    <yago:hasName xml:lang="en">Valerie Landsburg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Masferrer">
+    <yago:hasName xml:lang="en">Vicente Alberto Masferrer Mónico</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vona_Groarke">
+    <yago:hasName xml:lang="en">Vona Groarke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vern_Rutsala">
+    <yago:hasName xml:lang="en">Vern Rutsala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasil_Iljoski">
+    <yago:hasName xml:lang="en">Vasil Iljoski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Gold_(journalist)">
+    <yago:hasName xml:lang="en">Victor Gold</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Odoyevsky">
+    <yago:hasName xml:lang="en">Vladimir Odoevsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vairamuthu">
+    <yago:hasName xml:lang="en">Vairamuthu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Yaniv">
+    <yago:hasName xml:lang="en">Volodymyr Yaniv</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Avseenko">
+    <yago:hasName xml:lang="en">Vasily Grigorievich Avseenko</yago:hasName>
+    <yago:hasName xml:lang="en">Vasily Avseenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Bla%C5%BEi%C4%8D">
+    <yago:hasName xml:lang="en">Viktor Blazic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Kochetov">
+    <yago:hasName xml:lang="en">Vsevolod Anissimovich Kochetov</yago:hasName>
+    <yago:hasName xml:lang="en">Vsevolod Kochetov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacq_Firmin_Vogelaar">
+    <yago:hasName xml:lang="en">Vogel. Jacq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Browne">
+    <yago:hasName xml:lang="en">Vincent Browne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Holmes">
+    <yago:hasName xml:lang="en">Victoria Holmes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_De_La_Cruz">
+    <yago:hasName xml:lang="en">Veronica De La Cruz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varesco">
+    <yago:hasName xml:lang="en">Varesco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Heck">
+    <yago:hasName xml:lang="en">Victor Heck</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Van%C4%8Dura">
+    <yago:hasName xml:lang="en">Vladislav Vančura</yago:hasName>
+    <yago:hasName xml:lang="en">Vladislav Vancura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikram_Seth">
+    <yago:hasName xml:lang="en">Vikram Seth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Villase%C3%B1or">
+    <yago:hasName xml:lang="en">Victor Villaseñor</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Villasenor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_C%C3%ADlek">
+    <yago:hasName xml:lang="en">Vaclav Cilek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Huidobro">
+    <yago:hasName xml:lang="en">Vicente Huidobro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Feaver">
+    <yago:hasName xml:lang="en">Vicki Feaver</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Grigoriadis">
+    <yago:hasName xml:lang="en">Vanessa Grigoriadis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vil%C3%A9m_Mr%C5%A1t%C3%ADk">
+    <yago:hasName xml:lang="en">Vilém Mrštík</yago:hasName>
+    <yago:hasName xml:lang="en">Vilem Mrstik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Solovyov_(philosopher)">
+    <yago:hasName xml:lang="en">Vladimir Solovyov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Sergeyevich Solovyov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Villard_Denis">
+    <yago:hasName xml:lang="en">Villard Denis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Lantsberg">
+    <yago:hasName xml:lang="en">Vladimir Lantsberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Pushkin">
+    <yago:hasName xml:lang="en">Vasily Pushkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molla_Panah_Vagif">
+    <yago:hasName xml:lang="en">Vagif</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Grove">
+    <yago:hasName xml:lang="en">Valerie Grove</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Penelope_Pelizzon">
+    <yago:hasName xml:lang="en">V. Penelope Pellizzon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_Stuart">
+    <yago:hasName xml:lang="en">Violet Vivian Finlay Stuart Mann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Neumann">
+    <yago:hasName xml:lang="en">Victor Neumann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittoria_Colonna">
+    <yago:hasName xml:lang="en">Vittoria Colonna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Rich">
+    <yago:hasName xml:lang="en">Virginia Rich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paatje_Phefferkorn">
+    <yago:hasName xml:lang="en">Verdi Phefferkorn von Offenbach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Gilyarovsky">
+    <yago:hasName xml:lang="en">Vladimir Alekseyevich Gilyarovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_de_Tourdonnet">
+    <yago:hasName xml:lang="en">Vincent De Tourdonnet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Musgrave">
+    <yago:hasName xml:lang="en">Victor Musgrave</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varsha_Bhosle">
+    <yago:hasName xml:lang="en">Varsha Bhosle</yago:hasName>
+    <yago:hasName xml:lang="en">Varsha  U. Bhosle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Villem_Gr%C3%BCnthal-Ridala">
+    <yago:hasName xml:lang="en">Villem Grünthal-Ridala</yago:hasName>
+    <yago:hasName xml:lang="en">Villem Grunthal-Ridala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Yavorivsky">
+    <yago:hasName xml:lang="en">Volodymyr Yavorivsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktoriya_Tokareva">
+    <yago:hasName xml:lang="en">Viktoriya Samoilovna Tokareva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Veller">
+    <yago:hasName xml:lang="en">Veller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Knowles">
+    <yago:hasName xml:lang="en">Vernon Knowles</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ostrovsky">
+    <yago:hasName xml:lang="en">Victor Ostrovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vintil%C4%83_Cioc%C3%A2lteu">
+    <yago:hasName xml:lang="en">Vintila Ciocalteu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Patrick">
+    <yago:hasName xml:lang="en">Vincent Patrick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cory_Kenyon">
+    <yago:hasName xml:lang="en">Vicki Lewis Thompson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Caroline_Cheatwood">
+    <yago:hasName xml:lang="en">Vicki Caroline Cheatwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vance_Thompson">
+    <yago:hasName xml:lang="en">Vance Thompson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasil_Tsereteli">
+    <yago:hasName xml:lang="en">Vasil Tsereteli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Tripp">
+    <yago:hasName xml:lang="en">Valerie Tripp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_August_Vulpius">
+    <yago:hasName xml:lang="en">Vulpius</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Aletti">
+    <yago:hasName xml:lang="en">Vince Aletti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valdemar_Adolph_Thisted">
+    <yago:hasName xml:lang="en">Valdemar Adolph Thisted</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._A._Urechia">
+    <yago:hasName xml:lang="en">V. A. Urechia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijay_Tendulkar">
+    <yago:hasName xml:lang="en">Vijay Tendulkar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voja_Antoni%C4%87">
+    <yago:hasName xml:lang="en">Voja Antonić</yago:hasName>
+    <yago:hasName xml:lang="en">Voja Antonic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Alfieri">
+    <yago:hasName xml:lang="en">Vittorio Alfieri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Karpov">
+    <yago:hasName xml:lang="en">Vladimir Vasilyevich Karpov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladimir Karpov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varro_Atacinus">
+    <yago:hasName xml:lang="en">Varro Atacinus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Vallejo">
+    <yago:hasName xml:lang="en">Virginia Vallejo</yago:hasName>
+    <yago:hasName xml:lang="en">Virginia Vallejo García</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val_McLane">
+    <yago:hasName xml:lang="en">Val McLain</yago:hasName>
+    <yago:hasName xml:lang="en">Val McLane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladim%C3%ADr_Holan">
+    <yago:hasName xml:lang="en">Vladimir Holan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vojt%C4%9Bch_N%C3%A1prstek">
+    <yago:hasName xml:lang="en">Vojtech Naprstek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Forrest-Thomson">
+    <yago:hasName xml:lang="en">Veronica Forrest-Thomson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyvyan_Holland">
+    <yago:hasName xml:lang="en">Vyvyan Holland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Williams">
+    <yago:hasName xml:lang="en">Vera B. Williams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Shershenevich">
+    <yago:hasName xml:lang="en">Vadim Shershenevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_King">
+    <yago:hasName xml:lang="en">Vincent King</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassilis_Steriadis">
+    <yago:hasName xml:lang="en">Vassilis Steriadis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Gaprindashvili">
+    <yago:hasName xml:lang="en">Valerian Gaprindashvili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volney_Mathison">
+    <yago:hasName xml:lang="en">Volney G. Mathison</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Dedijer">
+    <yago:hasName xml:lang="en">Vladimir Dedijer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veikko_Huovinen">
+    <yago:hasName xml:lang="en">Veikko Huovinen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vani_(writer)">
+    <yago:hasName xml:lang="en">Vani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valery_Tarsis">
+    <yago:hasName xml:lang="en">Valery Yakovlevich Tarsis</yago:hasName>
+    <yago:hasName xml:lang="en">Valery Tarsis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Tism%C4%83neanu">
+    <yago:hasName xml:lang="en">Vladimir Tismaneanu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Louis_(journalist)">
+    <yago:hasName xml:lang="en">Victor Yevgenyevich Louis</yago:hasName>
+    <yago:hasName xml:lang="en">Victor Louis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitomil_Zupan">
+    <yago:hasName xml:lang="en">Vitomil Zupan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishwanath_Kashinath_Rajwade">
+    <yago:hasName xml:lang="en">Vishwanath Kashinath Rajwade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_De_Seta">
+    <yago:hasName xml:lang="en">Vittorio De Seta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Volkoff">
+    <yago:hasName xml:lang="en">Vladimir Volkoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Bennett">
+    <yago:hasName xml:lang="en">Veronica Bennett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Harding">
+    <yago:hasName xml:lang="en">Vincent Harding</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinod_Mehta">
+    <yago:hasName xml:lang="en">Vinod Mehta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishnu_Prabhakar">
+    <yago:hasName xml:lang="en">Vishnu Prabhakar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Vonnegut">
+    <yago:hasName xml:lang="en">Vonnegut, Kurt, Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Suthren">
+    <yago:hasName xml:lang="en">Victor Suthren</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_L%C3%A9on">
+    <yago:hasName xml:lang="en">Viktor Léon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Truhlar">
+    <yago:hasName xml:lang="en">Vladimir Truhlar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivienne_Wallington">
+    <yago:hasName xml:lang="en">Vivienne Wallington</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ivan">
+    <yago:hasName xml:lang="en">Victor Ivan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyloppilli_Sreedhara_Menon">
+    <yago:hasName xml:lang="en">Vyloppilli Sreedhara Menon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elias_Venezis">
+    <yago:hasName xml:lang="en">Venezis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vikenty_Veresaev">
+    <yago:hasName xml:lang="en">Vikenty Veresaev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Kozlov_(director)">
+    <yago:hasName xml:lang="en">Vladimir Kozlov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Bobrovsky">
+    <yago:hasName xml:lang="en">Vladimir Semyonovich Bobrovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vetle_Vislie">
+    <yago:hasName xml:lang="en">Vetle Vislie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victorien_Sardou">
+    <yago:hasName xml:lang="en">Victorien Sardou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vibhavadi_Rangsit">
+    <yago:hasName xml:lang="en">Vibhavadi Rangsit</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Klyuchevsky">
+    <yago:hasName xml:lang="en">Vasily Klyuchevsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vojislav_Ili%C4%87">
+    <yago:hasName xml:lang="en">Vojislav Ilic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Petrov">
+    <yago:hasName xml:lang="en">Viktor Petrov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidar_Nilsen">
+    <yago:hasName xml:lang="en">Vidar Nilsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Luis_Mora">
+    <yago:hasName xml:lang="en">vicente luis Mora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viivi_Avellan">
+    <yago:hasName xml:lang="en">Viivi Avellan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Listyev">
+    <yago:hasName xml:lang="en">Vladislav Listyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voltairine_de_Cleyre">
+    <yago:hasName xml:lang="en">Voltairine de Cleyre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Fortunov">
+    <yago:hasName xml:lang="en">Valentin Fortunov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Rossi">
+    <yago:hasName xml:lang="en">Vittorio Rossi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_F._A._Golphin">
+    <yago:hasName xml:lang="en">Vincent F. A. Golphin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishal_Arora">
+    <yago:hasName xml:lang="en">Vishal Arora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viswanatha_Kaviraja">
+    <yago:hasName xml:lang="en">Vishwanatha Raviraja</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Grossman">
+    <yago:hasName xml:lang="en">Vasily Grossman</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

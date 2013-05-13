@@ -1,0 +1,151 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenocles">
+    <yago:hasName xml:lang="en">Xenocles</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Xu_Mu">
+    <yago:hasName xml:lang="en">Xu Mu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xiaowen_Zeng">
+    <yago:hasName xml:lang="en">Xiaowen Zeng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsui_Siu-Ming">
+    <yago:hasName xml:lang="en">Xú2 Xiǎo3 Míng2</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Zaisi">
+    <yago:hasName xml:lang="en">Xu Zaisi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xal%C3%AEd_Re%C5%9F%C3%AEd">
+    <yago:hasName xml:lang="en">Xalîd Reşîd</yago:hasName>
+    <yago:hasName xml:lang="en">Xalid Resid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Herbert">
+    <yago:hasName xml:lang="en">Xavier Herbert</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Xinxin">
+    <yago:hasName xml:lang="en">Xinxin Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sima_Xiangru">
+    <yago:hasName xml:lang="en">Xiangru Sima</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xi_Xi">
+    <yago:hasName xml:lang="en">Xi Xi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Armange">
+    <yago:hasName xml:lang="en">Xavier Armange</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xingjian">
+    <yago:hasName xml:lang="en">Xingjian Gao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pei_Xiu_(Tang_Dynasty)">
+    <yago:hasName xml:lang="en">Xiu Pei</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Abril">
+    <yago:hasName xml:lang="en">Xavier Abril</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gu_Long">
+    <yago:hasName xml:lang="en">Xiong Yaohua</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xel%C3%AEl%C3%AA_%C3%87a%C3%A7an_M%C3%BBradov">
+    <yago:hasName xml:lang="en">Xelile Cacan Muradov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xiaolu_Guo">
+    <yago:hasName xml:lang="en">Xiaolu Guo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xie">
+    <yago:hasName xml:lang="en">Xie Gao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Haegy">
+    <yago:hasName xml:lang="en">Xavier Haegy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cao_Xueqin">
+    <yago:hasName xml:lang="en">Xueqin Cao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xiaosong">
+    <yago:hasName xml:lang="en">Xiaosong Gao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xos%C3%A9_Lu%C3%ADs_M%C3%A9ndez_Ferr%C3%ADn">
+    <yago:hasName xml:lang="en">Xose Luis Mendez Ferrin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bing_Xin">
+    <yago:hasName xml:lang="en">Xie Wanying</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouyang_Xiu">
+    <yago:hasName xml:lang="en">Xiu Ouyang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cai_Xiang">
+    <yago:hasName xml:lang="en">Xiang Cai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xu">
+    <yago:hasName xml:lang="en">Xu Gao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Xianghu">
+    <yago:hasName xml:lang="en">Xianghu Wu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenophon_of_Ephesus">
+    <yago:hasName xml:lang="en">Xenophon of Ephesus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bi_Xian">
+    <yago:hasName xml:lang="en">Xian Bi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_de_Maistre">
+    <yago:hasName xml:lang="en">Xavier de Maistre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shi_Xin_Hui">
+    <yago:hasName xml:lang="en">Xinhui Shi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Xi">
+    <yago:hasName xml:lang="en">Xi Xu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xhevdet_Bajraj">
+    <yago:hasName xml:lang="en">Xhevdet Bajraj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Santos__Xesko__1">
+    <yago:hasName xml:lang="en">Xesko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xabib_Yunich">
+    <yago:hasName xml:lang="en">Xabib Yunic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Xiaobo">
+    <yago:hasName xml:lang="en">Xiaobo Wang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xeni_Jardin">
+    <yago:hasName xml:lang="en">Xeni Jardin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenophon">
+    <yago:hasName xml:lang="en">Xenophon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Atencio">
+    <yago:hasName xml:lang="en">Xavier Atencio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Zhongxing">
+    <yago:hasName xml:lang="en">Xu Zhongxing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xie_of_Xia">
+    <yago:hasName xml:lang="en">Xie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Grall">
+    <yago:hasName xml:lang="en">Xavier Grall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Xiaolong">
+    <yago:hasName xml:lang="en">Xiaolong Qiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xuan_Dieu">
+    <yago:hasName xml:lang="en">Xuan Dieu</yago:hasName>
+    <yago:hasName xml:lang="en">Xuân Diệu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/X._B._Saintine">
+    <yago:hasName xml:lang="en">Xavier Boniface Saintine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nalan_Xingde">
+    <yago:hasName xml:lang="en">Xingde Nalan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Waterkeyn">
+    <yago:hasName xml:lang="en">Xavier Waterkeyn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Jingcheng">
+    <yago:hasName xml:lang="en">Xu Jingcheng</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>
