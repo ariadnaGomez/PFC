@@ -5,9 +5,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Pix">
     <yago:hasName xml:lang="en">Mary Pix</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bishop_%28author%29">
-    <yago:hasName xml:lang="en">Michael Bishop</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Grant_%28crime_writer%29">
     <yago:hasName xml:lang="en">Michael Grant</yago:hasName>
   </rdf:Description>
@@ -23,11 +20,22 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Min_Jung_Kim">
     <yago:hasName xml:lang="en">Min Jung Kim</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Merc%C3%A8_Mar%C3%A7al">
+    <yago:hasName xml:lang="en">Maria Merce Marcal I Serra</yago:hasName>
+    <yago:hasName xml:lang="en">Maria Mercè Marçal</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Faber">
     <yago:hasName xml:lang="en">Michel Faber</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marty_Haag">
     <yago:hasName xml:lang="en">Marty Haag</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Trescott">
+    <yago:hasName xml:lang="en">Max Trescott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1irt%C3%ADn_%C3%93_Cadhain">
+    <yago:hasName xml:lang="en">Mairtin Ocadhain</yago:hasName>
+    <yago:hasName xml:lang="en">Máirtín Ó Cadhain</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/May_Wedderburn_Cannan">
     <yago:hasName xml:lang="en">May Cannan</yago:hasName>
@@ -184,6 +192,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Monica_Ali">
     <yago:hasName xml:lang="en">Monica Ali</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margo_Lanagan">
+    <yago:hasName xml:lang="en">Margo Lanagan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Price">
     <yago:hasName xml:lang="en">Matt Price</yago:hasName>
@@ -377,11 +388,17 @@
     <yago:hasName xml:lang="en">Manuel Perez y Curis</yago:hasName>
     <yago:hasName xml:lang="en">Manuel Pérez y Curis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milan_Asadurov">
+    <yago:hasName xml:lang="en">Milan Asadurov</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mei_Shigenobu">
     <yago:hasName xml:lang="en">Mei Shigenobu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muriel_Rukeyser">
     <yago:hasName xml:lang="en">Muriel Rukeyser</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Aquilina">
+    <yago:hasName xml:lang="en">Mike Aquilina</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Collier_(poet)">
     <yago:hasName xml:lang="en">Michael Collier</yago:hasName>
@@ -422,6 +439,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Ellin_Barrett">
     <yago:hasName xml:lang="en">Mary Ellen Barrett</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Edwards_%28author%29">
+    <yago:hasName xml:lang="en">Marin Edwards</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mih%C3%A1ly_Barla">
     <yago:hasName xml:lang="en">Mihaly Barla</yago:hasName>
   </rdf:Description>
@@ -437,20 +457,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Reeves">
     <yago:hasName xml:lang="en">Marcus Reeves</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maura_Penders">
-    <yago:hasName xml:lang="en">Maura Penders</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marge_Piercy">
     <yago:hasName xml:lang="en">Marge Piercy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Dery">
     <yago:hasName xml:lang="en">Mark Dery</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Myfanwy_Piper">
-    <yago:hasName xml:lang="en">Myfanwy Piper</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Danino">
     <yago:hasName xml:lang="en">Michel Danino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myfanwy_Piper">
+    <yago:hasName xml:lang="en">Myfanwy Piper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mimmo_Liguoro">
     <yago:hasName xml:lang="en">Mimmo Liguoro</yago:hasName>
@@ -480,9 +497,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Jerott">
     <yago:hasName xml:lang="en">Michelle Jerott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Wilding">
-    <yago:hasName xml:lang="en">Mark Wilding</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Bernheimer">
     <yago:hasName xml:lang="en">Martin Bernheimer</yago:hasName>
   </rdf:Description>
@@ -498,14 +512,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Quintana">
     <yago:hasName xml:lang="en">Mario De Miranda Quintana</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Musharraf_Ali_Farooqi">
+    <yago:hasName xml:lang="en">Musharraf Ali Farooqi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie-Louise_Gay">
     <yago:hasName xml:lang="en">Marie-Louise Gay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_K._Shell">
     <yago:hasName xml:lang="en">Mary K. Shell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Sutton_(playwright)">
-    <yago:hasName xml:lang="en">Michael Sutton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaretta_Faug%C3%A8res">
     <yago:hasName xml:lang="en">Margaretta Faugeres</yago:hasName>
@@ -540,6 +554,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Stott">
     <yago:hasName xml:lang="en">Mary Stott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Pitcavage">
+    <yago:hasName xml:lang="en">Mark Pitcavage</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maureen_Cannon">
     <yago:hasName xml:lang="en">Maureen Cannon</yago:hasName>
@@ -579,9 +596,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mona_Brand">
     <yago:hasName xml:lang="en">Mona Brand</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Rice_Hart">
-    <yago:hasName xml:lang="en">Marion Rice Hart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_de_Jes%C3%BAs_Andrade_Su%C3%A1rez">
     <yago:hasName xml:lang="en">Manuel De Jesus Andrade Suarez</yago:hasName>
@@ -668,9 +682,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Readings">
     <yago:hasName xml:lang="en">Mark Readings</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeon_Min-hee">
-    <yago:hasName xml:lang="en">Min-Hee Jeon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Clifton">
     <yago:hasName xml:lang="en">Mark Clifton</yago:hasName>
   </rdf:Description>
@@ -737,6 +748,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Otero_Silva">
     <yago:hasName xml:lang="en">Miguel Otero Silva</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marv_Wolfman">
+    <yago:hasName xml:lang="en">Marv Wolfman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Leepson">
     <yago:hasName xml:lang="en">Marc Leepson</yago:hasName>
   </rdf:Description>
@@ -755,6 +769,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Anthony_(psychic)">
     <yago:hasName xml:lang="en">Mark Anthony</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Tanzeel-ul-siddiqi_al-husaini">
+    <yago:hasName xml:lang="en">Mohammad Tanzeel-Ul-Siddiqi Al-Husaini</yago:hasName>
+    <yago:hasName xml:lang="en">Mohammad Tanzeel al-siddiqi al-husaini</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Finley">
     <yago:hasName xml:lang="en">Martha Finley</yago:hasName>
@@ -834,17 +852,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._P._Appan">
     <yago:hasName xml:lang="en">M. P. Appan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Breault">
-    <yago:hasName xml:lang="en">Michael Breault</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Gilbert">
     <yago:hasName xml:lang="en">Martin Gilbert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marla_Alupoaicei">
     <yago:hasName xml:lang="en">Marla Alupoaicei</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Cram">
-    <yago:hasName xml:lang="en">Mildred Cram</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maxime_Du_Camp">
     <yago:hasName xml:lang="en">Maxime Du Camp</yago:hasName>
@@ -901,9 +913,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammed_Wattad">
     <yago:hasName xml:lang="en">Muhammed Wattad</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_M._Monks">
-    <yago:hasName xml:lang="en">Monks, Joseph, M.</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Baqir_Majlisi">
     <yago:hasName xml:lang="en">Muhammad Baqir Majlisi</yago:hasName>
   </rdf:Description>
@@ -942,9 +951,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Bell">
     <yago:hasName xml:lang="en">Martin Bell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Bookspan">
-    <yago:hasName xml:lang="en">Martin Bookspan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Korie">
     <yago:hasName xml:lang="en">Michael Korie</yago:hasName>
@@ -991,9 +997,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_F_Crawford">
     <yago:hasName xml:lang="en">Max F Crawford</yago:hasName>
+    <yago:hasName xml:lang="en">Max Crawford</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mah_Laqa_Bai">
     <yago:hasName xml:lang="en">Mah Laqa Bai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Jafar_Yahaghi">
+    <yago:hasName xml:lang="en">Mohammad Jafar Yahaghi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Kuzmin">
     <yago:hasName xml:lang="en">Mikhail Kuzmin</yago:hasName>
@@ -1039,6 +1049,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Quinn_Sullivan">
     <yago:hasName xml:lang="en">Michael Quinn Sullivan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mir_Jalaleddin_Kazzazi">
+    <yago:hasName xml:lang="en">Mir Jalaleddin Kazzazi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mariwan_Halabjaee">
     <yago:hasName xml:lang="en">Mariwan Halabjaee</yago:hasName>
   </rdf:Description>
@@ -1081,9 +1094,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Ginsberg">
     <yago:hasName xml:lang="en">Marc Ginsberg</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Sagan">
-    <yago:hasName xml:lang="en">Miriam Sagan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marga_van_Praag">
     <yago:hasName xml:lang="en">Marga van Praag</yago:hasName>
   </rdf:Description>
@@ -1112,17 +1122,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Ygerbuchen">
     <yago:hasName xml:lang="en">Mohamed Ygerbuchen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Madison_Jones">
-    <yago:hasName xml:lang="en">Madison Jones</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Salter">
     <yago:hasName xml:lang="en">Mark Salter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mulla_Sadra">
+    <yago:hasName xml:lang="en">Mulla Sadra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morten_Thrane_Br%C3%BCnnich">
+    <yago:hasName xml:lang="en">Morten Thrane Brunnich</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Merlin_Mann">
     <yago:hasName xml:lang="en">Merlin Mann</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margareta_Clausdotter">
-    <yago:hasName xml:lang="en">Margareta Clausdotter</yago:hasName>
+    <yago:hasName xml:lang="en">Merlin Dean Mann III</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Prishvin">
     <yago:hasName xml:lang="en">Mikhail Prishvin</yago:hasName>
@@ -1179,6 +1190,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Kellner">
     <yago:hasName xml:lang="en">Mark Allen Kellner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary-Anne_Fahey">
+    <yago:hasName xml:lang="en">Mary-Anne Fahey</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Menios_Sakellaropoulos">
     <yago:hasName xml:lang="en">Menios Sakellaropoulos</yago:hasName>
   </rdf:Description>
@@ -1194,6 +1208,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Meir_Soloveichik">
     <yago:hasName xml:lang="en">Meir Soloveichik</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjan_Strojan">
+    <yago:hasName xml:lang="en">Marjan Strojan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Dennis">
     <yago:hasName xml:lang="en">Mick Dennis</yago:hasName>
   </rdf:Description>
@@ -1208,9 +1225,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Monty_Roberts">
     <yago:hasName xml:lang="en">Monty Roberts</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Velthuijs">
-    <yago:hasName xml:lang="en">Max Velthuijs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Clark_(writer)">
     <yago:hasName xml:lang="en">Matt Clark</yago:hasName>
@@ -1239,12 +1253,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Turcotte">
     <yago:hasName xml:lang="en">Mark Turcotte</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Myeong-sik">
-    <yago:hasName xml:lang="en">Myeong-Sik Kim</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Bogdanos">
-    <yago:hasName xml:lang="en">Matthew Bogdanos</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wolf_(economist)">
     <yago:hasName xml:lang="en">Michael Wolf</yago:hasName>
   </rdf:Description>
@@ -1264,9 +1272,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Hamburger">
     <yago:hasName xml:lang="en">Michael Hamburger</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marla_Kanelos">
-    <yago:hasName xml:lang="en">Marla Kanelos</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maureen_Fiedler">
     <yago:hasName xml:lang="en">Maureen Fiedler</yago:hasName>
   </rdf:Description>
@@ -1285,9 +1290,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_Kempton">
     <yago:hasName xml:lang="en">Murray Kempton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Christopher">
-    <yago:hasName xml:lang="en">Matt Christopher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%BCmtaz_Soysal">
     <yago:hasName xml:lang="en">Mümtaz Soysal</yago:hasName>
@@ -1313,17 +1315,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Morgan_Llywelyn">
     <yago:hasName xml:lang="en">Morgan Llywelyn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Tirico">
-    <yago:hasName xml:lang="en">Mike Tirico</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marguerite_Young">
     <yago:hasName xml:lang="en">Marguerite Young</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Wallington_(writer)">
-    <yago:hasName xml:lang="en">Mark Wallington</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mois%C3%A9s_Na%C3%ADm">
-    <yago:hasName xml:lang="en">Moises Naim</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yeh_Ming-shun">
     <yago:hasName xml:lang="en">Ming Shun Yeh</yago:hasName>
@@ -1357,6 +1350,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mavro_Vetranovi%C4%87">
     <yago:hasName xml:lang="en">Mavro Vetranovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammed_Taib">
+    <yago:hasName xml:lang="en">Muhammed Taib</yago:hasName>
+    <yago:hasName xml:lang="en">Muhammed S. Taib</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Lecomte">
     <yago:hasName xml:lang="en">Marcel Lecomte</yago:hasName>
@@ -1422,9 +1419,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Manjushree_Thapa">
     <yago:hasName xml:lang="en">Manjushree Thapa</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Slease">
-    <yago:hasName xml:lang="en">Marcus Slease</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Pope">
     <yago:hasName xml:lang="en">Michael Pope</yago:hasName>
@@ -1536,7 +1530,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_de_Ara%C3%BAjo_Porto-alegre%2C_Baron_of_Santo_%C3%82ngelo">
     <yago:hasName xml:lang="en">Manuel De Araujo Porto-Alegre</yago:hasName>
-    <yago:hasName xml:lang="en">Manuel de Araújo Porto-alegre</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milo%C5%A1_Mikeln">
     <yago:hasName xml:lang="en">Milos Mikeln</yago:hasName>
@@ -1548,6 +1541,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Manly_Palmer_Hall">
     <yago:hasName xml:lang="en">Manly Palmer Hall</yago:hasName>
     <yago:hasName xml:lang="en">Manly P. Hall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Y._Green">
+    <yago:hasName xml:lang="en">Michelle Y. Green</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mollie_Hunter">
     <yago:hasName xml:lang="en">Mollie Hunter</yago:hasName>
@@ -1618,6 +1614,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Knight">
     <yago:hasName xml:lang="en">Martin Knight</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_Ziade">
+    <yago:hasName xml:lang="en">May Ziade</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Williams_(writer)">
     <yago:hasName xml:lang="en">Mark Williams</yago:hasName>
@@ -1696,6 +1695,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Jo_Mitchell">
     <yago:hasName xml:lang="en">Mary Jo Mitchell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_F._Alexander">
+    <yago:hasName xml:lang="en">Margaret F. Alexander</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Zenkevich">
     <yago:hasName xml:lang="en">Mikhail Alexandrovich Zenkevich</yago:hasName>
   </rdf:Description>
@@ -1708,9 +1710,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Simont">
     <yago:hasName xml:lang="en">Marc Simont</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mykola_Kanevets">
-    <yago:hasName xml:lang="en">Mykola Kanevets</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Moran_(journalist)">
     <yago:hasName xml:lang="en">Michael E Moran</yago:hasName>
@@ -1736,6 +1735,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Beaumont">
     <yago:hasName xml:lang="en">Matt Beaumont</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wilbon">
+    <yago:hasName xml:lang="en">Michael Wilbon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chang_Man-yong">
     <yago:hasName xml:lang="en">Man-Yong Chang</yago:hasName>
@@ -1887,9 +1889,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mal_Peet">
     <yago:hasName xml:lang="en">Mal Peet</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_MacMillan">
-    <yago:hasName xml:lang="en">Margaret Macmillan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_MacLennan">
     <yago:hasName xml:lang="en">Michael Maclennan</yago:hasName>
   </rdf:Description>
@@ -1923,14 +1922,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_Nelson">
     <yago:hasName xml:lang="en">Maggie Nelson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Major_Garrett">
-    <yago:hasName xml:lang="en">Major Garrett</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Halbe">
     <yago:hasName xml:lang="en">Max Halbe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikayil_Mushfig">
     <yago:hasName xml:lang="en">Mikayil Mushfig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_DePriest">
+    <yago:hasName xml:lang="en">Margaret Depriest</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Renault">
     <yago:hasName xml:lang="en">Mary Renault</yago:hasName>
@@ -2104,9 +2103,6 @@
     <yago:hasName xml:lang="en">Maria Bibiana Benitez</yago:hasName>
     <yago:hasName xml:lang="en">María Bibiana Benítez</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Jotuni">
-    <yago:hasName xml:lang="en">Maria Jotuni</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bekhud_Badayuni">
     <yago:hasName xml:lang="en">Muhammad Abdul-Hayy Siddiqui</yago:hasName>
   </rdf:Description>
@@ -2151,6 +2147,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marjorie_Fleming">
     <yago:hasName xml:lang="en">Marjorie Fleming</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Yorke">
+    <yago:hasName xml:lang="en">Margaret Yorke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Cholmondeley">
     <yago:hasName xml:lang="en">Mary Cholmondeley</yago:hasName>
@@ -2209,6 +2208,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maikash_Akbarabadi">
     <yago:hasName xml:lang="en">Maikash Akbarabadi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mil_Millington">
+    <yago:hasName xml:lang="en">Mil Millington</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michiel_de_Swaen">
     <yago:hasName xml:lang="en">Michiel de Swaen</yago:hasName>
     <yago:hasName xml:lang="en">Michiel De Swaen</yago:hasName>
@@ -2231,9 +2233,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miko%C5%82aj_S%C4%99p_Szarzy%C5%84ski">
     <yago:hasName xml:lang="en">Mikolaj Sep Szarzynski</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mehmed_Em%C3%AEn_Bozarslan">
-    <yago:hasName xml:lang="en">Mehmed Emin Bozarslan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marin_Preda">
     <yago:hasName xml:lang="en">Marin Preda</yago:hasName>
@@ -2286,6 +2285,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Minnie_Louise_Haskins">
     <yago:hasName xml:lang="en">Minnie Louise Haskins</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Folco">
+    <yago:hasName xml:lang="en">Michel Folco</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chae_Man-shik">
     <yago:hasName xml:lang="en">Man-shik Chae</yago:hasName>
   </rdf:Description>
@@ -2333,9 +2335,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Gallagher_(writer)">
     <yago:hasName xml:lang="en">Michael Gallagher</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_J._Kirby">
-    <yago:hasName xml:lang="en">Matthew J. Kirby</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marek_Halter">
     <yago:hasName xml:lang="en">Marek Halter</yago:hasName>
@@ -2387,6 +2386,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Moser">
     <yago:hasName xml:lang="en">Marie Moser</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Magee_%28journalist%29">
+    <yago:hasName xml:lang="en">Mike Magee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_William_Cooper">
+    <yago:hasName xml:lang="en">Milton William Cooper</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Monica_Cafferky">
     <yago:hasName xml:lang="en">Monica Cafferky</yago:hasName>
   </rdf:Description>
@@ -2405,6 +2410,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Ann_Shadd">
     <yago:hasName xml:lang="en">Mary Ann Shadd Cary</yago:hasName>
+    <yago:hasName xml:lang="en">Mary Ann Shadd</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcia_Nardi">
     <yago:hasName xml:lang="en">Marcia Nardi</yago:hasName>
@@ -2491,9 +2497,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Yakich">
     <yago:hasName xml:lang="en">Mark Yakich</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mari_Yonehara">
-    <yago:hasName xml:lang="en">Mari Yonehara</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Barr">
     <yago:hasName xml:lang="en">Miriam Barr</yago:hasName>
   </rdf:Description>
@@ -2506,9 +2509,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mustafa_Balbay">
     <yago:hasName xml:lang="en">Mustafa Balbay</yago:hasName>
     <yago:hasName xml:lang="en">Mustafa Ali Balbay</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcin_Wolski">
-    <yago:hasName xml:lang="en">Marcin Wolski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Farquhar_Tupper">
     <yago:hasName xml:lang="en">Martin Farquhar Tupper</yago:hasName>
@@ -2607,6 +2607,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Meg_Hutchinson">
     <yago:hasName xml:lang="en">Meg Hutchinson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Barnes_%28Canadian_author%29">
+    <yago:hasName xml:lang="en">Michael Barnes</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Jenkins_(poet)">
     <yago:hasName xml:lang="en">Mike Jenkins</yago:hasName>
   </rdf:Description>
@@ -2621,9 +2624,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Loeb">
     <yago:hasName xml:lang="en">Marshall Loeb</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Conner">
-    <yago:hasName xml:lang="en">Michael Conner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Fletcher">
     <yago:hasName xml:lang="en">Martin Fletcher</yago:hasName>
@@ -2670,6 +2670,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Amis">
     <yago:hasName xml:lang="en">Martin Amis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Tate_Engels">
+    <yago:hasName xml:lang="en">Mary Tate Engels</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Plourde">
     <yago:hasName xml:lang="en">Marie Plourde</yago:hasName>
   </rdf:Description>
@@ -2678,6 +2681,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marusya_Klimova">
     <yago:hasName xml:lang="en">Marusya Klimova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Patrick">
+    <yago:hasName xml:lang="en">Michelle Patrick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Black_(literary_critic)">
     <yago:hasName xml:lang="en">Michael Hugo Black</yago:hasName>
@@ -2726,11 +2732,7 @@
     <yago:hasName xml:lang="en">Matthew Kennard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_O%27Brien">
-    <yago:hasName xml:lang="en">Matthew O'Brien</yago:hasName>
     <yago:hasName xml:lang="en">Matthew Obrien</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mantak_Chia">
-    <yago:hasName xml:lang="en">Mantak Chia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Ghalib">
     <yago:hasName xml:lang="en">Mirza Ghalib</yago:hasName>
@@ -2845,9 +2847,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Palme">
     <yago:hasName xml:lang="en">Michael Palme</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maddox_%28writer%29">
-    <yago:hasName xml:lang="en">Maddox</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Pilon">
     <yago:hasName xml:lang="en">Mary Pilon</yago:hasName>
   </rdf:Description>
@@ -2893,12 +2892,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Holmes_(journalist)">
     <yago:hasName xml:lang="en">Michael Holmes</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Mizuki">
-    <yago:hasName xml:lang="en">Mizuki Shigeru</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Meg_Kelly">
-    <yago:hasName xml:lang="en">Meg Kelly</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Sean_Winters">
     <yago:hasName xml:lang="en">Michael Sean Winters</yago:hasName>
   </rdf:Description>
@@ -2931,9 +2924,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_McCormack_(Irish_writer)">
     <yago:hasName xml:lang="en">Mike McCormack</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parson_Weems">
-    <yago:hasName xml:lang="en">Mason Locke Weems</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marian_Hemar">
     <yago:hasName xml:lang="en">Marian Hemar</yago:hasName>
   </rdf:Description>
@@ -2942,6 +2932,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Micah_Nathan">
     <yago:hasName xml:lang="en">Micah Nathan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mehmed-beg_Kapetanovi%C4%87_Ljubu%C5%A1ak">
+    <yago:hasName xml:lang="en">Mehmed-beg Kapetanović Ljubušak</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Fairley">
     <yago:hasName xml:lang="en">Margaret Fairley</yago:hasName>
@@ -3000,6 +2993,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Markus_Kajo">
     <yago:hasName xml:lang="en">Markus Kajo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wolff_%28journalist%29">
+    <yago:hasName xml:lang="en">Michael Wolff</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Holland">
     <yago:hasName xml:lang="en">Mary Holland</yago:hasName>
   </rdf:Description>
@@ -3012,6 +3008,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Magnus_Linklater">
     <yago:hasName xml:lang="en">Magnus Linklater</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myl%C3%A8ne_Farmer">
+    <yago:hasName xml:lang="en">Mylène Farmer</yago:hasName>
+    <yago:hasName xml:lang="en">Mylene Farmer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marijane_Meaker">
     <yago:hasName xml:lang="en">Marijane Meaker</yago:hasName>
   </rdf:Description>
@@ -3020,9 +3020,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Tracey">
     <yago:hasName xml:lang="en">Michael Tracey</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilarion_%28Ohienko%29">
-    <yago:hasName xml:lang="en">Metropolitan Ilarion</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_P._Burrill">
     <yago:hasName xml:lang="en">Mary P. Burrill</yago:hasName>
@@ -3087,6 +3084,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Inkpen">
     <yago:hasName xml:lang="en">Mick Inkpen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manning_Marable">
+    <yago:hasName xml:lang="en">Manning Marable</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melissa_Schroeder">
     <yago:hasName xml:lang="en">Melissa Schroeder</yago:hasName>
   </rdf:Description>
@@ -3143,9 +3143,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurizio_Belpietro">
     <yago:hasName xml:lang="en">Maurizio Belpietro</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Poventud">
-    <yago:hasName xml:lang="en">Miguel Poventud</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._G._G._Pillai">
     <yago:hasName xml:lang="en">MGG Pillai</yago:hasName>
@@ -3214,14 +3211,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Aspel">
     <yago:hasName xml:lang="en">Michael Aspel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahmoud_Saeed">
-    <yago:hasName xml:lang="en">Mahmoud Saeed</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Magorian">
     <yago:hasName xml:lang="en">Michelle Magorian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Anderson_(writer)">
     <yago:hasName xml:lang="en">Mark Anderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Mu%C3%B1oz_%28writer%29">
+    <yago:hasName xml:lang="en">Manuel Muñoz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuo_Nakamura">
     <yago:hasName xml:lang="en">Mitsuo Nakamura</yago:hasName>
@@ -3254,12 +3251,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maynard_Solomon">
     <yago:hasName xml:lang="en">Maynard Solomon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Rafiq_%28Bangladesh_poet%29">
-    <yago:hasName xml:lang="en">Mohammad Rafiq</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Meem_Hay_Latifi">
     <yago:hasName xml:lang="en">Meem Hay Latifi</yago:hasName>
-    <yago:hasName xml:lang="en">Muhammad Hasan Latifi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Sergeev">
     <yago:hasName xml:lang="en">Mark Sergeev</yago:hasName>
@@ -3316,9 +3309,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Gibson_(writer)">
     <yago:hasName xml:lang="en">Margaret Gibson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_North_%28professor%29">
-    <yago:hasName xml:lang="en">Michael North</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/May_Probyn">
     <yago:hasName xml:lang="en">May Probyn</yago:hasName>
   </rdf:Description>
@@ -3370,9 +3360,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Magomet_Mamakaev">
     <yago:hasName xml:lang="en">Magomet Mamakaev</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Weitzman">
-    <yago:hasName xml:lang="en">Matt Weitzman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maol_Sheachluinn_na_n-Uirsg%C3%A9al_%C3%93_hUiginn">
     <yago:hasName xml:lang="en">Maol Sheachluinn Na N-Uirsgeal O Huiginn</yago:hasName>
   </rdf:Description>
@@ -3396,6 +3383,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Kinsley">
     <yago:hasName xml:lang="en">Michael Kinsley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Hannah_Krout">
+    <yago:hasName xml:lang="en">Mary Hannah Krout</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mitchell_Parish">
     <yago:hasName xml:lang="en">Mitchell Parish</yago:hasName>
@@ -3426,6 +3416,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Makhdoom_Mohiuddin">
     <yago:hasName xml:lang="en">Makhdoom Mohiuddin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcia_Levin">
+    <yago:hasName xml:lang="en">Marcia Levin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Myrna_Combellack">
     <yago:hasName xml:lang="en">Myra Combellack</yago:hasName>
@@ -3467,14 +3460,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_di_Michele">
     <yago:hasName xml:lang="en">Mary Di Michele</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maarten_Biesheuvel">
+    <yago:hasName xml:lang="en">Maarten Biesheuvel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Nankin">
     <yago:hasName xml:lang="en">Michael Nankin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mitchell_Cohen">
     <yago:hasName xml:lang="en">Mitchell Cohen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Musa_Haji_Ismail_Galal">
-    <yago:hasName xml:lang="en">Musa Haji Ismail Galal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malka_Lee">
     <yago:hasName xml:lang="en">Malka Lee</yago:hasName>
@@ -3540,14 +3533,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Menashe_Amir">
     <yago:hasName xml:lang="en">Menashe Amir</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_O%27Donoghue">
-    <yago:hasName xml:lang="en">Michael O'Donoghue</yago:hasName>
-    <yago:hasName xml:lang="en">Michael Odonoghue</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hector_Macneill">
     <yago:hasName xml:lang="en">Macneill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Teurbe_Tol%C3%B3n">
+    <yago:hasName xml:lang="en">Miguel Teurbe Tolon</yago:hasName>
     <yago:hasName xml:lang="en">Miguel Teurbe Tolón</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Slade">
@@ -3620,9 +3610,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_O&apos;Sullivan">
     <yago:hasName xml:lang="en">Maggie Osullivan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mushitaro_Oguri">
-    <yago:hasName xml:lang="en">Mushitaro Oguri</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Sampson">
     <yago:hasName xml:lang="en">Michael Sampson</yago:hasName>
   </rdf:Description>
@@ -3639,7 +3626,6 @@
     <yago:hasName xml:lang="en">Mykola Kulish</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_M._Boatner_III">
-    <yago:hasName xml:lang="en">Mark M. III Boatner</yago:hasName>
     <yago:hasName xml:lang="en">Mark Mayo Boatner III</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Boot">
@@ -3800,9 +3786,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Manda_Scott">
     <yago:hasName xml:lang="en">Manda Scott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Graham_(director)">
-    <yago:hasName xml:lang="en">Michael Graham</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khalid_Akhtar">
     <yago:hasName xml:lang="en">Muhammad Khalid Akhtar</yago:hasName>
   </rdf:Description>
@@ -3837,11 +3820,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mort_Crim">
     <yago:hasName xml:lang="en">Mort Crim</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_K._Miller">
+    <yago:hasName xml:lang="en">Matt K. Miller</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Jacquemetton">
     <yago:hasName xml:lang="en">Maria Jacquemetton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjorie_Heins">
-    <yago:hasName xml:lang="en">Marjorie Heins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Seydell">
     <yago:hasName xml:lang="en">Mildred Seydell</yago:hasName>
@@ -3855,9 +3838,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Woodhouse">
     <yago:hasName xml:lang="en">Martin Woodhouse</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Showalter">
-    <yago:hasName xml:lang="en">Michael Showalter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ryan_(poet)">
     <yago:hasName xml:lang="en">Michael Ryan</yago:hasName>
@@ -3906,7 +3886,6 @@
     <yago:hasName xml:lang="en">Miloud Hmida</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mahasweta_Devi">
-    <yago:hasName xml:lang="en">Mahasweta Devi</yago:hasName>
     <yago:hasName xml:lang="en">Mahashweta Devi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Minfong_Ho">
@@ -3921,6 +3900,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Lloyd">
     <yago:hasName xml:lang="en">Marcus Lloyd</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mutal_Burhonov">
+    <yago:hasName xml:lang="en">Mutavakkil Burhonov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Brown_(journalist)">
     <yago:hasName xml:lang="en">Mick Brown</yago:hasName>
@@ -4020,10 +4002,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Kettle">
     <yago:hasName xml:lang="en">Martin Kettle</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikl%C3%B3s_Kov%C3%A1cs_%28poet%29">
-    <yago:hasName xml:lang="en">Miklos Kovacs</yago:hasName>
-    <yago:hasName xml:lang="en">Miklós Kovács</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mathilde_Blind">
     <yago:hasName xml:lang="en">Mathilde Blind</yago:hasName>
   </rdf:Description>
@@ -4032,6 +4010,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Chadbourn">
     <yago:hasName xml:lang="en">Mark Chadbourn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mollie_Katzen">
+    <yago:hasName xml:lang="en">Mollie Katzen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Phillips">
     <yago:hasName xml:lang="en">Melanie Phillips</yago:hasName>
@@ -4056,6 +4037,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Musa_Geshaev">
     <yago:hasName xml:lang="en">Musa Geshaev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Eileen_Ahern">
+    <yago:hasName xml:lang="en">Mary Eileen Ahern</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Cormier">
     <yago:hasName xml:lang="en">Michel Cormier</yago:hasName>
@@ -4088,9 +4072,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Greenberg_(poet)">
     <yago:hasName xml:lang="en">Martin Greenberg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurissa_Tancharoen">
-    <yago:hasName xml:lang="en">Maurissa Tancharoen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Altman_(speaker)">
     <yago:hasName xml:lang="en">Mark Altman</yago:hasName>
@@ -4155,6 +4136,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Linder">
     <yago:hasName xml:lang="en">Michael Linder</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Menotti_Lerro">
+    <yago:hasName xml:lang="en">Menotti Lerro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Clark_%28writer%29">
+    <yago:hasName xml:lang="en">Matt Clark</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurizio_Giuliano">
     <yago:hasName xml:lang="en">Maurizio Giuliano</yago:hasName>
   </rdf:Description>
@@ -4195,6 +4182,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M.L._Elrick">
     <yago:hasName xml:lang="en">M. L. Elrick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Hayd%C3%A9e_Beltr%C3%A1n_Torres">
+    <yago:hasName xml:lang="en">Marie Haydée Beltrán Torres</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Morison_Webster">
     <yago:hasName xml:lang="en">Mary Morison Webster</yago:hasName>
@@ -4287,9 +4277,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Hamidullah">
     <yago:hasName xml:lang="en">Muhammad Hamidullah</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiko_Ishimure">
-    <yago:hasName xml:lang="en">Michiko Ishimure</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Jameel_Didi">
     <yago:hasName xml:lang="en">Muhammad Jameel Didi</yago:hasName>
   </rdf:Description>
@@ -4369,9 +4356,6 @@
     <yago:hasName xml:lang="en">Marina Tsvetaeva</yago:hasName>
     <yago:hasName xml:lang="en">Marina Ivanovna Tsvetaeva</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Giambruno">
-    <yago:hasName xml:lang="en">Mark Giambruno</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Minsoo_Kang_(historian_and_writer)">
     <yago:hasName xml:lang="en">Minsoo Kang</yago:hasName>
   </rdf:Description>
@@ -4387,6 +4371,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maryam_Heydarzadeh">
     <yago:hasName xml:lang="en">Maryam Heydarzadeh</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Deren">
+    <yago:hasName xml:lang="en">Maya Deren</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Hastings_(playwright)">
     <yago:hasName xml:lang="en">Michael Hastings</yago:hasName>
   </rdf:Description>
@@ -4395,6 +4382,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_D%C4%85browska">
     <yago:hasName xml:lang="en">Maria Dabrowska</yago:hasName>
+    <yago:hasName xml:lang="en">Maria Dąbrowska</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C3%ADa_Esther_V%C3%A1zquez">
     <yago:hasName xml:lang="en">María Esther Vázquez</yago:hasName>
@@ -4444,9 +4432,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Vibert">
     <yago:hasName xml:lang="en">Mike Vibert</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marilyn_Henry">
-    <yago:hasName xml:lang="en">Marilyn Henry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Rowntree">
     <yago:hasName xml:lang="en">Michael Rowntree</yago:hasName>
@@ -4498,9 +4483,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/McDonald_Clarke">
     <yago:hasName xml:lang="en">Mcdonald Clarke</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Minakata_Kumagusu">
-    <yago:hasName xml:lang="en">Minakata Kumagusu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Bramble">
     <yago:hasName xml:lang="en">Mark Bramble</yago:hasName>
   </rdf:Description>
@@ -4528,9 +4510,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Drosnin">
     <yago:hasName xml:lang="en">Michael Drosnin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bo_Ma">
-    <yago:hasName xml:lang="en">Ma Bo (马波）</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malladihalli_Sri_Raghavendra_Swamiji">
     <yago:hasName xml:lang="en">Malladihalli Raghavendra</yago:hasName>
@@ -4571,10 +4550,8 @@
     <yago:hasName xml:lang="en">Margaret Culkin Banning</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michalina_Wis%C5%82ocka">
+    <yago:hasName xml:lang="en">Michalina Wisłocka</yago:hasName>
     <yago:hasName xml:lang="en">Michalina Wislocka</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Faisal_Tehrani">
-    <yago:hasName xml:lang="en">Mohd Faizal Musa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Stein_(reporter)">
     <yago:hasName xml:lang="en">Marc Stein</yago:hasName>
@@ -4633,9 +4610,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Gardiner_Brainard">
     <yago:hasName xml:lang="en">Mary Gardiner Brainard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_Jian_%28writer%29">
-    <yago:hasName xml:lang="en">Ma Jian</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Makhanlal_Chaturvedi">
     <yago:hasName xml:lang="en">Makhanlal Chaturvedi</yago:hasName>
   </rdf:Description>
@@ -4668,6 +4642,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Hashem_Zamani">
     <yago:hasName xml:lang="en">Mohammad Hashem Zamani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Roberts_(sports_agent)">
+    <yago:hasName xml:lang="en">Marc Roberts</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marquis_James">
     <yago:hasName xml:lang="en">Marquis James</yago:hasName>
@@ -4705,6 +4682,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_Siggins">
     <yago:hasName xml:lang="en">Maggie Siggins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mushtaq_Ahmad_Yusufi">
+    <yago:hasName xml:lang="en">Mushtaq Ahmad Yusufi</yago:hasName>
+    <yago:hasName xml:lang="en">Mushtaq Ahmed Yusufi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Ladd_(poet)">
     <yago:hasName xml:lang="en">Mike Ladd</yago:hasName>
@@ -4759,6 +4740,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Raftery">
     <yago:hasName xml:lang="en">Mary Frances Thérèse Raftery</yago:hasName>
     <yago:hasName xml:lang="en">Mary Raftery</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelle_Auclair">
+    <yago:hasName xml:lang="en">Marcelle Auclair</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Donaghy">
     <yago:hasName xml:lang="en">Michael Donaghy</yago:hasName>
@@ -4830,6 +4814,9 @@
     <yago:hasName xml:lang="en">Miša Molk</yago:hasName>
     <yago:hasName xml:lang="en">Misa Molk</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Creighton">
+    <yago:hasName xml:lang="en">Margaret Creighton</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Martone">
     <yago:hasName xml:lang="en">Michael Martone</yago:hasName>
   </rdf:Description>
@@ -4844,6 +4831,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Jones">
     <yago:hasName xml:lang="en">Max Jones</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Zairi">
+    <yago:hasName xml:lang="en">Mohamed Professor Zairi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milt_Thomas">
     <yago:hasName xml:lang="en">Milt Thomas</yago:hasName>
@@ -4888,9 +4878,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Med_Hondo">
     <yago:hasName xml:lang="en">Med Hondo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Horowitz">
-    <yago:hasName xml:lang="en">Michael Horowitz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_J._O&apos;Kelly">
     <yago:hasName xml:lang="en">Michael J. O'Kelly</yago:hasName>
@@ -4942,6 +4929,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._Govinda_Pai">
     <yago:hasName xml:lang="en">M. Govinda Pai</yago:hasName>
     <yago:hasName xml:lang="en">Manjeshwara Govinda Pai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ali_Siddiqui">
+    <yago:hasName xml:lang="en">Mohammad Ali Siddiqui</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maureen_Scott_Harris">
     <yago:hasName xml:lang="en">Maureen Scott Harris</yago:hasName>
@@ -5029,6 +5019,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Baisden">
     <yago:hasName xml:lang="en">Michael Baisden</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Hejazi_(author)">
+    <yago:hasName xml:lang="en">Mohammad Hejazi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirvarid_Dilbazi">
     <yago:hasName xml:lang="en">Mirvarid Dilbazi</yago:hasName>
   </rdf:Description>
@@ -5051,9 +5044,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcy_Heisler">
     <yago:hasName xml:lang="en">Marcy Heisler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Carrington_(voice_actor)">
-    <yago:hasName xml:lang="en">Michael Carrington</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Giles">
     <yago:hasName xml:lang="en">Michael John Giles</yago:hasName>
@@ -5092,9 +5082,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Agria">
     <yago:hasName xml:lang="en">Mary Agria</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Dvorzhetski">
-    <yago:hasName xml:lang="en">Mark Dvorzhetski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ilyas_Qadri">
     <yago:hasName xml:lang="en">Muhammad Ilyas Attar Qadiri</yago:hasName>
@@ -5197,6 +5184,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_McCourt">
     <yago:hasName xml:lang="en">Mike McCourt</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maung_Khin_Min_%28Danubyu%29">
+    <yago:hasName xml:lang="en">Maung Khin Min</yago:hasName>
+    <yago:hasName xml:lang="en">Maung Khin Min (Danubyu)</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Lings">
     <yago:hasName xml:lang="en">Martin Lings</yago:hasName>
   </rdf:Description>
@@ -5239,6 +5230,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Batten">
     <yago:hasName xml:lang="en">Mary Batten</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marlo_Morgan">
+    <yago:hasName xml:lang="en">Marlo Morgan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Dorfman">
     <yago:hasName xml:lang="en">Michael Dorfman</yago:hasName>
@@ -5292,10 +5286,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Martin">
     <yago:hasName xml:lang="en">Michael A. Martin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Muzaffer_%C4%B0zg%C3%BC">
-    <yago:hasName xml:lang="en">Muzaffer İzgü</yago:hasName>
-    <yago:hasName xml:lang="en">Muzaffer Izgü</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marty_Padgett">
     <yago:hasName xml:lang="en">Marty Padgett</yago:hasName>
   </rdf:Description>
@@ -5310,9 +5300,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margery_Lawrence">
     <yago:hasName xml:lang="en">Margery Lawrence</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wiley_(author)">
-    <yago:hasName xml:lang="en">Michael Wiley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_McFee">
     <yago:hasName xml:lang="en">Michael McFee</yago:hasName>
@@ -5341,9 +5328,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Wenner">
     <yago:hasName xml:lang="en">Max Christopher Wenner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Nichols_(author)">
-    <yago:hasName xml:lang="en">Mike Nichols</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mitch_Albom">
     <yago:hasName xml:lang="en">Mitch Albom</yago:hasName>
@@ -5380,6 +5364,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Fischbach">
     <yago:hasName xml:lang="en">Marcel Fischbach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masri_Feki">
+    <yago:hasName xml:lang="en">Masri Feki</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Makerita_Urale">
     <yago:hasName xml:lang="en">Makerita Urale</yago:hasName>
@@ -5454,9 +5441,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mehmed_IV_Giray">
     <yago:hasName xml:lang="en">Mehmed 04 Giray</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Tsuji">
-    <yago:hasName xml:lang="en">Masaki Tsuji</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Buckley_%28author%29">
     <yago:hasName xml:lang="en">Michael Buckley</yago:hasName>
   </rdf:Description>
@@ -5474,9 +5458,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Peterson_Haddix">
     <yago:hasName xml:lang="en">Margaret Peterson Haddix</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikael_Niemi">
-    <yago:hasName xml:lang="en">Mikael Niemi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maureen_Orth">
     <yago:hasName xml:lang="en">Maureen Orth</yago:hasName>
@@ -5524,7 +5505,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_O&apos;Brien">
     <yago:hasName xml:lang="en">Matthew Obrien</yago:hasName>
-    <yago:hasName xml:lang="en">Matthew O'Brien</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Munir_Niazi">
     <yago:hasName xml:lang="en">Munir Niazi</yago:hasName>
@@ -5694,14 +5674,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Scharf_(poet)">
     <yago:hasName xml:lang="en">Michael N. Scharf</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Steinberg_(music_critic)">
+    <yago:hasName xml:lang="en">Michael Steinberg</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maziar_Bahari">
     <yago:hasName xml:lang="en">Maziar Bahari</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Stewart_(playwright)">
     <yago:hasName xml:lang="en">Michael Stewart</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Johnson_Bailey_Lincoln">
-    <yago:hasName xml:lang="en">Mary Johnson Bailey Lincoln</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Myron_Brinig">
     <yago:hasName xml:lang="en">Myron Brinig</yago:hasName>
@@ -5711,6 +5691,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Lazerow">
     <yago:hasName xml:lang="en">Michael Lazerow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millee_Taggart">
+    <yago:hasName xml:lang="en">Millee Taggart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mian_Mir">
     <yago:hasName xml:lang="en">Mian Mir</yago:hasName>
@@ -5747,9 +5730,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Shelley">
     <yago:hasName xml:lang="en">Mary Wollstonecraft Shelley</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Jo_Pehl">
-    <yago:hasName xml:lang="en">Mary Jo Pehl</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Blodgett">
     <yago:hasName xml:lang="en">Michael Blodgett</yago:hasName>
@@ -5789,6 +5769,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Hardberger">
     <yago:hasName xml:lang="en">Max Hardberger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Gray">
+    <yago:hasName xml:lang="en">Mike Gray</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Thomas">
     <yago:hasName xml:lang="en">Margaret Thomas</yago:hasName>
@@ -5892,6 +5875,10 @@
     <yago:hasName xml:lang="en">Max Arthur</yago:hasName>
     <yago:hasName xml:lang="en">Max Arthur=</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molly_Caldwell_Crosby">
+    <yago:hasName xml:lang="en">Molly Caldwell Crosby</yago:hasName>
+    <yago:hasName xml:lang="en">Molly Crosby</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Tlali">
     <yago:hasName xml:lang="en">Miriam Tlali</yago:hasName>
   </rdf:Description>
@@ -5943,9 +5930,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Rapisardi">
     <yago:hasName xml:lang="en">Mario Rapisardi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Marlier">
-    <yago:hasName xml:lang="en">Marcel Marlier</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milan_Begovi%C4%87">
     <yago:hasName xml:lang="en">Milan Begovic</yago:hasName>
   </rdf:Description>
@@ -5992,9 +5976,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marco_Marsan">
     <yago:hasName xml:lang="en">Marco Marsan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Milt_G._Barlow">
-    <yago:hasName xml:lang="en">Milt G. Barlow</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1ria_Szepes">
     <yago:hasName xml:lang="en">Mária Szepes</yago:hasName>
   </rdf:Description>
@@ -6019,9 +6000,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Dugain">
     <yago:hasName xml:lang="en">Marc Dugain</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Hardee">
-    <yago:hasName xml:lang="en">Malcolm Hardee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marina_Carr">
     <yago:hasName xml:lang="en">Marina Carr</yago:hasName>
@@ -6154,9 +6132,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Musa_Shafiq">
     <yago:hasName xml:lang="en">Mohammad Musa Shafiq</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mel_Shapiro">
-    <yago:hasName xml:lang="en">Mel Shapiro</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Rose_Callaghan">
     <yago:hasName xml:lang="en">Mary Rose Callaghan</yago:hasName>
   </rdf:Description>
@@ -6182,9 +6157,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._T._Kelly">
     <yago:hasName xml:lang="en">M.T. Kelly</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Yoshida">
-    <yago:hasName xml:lang="en">Mitsuru Yoshida</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Lawrence_(writer)">
     <yago:hasName xml:lang="en">Michael Lawrence</yago:hasName>
@@ -6229,6 +6201,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mariah_Fredericks">
     <yago:hasName xml:lang="en">Mariah Fredericks</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Blaiklock">
+    <yago:hasName xml:lang="en">Michael Blaiklock</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Gelovani">
     <yago:hasName xml:lang="en">Mirza Gelovani</yago:hasName>
   </rdf:Description>
@@ -6260,9 +6235,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maxim_Kalashnikov">
     <yago:hasName xml:lang="en">Maxim Kalashnikov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mieko_Kanai">
-    <yago:hasName xml:lang="en">Mieko Kanai</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margarete_B%C3%B6hme">
     <yago:hasName xml:lang="en">Margarete Bohme</yago:hasName>
     <yago:hasName xml:lang="en">Margarete Böhme</yago:hasName>
@@ -6285,8 +6257,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Hoffman">
     <yago:hasName xml:lang="en">Mary Hoffman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Kapstein">
-    <yago:hasName xml:lang="en">Matthew Kapstein</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Stevens_(radio_host)">
+    <yago:hasName xml:lang="en">Marc Stevens</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_J._Baek">
     <yago:hasName xml:lang="en">Matthew Baek</yago:hasName>
@@ -6349,6 +6321,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Moses_Koenigsberg">
     <yago:hasName xml:lang="en">Moses Koenigsberg</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bochow">
+    <yago:hasName xml:lang="en">Michael Bochow</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Mobbs">
     <yago:hasName xml:lang="en">Michael Mobbs</yago:hasName>
   </rdf:Description>
@@ -6365,9 +6340,6 @@
     <yago:hasName xml:lang="en">Michael Raymond Mainelli</yago:hasName>
     <yago:hasName xml:lang="en">Michael Mainelli</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/M._K._Kumaran">
-    <yago:hasName xml:lang="en">M. K. Kumaran</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Aldanov">
     <yago:hasName xml:lang="en">Mark Aldanov</yago:hasName>
   </rdf:Description>
@@ -6382,6 +6354,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Noble">
     <yago:hasName xml:lang="en">Mildred Noble</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Sadler_(chess_player)">
+    <yago:hasName xml:lang="en">Matthew Sadler</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Lord_(correspondent)">
     <yago:hasName xml:lang="en">Mary Lord</yago:hasName>
@@ -6415,9 +6390,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Hoffman_II">
     <yago:hasName xml:lang="en">Michael A. Hoffman II</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michal_Viewegh">
-    <yago:hasName xml:lang="en">Michal Viewegh</yago:hasName>
+    <yago:hasName xml:lang="en">Michael A. II Hoffman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Paul_Stephens">
     <yago:hasName xml:lang="en">Michael Paul Stephens</yago:hasName>
@@ -6481,6 +6454,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Haneke">
     <yago:hasName xml:lang="en">Michael Haneke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Davis_(scholar)">
+    <yago:hasName xml:lang="en">Mike Davis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcos_Sastre">
     <yago:hasName xml:lang="en">Marcos Sastre</yago:hasName>
@@ -6601,9 +6577,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Dunn_(poet)">
     <yago:hasName xml:lang="en">Max Dunn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melissa_Marr_%28author%29">
-    <yago:hasName xml:lang="en">Melissa Marr</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Julia_Zaleska">
     <yago:hasName xml:lang="en">Maria Julia Zaleska</yago:hasName>
   </rdf:Description>
@@ -6671,11 +6644,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Merle_Miller">
     <yago:hasName xml:lang="en">Merle Miller</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Berz">
+    <yago:hasName xml:lang="en">Michael Berz</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Ferracci-Porri">
     <yago:hasName xml:lang="en">Michel Ferracci-Porri</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Black_%28literary_critic%29">
-    <yago:hasName xml:lang="en">Michael Hugo Black</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Spain">
     <yago:hasName xml:lang="en">Mark Spain</yago:hasName>
@@ -6700,9 +6673,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Waddell">
     <yago:hasName xml:lang="en">Martin Waddell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Chorost">
-    <yago:hasName xml:lang="en">Michael Chorost</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Burgess_%28children%27s_author%29">
     <yago:hasName xml:lang="en">Mark Burgess</yago:hasName>
@@ -6762,11 +6732,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Rodden">
     <yago:hasName xml:lang="en">Mike Rodden</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Gascoigne">
-    <yago:hasName xml:lang="en">Marc Gascoigne</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martine_Leavitt">
     <yago:hasName xml:lang="en">Martine Leavitt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Gascoigne">
+    <yago:hasName xml:lang="en">Marc Gascoigne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milorad_Popovi%C4%87_%C5%A0ap%C4%8Danin">
     <yago:hasName xml:lang="en">Milorad Popović Šapčanin</yago:hasName>
@@ -6819,6 +6789,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Regan">
     <yago:hasName xml:lang="en">Matt Regan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad-Reza_Hafeznia">
+    <yago:hasName xml:lang="en">Mohammad Reza Hafeznia</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martyn_Burke">
     <yago:hasName xml:lang="en">Martyn Burke</yago:hasName>
   </rdf:Description>
@@ -6856,9 +6829,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Otto_(journalist)">
     <yago:hasName xml:lang="en">Michael Otto</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mau_Heymans">
-    <yago:hasName xml:lang="en">Mau Heymans</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margot_Mifflin">
     <yago:hasName xml:lang="en">Margot Mifflin</yago:hasName>
   </rdf:Description>
@@ -6893,11 +6863,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Trejo">
     <yago:hasName xml:lang="en">Mario Trejo</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marta_Miraz%C3%B3n_Lahr">
-    <yago:hasName xml:lang="en">Marta Mirazón Lahr</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Palin">
     <yago:hasName xml:lang="en">Michael Palin</yago:hasName>
+    <yago:hasName xml:lang="en">Michael Edward Palin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Day">
     <yago:hasName xml:lang="en">Martin Day</yago:hasName>
@@ -6946,9 +6914,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Gillingham">
     <yago:hasName xml:lang="en">Martin Gillingham</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Brachman">
-    <yago:hasName xml:lang="en">Michael Brachman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Dorcey">
     <yago:hasName xml:lang="en">Mary Dorcey</yago:hasName>
@@ -6999,6 +6964,9 @@
     <yago:hasName xml:lang="en">Matija Mazuranic</yago:hasName>
     <yago:hasName xml:lang="en">Matija Mažuranić</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Rosy">
+    <yago:hasName xml:lang="en">Maurice Rosy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mermer_Blakeslee">
     <yago:hasName xml:lang="en">Mermer Blakeslee</yago:hasName>
   </rdf:Description>
@@ -7007,6 +6975,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marvin_Kaye">
     <yago:hasName xml:lang="en">Marvin Kaye</yago:hasName>
+    <yago:hasName xml:lang="en">Marvin Nathan Kaye</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Rafey_Habib">
     <yago:hasName xml:lang="en">M. A. Rafey Habib</yago:hasName>
@@ -7077,9 +7046,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mortimer_Collins">
     <yago:hasName xml:lang="en">Mortimer Collins</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjory_Heath_Wentworth">
-    <yago:hasName xml:lang="en">Marjory Heath Wentworth</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad-Taqi_Bahar">
     <yago:hasName xml:lang="en">Mohammad Taghi Bahar</yago:hasName>
     <yago:hasName xml:lang="en">Mohammad Taqi Bahar</yago:hasName>
@@ -7143,9 +7109,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Banks">
     <yago:hasName xml:lang="en">Michael A. Banks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Greenleaf_Clement_Leavitt">
-    <yago:hasName xml:lang="en">Mary Greenleaf Clement Leavitt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Dobson_(author)">
     <yago:hasName xml:lang="en">Michael Dobson</yago:hasName>
   </rdf:Description>
@@ -7168,15 +7131,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Hittinger">
     <yago:hasName xml:lang="en">Matthew Hittinger</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mokkapati_Narasimha_Sastry">
+    <yago:hasName xml:lang="en">Mokkapati Narasimha Sastry</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Barr%C3%A8s">
     <yago:hasName xml:lang="en">Maurice Barrès</yago:hasName>
     <yago:hasName xml:lang="en">Maurice Barres</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Verne">
     <yago:hasName xml:lang="en">Michel Verne</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ouweleen">
-    <yago:hasName xml:lang="en">Michael Ouweleen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Masanori_Ito_(music_critic)">
     <yago:hasName xml:lang="en">Masanori Ito</yago:hasName>
@@ -7372,9 +7335,6 @@
     <yago:hasName xml:lang="en">Mallori Macneal</yago:hasName>
     <yago:hasName xml:lang="en">Mallori McNeal</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Stanislawski">
-    <yago:hasName xml:lang="en">Michael Stanislawski</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mackenzie_Bezos">
     <yago:hasName xml:lang="en">Mackenzie Bezos</yago:hasName>
   </rdf:Description>
@@ -7389,6 +7349,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bar-Zohar">
     <yago:hasName xml:lang="en">Michael Bar-Zohar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcia_Muller">
+    <yago:hasName xml:lang="en">Marcia Muller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Stevenson">
     <yago:hasName xml:lang="en">Matthew Stevenson</yago:hasName>
@@ -7498,6 +7461,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Moody">
     <yago:hasName xml:lang="en">Martha Moody</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Megan_McDonald">
+    <yago:hasName xml:lang="en">Megan McDonald</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Groden">
     <yago:hasName xml:lang="en">Michael Groden</yago:hasName>
   </rdf:Description>
@@ -7578,7 +7544,6 @@
     <yago:hasName xml:lang="en">Madison Cawein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikha%27il_Na%27ima">
-    <yago:hasName xml:lang="en">Mikha'il Naima</yago:hasName>
     <yago:hasName xml:lang="en">Mikha&amp;#39;il Na&amp;#39;ima</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mois%C3%A9s_Kaufman">
@@ -7599,6 +7564,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Jackson_(author)">
     <yago:hasName xml:lang="en">Mick Jackson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misty_Massey">
+    <yago:hasName xml:lang="en">Misty Massey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maryana_Marrash">
     <yago:hasName xml:lang="en">Maryana Marrash</yago:hasName>
@@ -7637,9 +7605,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mehdi_Hamidi_Shirazi">
     <yago:hasName xml:lang="en">Mehdi Hamidi Shirazi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyatake_Gaikotsu">
-    <yago:hasName xml:lang="en">Miyatake Gaikotsu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Pemberton">
     <yago:hasName xml:lang="en">Margaret Hudson Pemberton</yago:hasName>
   </rdf:Description>
@@ -7668,9 +7633,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Fraser_(journalist)">
     <yago:hasName xml:lang="en">Matthew Fraser</yago:hasName>
     <yago:hasName xml:lang="en">Matthew William Fraser</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Morton_Dean">
-    <yago:hasName xml:lang="en">Morton Dean</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Molly_McCloskey">
     <yago:hasName xml:lang="en">Molly McCloskey</yago:hasName>
@@ -7732,6 +7694,12 @@
     <yago:hasName xml:lang="en">Michael Andreas Helmuth Ende</yago:hasName>
     <yago:hasName xml:lang="en">Michael Ende</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Church_Terrell">
+    <yago:hasName xml:lang="en">Mary Church Terrell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Tillieux">
+    <yago:hasName xml:lang="en">Maurice Tillieux</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Menippus">
     <yago:hasName xml:lang="en">Menippus of Gadara</yago:hasName>
   </rdf:Description>
@@ -7750,6 +7718,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milorad_Roganovi%C4%87">
     <yago:hasName xml:lang="en">Milorad Roganovic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matija_Barl">
+    <yago:hasName xml:lang="en">Matija Barl</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Monica_Attard">
     <yago:hasName xml:lang="en">Monica Attard</yago:hasName>
   </rdf:Description>
@@ -7760,9 +7731,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Wingett">
     <yago:hasName xml:lang="en">Matthew Wingett</yago:hasName>
     <yago:hasName xml:lang="en">Matthew Wingett (aka Matt Wingett)</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Simpson_(journalist)">
-    <yago:hasName xml:lang="en">Mark Simpson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Lawrence_%28author%29">
     <yago:hasName xml:lang="en">Mark Lawrence</yago:hasName>
@@ -7796,6 +7764,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marian_Keyes">
     <yago:hasName xml:lang="en">Marian Keyes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morris_Cargill">
+    <yago:hasName xml:lang="en">Morris Cargill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Mearls">
     <yago:hasName xml:lang="en">Mike Mearls</yago:hasName>
@@ -7845,9 +7816,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Alexander_Boyd">
     <yago:hasName xml:lang="en">Mark Alexander Boyd</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie-Th%C3%A9r%C3%A8se_Assiga_Ahanda">
-    <yago:hasName xml:lang="en">Marie Therese Assiga Ahanda</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Merlin_Holland">
     <yago:hasName xml:lang="en">Merlin Holland</yago:hasName>
@@ -7905,15 +7873,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Madeleine_Henrey">
     <yago:hasName xml:lang="en">Madeleine Henrey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melissa_Kirsch">
-    <yago:hasName xml:lang="en">Melissa Kirsch</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Stackpole">
     <yago:hasName xml:lang="en">Michael Stackpole</yago:hasName>
-    <yago:hasName xml:lang="en">Michael A. Stackpole</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Ostrowski">
-    <yago:hasName xml:lang="en">Mike Ostrowski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ridley">
     <yago:hasName xml:lang="en">Michael Ridley</yago:hasName>
@@ -7935,9 +7896,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Pousson">
     <yago:hasName xml:lang="en">Martin Pousson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Vonnegut">
-    <yago:hasName xml:lang="en">Mark Vonnegut</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._C._Richards">
     <yago:hasName xml:lang="en">M. C. Richards</yago:hasName>
@@ -7981,17 +7939,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mir-Jam">
     <yago:hasName xml:lang="en">Mir-Jam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mate_Dolenc">
-    <yago:hasName xml:lang="en">Mate Dolenc</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Mills_(writer)">
     <yago:hasName xml:lang="en">Mark Mills</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Hall_(musician)">
     <yago:hasName xml:lang="en">Marshall Hall</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Potter">
-    <yago:hasName xml:lang="en">Margaret Edith Newman Potter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcia_Theophilo">
     <yago:hasName xml:lang="en">Marcia Theophilo</yago:hasName>
@@ -8069,9 +8021,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muneeza_Shamsie">
     <yago:hasName xml:lang="en">Muneeza</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wolfe">
-    <yago:hasName xml:lang="en">Michael Wolfe</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Brassard">
     <yago:hasName xml:lang="en">Marie Brassard</yago:hasName>
   </rdf:Description>
@@ -8100,9 +8049,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Parkinson">
     <yago:hasName xml:lang="en">Mary Parkinson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Deraismes">
-    <yago:hasName xml:lang="en">Maria Deraismes</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maddox_(writer)">
     <yago:hasName xml:lang="en">Maddox</yago:hasName>
   </rdf:Description>
@@ -8126,9 +8072,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Kobayashi_%28artist%29">
     <yago:hasName xml:lang="en">Makoto Kobayashi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/M%C3%A1rio_de_Alencar">
-    <yago:hasName xml:lang="en">Mário de Alencar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mihangel_Morgan">
     <yago:hasName xml:lang="en">Mihangell Morgan</yago:hasName>
@@ -8268,11 +8211,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Tait">
     <yago:hasName xml:lang="en">Melanie Tait</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Selman">
-    <yago:hasName xml:lang="en">Matthew Selman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Saltzman">
     <yago:hasName xml:lang="en">Mark Saltman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Louise_Pool">
+    <yago:hasName xml:lang="en">Maria Louise Pool</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Munyol">
     <yago:hasName xml:lang="en">Munyol Yi</yago:hasName>
@@ -8354,9 +8297,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C3%ADa_Luisa_Puga">
     <yago:hasName xml:lang="en">María Luisa Puga</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_McDowell_%28author%29">
-    <yago:hasName xml:lang="en">Michael McDowell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Birmajer">
     <yago:hasName xml:lang="en">Marcelo Birmajer</yago:hasName>
@@ -8535,9 +8475,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Baron">
     <yago:hasName xml:lang="en">Michel Baron</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Jeser_&amp;_Matt_Silverstein">
-    <yago:hasName xml:lang="en">Matt Silverstein</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirjaqip_Dulatuli">
     <yago:hasName xml:lang="en">Mirjaqip Dulatuli</yago:hasName>
   </rdf:Description>
@@ -8569,6 +8506,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Collings">
     <yago:hasName xml:lang="en">Matthew Collings</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mem_Nahadr">
+    <yago:hasName xml:lang="en">Mem Nahadr</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Morten_Harry_Olsen">
     <yago:hasName xml:lang="en">Morten Harry Olsen</yago:hasName>
   </rdf:Description>
@@ -8593,6 +8533,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Booth">
     <yago:hasName xml:lang="en">Martin Booth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Matios">
+    <yago:hasName xml:lang="en">Maria Matios</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Nicoll">
     <yago:hasName xml:lang="en">Maurice Nicoll</yago:hasName>
@@ -8678,9 +8621,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Nugent">
     <yago:hasName xml:lang="en">Michael Nugent</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Myeong-sun">
-    <yago:hasName xml:lang="en">Myeong-sun Kim</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Lesemann">
     <yago:hasName xml:lang="en">Maurice Lesemann</yago:hasName>
   </rdf:Description>
@@ -8706,8 +8646,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Nolan">
     <yago:hasName xml:lang="en">Martin Nolan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Piller">
-    <yago:hasName xml:lang="en">Michael Piller</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Renard">
+    <yago:hasName xml:lang="en">Maurice Renard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjolein_Bastin">
+    <yago:hasName xml:lang="en">Marjolein Bastin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad-Ali_Jamalzadeh">
     <yago:hasName xml:lang="en">Mohammad Ali Jamalzadeh</yago:hasName>
@@ -8724,7 +8667,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Mansha_Yaad">
     <yago:hasName xml:lang="en">Muhammad Mansha Yaad</yago:hasName>
-    <yago:hasName xml:lang="en">Mansha, Yaad, Muhammad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maoilios_Caimbeul">
     <yago:hasName xml:lang="en">Maoilios Caimbeul</yago:hasName>
@@ -8788,9 +8730,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_James_Whitty">
     <yago:hasName xml:lang="en">Michael James Whitty</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Duffy_%28American_journalist%29">
-    <yago:hasName xml:lang="en">Michael Duffy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Harris_(journalist)">
     <yago:hasName xml:lang="en">Mic Harris</yago:hasName>
   </rdf:Description>
@@ -8848,6 +8787,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Baciu">
     <yago:hasName xml:lang="en">Maria Baciu</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_M._Abrah%C3%A3o">
+    <yago:hasName xml:lang="en">Miguel M. Abrahão</yago:hasName>
+    <yago:hasName xml:lang="en">Miguel M. Abrahao</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Borelius">
     <yago:hasName xml:lang="en">Maria Borelius</yago:hasName>
   </rdf:Description>
@@ -8899,6 +8842,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Meredith_Vieira">
     <yago:hasName xml:lang="en">Meredith Vieira</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matteo_Pistono">
+    <yago:hasName xml:lang="en">Matteo Pistono</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Zinni">
     <yago:hasName xml:lang="en">Mark Zinni</yago:hasName>
@@ -8954,11 +8900,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Lomonosov">
     <yago:hasName xml:lang="en">Mikhail Vasilyevich Lomonosov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mabel_Cook_Cole">
+    <yago:hasName xml:lang="en">Mabel Cook Cole</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_Anderson">
     <yago:hasName xml:lang="en">Maggie Anderson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milan_Smr%C4%8Dka">
     <yago:hasName xml:lang="en">Milan Smrcka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Ferguson-Cohen">
+    <yago:hasName xml:lang="en">Michelle Ferguson-Cohen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Noonan_(writer)">
     <yago:hasName xml:lang="en">Michael John Noonan</yago:hasName>
@@ -9205,9 +9157,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Vavrus">
     <yago:hasName xml:lang="en">Michael Vavrus</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Thomsett">
-    <yago:hasName xml:lang="en">Michael Thomsett</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Hertsgaard">
     <yago:hasName xml:lang="en">Mark Hertsgaard</yago:hasName>
   </rdf:Description>
@@ -9222,9 +9171,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michele_Santoro">
     <yago:hasName xml:lang="en">Michele Santoro</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Min-gyu">
-    <yago:hasName xml:lang="en">Min-gyu Park</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Morgan_%28screenwriter%29">
     <yago:hasName xml:lang="en">Mary Diana Morgan Barbour</yago:hasName>
@@ -9293,9 +9239,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milorad_Pavi%C4%87_(writer)">
     <yago:hasName xml:lang="en">Milorad Pavic</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Moritz_Thomsen">
-    <yago:hasName xml:lang="en">Moritz Thomsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inkulab">
     <yago:hasName xml:lang="en">Makkal Pavalar Inkulab</yago:hasName>
@@ -9479,11 +9422,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marco_Aurelio_Mart%C3%ADnez_Tijerina">
     <yago:hasName xml:lang="en">Marco Aurelio Martinez Tijerina</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Articles_for_creation/Manuel_Moreno_Barranco">
-    <yago:hasName xml:lang="en">Manuel Moreno Barranco</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_McGarry_Morris">
     <yago:hasName xml:lang="en">Mary McGarry Morris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Woronov">
+    <yago:hasName xml:lang="en">Mary Woronov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mari_Osmundsen">
     <yago:hasName xml:lang="en">Mari Osmundsen</yago:hasName>
@@ -9575,14 +9518,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Vogel">
     <yago:hasName xml:lang="en">Michelle Vogel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Ibuka">
-    <yago:hasName xml:lang="en">Masaru Ibuka</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Maron">
     <yago:hasName xml:lang="en">Margaret Maron</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morgan_Shuster">
-    <yago:hasName xml:lang="en">Morgan Shuster</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Ellison">
     <yago:hasName xml:lang="en">Melanie Ellison</yago:hasName>
@@ -9608,9 +9545,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maliha_Masood">
     <yago:hasName xml:lang="en">Maliha Masood</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katate_Masatsuka">
-    <yago:hasName xml:lang="en">Masatsuka Katate</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Delany">
     <yago:hasName xml:lang="en">Martin R. Delany</yago:hasName>
   </rdf:Description>
@@ -9619,6 +9553,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mariathas_Manojanraj">
     <yago:hasName xml:lang="en">Mariathas Manojanraj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Bense">
+    <yago:hasName xml:lang="en">Max Bense</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Hall_(writer)">
     <yago:hasName xml:lang="en">Matthew Hall</yago:hasName>
@@ -9741,9 +9678,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Jenkins_(sportscaster)">
     <yago:hasName xml:lang="en">Michael Jenkins</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Milan_Jesih">
-    <yago:hasName xml:lang="en">Milan Jesih</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Gleeson_(journalist)">
     <yago:hasName xml:lang="en">Mark Gleeson</yago:hasName>
   </rdf:Description>
@@ -9752,9 +9686,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Mahy">
     <yago:hasName xml:lang="en">Margaret Mahy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Bondurant">
-    <yago:hasName xml:lang="en">Matt Bondurant</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Roberts_(fashion_journalist)">
     <yago:hasName xml:lang="en">Michael Roberts</yago:hasName>
@@ -9795,9 +9726,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Myrta_Pulliam">
     <yago:hasName xml:lang="en">Myrta Pulliam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcella_Rabwin">
-    <yago:hasName xml:lang="en">Marcella Rabwin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Mayo_(playwright)">
     <yago:hasName xml:lang="en">Margaret Mayo</yago:hasName>
   </rdf:Description>
@@ -9820,6 +9748,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_D._Adams">
     <yago:hasName xml:lang="en">Max D. Adams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marieke_Hardy">
+    <yago:hasName xml:lang="en">Marieke Hardy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malaclypse_the_Younger">
     <yago:hasName xml:lang="en">Malaclypse the Younger</yago:hasName>
@@ -9892,9 +9823,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Moine">
     <yago:hasName xml:lang="en">Michel Moine</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Morey_Amsterdam">
-    <yago:hasName xml:lang="en">Morey Amsterdam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Ellis_(writer)">
     <yago:hasName xml:lang="en">Mark Ellis</yago:hasName>
@@ -10020,9 +9948,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Miles_Harvey">
     <yago:hasName xml:lang="en">Miles Harvey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Simpson_%28journalist%29">
-    <yago:hasName xml:lang="en">Mark Simpson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirzo_Tursunzoda">
     <yago:hasName xml:lang="en">Mirzo Tursunzade</yago:hasName>
   </rdf:Description>
@@ -10126,10 +10051,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Palmer_(poet)">
     <yago:hasName xml:lang="en">Michael Palmer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsha_M._Linehan">
-    <yago:hasName xml:lang="en">Marsha Linehan</yago:hasName>
-    <yago:hasName xml:lang="en">Marsha M. Linehan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elizabeth_Counselman">
     <yago:hasName xml:lang="en">Mary Elizabeth Counselman</yago:hasName>
   </rdf:Description>
@@ -10220,9 +10141,6 @@
     <yago:hasName xml:lang="en">Matthew Diffee</yago:hasName>
     <yago:hasName xml:lang="en">Matthew Diffey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melvin_Helitzer">
-    <yago:hasName xml:lang="en">Melvin Helitzer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Tait">
     <yago:hasName xml:lang="en">Maragaret Caroline Tait</yago:hasName>
   </rdf:Description>
@@ -10263,11 +10181,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Corriel">
     <yago:hasName xml:lang="en">Matt Corriel</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Augusta_Dickerson">
+    <yago:hasName xml:lang="en">Mary Augusta Dickerson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Marnich">
     <yago:hasName xml:lang="en">Melanie Marnich</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_de_Carvalho">
     <yago:hasName xml:lang="en">Mario de Carvalho</yago:hasName>
+    <yago:hasName xml:lang="en">Mario De Carvalho</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Apple">
     <yago:hasName xml:lang="en">Max Apple</yago:hasName>
@@ -10415,7 +10337,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie-Jeanne_L%27H%C3%A9ritier">
     <yago:hasName xml:lang="en">Marie-Jeanne L'Héritier</yago:hasName>
-    <yago:hasName xml:lang="en">Marie-Jeanne L'Héritier de Villandon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maksymilian_Berezowski">
     <yago:hasName xml:lang="en">Maksymilian Berezowski</yago:hasName>
@@ -10500,7 +10421,7 @@
     <yago:hasName xml:lang="en">Mary Hart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marsha_Canham">
-    <yago:hasName xml:lang="en">Marsha M. Canham</yago:hasName>
+    <yago:hasName xml:lang="en">Marsha Canham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._Keaton">
     <yago:hasName xml:lang="en">M Keaton</yago:hasName>
@@ -10544,9 +10465,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Reftool_run/temp">
     <yago:hasName xml:lang="en">Madeleine Riffaud</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariam_Petrosyan">
-    <yago:hasName xml:lang="en">Mariam Petrosyan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Merrill_Gilfillan">
     <yago:hasName xml:lang="en">Merrill Gilfillan</yago:hasName>
@@ -10668,6 +10586,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marianne_Mikko">
     <yago:hasName xml:lang="en">Marianne Mikko</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madhu_Babu">
+    <yago:hasName xml:lang="en">Madhu Babu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._Stanton_Evans">
     <yago:hasName xml:lang="en">M. Stanton Evans</yago:hasName>
     <yago:hasName xml:lang="en">Medford Evans</yago:hasName>
@@ -10691,21 +10612,13 @@
     <yago:hasName xml:lang="en">Michael Connelly</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Madeleine_de_Souvr%C3%A9%2C_marquise_de_Sabl%C3%A9">
-    <yago:hasName xml:lang="en">Madeleine Sable</yago:hasName>
     <yago:hasName xml:lang="en">Madeleine de Souvré, marquise de Sablé</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Meta_Ku%C5%A1ar">
-    <yago:hasName xml:lang="en">Meta Kusar</yago:hasName>
-    <yago:hasName xml:lang="en">Meta Kušar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miekichi_Suzuki">
-    <yago:hasName xml:lang="en">Miekichi Suzuki</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Usman_Diplai">
+    <yago:hasName xml:lang="en">Muhammad Usman Diplai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Man_Arenas">
     <yago:hasName xml:lang="en">Man Arenas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mara_Brock_Akil">
-    <yago:hasName xml:lang="en">Mara Brock Akil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mile_Isakov">
     <yago:hasName xml:lang="en">Miodrag Isakov</yago:hasName>
@@ -10743,13 +10656,15 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mehdi_Huseyn">
     <yago:hasName xml:lang="en">Mehdi Huseyn</yago:hasName>
-    <yago:hasName xml:lang="en">Mehdi Hüseyn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martti_Soosaar">
     <yago:hasName xml:lang="en">Martti Soosaar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mickey_Deans">
     <yago:hasName xml:lang="en">Mickey Deans</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Javier_Saban">
+    <yago:hasName xml:lang="en">Mario Javier Saban</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Anthony_Jarman">
     <yago:hasName xml:lang="en">Mark Anthony Jarman</yago:hasName>
@@ -10789,6 +10704,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matsutar%C5%8D_Kawaguchi">
     <yago:hasName xml:lang="en">Matsutarō Kawaguchi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Wolff_(journalist)">
+    <yago:hasName xml:lang="en">Michael Wolff</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Adams_(journalist)">
     <yago:hasName xml:lang="en">Michael Adams</yago:hasName>
   </rdf:Description>
@@ -10800,6 +10718,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malaka_Dewapriya">
     <yago:hasName xml:lang="en">Malaka Dewapriya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeleine_Delbr%C3%AAl">
+    <yago:hasName xml:lang="en">Madeleine Delbrel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Masashi_Sada">
     <yago:hasName xml:lang="en">Masashi Sada</yago:hasName>
@@ -10823,9 +10744,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marjorie_Lynette_Sigley">
     <yago:hasName xml:lang="en">Marjorie Lyette Sigley 'Sigi'</yago:hasName>
     <yago:hasName xml:lang="en">Marjorie Sigley</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marty_Isenberg">
-    <yago:hasName xml:lang="en">Marty Isenberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffreys_Lewis">
     <yago:hasName xml:lang="en">Mary Jeffreys Lewis</yago:hasName>
@@ -10871,11 +10789,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Zakharov">
     <yago:hasName xml:lang="en">Mark Zakharov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C3%ADa_Rosa_Lojo">
+    <yago:hasName xml:lang="en">Maria Rosa Logo</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mather_Byles">
     <yago:hasName xml:lang="en">Mather Byles</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mu._Varadarajan">
-    <yago:hasName xml:lang="en">Mu. Varadarajan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_S%C3%A1bato">
     <yago:hasName xml:lang="en">Mario Sábato</yago:hasName>
@@ -10891,9 +10809,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Moneta_Sleet,_Jr.">
     <yago:hasName xml:lang="en">Moneta Sleet, Jr.</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Lee_Lanning">
-    <yago:hasName xml:lang="en">Michael Lee Lanning</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Newell_(musician)">
     <yago:hasName xml:lang="en">Martin Newell</yago:hasName>
   </rdf:Description>
@@ -10905,9 +10820,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Dunne">
     <yago:hasName xml:lang="en">Mick Dunne</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mur%C5%8D_Saisei">
-    <yago:hasName xml:lang="en">Murō Saisei</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Louise_Kelly">
     <yago:hasName xml:lang="en">Mary Louise Kelly</yago:hasName>
@@ -10987,9 +10899,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Donne">
     <yago:hasName xml:lang="en">Mark Donne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Epstein">
-    <yago:hasName xml:lang="en">Mikhail Epstein</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marisa_Wegrzyn">
     <yago:hasName xml:lang="en">Marisa Wegrzyn</yago:hasName>
   </rdf:Description>
@@ -11038,9 +10947,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Castner">
     <yago:hasName xml:lang="en">Michael Castner</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Graziano">
-    <yago:hasName xml:lang="en">Michael Graziano</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Healey">
     <yago:hasName xml:lang="en">Michael Healey</yago:hasName>
   </rdf:Description>
@@ -11069,27 +10975,32 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Pearson_(author)">
     <yago:hasName xml:lang="en">Michael Pearson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_L._Van_Name">
+    <yago:hasName xml:lang="en">Mark L. Van Name</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mona_Borzouee">
     <yago:hasName xml:lang="en">Mona Borzouee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_O%27Donnell">
     <yago:hasName xml:lang="en">Mark O’Donnell</yago:hasName>
-    <yago:hasName xml:lang="en">Mark Odonnell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mallampalli_Sarabheswara_Sarma">
     <yago:hasName xml:lang="en">Mallampalli Sarabheswara Sarma</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Fuller">
-    <yago:hasName xml:lang="en">Margaret Fuller</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Moira_O&apos;Neill">
     <yago:hasName xml:lang="en">Moira Oneill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Fuller">
+    <yago:hasName xml:lang="en">Margaret Fuller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Kneale">
     <yago:hasName xml:lang="en">Matthew Kneale</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michal_%C5%A0anda">
     <yago:hasName xml:lang="en">Michal Sanda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Arana">
+    <yago:hasName xml:lang="en">Marie Arana</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._K._Wren">
     <yago:hasName xml:lang="en">M. K. Wren</yago:hasName>
@@ -11149,6 +11060,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Stendhal">
     <yago:hasName xml:lang="en">Marie-Henri Beyle</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Luther_King,_Jr.">
+    <yago:hasName xml:lang="en">Martin Luther King, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Graham_(journalist)">
     <yago:hasName xml:lang="en">Mike Graham</yago:hasName>
   </rdf:Description>
@@ -11169,9 +11083,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_de_Koningh">
     <yago:hasName xml:lang="en">Michael de Koningh</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Hennessy">
-    <yago:hasName xml:lang="en">Mark Hennessy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Merari_Siregar">
     <yago:hasName xml:lang="en">Merari Siregar</yago:hasName>
@@ -11238,9 +11149,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Meinrad_Lienert">
     <yago:hasName xml:lang="en">Meinrad Lienert</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Markowitz">
-    <yago:hasName xml:lang="en">Michael Markowitz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Smithson_(journalist)">
     <yago:hasName xml:lang="en">Mike Smithson</yago:hasName>
@@ -11546,7 +11454,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mots%27eoa_Senyane">
     <yago:hasName xml:lang="en">Motseoa Senyane</yago:hasName>
-    <yago:hasName xml:lang="en">Mots'eoa Senyane</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Stefani">
     <yago:hasName xml:lang="en">Mario Stefani</yago:hasName>
@@ -11594,6 +11501,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Reid">
     <yago:hasName xml:lang="en">Michelle Reid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Caroline_Anderson">
+    <yago:hasName xml:lang="en">Margaret Caroline Anderson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Majda_%C5%A0irca">
     <yago:hasName xml:lang="en">Majda Sirca</yago:hasName>
@@ -11676,17 +11586,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Poindexter">
     <yago:hasName xml:lang="en">Malcolm Poindexter</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Miksa_Feny%C5%91">
-    <yago:hasName xml:lang="en">Miksa Fenyo</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Nielsen">
     <yago:hasName xml:lang="en">Martin Nielsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marianne_Monson">
     <yago:hasName xml:lang="en">Marianne Monson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Munir_Altheeb">
-    <yago:hasName xml:lang="en">Munir Altheeb</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Sadri">
+    <yago:hasName xml:lang="en">Mohammad Sadri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mavis_Gallant">
     <yago:hasName xml:lang="en">Mavis Gallant</yago:hasName>
@@ -11704,9 +11611,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Sadler_%28educationist%29">
     <yago:hasName xml:lang="en">Michael Ernest Sadler</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Alfred_Peszke">
-    <yago:hasName xml:lang="en">Michael Alfred Peszke</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Margie_Holmes">
     <yago:hasName xml:lang="en">Margie Holmes</yago:hasName>
   </rdf:Description>
@@ -11721,8 +11625,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Antonia_Scalera_Stellini">
     <yago:hasName xml:lang="en">Maria Antonia Scalera Stellini</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moin_Akhter">
+    <yago:hasName xml:lang="en">Moin Akhtar</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Frutkin">
     <yago:hasName xml:lang="en">Mark Frutkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mehrdad_Bahar">
+    <yago:hasName xml:lang="en">Mehrdad Bahar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Mastin">
     <yago:hasName xml:lang="en">Marcus Mastin</yago:hasName>
@@ -11730,9 +11640,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mart_Smeets">
     <yago:hasName xml:lang="en">Martinus Jan Smeets</yago:hasName>
     <yago:hasName xml:lang="en">Mart Smeets</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Melissa_Fay_Greene">
-    <yago:hasName xml:lang="en">Melissa Fay Greene</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mathurin_R%C3%A9gnier">
     <yago:hasName xml:lang="en">Mathurin Regnier</yago:hasName>
@@ -11858,6 +11765,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Feng_Menglong">
     <yago:hasName xml:lang="en">Menglong Feng</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Foch">
+    <yago:hasName xml:lang="en">Marshal Ferdinand Foch</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Chabon">
     <yago:hasName xml:lang="en">Michael Chabon</yago:hasName>
   </rdf:Description>
@@ -11885,6 +11795,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maurizio_Moro">
     <yago:hasName xml:lang="en">Maurizio Moro</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marina_Orlova">
+    <yago:hasName xml:lang="en">Marina Vladimirovna Orlova</yago:hasName>
+    <yago:hasName xml:lang="en">Marina Orlova</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Portas">
     <yago:hasName xml:lang="en">Mary Portas</yago:hasName>
   </rdf:Description>
@@ -11911,7 +11825,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_J._Fitzgerald_(writer)">
     <yago:hasName xml:lang="en">Michael J. Fitzgerald</yago:hasName>
-    <yago:hasName xml:lang="en">Michael James Fitzgerald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Meike">
     <yago:hasName xml:lang="en">Mitsuru Meike</yago:hasName>
@@ -11927,9 +11840,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Schmidt_(poet)">
     <yago:hasName xml:lang="en">Michael Schmidt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Brooks">
-    <yago:hasName xml:lang="en">Martha Brooks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Crow">
     <yago:hasName xml:lang="en">Mary Crow</yago:hasName>
@@ -11952,6 +11862,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mantar%C5%8D_Kubota">
     <yago:hasName xml:lang="en">Mantarō Kubota</yago:hasName>
+    <yago:hasName xml:lang="en">Mantaro Kubota</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Sholokhov">
     <yago:hasName xml:lang="en">Michail Sholokhov</yago:hasName>
@@ -12005,9 +11916,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Brenner_%28writer%29">
     <yago:hasName xml:lang="en">Malcolm J. Brenner</yago:hasName>
     <yago:hasName xml:lang="en">Malcolm Brenner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mako_Yoshikawa">
-    <yago:hasName xml:lang="en">Mako Yoshikawa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Lessac">
     <yago:hasName xml:lang="en">Michael Lessac</yago:hasName>
@@ -12076,6 +11984,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Droit">
     <yago:hasName xml:lang="en">Michel Droit</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michaela_Morgan">
+    <yago:hasName xml:lang="en">Michaela Morgan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Wolf">
     <yago:hasName xml:lang="en">Martin Wolf</yago:hasName>
   </rdf:Description>
@@ -12115,6 +12026,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mari_Sandoz">
     <yago:hasName xml:lang="en">Mari Sandoz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moira_Bertram">
+    <yago:hasName xml:lang="en">Moira Bertram</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malik_Barkat_Ali">
     <yago:hasName xml:lang="en">Malik Barkat Ali</yago:hasName>
@@ -12169,9 +12083,6 @@
     <yago:hasName xml:lang="en">Matija Bećković</yago:hasName>
     <yago:hasName xml:lang="en">Matija Beckovic</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Chaplin_%28writer%29">
-    <yago:hasName xml:lang="en">Michael Chaplin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Morgan">
     <yago:hasName xml:lang="en">Melanie Morgan</yago:hasName>
   </rdf:Description>
@@ -12199,9 +12110,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Josephson">
     <yago:hasName xml:lang="en">Matthew Josephson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Dahvana_Headley">
-    <yago:hasName xml:lang="en">Maria Headley</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Roberts_(footballer)">
     <yago:hasName xml:lang="en">Michael Roberts</yago:hasName>
   </rdf:Description>
@@ -12215,20 +12123,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%81lvares_de_Azevedo">
     <yago:hasName xml:lang="en">Manuel Antônio Álvares de Azevedo</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marian_Calabro">
-    <yago:hasName xml:lang="en">Marian Calabro</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Morrie_Yohai">
     <yago:hasName xml:lang="en">Morrie Yohai</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Moreno_Barranco">
-    <yago:hasName xml:lang="en">Manuel Moreno Barranco</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Fatali_Akhundov">
     <yago:hasName xml:lang="en">Mirza Fatali Akhundov</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Cunningham_(author)">
-    <yago:hasName xml:lang="en">Marion Cunningham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melinda_Haynes">
     <yago:hasName xml:lang="en">Melinda Haynes</yago:hasName>
@@ -12244,7 +12143,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marinko_Stevanovi%C4%87">
     <yago:hasName xml:lang="en">Marinko Stevanovic</yago:hasName>
-    <yago:hasName xml:lang="en">Marinko Stevanović</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Melville_Henry_Cane">
     <yago:hasName xml:lang="en">Melville Henry Cane</yago:hasName>
@@ -12336,9 +12234,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michelangelo_Signorile">
     <yago:hasName xml:lang="en">Michelangelo Signorile</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Greenburg">
-    <yago:hasName xml:lang="en">Michael Greenburg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Madeline_DeFrees">
     <yago:hasName xml:lang="en">Madeline Defrees</yago:hasName>
   </rdf:Description>
@@ -12422,6 +12317,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_Lerner">
     <yago:hasName xml:lang="en">Murray Lerner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mykola_Zerov">
+    <yago:hasName xml:lang="en">Mykola Zerov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/M._T._Vasudevan_Nair">
     <yago:hasName xml:lang="en">M. T. Vasudevan Nair</yago:hasName>

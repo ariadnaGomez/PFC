@@ -75,9 +75,6 @@
     <yago:hasName xml:lang="en">Odon Betanzos Palacios</yago:hasName>
     <yago:hasName xml:lang="en">Odón Betanzos Palacios</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Jacoby">
-    <yago:hasName xml:lang="en">Oswald Jacoby</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Gildemeister">
     <yago:hasName xml:lang="en">Otto Gildemeister</yago:hasName>
   </rdf:Description>
@@ -146,6 +143,9 @@
     <yago:hasName xml:lang="en">Oliver Steeds</yago:hasName>
     <yago:hasName xml:lang="en">Olly Steeds</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Faller">
+    <yago:hasName xml:lang="en">Otto Faller</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Overton">
     <yago:hasName xml:lang="en">Overton</yago:hasName>
   </rdf:Description>
@@ -209,9 +209,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olympe_de_Gouges">
     <yago:hasName xml:lang="en">Olympe de Gouges</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ormond_McGill">
-    <yago:hasName xml:lang="en">Ormond McGill</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Odd_B%C3%B8rretzen">
     <yago:hasName xml:lang="en">Odd Borretzen</yago:hasName>
   </rdf:Description>
@@ -267,6 +264,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olja_Be%C4%87kovi%C4%87">
     <yago:hasName xml:lang="en">Olja Beckovic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Rutter">
+    <yago:hasName xml:lang="en">Owen Rutter</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_Mej%C3%ADa_Rivera">
     <yago:hasName xml:lang="en">Orlando Mejia Rivera</yago:hasName>
     <yago:hasName xml:lang="en">Orlando Mejía Rivera</yago:hasName>
@@ -303,9 +303,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oddvar_Korme">
     <yago:hasName xml:lang="en">Oddvar Korme</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Onofrio_Catacchio">
-    <yago:hasName xml:lang="en">Onofrio Catacchio</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oswell_Blakeston">
     <yago:hasName xml:lang="en">Oswald Blakeston</yago:hasName>
@@ -371,26 +368,19 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Penn_Fitzgerald">
     <yago:hasName xml:lang="en">Oscar Penn Fitzgerald</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Tschirky">
-    <yago:hasName xml:lang="en">Oscar Tschirky</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_de_la_Paz">
+    <yago:hasName xml:lang="en">Oliver de La Paz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Moore_(novelist)">
     <yago:hasName xml:lang="en">Oscar Moore</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_de_la_Paz">
-    <yago:hasName xml:lang="en">Oliver de La Paz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ousmane_Semb%C3%A8ne">
     <yago:hasName xml:lang="en">Ousmane Sembène</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oriana_Fallaci">
-    <yago:hasName xml:lang="en">Oriana Fallaci</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Onyeka_Nwelue">
     <yago:hasName xml:lang="en">Onyeka Nwelue</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Magnus_von_Stackelberg_%28archaeologist%29">
-    <yago:hasName xml:lang="en">Otto Magnus von Stackelberg</yago:hasName>
     <yago:hasName xml:lang="en">Otto Magnus Stackelburg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dovzhenko">
@@ -429,14 +419,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Os_Guinness">
     <yago:hasName xml:lang="en">Os Guinness</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oj%C4%81rs_V%C4%81cietis">
-    <yago:hasName xml:lang="en">Ojars Vacietis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Durand">
     <yago:hasName xml:lang="en">Oswald Durand</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_North">
-    <yago:hasName xml:lang="en">Oliver North</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oksana_Lushchevska">
     <yago:hasName xml:lang="en">Oksana Lushchevska</yago:hasName>
@@ -510,21 +494,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olavi_Paavolainen">
     <yago:hasName xml:lang="en">Olavi Paavolainen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._D._James">
+    <yago:hasName xml:lang="en">OBE</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Octavia_E._Butler">
     <yago:hasName xml:lang="en">Octavia Estelle Butler</yago:hasName>
     <yago:hasName xml:lang="en">Octavia E. Butler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P._D._James">
-    <yago:hasName xml:lang="en">OBE</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Omkar_Goswami">
     <yago:hasName xml:lang="en">Omkar Goswami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ole_Barman">
     <yago:hasName xml:lang="en">Ole Barman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Okky_Madasari">
-    <yago:hasName xml:lang="en">Okky Madasari</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_von_Corvin">
     <yago:hasName xml:lang="en">Otto Von Corvin</yago:hasName>
@@ -606,11 +587,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_C._Eliason">
     <yago:hasName xml:lang="en">Oscar C. Eliason</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Obukhova">
-    <yago:hasName xml:lang="en">Olga Obukhova</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Orozco">
     <yago:hasName xml:lang="en">Olga Orozco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Obukhova">
+    <yago:hasName xml:lang="en">Olga Obukhova</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oton_%C5%BDupan%C4%8Di%C4%8D">
     <yago:hasName xml:lang="en">Oton Zupancic</yago:hasName>
@@ -694,9 +675,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Abdurehim_%C3%96tk%C3%BCr">
     <yago:hasName xml:lang="en">Otkur Abdurehim</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ossian_Elgstr%C3%B6m">
-    <yago:hasName xml:lang="en">Ossian Elgstrom</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Kureishi">
     <yago:hasName xml:lang="en">Omar Kureishi</yago:hasName>
   </rdf:Description>
@@ -775,12 +753,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olavo_de_Carvalho">
     <yago:hasName xml:lang="en">Olavo De Carvalho</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/O_Yoon">
-    <yago:hasName xml:lang="en">Oh Yoon</yago:hasName>
-    <yago:hasName xml:lang="en">O yoon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Feltham">
     <yago:hasName xml:lang="en">Owen Feltham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onur_Demirsoy">
+    <yago:hasName xml:lang="en">Onur Demirsoy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Angela_Rippon">
     <yago:hasName xml:lang="en">OBE</yago:hasName>
@@ -1101,9 +1078,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olappamanna">
     <yago:hasName xml:lang="en">Olappamanna</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernie_Wise">
-    <yago:hasName xml:lang="en">OBE</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%93_Maoilciaran_an_Fili">
     <yago:hasName xml:lang="en">O Maoilciaran an Fili</yago:hasName>
   </rdf:Description>
@@ -1139,9 +1113,6 @@
     <yago:hasName xml:lang="en">Olga Elena Mattei</yago:hasName>
     <yago:hasName xml:lang="en">Olga Elena Mattei Echavarría</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ossie_Davis">
-    <yago:hasName xml:lang="en">Ossie Davis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_Seaman">
     <yago:hasName xml:lang="en">Owen Seaman</yago:hasName>
   </rdf:Description>
@@ -1158,6 +1129,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oggy_Boytchev">
     <yago:hasName xml:lang="en">Oggy Boytchev</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jay_Osborn,_Jr.">
+    <yago:hasName xml:lang="en">Osborn, John Jay, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Olive_Senior">
     <yago:hasName xml:lang="en">Olive Senior</yago:hasName>
   </rdf:Description>
@@ -1167,11 +1141,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Osbern_Bokenam">
     <yago:hasName xml:lang="en">Osbern Bokenam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Panizza">
-    <yago:hasName xml:lang="en">Oskar Panizza</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Osvaldo_Drag%C3%BAn">
     <yago:hasName xml:lang="en">Osvaldo Dragun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Panizza">
+    <yago:hasName xml:lang="en">Oskar Panizza</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ouyang_Yu">
     <yago:hasName xml:lang="en">Ouyang Yu</yago:hasName>
@@ -1199,9 +1173,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Oktay_R%C4%B1fat_Horozcu">
     <yago:hasName xml:lang="en">Oktay Rifat Horozcu</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Dalgard">
-    <yago:hasName xml:lang="en">Olav Dalgard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Octave_Cr%C3%A9mazie">
     <yago:hasName xml:lang="en">Octave Crémazie</yago:hasName>

@@ -8,6 +8,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norbert_Schmelzer">
     <yago:hasName xml:lang="en">Norbert Schmelzer</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigel_Watson">
+    <yago:hasName xml:lang="en">Nigel Watson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._Ponnappa">
     <yago:hasName xml:lang="en">N. Ponnappa</yago:hasName>
   </rdf:Description>
@@ -22,6 +25,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikifor_Mran&apos;ka">
     <yago:hasName xml:lang="en">Nikifor Mran'ka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neal_Boortz">
+    <yago:hasName xml:lang="en">Neal Boortz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nate_Silver">
     <yago:hasName xml:lang="en">Nate Silver</yago:hasName>
@@ -78,9 +84,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_O._Frederiksen">
     <yago:hasName xml:lang="en">Norman O. Frederiksen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Noriko_Ito">
-    <yago:hasName xml:lang="en">Noriko Ito</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Bertozzi">
     <yago:hasName xml:lang="en">Nick Bertozzi</yago:hasName>
   </rdf:Description>
@@ -121,15 +124,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norma_Klein">
     <yago:hasName xml:lang="en">Norma Klein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Naruhisa_Arakawa">
-    <yago:hasName xml:lang="en">Naruhisa Arakawa</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Dowd">
     <yago:hasName xml:lang="en">Nancy Dowd</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nadine_Haobsh">
-    <yago:hasName xml:lang="en">Nadine Jolie</yago:hasName>
-    <yago:hasName xml:lang="en">Nadine Haobsh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_Cordy">
     <yago:hasName xml:lang="en">Neil Cordy</yago:hasName>
@@ -180,9 +176,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naomi_Long_Madgett">
     <yago:hasName xml:lang="en">Naomi Long Madgett</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Blithedale_Romance__Nathaniel_Hawthorne__1">
-    <yago:hasName xml:lang="en">Nathaniel Hawthorne</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nawara_Negm">
     <yago:hasName xml:lang="en">Nawara Negm</yago:hasName>
   </rdf:Description>
@@ -197,9 +190,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/No%C3%ABl_Coward">
     <yago:hasName xml:lang="en">Noël Peirce Coward Coward</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_R._Jones">
-    <yago:hasName xml:lang="en">Neil Ronald Jones</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Tappan">
     <yago:hasName xml:lang="en">nancy Mack Tappan</yago:hasName>
@@ -248,6 +238,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolette_Stasko">
     <yago:hasName xml:lang="en">Nicolette Stasko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicky_Gumbel">
+    <yago:hasName xml:lang="en">Nicky Gumbel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_Taylor_(journalist)">
     <yago:hasName xml:lang="en">Neil Tayor</yago:hasName>
@@ -319,11 +312,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikki_Gemmell">
     <yago:hasName xml:lang="en">Nikki Gemmell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nitya_Prakash">
+    <yago:hasName xml:lang="en">Nitya Prakash</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nell_Dunn">
     <yago:hasName xml:lang="en">Nell Dunn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Daboll">
     <yago:hasName xml:lang="en">Nathan Daboll</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ntone_Edjabe">
+    <yago:hasName xml:lang="en">Ntone Edjabe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicole_Cooley">
     <yago:hasName xml:lang="en">Nicole Cooley</yago:hasName>
@@ -339,6 +338,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nam%C4%B1k_Kemal">
     <yago:hasName xml:lang="en">Namik Kemal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neer_Shah">
+    <yago:hasName xml:lang="en">Neer Shah</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Neilson">
     <yago:hasName xml:lang="en">Neilson</yago:hasName>
@@ -372,6 +374,7 @@
     <yago:hasName xml:lang="en">Nemesio Canales</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Pomyalovsky">
+    <yago:hasName xml:lang="en">Nikolay Pomyalovski</yago:hasName>
     <yago:hasName xml:lang="en">Nikolai Pomyalovsky</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Corr">
@@ -413,6 +416,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Dobrolyubov">
     <yago:hasName xml:lang="en">Nikolay Dobrolyubov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norberto_Romu%C3%A1ldez">
+    <yago:hasName xml:lang="en">Norberto Lopez Romualdez</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Duarte">
     <yago:hasName xml:lang="en">Nancy Duarte</yago:hasName>
   </rdf:Description>
@@ -440,9 +446,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naum_Olev">
     <yago:hasName xml:lang="en">Naum Olev</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Inose">
-    <yago:hasName xml:lang="en">Naoki Inose</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nalo_Hopkinson">
     <yago:hasName xml:lang="en">Nalo Hopkinson</yago:hasName>
   </rdf:Description>
@@ -467,9 +470,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nand_Chaturvedi">
     <yago:hasName xml:lang="en">Nand Chaturvedi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Weissman">
-    <yago:hasName xml:lang="en">Norman Weissman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._F._Simpson">
     <yago:hasName xml:lang="en">N.F. Simpson</yago:hasName>
@@ -497,6 +497,7 @@
     <yago:hasName xml:lang="en">Nikole Beckwith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nagnath_Lalujirao_Kottapalle">
+    <yago:hasName xml:lang="en">Nagnath Lalujirao Kottapalle</yago:hasName>
     <yago:hasName xml:lang="en">Nagnath Kottapalle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Monteleone">
@@ -626,6 +627,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nitin_Bose">
     <yago:hasName xml:lang="en">Nitin Bose</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathacha_Appanah">
+    <yago:hasName xml:lang="en">Nathacha Devi Appanah</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Vincent_Peale">
     <yago:hasName xml:lang="en">Norman Vincent Peale</yago:hasName>
   </rdf:Description>
@@ -666,9 +670,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Navid_Kermani">
     <yago:hasName xml:lang="en">Navid Kermani</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomi_Weisstein">
-    <yago:hasName xml:lang="en">Naomi Weisstein</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Noy_Holland">
     <yago:hasName xml:lang="en">Noy Holland</yago:hasName>
   </rdf:Description>
@@ -685,6 +686,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_McKenty">
     <yago:hasName xml:lang="en">Neil McKenty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolai_Frahm">
+    <yago:hasName xml:lang="en">Nicolai Frahm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Noam_Friedlander">
     <yago:hasName xml:lang="en">Noam Friedlander</yago:hasName>
@@ -728,6 +732,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Natalie_Jane_Prior">
     <yago:hasName xml:lang="en">Natalie Jane Prior</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Branden">
+    <yago:hasName xml:lang="en">Nathaniel Branden</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nahum_Barnea">
     <yago:hasName xml:lang="en">Nahum Barnea</yago:hasName>
   </rdf:Description>
@@ -754,6 +761,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Whittle">
     <yago:hasName xml:lang="en">Nick Whittle</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_Peery">
+    <yago:hasName xml:lang="en">Nelson Peery</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolae_Petrescu-Comnen">
     <yago:hasName xml:lang="en">Nicolae Petrescu-Comnen</yago:hasName>
   </rdf:Description>
@@ -765,6 +775,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Napoleon_Lapathiotis">
     <yago:hasName xml:lang="en">Napoleon Lapathiotis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Towne">
+    <yago:hasName xml:lang="en">Nick Towne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naomi_Lewis">
     <yago:hasName xml:lang="en">Naomi Lewis</yago:hasName>
@@ -866,7 +879,6 @@
     <yago:hasName xml:lang="en">Naoko Hayashiba</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._D._Cocea">
-    <yago:hasName xml:lang="en">N D Cocea</yago:hasName>
     <yago:hasName xml:lang="en">Nicolae Dumitru (N. D.) Cocea</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nami_Mun">
@@ -974,9 +986,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Preston">
     <yago:hasName xml:lang="en">Norman Preston</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/NB_Pettibone">
-    <yago:hasName xml:lang="en">NB Pettibone</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Murdoch">
     <yago:hasName xml:lang="en">Nina Murdoch</yago:hasName>
   </rdf:Description>
@@ -1017,8 +1026,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nagarjun">
     <yago:hasName xml:lang="en">Nagarjun</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niklas_Krog">
+    <yago:hasName xml:lang="en">Niklas Krog</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolaus_Mameranus">
     <yago:hasName xml:lang="en">Nicolaus Mameranus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolaos_van_Dam">
+    <yago:hasName xml:lang="en">Nikolaos van Dam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Natalia_Germanou">
     <yago:hasName xml:lang="en">Natalia Germanou</yago:hasName>
@@ -1032,6 +1047,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolae_Labi%C8%99">
     <yago:hasName xml:lang="en">Nicolae Labis</yago:hasName>
+    <yago:hasName xml:lang="en">Nicolae Labiș</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naoko_Takeuchi">
     <yago:hasName xml:lang="en">Naoko Takeuchi</yago:hasName>
@@ -1051,6 +1067,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholasa_Mohr">
     <yago:hasName xml:lang="en">Nicholasa Mohr</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigel_Hamilton_%28author%29">
+    <yago:hasName xml:lang="en">Nigel Hamilton</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nairi_Zarian">
     <yago:hasName xml:lang="en">Nairi Zarian</yago:hasName>
   </rdf:Description>
@@ -1065,6 +1084,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_de_Nolhac">
     <yago:hasName xml:lang="en">Nolhac</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noam_Chomsky">
+    <yago:hasName xml:lang="en">Noam Chomsky</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Cunard">
     <yago:hasName xml:lang="en">Nancy Cunard</yago:hasName>
@@ -1095,9 +1117,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Narayana_Panditacharya">
     <yago:hasName xml:lang="en">Narayana Panditacharya</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Niyazi_Berkes">
-    <yago:hasName xml:lang="en">Niyazi Berkes</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Grace">
     <yago:hasName xml:lang="en">Nancy Grace</yago:hasName>
   </rdf:Description>
@@ -1112,6 +1131,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Foster_(director)">
     <yago:hasName xml:lang="en">Norman Foster</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Varian_Berberick">
+    <yago:hasName xml:lang="en">Nancy Varian Berberick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nayan_Chanda">
     <yago:hasName xml:lang="en">Nayan Chanda</yago:hasName>
@@ -1167,9 +1189,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Napoleon_Hill">
     <yago:hasName xml:lang="en">Napoleon Hill</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Neal_Henry_Gillespie">
-    <yago:hasName xml:lang="en">Neal Henry Gillespie</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._G._Chandavarkar">
     <yago:hasName xml:lang="en">N.G.Chandavarkar</yago:hasName>
     <yago:hasName xml:lang="en">Narayan Ganesh Chandavarkar</yago:hasName>
@@ -1200,9 +1219,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Cornick">
     <yago:hasName xml:lang="en">Nicola Cornick</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuo_Kojima">
-    <yago:hasName xml:lang="en">Nobuo Kojima</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nagata_Mikihiko">
     <yago:hasName xml:lang="en">Nagata Mikihiko</yago:hasName>
@@ -1283,6 +1299,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Niel_Wright">
     <yago:hasName xml:lang="en">Neil Wright</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_Leach">
+    <yago:hasName xml:lang="en">Neil Leach</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neill_Barry">
     <yago:hasName xml:lang="en">Neil Barry</yago:hasName>
     <yago:hasName xml:lang="en">Neill Barry</yago:hasName>
@@ -1293,11 +1312,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Kiriki_Hoffman">
     <yago:hasName xml:lang="en">Nina Kiriki Hoffman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Berberova">
-    <yago:hasName xml:lang="en">Nina Nikolayevna Berberova</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nils_Kj%C3%A6r">
     <yago:hasName xml:lang="en">Nils Kjaer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Rabin">
+    <yago:hasName xml:lang="en">Nathan Rabin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Berberova">
+    <yago:hasName xml:lang="en">Nina Nikolayevna Berberova</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nils_Carl_Aspenberg">
     <yago:hasName xml:lang="en">Nils Carl Aspenberg</yago:hasName>
@@ -1347,9 +1369,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norma_Farber">
     <yago:hasName xml:lang="en">Norma Farber</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Cannon">
-    <yago:hasName xml:lang="en">Nick Cannon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norma_Elia_Cant%C3%BA">
     <yago:hasName xml:lang="en">Norma Elia Cantu</yago:hasName>
   </rdf:Description>
@@ -1371,6 +1390,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_Castro_(journalist)">
     <yago:hasName xml:lang="en">Nelson Castro</yago:hasName>
     <yago:hasName xml:lang="en">Nelson Alberto Castro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noel_Streatfeild">
+    <yago:hasName xml:lang="en">Noel Streatfeild</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_L._Richardson">
     <yago:hasName xml:lang="en">Norman Lee Richardson</yago:hasName>
@@ -1518,9 +1540,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_A._Henry">
     <yago:hasName xml:lang="en">Nancy A. Henry</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Natasha_Radoj%C4%8Di%C4%87-Kane">
-    <yago:hasName xml:lang="en">Natasha Radojcic-Kane</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Regan">
     <yago:hasName xml:lang="en">Nancy Regan</yago:hasName>
   </rdf:Description>
@@ -1535,9 +1554,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nar-Dos">
     <yago:hasName xml:lang="en">Nar-Dos</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Narinder_Singh_Kapoor">
-    <yago:hasName xml:lang="en">Narinder Singh Kapoor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nanasaheb_Parulekar">
     <yago:hasName xml:lang="en">Nanasaheb Parulekar</yago:hasName>
@@ -1717,7 +1733,6 @@
     <yago:hasName xml:lang="en">National Sports</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nguyen_Ngoc_Tu">
-    <yago:hasName xml:lang="en">Nguyễn Ngọc Tư</yago:hasName>
     <yago:hasName xml:lang="en">Nguyen Ngoc Tu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nan_Fry">
@@ -1739,6 +1754,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Warren">
     <yago:hasName xml:lang="en">Nancy Warren</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Cabasilas">
+    <yago:hasName xml:lang="en">Nicholas Cabasilas</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norbert_Haug">
     <yago:hasName xml:lang="en">Norbert Haug</yago:hasName>
   </rdf:Description>
@@ -1759,6 +1777,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nan_C._Robertson">
     <yago:hasName xml:lang="en">Nan C. Robertson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Punin">
+    <yago:hasName xml:lang="en">Nikolay Nikolayevich Punin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Narcyza_%C5%BBmichowska">
     <yago:hasName xml:lang="en">Narcyza Żmichowska</yago:hasName>
@@ -1800,9 +1821,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Natalya_Estemirova">
     <yago:hasName xml:lang="en">Natalya Estemirova</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nils_Hasselskog">
-    <yago:hasName xml:lang="en">Nils Hasselskog</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Atherton">
     <yago:hasName xml:lang="en">Nancy Atherton</yago:hasName>
@@ -1873,9 +1891,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nanalal_Dalpatram_Kavi">
     <yago:hasName xml:lang="en">Nanalal Dalpatram Kavi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nawab_Muhammad_Ali_Beg">
-    <yago:hasName xml:lang="en">Nawab Muhammad Ali Beg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nezim_Frakulla">
     <yago:hasName xml:lang="en">Nezim Frakulla</yago:hasName>
   </rdf:Description>
@@ -1883,7 +1898,7 @@
     <yago:hasName xml:lang="en">Nawzad Jaadan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norma_K._Hemming">
-    <yago:hasName xml:lang="en">Norma Hemming</yago:hasName>
+    <yago:hasName xml:lang="en">Norma Kathleen Hemming</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._K._Jemisin">
     <yago:hasName xml:lang="en">N. K. Jemisin</yago:hasName>
@@ -1961,9 +1976,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nino_Ricci">
     <yago:hasName xml:lang="en">Nino Ricci</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Lande">
-    <yago:hasName xml:lang="en">Nathaniel Lande</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Nasrallah">
     <yago:hasName xml:lang="en">Nasrallah</yago:hasName>
@@ -2046,6 +2058,12 @@
     <yago:hasName xml:lang="en">Naji al- Ali</yago:hasName>
     <yago:hasName xml:lang="en">Naji al-Ali</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nora_Bossong">
+    <yago:hasName xml:lang="en">Nora Bossong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_G._Carr">
+    <yago:hasName xml:lang="en">Nicholas Carr</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuyuki_Tsujii">
     <yago:hasName xml:lang="en">Nobuyuki Tsujii</yago:hasName>
   </rdf:Description>
@@ -2100,6 +2118,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._S._Lakshminarayan_Bhat">
     <yago:hasName xml:lang="en">N. S. Lakshminarayan Bhat</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noureddine_Aba">
+    <yago:hasName xml:lang="en">Noureddine Aba</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._V._M._Gonzalez">
     <yago:hasName xml:lang="en">N. V. M. Gonzales</yago:hasName>
     <yago:hasName xml:lang="en">N. V. M. Gonzalez</yago:hasName>
@@ -2119,6 +2140,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nanette_Burstein">
     <yago:hasName xml:lang="en">Nanette Burstein</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikol_Hasler">
+    <yago:hasName xml:lang="en">Nikol Hasler</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Natsuki_Takaya">
     <yago:hasName xml:lang="en">Natsuki Takaya</yago:hasName>
@@ -2173,9 +2197,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Na._Muthukumar">
     <yago:hasName xml:lang="en">Na. Muthukumar</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Noburu_Katagami">
-    <yago:hasName xml:lang="en">Noburu Katagami</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Morej%C3%B3n">
     <yago:hasName xml:lang="en">Nancy Morejon</yago:hasName>
     <yago:hasName xml:lang="en">Nancy Morejón</yago:hasName>
@@ -2186,12 +2207,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Nicholson">
     <yago:hasName xml:lang="en">Norman Nicholson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nitya_Chaitanya_Yati">
-    <yago:hasName xml:lang="en">Nitya Chaitanya Yati</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ng%C3%B4_S%C4%A9_Li%C3%AAn">
     <yago:hasName xml:lang="en">Ngô Sĩ Liên</yago:hasName>
     <yago:hasName xml:lang="en">Ngo Si Lien</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nand_Dulare_Bajpai">
+    <yago:hasName xml:lang="en">Nand Dulare Bajpai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naresh_Mehta">
     <yago:hasName xml:lang="en">Naresh Mehta</yago:hasName>
@@ -2254,10 +2275,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Leskov">
     <yago:hasName xml:lang="en">Nikolai Leskov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Noe_Ito">
-    <yago:hasName xml:lang="en">Noe Itō</yago:hasName>
-    <yago:hasName xml:lang="en">Noe Ito</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Narendra_Mohan_(poet)">
     <yago:hasName xml:lang="en">Narendra Mohan</yago:hasName>
   </rdf:Description>
@@ -2297,9 +2314,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_Munro_(writer)">
     <yago:hasName xml:lang="en">Neil Munro</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Humphrey_(author)">
-    <yago:hasName xml:lang="en">Nicholas Humphrey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Johnson_%28writer%29">
     <yago:hasName xml:lang="en">Nathan Johnson</yago:hasName>
@@ -2364,9 +2378,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nirmal_Verma">
     <yago:hasName xml:lang="en">Nirmal Verma</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Noel_Ignatiev">
-    <yago:hasName xml:lang="en">Noel Ignatiev</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nanda_Lwin">
     <yago:hasName xml:lang="en">Nanda Lwin</yago:hasName>
@@ -2632,14 +2643,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Coltart">
     <yago:hasName xml:lang="en">Nina Coltart</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Naum">
+    <yago:hasName xml:lang="en">Naum</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Harding">
     <yago:hasName xml:lang="en">Norman Harding</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicole_D._Peeler">
     <yago:hasName xml:lang="en">Nicole D. Peeler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Clapp">
-    <yago:hasName xml:lang="en">Nicholas Clapp</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_DeMille">
     <yago:hasName xml:lang="en">Nelson Demille</yago:hasName>
@@ -2647,9 +2658,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Lee">
     <yago:hasName xml:lang="en">Nathaniel Lee</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Narendra_Prasad">
-    <yago:hasName xml:lang="en">Narendra Prasad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Natividad_Barroso">
     <yago:hasName xml:lang="en">Natividad Barroso</yago:hasName>
@@ -2661,11 +2669,11 @@
     <yago:hasName xml:lang="en">Nigel Balchin</yago:hasName>
     <yago:hasName xml:lang="en">Nigel Marlin Balchin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Neville_Garrick">
-    <yago:hasName xml:lang="en">Neville Garrick</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ninotchka_Rosca">
     <yago:hasName xml:lang="en">Ninotchka Rosca</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolai_Costenco">
+    <yago:hasName xml:lang="en">Nicolai Costenco</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Hicks_Maynard">
     <yago:hasName xml:lang="en">Nancy Hicks Maynard</yago:hasName>
@@ -2929,6 +2937,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolaes_Heinsius_the_Elder">
     <yago:hasName xml:lang="en">Nikolaes Heinsius</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nayden_Gerov">
+    <yago:hasName xml:lang="en">Nayden Gerov</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikita_Khrushchev_(journalist)">
     <yago:hasName xml:lang="en">Nikita Khrushchev</yago:hasName>
   </rdf:Description>
@@ -2987,9 +2998,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Pineda">
     <yago:hasName xml:lang="en">Nina Pineda</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Falacci">
-    <yago:hasName xml:lang="en">Nicolas Falacci</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nour%C3%A9ini_Tidjani-Serpos">
     <yago:hasName xml:lang="en">Noureini Tidjani-Serpos</yago:hasName>
   </rdf:Description>
@@ -3035,6 +3043,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Hisaya">
     <yago:hasName xml:lang="en">Naoki Hisaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Urasawa">
+    <yago:hasName xml:lang="en">Naoki Urasawa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Noellie_Marie_B%C3%A9atri_Damiba">
     <yago:hasName xml:lang="en">Noellie Damiba</yago:hasName>
@@ -3161,6 +3172,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Parker_Willis">
     <yago:hasName xml:lang="en">Nathaniel Parker Willis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nev_Fountain">
+    <yago:hasName xml:lang="en">Nev Fountain</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/N._M._Kelby">
     <yago:hasName xml:lang="en">N.M. Kelby</yago:hasName>
   </rdf:Description>
@@ -3223,6 +3237,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nijaz_Durakovi%C4%87">
     <yago:hasName xml:lang="en">Nijaz Durakovic</yago:hasName>
+    <yago:hasName xml:lang="en">Nijaz Duraković</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Fairbanks">
     <yago:hasName xml:lang="en">Nancy Fairbanks</yago:hasName>
@@ -3238,6 +3253,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Noel_Malcolm">
     <yago:hasName xml:lang="en">Noel Malcolm</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Finkelstein">
+    <yago:hasName xml:lang="en">Norman Finkelstein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nira_Arora">
     <yago:hasName xml:lang="en">Nira Arora</yago:hasName>
@@ -3314,6 +3332,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Narendranath_Mitra">
     <yago:hasName xml:lang="en">Narendranath Mitra</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Sharratt">
+    <yago:hasName xml:lang="en">Nick Sharratt</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Rosten">
     <yago:hasName xml:lang="en">Norman Rosten</yago:hasName>
   </rdf:Description>
@@ -3359,8 +3380,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_von_Hoffman">
     <yago:hasName xml:lang="en">Nicholas Von Hoffman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norah_Lange">
+    <yago:hasName xml:lang="en">Norah Lange</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Englander">
     <yago:hasName xml:lang="en">Nathan Englander</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nazir_Mansuri">
+    <yago:hasName xml:lang="en">Nazir Mansuri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Naki_Akarobettoe">
     <yago:hasName xml:lang="en">Naki Akrobettoe</yago:hasName>
@@ -3374,6 +3401,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nabil_Abou-Harb">
     <yago:hasName xml:lang="en">Nabil Abou-Harb</yago:hasName>
+    <yago:hasName xml:lang="en">Nabil Zouheir Abou-Harb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Blinko">
     <yago:hasName xml:lang="en">Nick Blinko</yago:hasName>
@@ -3481,8 +3509,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Oliver">
     <yago:hasName xml:lang="en">Nancy Oliver</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Teleshov">
-    <yago:hasName xml:lang="en">Nikolai Teleshov</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Naumov">
+    <yago:hasName xml:lang="en">Nikolai Naumov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Calas">
     <yago:hasName xml:lang="en">Nicolas Calas</yago:hasName>
@@ -3510,6 +3538,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nejime_Sh%C5%8Dichi">
     <yago:hasName xml:lang="en">Nejime Shōichi</yago:hasName>
+    <yago:hasName xml:lang="en">Nejime Shōichi ねじめ正一</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikola_Gigov">
     <yago:hasName xml:lang="en">Nikola Gigov</yago:hasName>
@@ -3585,6 +3614,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_de_Gunzburg">
     <yago:hasName xml:lang="en">Nicolas De Gunzburg</yago:hasName>
+    <yago:hasName xml:lang="en">Nicolas de Gunzburg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolaes_Heinsius_the_Younger">
     <yago:hasName xml:lang="en">Nikolaes Heinsius</yago:hasName>
@@ -3660,9 +3690,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Rich_(novelist)">
     <yago:hasName xml:lang="en">Nathaniel Rich</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Vakar">
-    <yago:hasName xml:lang="en">Nicholas Vakar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Virgilio">
     <yago:hasName xml:lang="en">Nick Virgilio</yago:hasName>
   </rdf:Description>
@@ -3682,6 +3709,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Rush">
     <yago:hasName xml:lang="en">Norman Rush</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Negar_Mottahedeh">
+    <yago:hasName xml:lang="en">Negar Mottahedeh</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nig%C3%A2r_Han%C4%B1m">
     <yago:hasName xml:lang="en">Nigar Hanim</yago:hasName>
     <yago:hasName xml:lang="en">Nigâr Hanım</yago:hasName>
@@ -3691,9 +3721,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nico_Naldini">
     <yago:hasName xml:lang="en">Nico Naldini</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Lear">
-    <yago:hasName xml:lang="en">Norman Lear</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Tosches">
     <yago:hasName xml:lang="en">Nick Tosches</yago:hasName>
@@ -3710,9 +3737,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_DeVries">
     <yago:hasName xml:lang="en">Nina Devries</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Lonsdorf">
-    <yago:hasName xml:lang="en">Nancy Lonsdorf</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nasir_Khusraw">
     <yago:hasName xml:lang="en">Nasir Khusraw</yago:hasName>
@@ -3736,14 +3760,14 @@
     <yago:hasName xml:lang="en">Neil Gaiman</yago:hasName>
     <yago:hasName xml:lang="en">Neil Richard Gaiman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Najat_El_Hachmi">
-    <yago:hasName xml:lang="en">Najat El Hachmi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ned_Shank">
     <yago:hasName xml:lang="en">Ned Shank</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nicole_Bourke">
     <yago:hasName xml:lang="en">Nicole Bourke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Austin">
+    <yago:hasName xml:lang="en">Nancy Austin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nerida_Newton">
     <yago:hasName xml:lang="en">Nerida Newton</yago:hasName>

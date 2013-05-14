@@ -20,9 +20,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Mandel_(poet)">
     <yago:hasName xml:lang="en">Tom Mandel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T._Sean_Shannon">
-    <yago:hasName xml:lang="en">T. Sean Shannon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Wainscott">
     <yago:hasName xml:lang="en">Tina Wainscott</yago:hasName>
   </rdf:Description>
@@ -76,12 +73,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Matsumoto_%28haiku_poet%29">
     <yago:hasName xml:lang="en">Takashi Matsumoto</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thanasis_Triaridis">
-    <yago:hasName xml:lang="en">Thanasis Triaridis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Therese_Park">
-    <yago:hasName xml:lang="en">Therese Park</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Torkel_Andreas_Tr%C3%B8nnes">
     <yago:hasName xml:lang="en">Torkel Andreas Troennes</yago:hasName>
@@ -151,6 +142,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Montagu,_1st_Earl_of_Halifax">
     <yago:hasName xml:lang="en">The Earl of Halifax</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thelma_Forshaw">
+    <yago:hasName xml:lang="en">Thelma Forshaw</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Chiang">
     <yago:hasName xml:lang="en">Ted Chiang</yago:hasName>
   </rdf:Description>
@@ -175,20 +169,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Liardet">
     <yago:hasName xml:lang="en">Tim Liardet</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wharton_(author)">
-    <yago:hasName xml:lang="en">Thomas Wharton</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Byfield">
     <yago:hasName xml:lang="en">Ted Byfield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wharton_(author)">
+    <yago:hasName xml:lang="en">Thomas Wharton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trevor_Lock">
     <yago:hasName xml:lang="en">Trevor Lock</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Bete">
-    <yago:hasName xml:lang="en">Tim Bete</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Barbash">
     <yago:hasName xml:lang="en">Tom Barbash</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_J._Stanley">
+    <yago:hasName xml:lang="en">Thomas Stanley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Salaamat_Ali_Dabeer">
     <yago:hasName xml:lang="en">thumb|Mirza dabeer</yago:hasName>
@@ -207,7 +201,7 @@
     <yago:hasName xml:lang="en">Trevor Payne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thanh_Hai">
-    <yago:hasName xml:lang="en">Thanh Hải</yago:hasName>
+    <yago:hasName xml:lang="en">Thanh Hai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Mann_(writer)">
     <yago:hasName xml:lang="en">Ted Mann</yago:hasName>
@@ -230,6 +224,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Deloney">
     <yago:hasName xml:lang="en">Thomas Deloney</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alejandro_Tapia_y_Rivera">
+    <yago:hasName xml:lang="en">Tapia y Rivera</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Warton">
     <yago:hasName xml:lang="en">Thomas Warton</yago:hasName>
   </rdf:Description>
@@ -241,9 +238,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuhiko_Shibusawa">
     <yago:hasName xml:lang="en">Tatsuhiko Shibusawa</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Minakami">
-    <yago:hasName xml:lang="en">Tsutomu Minakami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Hendra">
     <yago:hasName xml:lang="en">Tony Hendra</yago:hasName>
@@ -311,12 +305,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_L._O&apos;Brien">
     <yago:hasName xml:lang="en">Timothy L. Obrien</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tensei_Kono">
-    <yago:hasName xml:lang="en">Tensei Kono</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Teresa_de_la_Parra">
-    <yago:hasName xml:lang="en">Teresa de la Parra</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tor_Ulven">
     <yago:hasName xml:lang="en">Tor Ulven</yago:hasName>
   </rdf:Description>
@@ -329,12 +317,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Takis_Tsiakos">
     <yago:hasName xml:lang="en">Tsiakos Takis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tess_Gerritsen">
-    <yago:hasName xml:lang="en">Tess Gerritsen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamenaga_Shunsui">
-    <yago:hasName xml:lang="en">Tamenaga Shunsui</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Creed_Meredith">
     <yago:hasName xml:lang="en">The Ven. Ralph Creed Meredith; Rev. Canon R. Creed Meredith</yago:hasName>
@@ -491,6 +473,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_E._Sniegoski">
     <yago:hasName xml:lang="en">Thomas E. Sniegoski</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thad_Stem%2C_Jr.">
+    <yago:hasName xml:lang="en">Thaddeus Stem, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Tykwer">
     <yago:hasName xml:lang="en">Tom Tykwer</yago:hasName>
   </rdf:Description>
@@ -550,9 +535,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ture_Nerman">
     <yago:hasName xml:lang="en">Ture Nerman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Trish_Deseine">
-    <yago:hasName xml:lang="en">Trish Deseine</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tadeusz_R%C3%B3%C5%BCewicz">
     <yago:hasName xml:lang="en">Tadeusz Rozewicz</yago:hasName>
   </rdf:Description>
@@ -561,6 +543,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Ellwood">
     <yago:hasName xml:lang="en">Thomas Ellwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Joseph_Hutchinson">
+    <yago:hasName xml:lang="en">Thomas Joseph Hutchinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Dolby">
     <yago:hasName xml:lang="en">Tom Dolby</yago:hasName>
@@ -730,9 +715,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Cohan">
     <yago:hasName xml:lang="en">Tony Cohan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommie_Shelby">
-    <yago:hasName xml:lang="en">Tommie Shelby</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Takis_Michas">
     <yago:hasName xml:lang="en">Takis Michas</yago:hasName>
   </rdf:Description>
@@ -796,6 +778,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Calpin">
     <yago:hasName xml:lang="en">Timothy Calpin, Jr.</yago:hasName>
+    <yago:hasName xml:lang="en">Tim Calpin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Jones_(news_journalist)">
     <yago:hasName xml:lang="en">Tony Jones</yago:hasName>
@@ -811,9 +794,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Cassidy_(journalist)">
     <yago:hasName xml:lang="en">Tom Cassidy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuji_Takechi">
-    <yago:hasName xml:lang="en">Tetsuji Takechi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tapan_Kumar_Pradhan">
     <yago:hasName xml:lang="en">Tapan Kumar Pradhan</yago:hasName>
@@ -920,6 +900,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kratman">
     <yago:hasName xml:lang="en">Tom Kratman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tansy_Rayner_Roberts">
+    <yago:hasName xml:lang="en">Tansy Rayner Roberts</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toi_Derricotte">
     <yago:hasName xml:lang="en">Toi Derricotte</yago:hasName>
   </rdf:Description>
@@ -943,6 +926,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Robbins">
     <yago:hasName xml:lang="en">Tim Robbins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Bender">
+    <yago:hasName xml:lang="en">Tom Bender</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thevis_Guruge">
     <yago:hasName xml:lang="en">Thevis Guruge</yago:hasName>
@@ -1048,6 +1034,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tyler_Hamilton_(reporter)">
     <yago:hasName xml:lang="en">Tyler Hamilton</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trent_Leyshan">
+    <yago:hasName xml:lang="en">Trent Leyshan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Huff">
     <yago:hasName xml:lang="en">Thomas Elmer Huff</yago:hasName>
     <yago:hasName xml:lang="en">Tom E. Huff</yago:hasName>
@@ -1081,9 +1070,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Curzon_Price">
     <yago:hasName xml:lang="en">Tony Curzon Price</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Barsky">
-    <yago:hasName xml:lang="en">Tim Barsky</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thor_Vilhj%C3%A1lmsson">
     <yago:hasName xml:lang="en">Thor Vilhjalmsson</yago:hasName>
   </rdf:Description>
@@ -1096,11 +1082,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Happold">
     <yago:hasName xml:lang="en">Tom Happold</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tess_Mallos">
+    <yago:hasName xml:lang="en">Tess Mallos</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Taruho_Inagaki">
     <yago:hasName xml:lang="en">Taruho Inagaki</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tabish_Dehlvi">
     <yago:hasName xml:lang="en">Tabish Dehlvi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Barwick">
+    <yago:hasName xml:lang="en">Tony Barwick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Wiseau">
     <yago:hasName xml:lang="en">Tommy Wiseau</yago:hasName>
@@ -1113,6 +1105,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_McHale_(novelist_born_1902)">
     <yago:hasName xml:lang="en">Tom McHale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Huskey">
+    <yago:hasName xml:lang="en">Timothy Huskey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tanya_Davis">
     <yago:hasName xml:lang="en">Tanya Davis</yago:hasName>
@@ -1170,12 +1165,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Teja_Singh">
     <yago:hasName xml:lang="en">Teja Singh</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Egan">
-    <yago:hasName xml:lang="en">Timothy Egan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracey_Forbes">
-    <yago:hasName xml:lang="en">Tracey Forbes</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Tao_(19th_century)">
     <yago:hasName xml:lang="en">Tao Wang</yago:hasName>
   </rdf:Description>
@@ -1188,9 +1177,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Modise">
     <yago:hasName xml:lang="en">Tim Modise</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Teruo_Yajima">
-    <yago:hasName xml:lang="en">Teruo Yajima</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Tyler">
     <yago:hasName xml:lang="en">Tony Tyler</yago:hasName>
@@ -1206,6 +1192,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tracy_K._Smith">
     <yago:hasName xml:lang="en">Tracy K. Smith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Mason">
+    <yago:hasName xml:lang="en">Timothy Wright Mason</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Plester">
     <yago:hasName xml:lang="en">Tim Plester</yago:hasName>
@@ -1241,9 +1230,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toomas_Hendrik_Ilves">
     <yago:hasName xml:lang="en">Toomas Hendrik Ilves</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tor_Seidler">
-    <yago:hasName xml:lang="en">Tor Seidler</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tracie_Peterson">
     <yago:hasName xml:lang="en">Tracie Peterson</yago:hasName>
   </rdf:Description>
@@ -1277,9 +1263,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tessa_Rumsey">
     <yago:hasName xml:lang="en">Tessa Rumsey</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Robinson_(sportscaster)">
-    <yago:hasName xml:lang="en">Ted Robinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuz%C5%8D_Ishikawa">
     <yago:hasName xml:lang="en">Tatsuzo Ishikawa</yago:hasName>
@@ -1333,9 +1316,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shang_Ting">
     <yago:hasName xml:lang="en">Ting Shang</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Livy">
+    <yago:hasName xml:lang="en">Titus Livius Patavinus (Livy)</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thuraya_AlArrayed">
     <yago:hasName xml:lang="en">Thuraya Alarrayed</yago:hasName>
-    <yago:hasName xml:lang="en">Thuraya AlArrayed</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tapan_Bagchi">
     <yago:hasName xml:lang="en">Tapan Bagchi</yago:hasName>
@@ -1408,17 +1393,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Therese_von_L%C3%BCtzow">
     <yago:hasName xml:lang="en">Therese Von Lutzow</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Karlsson">
-    <yago:hasName xml:lang="en">Thomas Karlsson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Bilbow">
-    <yago:hasName xml:lang="en">Tony Bilbow</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Macdonald_(writer)">
     <yago:hasName xml:lang="en">Tom Macdonald</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Therese_Anne_Fowler">
-    <yago:hasName xml:lang="en">Therese Anne Fowler</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tukaram">
     <yago:hasName xml:lang="en">Tukaram</yago:hasName>
@@ -1454,9 +1430,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Lane_(journalist)">
     <yago:hasName xml:lang="en">Tim Lane</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Prem_Nath_Dar">
-    <yago:hasName xml:lang="en">thump|Prem Nath Dar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Medina">
     <yago:hasName xml:lang="en">Tony Medina</yago:hasName>
   </rdf:Description>
@@ -1472,9 +1445,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Friedman">
     <yago:hasName xml:lang="en">Thomas Friedman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Gilbert_(engineer)">
-    <yago:hasName xml:lang="en">Thomas F. Gilbert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Stephenson">
     <yago:hasName xml:lang="en">Tom Stephenson</yago:hasName>
@@ -1568,9 +1538,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Teodor_Keko">
     <yago:hasName xml:lang="en">Teodor Keko</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tino_Insana">
-    <yago:hasName xml:lang="en">Tino Insana</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trilussa">
     <yago:hasName xml:lang="en">Trilussa</yago:hasName>
   </rdf:Description>
@@ -1622,9 +1589,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Haynes_Bayly">
     <yago:hasName xml:lang="en">Thomas Haynes Bayly</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Taisha_Abelar">
-    <yago:hasName xml:lang="en">Taisha Abelar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoyoshi_Murayama">
     <yago:hasName xml:lang="en">Tomoyoshi Murayama</yago:hasName>
@@ -1702,9 +1666,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Robbins">
     <yago:hasName xml:lang="en">Tom Robbins</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Balakumaran">
-    <yago:hasName xml:lang="en">thumb|Balakumaran Writer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/TJ_Dawe">
     <yago:hasName xml:lang="en">Tj Dawe</yago:hasName>
   </rdf:Description>
@@ -1759,9 +1720,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thoppil_Bhasi">
     <yago:hasName xml:lang="en">Thoppil Bhasi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ting-Xing_Ye">
-    <yago:hasName xml:lang="en">Ting-Xing Ye</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Thurston">
     <yago:hasName xml:lang="en">Thurston</yago:hasName>
   </rdf:Description>
@@ -1771,8 +1729,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Emson">
     <yago:hasName xml:lang="en">Thomas Emson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Murphy_%28artist%29">
+    <yago:hasName xml:lang="en">Tom Murphy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theni._M._Subramani">
-    <yago:hasName xml:lang="en">Theni. M. Subramani</yago:hasName>
     <yago:hasName xml:lang="en">Theni. M. Subramani (Tamil: தேனி. மு. சுப்பிரமணி)</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_H._White">
@@ -1865,6 +1825,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/T%C3%A9a_Obreht">
     <yago:hasName xml:lang="en">Téa Obreht</yago:hasName>
     <yago:hasName xml:lang="en">Tea Obreht</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Pastor">
+    <yago:hasName xml:lang="en">Tony Pastor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Dekker">
     <yago:hasName xml:lang="en">Ted Dekker</yago:hasName>
@@ -2039,14 +2002,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Berrigan">
     <yago:hasName xml:lang="en">Ted Berrigan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Trevor_Miller">
-    <yago:hasName xml:lang="en">Trevor Miller</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tama_Janowitz">
     <yago:hasName xml:lang="en">Tama Janowitz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Harris_(journalist)">
     <yago:hasName xml:lang="en">Tony Harris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trinh_T._Minh-ha">
+    <yago:hasName xml:lang="en">Trinh T. Minh-ha</yago:hasName>
+    <yago:hasName xml:lang="en">T. Minh Ha Trinh</yago:hasName>
+    <yago:hasName xml:lang="en">Trịnh Thị Minh Hà</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_van_Aalten">
     <yago:hasName xml:lang="en">Thomas Van Aalten</yago:hasName>
@@ -2080,11 +2045,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toshio_Okada">
     <yago:hasName xml:lang="en">Toshio Okada</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Creech">
+    <yago:hasName xml:lang="en">Thomas Creech</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Tzu_Pheng">
     <yago:hasName xml:lang="en">Tzu Pheng Lee</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terryl_Givens">
-    <yago:hasName xml:lang="en">Terryl Givens</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Terence_Davies">
     <yago:hasName xml:lang="en">Terence Davies</yago:hasName>
@@ -2150,10 +2115,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Hagen">
     <yago:hasName xml:lang="en">Theodore Hagen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Watson_(golfer)">
-    <yago:hasName xml:lang="en">Tom Watson</yago:hasName>
-    <yago:hasName xml:lang="en">Thomas Sturges Watson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toby_Litt">
     <yago:hasName xml:lang="en">Toby Litt</yago:hasName>
   </rdf:Description>
@@ -2180,9 +2141,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tracey_Grebinski">
     <yago:hasName xml:lang="en">Tracey Grebinsky</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Dent_(writer)">
-    <yago:hasName xml:lang="en">Thomas Dent</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiya_Ueno">
     <yago:hasName xml:lang="en">Toshiya Ueno</yago:hasName>
@@ -2254,9 +2212,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Nashe">
     <yago:hasName xml:lang="en">Thomas Nashe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Lakeman">
-    <yago:hasName xml:lang="en">Thomas Lakeman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Rowland_Hughes">
     <yago:hasName xml:lang="en">Thomas Rowland Hughes</yago:hasName>
   </rdf:Description>
@@ -2326,9 +2281,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Temple_Bailey">
     <yago:hasName xml:lang="en">Temple Bailey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Spezialy">
-    <yago:hasName xml:lang="en">Tom Spezialy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Norton">
     <yago:hasName xml:lang="en">Thomas Norton</yago:hasName>
   </rdf:Description>
@@ -2368,9 +2320,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_Herzl">
     <yago:hasName xml:lang="en">Theodor Herzl</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Flettrich">
-    <yago:hasName xml:lang="en">Terry Flettrich</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thea_Dorn">
     <yago:hasName xml:lang="en">Thea Dorn</yago:hasName>
   </rdf:Description>
@@ -2384,9 +2333,6 @@
     <yago:hasName xml:lang="en">Thomas J. Dygard</yago:hasName>
     <yago:hasName xml:lang="en">Thomas J Dygard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Zahn">
-    <yago:hasName xml:lang="en">Timothy Zahn</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Troy_Little">
     <yago:hasName xml:lang="en">Troy Little</yago:hasName>
   </rdf:Description>
@@ -2395,9 +2341,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_McCarthy_(poet)">
     <yago:hasName xml:lang="en">Thomas McCarthy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Sullivan_(director)">
-    <yago:hasName xml:lang="en">Ted Sullivan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timur_Bekmambetov">
     <yago:hasName xml:lang="en">Timur Bekmambetov</yago:hasName>
@@ -2427,7 +2370,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tita_Kova%C4%8D_Artemis">
     <yago:hasName xml:lang="en">Tita Kovac Artemis</yago:hasName>
-    <yago:hasName xml:lang="en">Tita Kovač Artemis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kromer">
     <yago:hasName xml:lang="en">Tom Kromer</yago:hasName>
@@ -2462,9 +2404,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Tutili">
     <yago:hasName xml:lang="en">Tutili</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Takahashi">
-    <yago:hasName xml:lang="en">Tetsuya Takahashi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Dlugos">
     <yago:hasName xml:lang="en">Tim Dlugos</yago:hasName>
   </rdf:Description>
@@ -2487,6 +2426,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tori_Carrington">
     <yago:hasName xml:lang="en">Tori Carrington</yago:hasName>
     <yago:hasName xml:lang="en">Tony Karayianni &amp; Lori Schlachter Karayianni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_DiLorenzo">
+    <yago:hasName xml:lang="en">Thomas Dilorenzo</yago:hasName>
+    <yago:hasName xml:lang="en">Thomas DiLorenzo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Plunkett,_18th_Baron_of_Dunsany">
     <yago:hasName xml:lang="en">The Lord Dunsany</yago:hasName>
@@ -2564,6 +2507,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Bradley_(author)">
     <yago:hasName xml:lang="en">Tom Bradley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Alcock_(clergyman)">
+    <yago:hasName xml:lang="en">Thomas Alcock</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_D&apos;Souza">
     <yago:hasName xml:lang="en">Tony Dsouza</yago:hasName>
   </rdf:Description>
@@ -2595,6 +2541,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Evans_(journalist)">
     <yago:hasName xml:lang="en">Thomas Evans</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Agna">
+    <yago:hasName xml:lang="en">Tom Agna</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Todd_A._Fonseca">
     <yago:hasName xml:lang="en">Todd A. Fonseca</yago:hasName>
   </rdf:Description>
@@ -2612,9 +2561,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Noah">
     <yago:hasName xml:lang="en">Timothy Noah</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Timmy_Williams">
-    <yago:hasName xml:lang="en">Timmy Williams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toril_Moi">
     <yago:hasName xml:lang="en">Toril Moi</yago:hasName>
@@ -2676,9 +2622,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trevanian">
     <yago:hasName xml:lang="en">Trevanian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Gianas">
-    <yago:hasName xml:lang="en">Tom Gianas</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tanya_O&apos;Debra">
     <yago:hasName xml:lang="en">Tanya Michele Ritchie</yago:hasName>
   </rdf:Description>
@@ -2692,9 +2635,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Brooks_%28television_historian%29">
     <yago:hasName xml:lang="en">Tim Brooks</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenda_Madima">
-    <yago:hasName xml:lang="en">Tenda Madima</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrese_Gibson">
     <yago:hasName xml:lang="en">Tyrese Gibson</yago:hasName>
@@ -2717,6 +2657,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Murphy_(artist)">
     <yago:hasName xml:lang="en">Tom Murphy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lou_Tseng-Tsiang">
+    <yago:hasName xml:lang="en">Tseng-Tsiang Lou</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Weiss_(poet)">
     <yago:hasName xml:lang="en">Theodore Weiss</yago:hasName>
   </rdf:Description>
@@ -2732,6 +2675,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Ageh">
     <yago:hasName xml:lang="en">Tony Ageh</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_J._Anderson">
+    <yago:hasName xml:lang="en">Thomas J. Anderson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tevfik_Fikret">
     <yago:hasName xml:lang="en">Tevfik Fikret</yago:hasName>
   </rdf:Description>
@@ -2741,6 +2687,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trebor_Healey">
     <yago:hasName xml:lang="en">Trebor Healey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Talbot_Baines_Reed">
+    <yago:hasName xml:lang="en">Talbot Baines Reed</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_N_Phipps">
     <yago:hasName xml:lang="en">Terry N Phipps</yago:hasName>
   </rdf:Description>
@@ -2749,6 +2698,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_J._Flicker">
     <yago:hasName xml:lang="en">Theodore J. Flicker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Tinsley">
+    <yago:hasName xml:lang="en">Theodore Tinsley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Apollodorus">
     <yago:hasName xml:lang="en">Top Ground Gear Force</yago:hasName>
@@ -2787,6 +2739,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Southerne">
     <yago:hasName xml:lang="en">Thomas Southerne</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Chastain">
+    <yago:hasName xml:lang="en">Thomas Chastain</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_C._Lea,_III">
     <yago:hasName xml:lang="en">Thomas Calloway "Tom" Lea, III</yago:hasName>
   </rdf:Description>
@@ -2821,6 +2776,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Plantos">
     <yago:hasName xml:lang="en">Ted Plantos</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toussaint_Rose">
+    <yago:hasName xml:lang="en">Toussaint Rose</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_Jenkins">
     <yago:hasName xml:lang="en">The Lord Jenkins of Hillhead</yago:hasName>
   </rdf:Description>
@@ -2828,6 +2786,7 @@
     <yago:hasName xml:lang="en">Tim McKay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tsendiin_Damdins%C3%BCren">
+    <yago:hasName xml:lang="en">Tsendiin Damdinsüren</yago:hasName>
     <yago:hasName xml:lang="en">Tsendiin Damdinsuren</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Truth_Thomas">
@@ -2851,6 +2810,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Conran">
     <yago:hasName xml:lang="en">Tony Conran</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Tschohl">
+    <yago:hasName xml:lang="en">Tschohl John</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_White_(writer)">
     <yago:hasName xml:lang="en">Tony White</yago:hasName>
   </rdf:Description>
@@ -2860,8 +2822,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toby_Robins">
     <yago:hasName xml:lang="en">Toby Robins</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Rothstein">
+    <yago:hasName xml:lang="en">Theodore Rothstein</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shaun_Proulx">
     <yago:hasName xml:lang="en">The Shaun Proulx Show</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taha_Hussein">
+    <yago:hasName xml:lang="en">Taha Hussein ()</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tato_Laviera">
     <yago:hasName xml:lang="en">Tato Laviera</yago:hasName>
@@ -2931,6 +2899,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tamera_Alexander">
     <yago:hasName xml:lang="en">Tamera Alexander</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Daniel_%28science_fiction_writer%29">
+    <yago:hasName xml:lang="en">Tony Daniel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Scott_(poet)">
     <yago:hasName xml:lang="en">Tom Scott</yago:hasName>
   </rdf:Description>
@@ -2948,9 +2919,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_W._Hanshew">
     <yago:hasName xml:lang="en">Thomas W. Hanshew</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Powell_(writer)">
-    <yago:hasName xml:lang="en">Thomas Powell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Hughes">
     <yago:hasName xml:lang="en">Thomas Hughes</yago:hasName>
@@ -2980,6 +2948,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad_Sanchez,_Jr.">
     <yago:hasName xml:lang="en">Trinidad Sanchez, Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Burgess">
+    <yago:hasName xml:lang="en">Tony Burgess</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Preston_%28writer%29">
     <yago:hasName xml:lang="en">Thomas Preston</yago:hasName>
@@ -3054,7 +3025,6 @@
     <yago:hasName xml:lang="en">Thom Hartmann</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tone_Per%C4%8Di%C4%8D">
-    <yago:hasName xml:lang="en">Tone Percic</yago:hasName>
     <yago:hasName xml:lang="en">Tone Perčič</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tritia_Toyota">
@@ -3078,9 +3048,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Crouse">
     <yago:hasName xml:lang="en">Timothy Crouse</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Banks_Maclachlan">
-    <yago:hasName xml:lang="en">Thomas Banks Maclachlan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tamaz_Chiladze">
     <yago:hasName xml:lang="en">Tamaz Chiladze</yago:hasName>
   </rdf:Description>
@@ -3093,6 +3060,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Roethke">
     <yago:hasName xml:lang="en">Theodore Roethke</yago:hasName>
     <yago:hasName xml:lang="en">Theodore Huebner Roethke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Rothman">
+    <yago:hasName xml:lang="en">Tony Rothman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Terrell_(journalist)">
     <yago:hasName xml:lang="en">Tom Terrell</yago:hasName>
@@ -3158,6 +3128,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Eleni_Ourani">
     <yago:hasName xml:lang="en">Thrylos Alkis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tulio_Halper%C3%ADn_Donghi">
+    <yago:hasName xml:lang="en">Tulio Halperin Donghi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Taylor_Mead">
     <yago:hasName xml:lang="en">Taylor Mead</yago:hasName>
   </rdf:Description>
@@ -3166,6 +3139,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kristensen_(author)">
     <yago:hasName xml:lang="en">Tom Kristensen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theo_Colborn">
+    <yago:hasName xml:lang="en">Theo Colborn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Warburton">
+    <yago:hasName xml:lang="en">Thomas Warburton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tiziano_Scarpa">
     <yago:hasName xml:lang="en">Tiziano Scarpa</yago:hasName>
@@ -3256,9 +3235,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tayumanavar">
     <yago:hasName xml:lang="en">Tayumanavar</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tassie_Cameron">
-    <yago:hasName xml:lang="en">Tassie Cameron</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Kibble_Hervey">
     <yago:hasName xml:lang="en">Thomas Kibble Hervey</yago:hasName>
   </rdf:Description>
@@ -3300,7 +3276,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom%C3%A1s_Ant%C3%B3nio_Gonzaga">
     <yago:hasName xml:lang="en">Tomás Antônio Gonzaga</yago:hasName>
-    <yago:hasName xml:lang="en">Tomás António Gonzaga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadeusz_Lehr-Sp%C5%82awi%C5%84ski">
+    <yago:hasName xml:lang="en">Tadeusz Lehr-Spławiński</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Chikushi">
     <yago:hasName xml:lang="en">Tetsuya Chikushi</yago:hasName>
@@ -3322,7 +3300,6 @@
     <yago:hasName xml:lang="en">Tone Seliškar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred%2C_Lord_Tennyson">
-    <yago:hasName xml:lang="en">Tennyson, Alfred, 1st bardo yo Tennyson</yago:hasName>
     <yago:hasName xml:lang="en">The Right Honourable</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Taya_Zinkin">
@@ -3330,6 +3307,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Bradshaw_(poet)">
     <yago:hasName xml:lang="en">Thomas Bradshaw</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Sewall_Adams">
+    <yago:hasName xml:lang="en">Thomas Sewall Adams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Rosenstiel">
     <yago:hasName xml:lang="en">Tom Rosenstiel</yago:hasName>
@@ -3376,7 +3356,7 @@
     <yago:hasName xml:lang="en">Tim Green</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Arnold_%28literary_scholar%29">
-    <yago:hasName xml:lang="en">Tom Arnold</yago:hasName>
+    <yago:hasName xml:lang="en">Thomas ("Tom") Arnold</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Travis_Jeppesen">
     <yago:hasName xml:lang="en">Travis Jeppesen</yago:hasName>
@@ -3508,9 +3488,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoyo_Nonaka">
     <yago:hasName xml:lang="en">Tomoyo Nonaka</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Texe_Marrs">
-    <yago:hasName xml:lang="en">Texe Marrs</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Therese_Bentzon">
     <yago:hasName xml:lang="en">Therese Bentzon</yago:hasName>
   </rdf:Description>
@@ -3548,12 +3525,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Griffin_(playwright)">
     <yago:hasName xml:lang="en">Tom Griffin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_P._Kelley">
-    <yago:hasName xml:lang="en">Thomas P. Kelley</yago:hasName>
-    <yago:hasName xml:lang="en">Thomas Patrick Kelley</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Bathurst">
+    <yago:hasName xml:lang="en">Theodore Bathurst</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuneo_Watanabe">
     <yago:hasName xml:lang="en">Tsuneo Watanabe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_P._Kelley">
+    <yago:hasName xml:lang="en">Thomas P. Kelley</yago:hasName>
+    <yago:hasName xml:lang="en">Thomas Patrick Kelley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tokutomi_Soh%C5%8D">
     <yago:hasName xml:lang="en">Tokutomi Sohō</yago:hasName>
@@ -3561,17 +3541,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tlacuilolxochtzin">
     <yago:hasName xml:lang="en">Tlacuilolxochtzin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Fitzgerald_%28author%29">
+    <yago:hasName xml:lang="en">Tom Fitzgerald</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tadeusz_Gawin">
     <yago:hasName xml:lang="en">Tadeusz Gawin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giulia_Turco">
-    <yago:hasName xml:lang="en">Turco</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Fletcher">
     <yago:hasName xml:lang="en">Tony Fletcher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Garton_Ash">
     <yago:hasName xml:lang="en">Timothy Garton Ash</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tulika_Mehrotra">
+    <yago:hasName xml:lang="en">Tulika Mehrotra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_De_Haven">
     <yago:hasName xml:lang="en">Tom Dehaven</yago:hasName>
@@ -3614,8 +3597,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Holley_Chivers">
     <yago:hasName xml:lang="en">Thomas Holley Chivers</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/T._J._English">
-    <yago:hasName xml:lang="en">T. J. English</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Sankara">
+    <yago:hasName xml:lang="en">Thomas Sankara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Ascol">
     <yago:hasName xml:lang="en">Thomas Ascol</yago:hasName>
@@ -3642,6 +3625,7 @@
     <yago:hasName xml:lang="en">Thomas Wakley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Teresa_Tora%C5%84ska">
+    <yago:hasName xml:lang="en">Teresa Torańska</yago:hasName>
     <yago:hasName xml:lang="en">Teresa Toranska</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_James_Wise">
@@ -3703,9 +3687,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Moult">
     <yago:hasName xml:lang="en">Thomas Moult</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Federle">
-    <yago:hasName xml:lang="en">Tim Federle</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Preston_(writer)">
     <yago:hasName xml:lang="en">Thomas Preston</yago:hasName>
   </rdf:Description>
@@ -3737,12 +3718,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Jeal">
     <yago:hasName xml:lang="en">Tim Jeal</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Heald">
-    <yago:hasName xml:lang="en">Tim Heald</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tabitha_King">
     <yago:hasName xml:lang="en">Tabitha J. King</yago:hasName>
     <yago:hasName xml:lang="en">Tabitha King</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Heald">
+    <yago:hasName xml:lang="en">Tim Heald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Steele">
     <yago:hasName xml:lang="en">Timothy Steele</yago:hasName>
@@ -3850,6 +3831,9 @@
     <yago:hasName xml:lang="en">Tawfiq Hakim</yago:hasName>
     <yago:hasName xml:lang="en">Tawfīq el-Hakīm</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teuvo_Pakkala">
+    <yago:hasName xml:lang="en">Teuvo Pakkala</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Weaver">
     <yago:hasName xml:lang="en">Tina Weaver</yago:hasName>
   </rdf:Description>
@@ -3862,20 +3846,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Sturge_Moore">
     <yago:hasName xml:lang="en">Thomas Sturge Moore</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terence_Reese">
-    <yago:hasName xml:lang="en">Terence Reese</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J.M._Frey">
+    <yago:hasName xml:lang="en">thumb|JM Frey, Author</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Dobbs">
     <yago:hasName xml:lang="en">The Lord Dobbs</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Coward">
-    <yago:hasName xml:lang="en">Thomas Alfred Coward</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamas_Dobozy">
-    <yago:hasName xml:lang="en">Tamas Dobozy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Robinson">
     <yago:hasName xml:lang="en">Tony Robinson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Coward">
+    <yago:hasName xml:lang="en">Thomas Alfred Coward</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Touria_Oulehri">
     <yago:hasName xml:lang="en">Touria Oulehri</yago:hasName>
@@ -3915,9 +3896,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Wayman">
     <yago:hasName xml:lang="en">Tom Wayman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tor_Jonsson">
-    <yago:hasName xml:lang="en">Tor Jonsson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Tessier">
     <yago:hasName xml:lang="en">Thomas Tessier</yago:hasName>
@@ -3963,14 +3941,17 @@
     <yago:hasName xml:lang="en">Tony Ray Haynes</yago:hasName>
     <yago:hasName xml:lang="en">Tony Haynes</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tikhon_Rabotnov">
+    <yago:hasName xml:lang="en">Tikhon Rabotnov</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tachibana_Akemi">
     <yago:hasName xml:lang="en">Tachibana Akemi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasileios_Theodoridis">
-    <yago:hasName xml:lang="en">Theodoridis Vasileios</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tsujii_Takashi">
     <yago:hasName xml:lang="en">Tsujii Takashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasileios_Theodoridis">
+    <yago:hasName xml:lang="en">Theodoridis Vasileios</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Mayne_Reid">
     <yago:hasName xml:lang="en">Thomas Mayne Reid</yago:hasName>
@@ -3993,6 +3974,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Thorne">
     <yago:hasName xml:lang="en">Tim Thorne</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomislav_Volek">
+    <yago:hasName xml:lang="en">Tomislav Volek</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Torpaid_mac_Taicthech">
     <yago:hasName xml:lang="en">Torpaid Mac Taicthech</yago:hasName>
   </rdf:Description>
@@ -4001,9 +3985,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Terenci_Moix">
     <yago:hasName xml:lang="en">Terenci Moix</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Barnett_(pastor)">
-    <yago:hasName xml:lang="en">Tommy Barnett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Scoville">
     <yago:hasName xml:lang="en">Thomas Scoville</yago:hasName>
@@ -4066,10 +4047,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom%C3%A1s_%C3%93_Caiside">
     <yago:hasName xml:lang="en">Tomás Ó Caiside</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Weiskopf">
-    <yago:hasName xml:lang="en">Tom Weiskopf</yago:hasName>
-    <yago:hasName xml:lang="en">Thomas Daniel Weiskopf</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Winton">
     <yago:hasName xml:lang="en">Tim Winton</yago:hasName>
   </rdf:Description>
@@ -4084,6 +4061,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._P._Kailasam">
     <yago:hasName xml:lang="en">T. P. Kailasam</yago:hasName>
+    <yago:hasName xml:lang="en">T.P. Kailasam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tone_%C4%8Cufar">
     <yago:hasName xml:lang="en">Tone Čufar</yago:hasName>
@@ -4168,6 +4146,9 @@
     <yago:hasName xml:lang="en">Tom Hanlin</yago:hasName>
     <yago:hasName xml:lang="en">Tom Hamlin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Bass">
+    <yago:hasName xml:lang="en">Thomas Bass</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tennessee_Williams">
     <yago:hasName xml:lang="en">Tennessee Williams</yago:hasName>
   </rdf:Description>
@@ -4211,6 +4192,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._Llew_Jones">
     <yago:hasName xml:lang="en">T. Llew Jones</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Penny">
+    <yago:hasName xml:lang="en">Tim Penny</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Perry_(author)">
     <yago:hasName xml:lang="en">Thomas Perry</yago:hasName>
   </rdf:Description>
@@ -4244,9 +4228,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Hales_(dramatist)">
     <yago:hasName xml:lang="en">Thomas Hales</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiger_Woods">
-    <yago:hasName xml:lang="en">Tiger Woods</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Overbury">
     <yago:hasName xml:lang="en">Thomas Overbury</yago:hasName>
   </rdf:Description>
@@ -4258,9 +4239,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._V._Chandran">
     <yago:hasName xml:lang="en">T. V. Chandran</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Lewis_(writer)">
-    <yago:hasName xml:lang="en">Ted Lewis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Page_(music_critic)">
     <yago:hasName xml:lang="en">Tim Page</yago:hasName>
@@ -4283,14 +4261,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Taras_Protsyuk">
     <yago:hasName xml:lang="en">Taras Protsyuk</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Tianyi_%28writer%29">
-    <yago:hasName xml:lang="en">Tianyi Zhang</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Taijun_Takeda">
     <yago:hasName xml:lang="en">Taijun Takeda</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._Carmi">
     <yago:hasName xml:lang="en">T. Carmi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Corsellis">
+    <yago:hasName xml:lang="en">Timothy Corsellis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Kay">
     <yago:hasName xml:lang="en">Terry Kay</yago:hasName>
@@ -4315,6 +4293,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Ross">
     <yago:hasName xml:lang="en">Tony Ross</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyler_Whitesides">
+    <yago:hasName xml:lang="en">Tyler Whitesides</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tone_Brulin">
     <yago:hasName xml:lang="en">Tone Brulin</yago:hasName>
@@ -4411,6 +4392,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_St._John">
     <yago:hasName xml:lang="en">Tina St. John</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Fey">
+    <yago:hasName xml:lang="en">Tina Fey</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Urquhart">
     <yago:hasName xml:lang="en">Thomas Urquhart</yago:hasName>
   </rdf:Description>
@@ -4453,9 +4437,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Todd_James_Pierce">
     <yago:hasName xml:lang="en">Todd James Pierce</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Mooney">
-    <yago:hasName xml:lang="en">Ted Mooney</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Asher">
     <yago:hasName xml:lang="en">Tony Asher</yago:hasName>
   </rdf:Description>
@@ -4471,6 +4452,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thorbj%C3%B8rn_Egner">
     <yago:hasName xml:lang="en">Thorbjørn Egner</yago:hasName>
     <yago:hasName xml:lang="en">Thorbjoern Egner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Bisson">
+    <yago:hasName xml:lang="en">Terry Bisson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Teresia_Teaiwa">
     <yago:hasName xml:lang="en">Teresia Teaiwa</yago:hasName>
@@ -4533,6 +4517,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Butcher">
     <yago:hasName xml:lang="en">Tim Butcher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuija_Lehtinen">
+    <yago:hasName xml:lang="en">Tuija Lehtinen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Harris">
     <yago:hasName xml:lang="en">Thomas Harris</yago:hasName>
@@ -4603,12 +4590,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dianne_Hayter,_Baroness_Hayter_of_Kentish_Town">
     <yago:hasName xml:lang="en">The Baroness Hayter of Kentish Town</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Vinson">
-    <yago:hasName xml:lang="en">Tony Vinson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Trevor_Moore">
-    <yago:hasName xml:lang="en">Trevor Moore</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_Hertzka">
     <yago:hasName xml:lang="en">Theodor Hertzka</yago:hasName>
   </rdf:Description>
@@ -4617,9 +4598,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tavis_Smiley">
     <yago:hasName xml:lang="en">Tavis Smiley</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Castle">
-    <yago:hasName xml:lang="en">Terry Castle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Beale">
     <yago:hasName xml:lang="en">Theodore Beale</yago:hasName>
@@ -4643,9 +4621,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_MacInnes">
     <yago:hasName xml:lang="en">Tom Macinnes</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Williams_%28writer%29">
-    <yago:hasName xml:lang="en">Thomas Williams</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Malory">
     <yago:hasName xml:lang="en">Thomas Malory</yago:hasName>
   </rdf:Description>
@@ -4654,9 +4629,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Th%C3%A9odore_de_Banville">
     <yago:hasName xml:lang="en">Theodore De Banville</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tam%C3%A1s_Sipos">
-    <yago:hasName xml:lang="en">Tamas Sipos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._M._Chidambara_Ragunathan">
     <yago:hasName xml:lang="en">T. M. Chidambara Ragunathan</yago:hasName>
@@ -4699,12 +4671,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Barnes_(journalist)">
     <yago:hasName xml:lang="en">Thomas Barnes</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Schiller">
-    <yago:hasName xml:lang="en">Tom Schiller</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracy_Wolfson">
-    <yago:hasName xml:lang="en">Tracy Wolfson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Haining_Gillespie">
     <yago:hasName xml:lang="en">Tom Gillespie</yago:hasName>
@@ -4770,6 +4736,10 @@
     <yago:hasName xml:lang="en">Taufik Ismail</yago:hasName>
     <yago:hasName xml:lang="en">Taufiq Ismail</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Stoen">
+    <yago:hasName xml:lang="en">Timothy Stoen</yago:hasName>
+    <yago:hasName xml:lang="en">Timothy Oliver Stoen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Holme">
     <yago:hasName xml:lang="en">Timothy Holme</yago:hasName>
   </rdf:Description>
@@ -4806,6 +4776,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tess_Fragoulis">
     <yago:hasName xml:lang="en">Tess Fragoulis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Girdlestone">
+    <yago:hasName xml:lang="en">Thomas Girdlestone</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_MacDonagh">
     <yago:hasName xml:lang="en">Thomas Macdonagh</yago:hasName>
     <yago:hasName xml:lang="en">Thomas MacDonagh</yago:hasName>
@@ -4838,15 +4811,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/T._S._Kerrigan">
     <yago:hasName xml:lang="en">T. S. Kerrigan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Ferraro">
-    <yago:hasName xml:lang="en">Thomas J. Ferraro</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Claughton_(bishop)">
     <yago:hasName xml:lang="en">Thomas Claughton</yago:hasName>
     <yago:hasName xml:lang="en">Thomas Legh Claughton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Berger_%28novelist%29">
-    <yago:hasName xml:lang="en">Thomas Berger</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tayari_Jones">
     <yago:hasName xml:lang="en">Tayari Jones</yago:hasName>
@@ -4898,9 +4865,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dianne_Hayter%2C_Baroness_Hayter_of_Kentish_Town">
     <yago:hasName xml:lang="en">The Baroness Hayter of Kentish Town</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tillie_Olsen">
-    <yago:hasName xml:lang="en">Tillie Olsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tias_Mortigjija">
     <yago:hasName xml:lang="en">Tias Mortigjija</yago:hasName>
@@ -5005,18 +4969,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tan_Tarn_How">
     <yago:hasName xml:lang="en">Tarn How Tan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thikkodiyan">
-    <yago:hasName xml:lang="en">Thikkodiyan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_Creizenach">
-    <yago:hasName xml:lang="en">Theodor Creizenach</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tristan_Corbi%C3%A8re">
     <yago:hasName xml:lang="en">Tristan Corbière</yago:hasName>
     <yago:hasName xml:lang="en">Tristan Corbiere</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshio_Shimao">
-    <yago:hasName xml:lang="en">Toshio Shimao</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_Creizenach">
+    <yago:hasName xml:lang="en">Theodor Creizenach</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_Plievier">
     <yago:hasName xml:lang="en">Theodor Plievier</yago:hasName>
@@ -5030,9 +4988,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wesley_Weeks,_III">
     <yago:hasName xml:lang="en">Thomas Wesley Weeks III</yago:hasName>
     <yago:hasName xml:lang="en">Thomas Wesley 3 Weeks</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracey_Corderoy">
-    <yago:hasName xml:lang="en">Tracey Corderoy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Kohnstamm">
     <yago:hasName xml:lang="en">Thomas Kohnstamm</yago:hasName>
@@ -5051,9 +5006,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Tin-lam">
     <yago:hasName xml:lang="en">Tin-Lam Wong</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Forsthoefel">
-    <yago:hasName xml:lang="en">Thomas Forsthoefel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trace_Gallagher">
     <yago:hasName xml:lang="en">Trace Gallagher</yago:hasName>
@@ -5075,6 +5027,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Terje_Stigen">
     <yago:hasName xml:lang="en">Terje Stigen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kallistos_Ware">
+    <yago:hasName xml:lang="en">Timothy Ware</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Dixon%2C_Jr.">
     <yago:hasName xml:lang="en">Thomas F. Dixon Jr.</yago:hasName>
@@ -5140,9 +5095,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tracie_Morris">
     <yago:hasName xml:lang="en">Tracie Morris</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiffany_Thayer">
-    <yago:hasName xml:lang="en">Tiffany Thayer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Toni_Gilbert">
     <yago:hasName xml:lang="en">Toni Gilbert</yago:hasName>
   </rdf:Description>
@@ -5197,6 +5149,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_M._Disch">
     <yago:hasName xml:lang="en">Thomas Disch</yago:hasName>
+    <yago:hasName xml:lang="en">Thomas M. Disch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tamar_Yellin">
     <yago:hasName xml:lang="en">Tamar Yellin</yago:hasName>
@@ -5249,9 +5202,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tove_Nilsen">
     <yago:hasName xml:lang="en">Tove Nilsen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshihiko_Izutsu">
-    <yago:hasName xml:lang="en">Toshihiko Izutsu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tudor_Jenks">
     <yago:hasName xml:lang="en">Tudor Jenks</yago:hasName>
   </rdf:Description>
@@ -5266,9 +5216,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Lux">
     <yago:hasName xml:lang="en">Thomas Lux</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonya_Hurley">
-    <yago:hasName xml:lang="en">Tonya Hurley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Holt">
     <yago:hasName xml:lang="en">Tom Holt</yago:hasName>
@@ -5310,6 +5257,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Trevor_Shane">
     <yago:hasName xml:lang="en">Trevor Shane</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiegan_Schmid">
+    <yago:hasName xml:lang="en">Tiegan Margaret Schmid</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_O&apos;Neill_(journalist)">
     <yago:hasName xml:lang="en">Thomas Oneill</yago:hasName>
   </rdf:Description>
@@ -5333,6 +5283,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Brook">
     <yago:hasName xml:lang="en">Timothy James Brook</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Siegel">
+    <yago:hasName xml:lang="en">thumb|Stanley Siegel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Lewin">
     <yago:hasName xml:lang="en">Ted Lewin</yago:hasName>
@@ -5383,9 +5336,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Horwitz">
     <yago:hasName xml:lang="en">Tony Horwitz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsushi_Suwa">
-    <yago:hasName xml:lang="en">Tetsushi Suwa</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tracy_Price-Thompson">
     <yago:hasName xml:lang="en">Tracy Price-Thompson</yago:hasName>
   </rdf:Description>
@@ -5397,6 +5347,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Kitano">
     <yago:hasName xml:lang="en">Takeshi Kitano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Spaulding">
+    <yago:hasName xml:lang="en">Tommy Spaulding</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Theodoros_Roussopoulos">
     <yago:hasName xml:lang="en">Theodoros Roussopoulos</yago:hasName>
