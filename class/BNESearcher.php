@@ -109,8 +109,9 @@ class BNESearcher extends Searcher {
             {
                 ?author <'.BNESearcher::OWL_SAMEAS.'>  <'.$authorID.'> .
                 ?author <'.$this->_isCreatorPersonOf.'> ?book.
-                ?book <'.$this->_hasTitleOfWork.'> ?title.
-                ?author <'.BNESearcher::OWL_SAMEAS.'>  ?sameAs . 
+                ?book <'.$this->_hasTitleOfWork.'> ?title. 
+                ?author <'.BNESearcher::OWL_SAMEAS.'> ?sameAs.
+                FILTER(regex(?sameAs, "viaf","i"))
             }';
         return $queryString;
     }
@@ -120,8 +121,7 @@ class BNESearcher extends Searcher {
             SELECT DISTINCT ?sameAs
             WHERE 
             {
-                ?author <'.BNESearcher::OWL_SAMEAS.'>  <'.$authorID.'> .
-                ?author <'.BNESearcher::OWL_SAMEAS.'>  ?sameAs . 
+                <'.$authorID.'> <'.BNESearcher::OWL_SAMEAS.'>  ?sameAs . 
             }';
         return $queryString;
     }

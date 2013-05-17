@@ -17,9 +17,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Davis_(storyteller)">
     <yago:hasName xml:lang="en">Donald Davis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Morley_%28poet%29">
-    <yago:hasName xml:lang="en">David Morley</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Antrim">
     <yago:hasName xml:lang="en">Donald Antrim</yago:hasName>
   </rdf:Description>
@@ -28,6 +25,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Limerick">
     <yago:hasName xml:lang="en">Doug Limerick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_S._Broder">
+    <yago:hasName xml:lang="en">David S. Broder</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deputy_Nazir_Ahmad_Dehlvi">
     <yago:hasName xml:lang="en">Deputy Nazir Ahmad</yago:hasName>
@@ -133,8 +133,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Glover">
     <yago:hasName xml:lang="en">Denis James Matthews Glover</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/D._Babu_Paul">
-    <yago:hasName xml:lang="en">Daniel Babu Paul</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Moran_%28author%29">
+    <yago:hasName xml:lang="en">Doug Moran</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denman_Thompson">
     <yago:hasName xml:lang="en">Denman Thompson</yago:hasName>
@@ -193,9 +193,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daliyah_Herts">
     <yago:hasName xml:lang="en">Daliyah Herts</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Nemec">
-    <yago:hasName xml:lang="en">David Nemec</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_M._Bader">
     <yago:hasName xml:lang="en">David M. Bader</yago:hasName>
@@ -256,6 +253,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Billany">
     <yago:hasName xml:lang="en">Dan Billany</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Rothkopf">
+    <yago:hasName xml:lang="en">David Rothkopf</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_M._Hunt">
     <yago:hasName xml:lang="en">Dr. Johnny Hunt</yago:hasName>
   </rdf:Description>
@@ -313,9 +313,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Josef_Bach">
     <yago:hasName xml:lang="en">David Josef Bach</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Leonhardt">
-    <yago:hasName xml:lang="en">David Leonhardt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Setterfield">
     <yago:hasName xml:lang="en">Diane Setterfield</yago:hasName>
@@ -404,6 +401,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Brewster_(journalist)">
     <yago:hasName xml:lang="en">David Clark Brewster</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Faunce">
+    <yago:hasName xml:lang="en">Daniel Faunce</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Mallet_(writer)">
     <yago:hasName xml:lang="en">David Mallet</yago:hasName>
   </rdf:Description>
@@ -419,27 +419,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Tibet">
     <yago:hasName xml:lang="en">David Tibet</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derenik_Demirchian">
-    <yago:hasName xml:lang="en">Derenik Demirchian</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Overbye">
     <yago:hasName xml:lang="en">Dennis Overbye</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Vodennikov">
     <yago:hasName xml:lang="en">Dmitry Vodennikov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kemper_(writer)">
-    <yago:hasName xml:lang="en">David Kemper</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deanna_Raybourn">
     <yago:hasName xml:lang="en">Deanna Raybourn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/D._V._Narasa_Raju">
-    <yago:hasName xml:lang="en">D. V. Narasa Raju</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Berman_%28graphic_designer%29">
     <yago:hasName xml:lang="en">David B. Berman</yago:hasName>
-    <yago:hasName xml:lang="en">David Berman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Berry_(author)">
     <yago:hasName xml:lang="en">Don Berry</yago:hasName>
@@ -545,6 +535,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Miller_(poet)">
     <yago:hasName xml:lang="en">David Miller</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Durnyam_Mashurova">
+    <yago:hasName xml:lang="en">Durnyam Mashurova</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deema_Shehabi">
     <yago:hasName xml:lang="en">Deema Shehabi</yago:hasName>
   </rdf:Description>
@@ -568,9 +561,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Osborne_Hamilton">
     <yago:hasName xml:lang="en">David Osborne Hamilton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Naylor">
-    <yago:hasName xml:lang="en">Doug Naylor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Augustin_Caban%C3%A8s">
     <yago:hasName xml:lang="en">Dr. Augustin Cabanès</yago:hasName>
@@ -598,13 +588,10 @@
     <yago:hasName xml:lang="en">Don Share</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Paton_(ophthalmologist)">
-    <yago:hasName xml:lang="en">David Paton</yago:hasName>
+    <yago:hasName xml:lang="en">David Paton, MD</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Chikuhwa">
     <yago:hasName xml:lang="en">Dr. Jacob W. Chikuhwa</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Decius_Wadsworth">
-    <yago:hasName xml:lang="en">Decius Wadsworth</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Pawson">
     <yago:hasName xml:lang="en">David Pawson</yago:hasName>
@@ -651,6 +638,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Woolf">
     <yago:hasName xml:lang="en">Douglas Woolf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Webb_%28writer%29">
+    <yago:hasName xml:lang="en">Don Webb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothea_Celesia">
     <yago:hasName xml:lang="en">Dorothea Celesia</yago:hasName>
@@ -703,8 +693,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%A9cio_Pignatari">
     <yago:hasName xml:lang="en">Décio Pignatari</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Bassingthwaite">
-    <yago:hasName xml:lang="en">Don Bassingthwaite</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_I._Robertson%2C_Jr.">
+    <yago:hasName xml:lang="en">Dr. James I. Robertson, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Vi%C3%B1as">
     <yago:hasName xml:lang="en">David Viñas</yago:hasName>
@@ -798,9 +788,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Des_Taylor">
     <yago:hasName xml:lang="en">Des Taylor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Laan">
-    <yago:hasName xml:lang="en">Dick Laan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Golden">
     <yago:hasName xml:lang="en">Danvel Golden</yago:hasName>
   </rdf:Description>
@@ -861,8 +848,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Gessner">
     <yago:hasName xml:lang="en">David Gessner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Swajeski">
+    <yago:hasName xml:lang="en">Donna Swajeski</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Burroughs">
     <yago:hasName xml:lang="en">Diane Burroughs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Seaborn">
+    <yago:hasName xml:lang="en">Dan Seaborn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diwan_Singh">
     <yago:hasName xml:lang="en">Diwan Singh</yago:hasName>
@@ -918,9 +911,6 @@
     <yago:hasName xml:lang="en">Dusan Vasiljev</yago:hasName>
     <yago:hasName xml:lang="en">Dušan Vasiljev</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Cassidy">
-    <yago:hasName xml:lang="en">Daniel Cassidy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Younis_Butt">
     <yago:hasName xml:lang="en">Dr Muhammad Younis Butt</yago:hasName>
     <yago:hasName xml:lang="en">Dr. Muhammad Younis Butt</yago:hasName>
@@ -933,9 +923,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_B._Feinberg">
     <yago:hasName xml:lang="en">David B. Feinberg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Damon_Wayans,_Jr.">
-    <yago:hasName xml:lang="en">Damon Wayans, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Desanka_Maksimovi%C4%87">
     <yago:hasName xml:lang="en">Desanka Maksimovic</yago:hasName>
@@ -961,6 +948,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_P._Berenberg">
     <yago:hasName xml:lang="en">David P. Berenberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_George_(Baptist)">
+    <yago:hasName xml:lang="en">David George</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donovan_Webster">
     <yago:hasName xml:lang="en">Donovan Webster</yago:hasName>
@@ -1073,9 +1063,6 @@
     <yago:hasName xml:lang="en">Dave Barry</yago:hasName>
     <yago:hasName xml:lang="en">David "Dave" Barry</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Thibodaux">
-    <yago:hasName xml:lang="en">David Glenn Thibodaux</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Astle">
     <yago:hasName xml:lang="en">David Astle</yago:hasName>
   </rdf:Description>
@@ -1097,9 +1084,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Willoughby_Gooding">
     <yago:hasName xml:lang="en">David Willoughby Gooding</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Edgar_%28playwright%29">
-    <yago:hasName xml:lang="en">David Edgar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandre_Dumas">
     <yago:hasName xml:lang="en">Dumas, Alexandre, pére</yago:hasName>
   </rdf:Description>
@@ -1109,11 +1093,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dora_Sigerson_Shorter">
     <yago:hasName xml:lang="en">Dora Sigerson Shorter</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_F._Gordon">
-    <yago:hasName xml:lang="en">David F. Gordon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Finkel">
     <yago:hasName xml:lang="en">Donald Finkel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Brog">
+    <yago:hasName xml:lang="en">David Brog</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Martin_(poet)">
     <yago:hasName xml:lang="en">David Martin</yago:hasName>
@@ -1257,9 +1241,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Abraham_(author)">
     <yago:hasName xml:lang="en">Daniel Abraham</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Strejc-Vetterus">
-    <yago:hasName xml:lang="en">Daniel Strejc</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%90ivo_%C5%A0i%C5%A1kov_Gunduli%C4%87">
     <yago:hasName xml:lang="en">Djivo Siskov Gundulic</yago:hasName>
   </rdf:Description>
@@ -1314,11 +1295,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/D._M._Thomas">
     <yago:hasName xml:lang="en">D. M. Thomas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Shoup">
-    <yago:hasName xml:lang="en">Donald Shoup</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Rabinowitz">
     <yago:hasName xml:lang="en">Dorothy Rabinowitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_F._Dodge">
+    <yago:hasName xml:lang="en">David F Dodge</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dolarrai_Mankad">
     <yago:hasName xml:lang="en">Dolarrai Mankad</yago:hasName>
@@ -1427,12 +1408,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Morrissey">
     <yago:hasName xml:lang="en">Donna Morrissey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Pratt">
-    <yago:hasName xml:lang="en">Deborah Pratt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Binder">
-    <yago:hasName xml:lang="en">David Binder</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_McPherson_%28photographer%29">
     <yago:hasName xml:lang="en">Donald McPherson</yago:hasName>
     <yago:hasName xml:lang="en">Donald McPherson Fashion Photographer</yago:hasName>
@@ -1442,6 +1417,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_H._Rosenthal">
     <yago:hasName xml:lang="en">David H. Rosenthal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumatheendra_R_Nadig">
+    <yago:hasName xml:lang="en">Dr. Sumatheendra R Nadig</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorianne_Laux">
     <yago:hasName xml:lang="en">Dorianne Laux</yago:hasName>
@@ -1507,6 +1485,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Ward_(reporter)">
     <yago:hasName xml:lang="en">Davíd Henry Ward</yago:hasName>
     <yago:hasName xml:lang="en">Dave Ward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Morgan-Mar">
+    <yago:hasName xml:lang="en">David Morgan-Mar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Gershten">
     <yago:hasName xml:lang="en">Donna Gershten</yago:hasName>
@@ -1576,6 +1557,9 @@
     <yago:hasName xml:lang="en">Don Miller</yago:hasName>
     <yago:hasName xml:lang="en">Donald Miller</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D._Harlan_Wilson">
+    <yago:hasName xml:lang="en">D. Harlan Wilson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Gillmor">
     <yago:hasName xml:lang="en">Dan Gillmor</yago:hasName>
   </rdf:Description>
@@ -1612,9 +1596,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Samper_Pizano">
     <yago:hasName xml:lang="en">Daniel Samper Pizano</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Denez_Prigent">
-    <yago:hasName xml:lang="en">Denez Prigent</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Heiney">
     <yago:hasName xml:lang="en">Donald Heiney</yago:hasName>
@@ -1683,9 +1664,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_McGregor">
     <yago:hasName xml:lang="en">Don McGregor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Shapiro_%28poet%29">
-    <yago:hasName xml:lang="en">David Shapiro</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Abraham_%28author%29">
     <yago:hasName xml:lang="en">Daniel Abraham</yago:hasName>
   </rdf:Description>
@@ -1695,8 +1673,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Glover_(writer)">
     <yago:hasName xml:lang="en">Douglas Glover</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Wong_%28writer%29">
-    <yago:hasName xml:lang="en">David Wong</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Smith_(professor)">
+    <yago:hasName xml:lang="en">Dr. Daniel Smith</yago:hasName>
+    <yago:hasName xml:lang="en">Daniel Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dino_Campana">
     <yago:hasName xml:lang="en">Dino Campana</yago:hasName>
@@ -1704,6 +1683,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Derry_O&apos;Sullivan">
     <yago:hasName xml:lang="en">Derry O'Sullivan</yago:hasName>
     <yago:hasName xml:lang="en">Derry Osullivan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Mills_(editor)">
+    <yago:hasName xml:lang="en">David Mills</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Coldsmith">
     <yago:hasName xml:lang="en">Don Coldsmith</yago:hasName>
@@ -1758,6 +1740,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_A._Whitaker">
     <yago:hasName xml:lang="en">David A. Whitaker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Hagberg">
+    <yago:hasName xml:lang="en">David Hagberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Joy_Corey">
     <yago:hasName xml:lang="en">Deborah Joy Corey</yago:hasName>
@@ -1831,6 +1816,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Lessmann">
     <yago:hasName xml:lang="en">Daniel Lessmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_McKenna_%28writer%29">
+    <yago:hasName xml:lang="en">David McKenna</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_DeQuille">
     <yago:hasName xml:lang="en">Dan Dequille</yago:hasName>
@@ -2020,6 +2008,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Chaon">
     <yago:hasName xml:lang="en">Dan Chaon</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darren_Rowse">
+    <yago:hasName xml:lang="en">Darren Rowse</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_J._Marlowe">
     <yago:hasName xml:lang="en">Dan J Marlowe</yago:hasName>
   </rdf:Description>
@@ -2028,6 +2019,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dare_Wright">
     <yago:hasName xml:lang="en">Dare Wright</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Eaton_Carr">
+    <yago:hasName xml:lang="en">Donald Eaton Carr</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denise_Deegan">
     <yago:hasName xml:lang="en">Denise Deegan</yago:hasName>
@@ -2153,7 +2147,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Domingos_Ol%C3%ADmpio">
     <yago:hasName xml:lang="en">Domingos Olímpio</yago:hasName>
-    <yago:hasName xml:lang="en">Domingos Olimpio</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Jewett">
     <yago:hasName xml:lang="en">Dan Jewett</yago:hasName>
@@ -2166,9 +2159,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Moberg_(journalist)">
     <yago:hasName xml:lang="en">David Moberg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Aykroyd">
-    <yago:hasName xml:lang="en">Daniel Edward Aykroyd</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dana_Carleton_Munro">
     <yago:hasName xml:lang="en">Dana Carleton Munro</yago:hasName>
@@ -2230,6 +2220,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Burliuk">
     <yago:hasName xml:lang="en">David Burliuk</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Bakke">
+    <yago:hasName xml:lang="en">Dennis W. Bakke</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Blum">
     <yago:hasName xml:lang="en">Deborah Blum</yago:hasName>
   </rdf:Description>
@@ -2254,14 +2247,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Helwig">
     <yago:hasName xml:lang="en">David Helwig</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Dickenson">
-    <yago:hasName xml:lang="en">Donna Dickenson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jacqueline_Wilson">
     <yago:hasName xml:lang="en">Dame Jacqueline Wilson DBE, FRSL</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Goldhagen">
-    <yago:hasName xml:lang="en">Daniel Jonah Goldhagen</yago:hasName>
+    <yago:hasName xml:lang="en">Daniel Goldhagen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dina_Posada">
     <yago:hasName xml:lang="en">Dina Posada</yago:hasName>
@@ -2348,9 +2338,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Johnson">
     <yago:hasName xml:lang="en">Diane Johnson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deirdre_Barrett">
-    <yago:hasName xml:lang="en">Deirdre Barrett</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Devulapalli_Krishnasastri">
     <yago:hasName xml:lang="en">Devulapalli Venkata Krishnasastri</yago:hasName>
   </rdf:Description>
@@ -2380,9 +2367,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Duck-soo_Kim">
     <yago:hasName xml:lang="en">Duck-Soo Kim</yago:hasName>
     <yago:hasName xml:lang="en">Duck-soo Kim</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Wesson_(actor)">
-    <yago:hasName xml:lang="en">Dick Wesson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daisy_Bates_(Australia)">
     <yago:hasName xml:lang="en">Daisy Bates</yago:hasName>
@@ -2424,6 +2408,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Margolick">
     <yago:hasName xml:lang="en">David Margolick</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Lorrah">
+    <yago:hasName xml:lang="en">Dr. Jean Lorrah</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Schneider_(writer)">
     <yago:hasName xml:lang="en">Dan Schneider</yago:hasName>
   </rdf:Description>
@@ -2451,6 +2438,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Francisco_(television_host)">
     <yago:hasName xml:lang="en">Don Francisco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Fern%C3%A1ndez_Rivera">
+    <yago:hasName xml:lang="en">David Fernandez Rivera</yago:hasName>
+    <yago:hasName xml:lang="en">David Fernández Rivera</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cracknell">
     <yago:hasName xml:lang="en">David Cracknell</yago:hasName>
@@ -2526,9 +2517,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Morgan_(writer)">
     <yago:hasName xml:lang="en">Diana Morgan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cross">
-    <yago:hasName xml:lang="en">David Cross</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Pitts">
     <yago:hasName xml:lang="en">Denis Pitts</yago:hasName>
@@ -2682,6 +2670,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Du%C5%A1an_Radovi%C4%87">
     <yago:hasName xml:lang="en">Dusan Radovic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Morris">
+    <yago:hasName xml:lang="en">Dick Morris</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dao_Duy_Tu">
     <yago:hasName xml:lang="en">Dao Duy Tu</yago:hasName>
   </rdf:Description>
@@ -2752,6 +2743,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Davies_(Dai&apos;r_Cantwr)">
     <yago:hasName xml:lang="en">David Davies</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolores_Claman">
+    <yago:hasName xml:lang="en">Dolores Claman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dixon_Lanier_Merritt">
     <yago:hasName xml:lang="en">Dixon Lanier Merritt</yago:hasName>
   </rdf:Description>
@@ -2791,9 +2785,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dexter_Filkins">
     <yago:hasName xml:lang="en">Dexter Filkins</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Novello">
-    <yago:hasName xml:lang="en">Don Novello</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Wojtowicz">
     <yago:hasName xml:lang="en">Douglas P. Wojtowicz</yago:hasName>
@@ -2867,6 +2858,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Revsine">
     <yago:hasName xml:lang="en">Dave Revsine</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darrell_C._Richardson">
+    <yago:hasName xml:lang="en">Darrell C. Richardson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Gutman">
     <yago:hasName xml:lang="en">Dan Gutman</yago:hasName>
   </rdf:Description>
@@ -2895,6 +2889,9 @@
     <yago:hasName xml:lang="en">Dzevad Karahasan</yago:hasName>
     <yago:hasName xml:lang="en">Dževad Karahasan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Andrews_%28author%29">
+    <yago:hasName xml:lang="en">Donna Andrews</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dimitrios_Mpogris">
     <yago:hasName xml:lang="en">Dimitrios Mpogris</yago:hasName>
   </rdf:Description>
@@ -2903,6 +2900,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/D.K._Issar">
     <yago:hasName xml:lang="en">Dyushant Kumar Issar</yago:hasName>
+    <yago:hasName xml:lang="en">D. K. Issar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Sidney-Fryer">
     <yago:hasName xml:lang="en">Donald Sidney-Fryer</yago:hasName>
@@ -3124,15 +3122,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Brinkley">
     <yago:hasName xml:lang="en">Douglas Brinkley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Frederick_Demartini">
+    <yago:hasName xml:lang="en">Dr John Demartini</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Duane">
     <yago:hasName xml:lang="en">Diane Elizabeth Duane</yago:hasName>
     <yago:hasName xml:lang="en">Diane Duane</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dahvi_Waller">
     <yago:hasName xml:lang="en">Dahvi Waller</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Rowland">
-    <yago:hasName xml:lang="en">Diana Rowland</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Duong_Thu_Huong">
     <yago:hasName xml:lang="en">Dương Thu Hương</yago:hasName>
@@ -3146,9 +3144,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Zingler">
     <yago:hasName xml:lang="en">David Zingler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Goldstein">
-    <yago:hasName xml:lang="en">Doug Goldstein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Kleiner">
     <yago:hasName xml:lang="en">Dick Kleiner</yago:hasName>
@@ -3168,9 +3163,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Primrose">
     <yago:hasName xml:lang="en">Diana Primrose</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Fitzgerald_%28author%29">
-    <yago:hasName xml:lang="en">David Fitzgerald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Davydov">
     <yago:hasName xml:lang="en">Denis Davydov</yago:hasName>
@@ -3271,8 +3263,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Street">
     <yago:hasName xml:lang="en">Daniel Street</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Shenk">
-    <yago:hasName xml:lang="en">David Shenk</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Vernon_(writer)">
+    <yago:hasName xml:lang="en">David Vernon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lyndsay">
     <yago:hasName xml:lang="en">David Lyndsay</yago:hasName>
@@ -3285,6 +3277,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Goodman_Croly">
     <yago:hasName xml:lang="en">David Goodman Croly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Harrwitz">
+    <yago:hasName xml:lang="en">Daniel Harrwitz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Saeed_Hajjarian">
     <yago:hasName xml:lang="en">Dr. Saeed Hajjarian</yago:hasName>
@@ -3329,6 +3324,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dillon_Burroughs">
     <yago:hasName xml:lang="en">Dillon Burroughs</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Healy_(psychiatrist)">
+    <yago:hasName xml:lang="en">David Healy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Levien">
     <yago:hasName xml:lang="en">David Levien</yago:hasName>
   </rdf:Description>
@@ -3343,9 +3341,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Frankel">
     <yago:hasName xml:lang="en">Dave Frankel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_O%27Brien_%28businessman%29">
-    <yago:hasName xml:lang="en">Daniel O'Brien</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deb_Caletti">
     <yago:hasName xml:lang="en">Deb Caletti</yago:hasName>
@@ -3370,15 +3365,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Debra_Doyle">
     <yago:hasName xml:lang="en">Dr. Debra Doyle</yago:hasName>
+    <yago:hasName xml:lang="en">Debra Doyle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dhan_Gopal_Mukerji">
     <yago:hasName xml:lang="en">Dhan Gopal Mukerji</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniela_Gioseffi">
     <yago:hasName xml:lang="en">Daniela Gioseffi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Reynolds_(cartoonist)">
-    <yago:hasName xml:lang="en">Dan Reynolds</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dattatraya_Ganesh_Godse">
     <yago:hasName xml:lang="en">D. G. Godse</yago:hasName>
@@ -3639,13 +3632,14 @@
     <yago:hasName xml:lang="en">Daren King</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dilip_P._Gaonkar">
+    <yago:hasName xml:lang="en">Dilip Parameshwar Gaonkar</yago:hasName>
     <yago:hasName xml:lang="en">Dilip P. Gaonkar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Spector">
     <yago:hasName xml:lang="en">Dave Spector</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Schaap">
-    <yago:hasName xml:lang="en">Dick Schaap</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sivaramakrishnan_Murali">
+    <yago:hasName xml:lang="en">Dr. Sivaramakrishnan Murali</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kahn_(writer)">
     <yago:hasName xml:lang="en">David Kahn</yago:hasName>
@@ -3656,11 +3650,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doris_Gunnarsson">
     <yago:hasName xml:lang="en">Doris Gunnarsson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Allen_(author)">
+    <yago:hasName xml:lang="en">David Allen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Greig_(dramatist)">
     <yago:hasName xml:lang="en">David Greig</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dovid_Katz">
-    <yago:hasName xml:lang="en">Dovid Katz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Rennie_(columnist)">
     <yago:hasName xml:lang="en">David Rennie</yago:hasName>
@@ -3701,11 +3695,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dini_Petty">
     <yago:hasName xml:lang="en">Dini Petty</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Palau">
+    <yago:hasName xml:lang="en">Doug Palau</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Roberts">
     <yago:hasName xml:lang="en">Deborah Roberts</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dekker_Dreyer">
     <yago:hasName xml:lang="en">Dekker Dreyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Piggott">
+    <yago:hasName xml:lang="en">Derek Piggott</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Darren_Dutchyshen">
     <yago:hasName xml:lang="en">Darren Dutchyshen</yago:hasName>
@@ -3752,9 +3752,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Carley">
     <yago:hasName xml:lang="en">Dave Carley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Santos_Olson">
-    <yago:hasName xml:lang="en">Derek Santos Olson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Roderick">
     <yago:hasName xml:lang="en">David Roderick</yago:hasName>
   </rdf:Description>
@@ -3794,14 +3791,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Auld">
     <yago:hasName xml:lang="en">Doug Auld</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Osler">
-    <yago:hasName xml:lang="en">David Osler</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Lee_%28author%29">
     <yago:hasName xml:lang="en">Don Lee</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Reynolds_%28cartoonist%29">
-    <yago:hasName xml:lang="en">Dan Reynolds</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Osler">
+    <yago:hasName xml:lang="en">David Osler</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Connolly">
     <yago:hasName xml:lang="en">Derek Connolly</yago:hasName>
@@ -3838,9 +3832,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Saunders">
     <yago:hasName xml:lang="en">Doug Saunders</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Patrick">
-    <yago:hasName xml:lang="en">David Patrick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Pescovitz">
     <yago:hasName xml:lang="en">David Pescovitz</yago:hasName>
@@ -3895,9 +3886,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denene_Millner">
     <yago:hasName xml:lang="en">Denene Millner</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Reveles">
-    <yago:hasName xml:lang="en">Daniel Reveles</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Darin_Strauss">
     <yago:hasName xml:lang="en">Darin Strauss</yago:hasName>
   </rdf:Description>
@@ -3915,9 +3903,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Thomas_(Dewi_Hefin)">
     <yago:hasName xml:lang="en">David Thomas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Robbins_(artist)">
-    <yago:hasName xml:lang="en">David Robbins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Cain_(author)">
     <yago:hasName xml:lang="en">David Thomas</yago:hasName>
@@ -3949,6 +3934,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daisy_Al-Amir">
     <yago:hasName xml:lang="en">Daisy Al Amir</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Everett_Just">
+    <yago:hasName xml:lang="en">Dr. Ernest Everett Just</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Winslow">
     <yago:hasName xml:lang="en">Don Winslow</yago:hasName>
   </rdf:Description>
@@ -3973,6 +3961,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lazarus">
     <yago:hasName xml:lang="en">dsa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_L._Pulver">
+    <yago:hasName xml:lang="en">David L. Pulver</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Avaliani">
     <yago:hasName xml:lang="en">Dmitry Avaliani</yago:hasName>
@@ -4031,11 +4022,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Docherty">
     <yago:hasName xml:lang="en">David Docherty</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Willis_%28author%29">
+    <yago:hasName xml:lang="en">Dan Willis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Scott_(historian)">
     <yago:hasName xml:lang="en">Dick Scott</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Drake_Sather">
-    <yago:hasName xml:lang="en">Drake Sather</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Wells_%28author%29">
     <yago:hasName xml:lang="en">Dan Wells</yago:hasName>
@@ -4105,6 +4096,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dinko_Ranjina">
     <yago:hasName xml:lang="en">Dinko Ranjina</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kahn_%28writer%29">
+    <yago:hasName xml:lang="en">David Kahn</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Graffe_Van_Doren">
     <yago:hasName xml:lang="en">Dorothy Graffe Van Doren</yago:hasName>
   </rdf:Description>
@@ -4122,9 +4116,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Morgan_%28writer%29">
     <yago:hasName xml:lang="en">Dan Morgan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Richardson_(writer)">
-    <yago:hasName xml:lang="en">David Richardson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Williams_(journalist)">
     <yago:hasName xml:lang="en">David Williams</yago:hasName>
@@ -4229,6 +4220,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Zippel">
     <yago:hasName xml:lang="en">David Zippel</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Schmidt_%28author%29">
+    <yago:hasName xml:lang="en">Dennis Schmidt</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_McDaniel">
     <yago:hasName xml:lang="en">David McDaniel</yago:hasName>
   </rdf:Description>
@@ -4258,9 +4252,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Pearson">
     <yago:hasName xml:lang="en">Diane Margaret Pearson McClelland</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Smick">
-    <yago:hasName xml:lang="en">David Smick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Brown_(radio_host)">
     <yago:hasName xml:lang="en">David Brown</yago:hasName>
@@ -4307,9 +4298,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donato_Sacerdote">
     <yago:hasName xml:lang="en">Donato Sacerdote</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Darren_Star">
-    <yago:hasName xml:lang="en">Darren Star</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ellis_(clergyman)">
     <yago:hasName xml:lang="en">David Ellis</yago:hasName>
   </rdf:Description>
@@ -4326,7 +4314,6 @@
     <yago:hasName xml:lang="en">Diego Jimenez de Enciso</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dobrica_Eri%C4%87">
-    <yago:hasName xml:lang="en">Dobrica Eric</yago:hasName>
     <yago:hasName xml:lang="en">Dobrica Erić</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Rolleston_Gwynn">
@@ -4360,6 +4347,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Bradbury_(filmmaker)">
     <yago:hasName xml:lang="en">David Bradbury</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dionisiy_Divniy">
+    <yago:hasName xml:lang="en">Dionisiy Divniy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Benham">
     <yago:hasName xml:lang="en">Donald Benham</yago:hasName>
   </rdf:Description>
@@ -4372,9 +4362,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Trevor">
     <yago:hasName xml:lang="en">Douglas Trevor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_A._McGowan">
-    <yago:hasName xml:lang="en">Daniel A. McGowan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Lindholm">
     <yago:hasName xml:lang="en">Dave Lindholm</yago:hasName>
@@ -4467,9 +4454,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Macfarlane">
     <yago:hasName xml:lang="en">David Macfarlane</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_Smith_(writer)">
-    <yago:hasName xml:lang="en">Danny Smith</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doric_Germain">
     <yago:hasName xml:lang="en">Doric Germain</yago:hasName>
   </rdf:Description>
@@ -4481,9 +4465,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_A._Vise">
     <yago:hasName xml:lang="en">David Vise</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Bingle">
-    <yago:hasName xml:lang="en">Don Bingle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Date_Munehiro">
     <yago:hasName xml:lang="en">Date Munehiro</yago:hasName>
@@ -4604,9 +4585,6 @@
     <yago:hasName xml:lang="en">Dimitrije Obradovic</yago:hasName>
     <yago:hasName xml:lang="en">Dositej Obradović</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_J._Schwartz">
-    <yago:hasName xml:lang="en">David J. Schwartz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Carney">
     <yago:hasName xml:lang="en">Daniel Carney</yago:hasName>
   </rdf:Description>
@@ -4625,15 +4603,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dai_Qing">
     <yago:hasName xml:lang="en">Dai Qing</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Mouradian">
-    <yago:hasName xml:lang="en">David Mouradian</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Gerson">
-    <yago:hasName xml:lang="en">Dan Gerson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Macinnis_Gill">
     <yago:hasName xml:lang="en">David Macinnis Gill</yago:hasName>
-    <yago:hasName xml:lang="en">David Gill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Clegg">
     <yago:hasName xml:lang="en">Douglas Clegg</yago:hasName>
@@ -4697,9 +4668,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daphne_Marlatt">
     <yago:hasName xml:lang="en">Daphne Marlatt</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_Gaines">
-    <yago:hasName xml:lang="en">Donna Gaines</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Whyte_III">
     <yago:hasName xml:lang="en">Daniel Whyte III</yago:hasName>
   </rdf:Description>
@@ -4714,6 +4682,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Baker_(poet)">
     <yago:hasName xml:lang="en">David Baker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Debbie_Schlussel">
+    <yago:hasName xml:lang="en">Debbie Schlussel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Rankin_Barbee">
     <yago:hasName xml:lang="en">David Rankin Barbee</yago:hasName>
@@ -4769,6 +4740,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daedalus_Howell">
     <yago:hasName xml:lang="en">Daedalus Howell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darryl_Pinckney">
+    <yago:hasName xml:lang="en">Darryl Pinckney</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doni_Tamblyn">
     <yago:hasName xml:lang="en">Doni Tamblyn</yago:hasName>
   </rdf:Description>
@@ -4817,9 +4791,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_King_(author)">
     <yago:hasName xml:lang="en">Danny King</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Crews">
-    <yago:hasName xml:lang="en">Donald Crews</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ives">
     <yago:hasName xml:lang="en">David Ives</yago:hasName>
   </rdf:Description>
@@ -4835,11 +4806,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Gorchakov">
     <yago:hasName xml:lang="en">Dmitry Petrovich Gorchakov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Della_Reese">
+    <yago:hasName xml:lang="en">Della Reese</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Satter">
     <yago:hasName xml:lang="en">David Satter</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Peckinpah">
-    <yago:hasName xml:lang="en">David Peckinpah</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Gresham">
     <yago:hasName xml:lang="en">Douglas Gresham</yago:hasName>
@@ -4895,9 +4866,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Edwards_(Welsh_novelist)">
     <yago:hasName xml:lang="en">Dorothy Edwards</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Brelis">
-    <yago:hasName xml:lang="en">Dean Brelis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dianne_Warren">
     <yago:hasName xml:lang="en">Dianne Warren</yago:hasName>
   </rdf:Description>
@@ -4926,9 +4894,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Davide_Cali">
     <yago:hasName xml:lang="en">Davide Cali</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Denise_Fleming">
-    <yago:hasName xml:lang="en">Denise Fleming</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Debin">
     <yago:hasName xml:lang="en">David Debin</yago:hasName>
   </rdf:Description>
@@ -4952,9 +4917,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dewi_Havhesp">
     <yago:hasName xml:lang="en">Dewi Havhesp</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Hicks_(sportscaster)">
-    <yago:hasName xml:lang="en">Dan Hicks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Tomblin">
     <yago:hasName xml:lang="en">David Tomblin</yago:hasName>
@@ -5041,6 +5003,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Horspool">
     <yago:hasName xml:lang="en">David Horspool</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dianne_Wolfer">
+    <yago:hasName xml:lang="en">Dianne Wolfer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Desmond_Bagley">
     <yago:hasName xml:lang="en">Desmond Bagley</yago:hasName>
   </rdf:Description>
@@ -5118,11 +5083,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Bridges">
     <yago:hasName xml:lang="en">Dorothy Bridges</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Hoenigman">
+    <yago:hasName xml:lang="en">David Hoenigman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dra%C5%BEen_Pr%C4%87i%C4%87">
     <yago:hasName xml:lang="en">Drazen Prcic</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Simon">
     <yago:hasName xml:lang="en">David Simon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_McGonigal">
+    <yago:hasName xml:lang="en">David McGonigal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Duane_Swierczynski">
     <yago:hasName xml:lang="en">Duane Swierczynski</yago:hasName>
@@ -5154,12 +5125,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Kraiselburd">
     <yago:hasName xml:lang="en">David Kraiselburd</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Andre_Dubus_III">
-    <yago:hasName xml:lang="en">Dubus, Andre, III</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Joy_LeVine">
-    <yago:hasName xml:lang="en">Deborah Joy Levine</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Diamond">
     <yago:hasName xml:lang="en">Diana Diamond</yago:hasName>
   </rdf:Description>
@@ -5172,8 +5137,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Dobkin_(director)">
     <yago:hasName xml:lang="en">David Dobkin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Turnbull_%28game_designer%29">
-    <yago:hasName xml:lang="en">Don Turnbull</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Crosthwait">
+    <yago:hasName xml:lang="en">David Crosthwait</yago:hasName>
+    <yago:hasName xml:lang="en">David N. Crosthwait, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Maloney_%28author%29">
     <yago:hasName xml:lang="en">Don Maloney</yago:hasName>
@@ -5223,6 +5189,7 @@
     <yago:hasName xml:lang="en">Douglas Hofstadter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Adam_z_Veleslav%C3%ADna">
+    <yago:hasName xml:lang="en">Daniel Adam z Veleslavína</yago:hasName>
     <yago:hasName xml:lang="en">Daniel Z Veleslavina Adam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Dunn">
@@ -5233,6 +5200,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_P_Reiter">
     <yago:hasName xml:lang="en">David P Reiter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_Morrison_%28Irish_republican%29">
+    <yago:hasName xml:lang="en">Danny Morrison</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Smiedt">
     <yago:hasName xml:lang="en">David Michael Smiedt</yago:hasName>
@@ -5284,6 +5254,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Musgrave">
     <yago:hasName xml:lang="en">David Musgrave</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Boaz">
+    <yago:hasName xml:lang="en">David Boaz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dana_King">
     <yago:hasName xml:lang="en">Dana King</yago:hasName>
@@ -5350,9 +5323,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/D&apos;Arcy_Power">
     <yago:hasName xml:lang="en">Darcy Power</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Kopelman">
-    <yago:hasName xml:lang="en">Dan Kopelman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Gregory_(BBC)">
     <yago:hasName xml:lang="en">David Gregory</yago:hasName>
   </rdf:Description>
@@ -5396,6 +5366,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donna_J._Stone">
     <yago:hasName xml:lang="en">Donna J. Stone</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dinesh_D&apos;Souza">
+    <yago:hasName xml:lang="en">Dinesh D'Souza</yago:hasName>
+    <yago:hasName xml:lang="en">Dinesh Dsouza</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Starkey">
     <yago:hasName xml:lang="en">David Starkey</yago:hasName>
   </rdf:Description>
@@ -5417,9 +5391,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Turner_Ward">
     <yago:hasName xml:lang="en">Douglas Turner Ward</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dwight_Yates">
-    <yago:hasName xml:lang="en">Dwight Yates</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diamela_Eltit">
     <yago:hasName xml:lang="en">Diamela Eltit</yago:hasName>
   </rdf:Description>
@@ -5431,10 +5402,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Grimm_(playwright)">
     <yago:hasName xml:lang="en">David Grimm</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_E._Winter">
-    <yago:hasName xml:lang="en">Douglas E. Winter</yago:hasName>
-    <yago:hasName xml:lang="en">Douglas Winter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Davie">
     <yago:hasName xml:lang="en">Donald Davie</yago:hasName>
@@ -5455,6 +5422,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniil_Mordovtsev">
     <yago:hasName xml:lang="en">Daniil Mordovtsev</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Katz_(writer)">
+    <yago:hasName xml:lang="en">Daniel Katz</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dominic_Behan">
     <yago:hasName xml:lang="en">Doiminic Ó Beacháin</yago:hasName>
     <yago:hasName xml:lang="en">Dominic Behan</yago:hasName>
@@ -5471,6 +5441,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dzmitry_Zavadski">
     <yago:hasName xml:lang="en">Dmitry Zavadsky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Tacey">
+    <yago:hasName xml:lang="en">David Tacey</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doris_Langley_Moore">
     <yago:hasName xml:lang="en">Doris Langley Moore</yago:hasName>
   </rdf:Description>
@@ -5482,9 +5455,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ushery">
     <yago:hasName xml:lang="en">David Ushery</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Rozgonyi">
-    <yago:hasName xml:lang="en">David Rozgonyi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Hall">
     <yago:hasName xml:lang="en">Donald Hall</yago:hasName>
@@ -5546,6 +5516,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dustin_Lance_Black">
     <yago:hasName xml:lang="en">Dustin Lance Black</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Taylor">
+    <yago:hasName xml:lang="en">Derek Taylor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Driek_van_Wissen">
     <yago:hasName xml:lang="en">Driek van Wissen</yago:hasName>
@@ -5665,11 +5638,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donnchadh_MacRath">
     <yago:hasName xml:lang="en">Donnchadh Macrath</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Micka">
+    <yago:hasName xml:lang="en">Daniel Micka</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_King_Dunaway">
     <yago:hasName xml:lang="en">David King Dunaway</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Burke_(author)">
-    <yago:hasName xml:lang="en">David Burke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Abu-Jaber">
     <yago:hasName xml:lang="en">Diana Abu-Jaber</yago:hasName>
@@ -5686,6 +5659,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Petersen_(comics)">
     <yago:hasName xml:lang="en">David Petersen</yago:hasName>
     <yago:hasName xml:lang="en">David E. Petersen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Briody">
+    <yago:hasName xml:lang="en">Dan Briody</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Wakefield_Smith">
     <yago:hasName xml:lang="en">Daniel Wakefield Smith</yago:hasName>
@@ -5745,9 +5721,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Bavly">
     <yago:hasName xml:lang="en">Dan Bavly</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Ellin">
-    <yago:hasName xml:lang="en">Doug Ellin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dror_Elimelech">
     <yago:hasName xml:lang="en">Dror Elimelech</yago:hasName>
   </rdf:Description>
@@ -5766,11 +5739,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniele_Martinelli_(journalist)">
     <yago:hasName xml:lang="en">Daniele Martinelli</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Juslenius">
+    <yago:hasName xml:lang="en">Daniel Juslenius</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Derrick_C._Brown">
     <yago:hasName xml:lang="en">Derrick C. Brown</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Margot_Arce_de_V%C3%A1zquez">
-    <yago:hasName xml:lang="en">Dr. Margot Arce de Vázquez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Russell_(cartoonist)">
     <yago:hasName xml:lang="en">Dan Russell</yago:hasName>
@@ -5804,6 +5777,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_G%C3%B3mez_Rinaldi">
     <yago:hasName xml:lang="en">Daniel Gomez Rinaldi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Nobbs">
+    <yago:hasName xml:lang="en">David Nobbs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dari_Alexander">
     <yago:hasName xml:lang="en">Dari Alexander</yago:hasName>
@@ -5944,12 +5920,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Josh_Dies">
     <yago:hasName xml:lang="en">Dies Josh</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Staley">
-    <yago:hasName xml:lang="en">Dan Staley</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_North_(screenwriter)">
-    <yago:hasName xml:lang="en">David North</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dale_Cardwell">
     <yago:hasName xml:lang="en">Dale Cardwell</yago:hasName>
   </rdf:Description>
@@ -5958,6 +5928,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Wiltse">
     <yago:hasName xml:lang="en">David Wiltse</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Cadbury">
+    <yago:hasName xml:lang="en">Deborah Cadbury</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_M._Ewalt">
     <yago:hasName xml:lang="en">David M. Ewalt</yago:hasName>
@@ -6044,15 +6017,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Adamson">
     <yago:hasName xml:lang="en">Donald Adamson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Twohy">
-    <yago:hasName xml:lang="en">David Twohy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Maddon">
     <yago:hasName xml:lang="en">Douglas Maddon</yago:hasName>
     <yago:hasName xml:lang="en">David McDowell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Twohy">
+    <yago:hasName xml:lang="en">David Twohy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dagen_McDowell">
     <yago:hasName xml:lang="en">Dagen McDowell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Fadiman">
+    <yago:hasName xml:lang="en">Dorothy Fadiman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Du%C5%A1an_Nini%C4%87">
     <yago:hasName xml:lang="en">Dušan Ninić</yago:hasName>
@@ -6150,6 +6126,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Dean_Shulman">
     <yago:hasName xml:lang="en">David Dean Shulman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_Lambertsen_Kelly">
+    <yago:hasName xml:lang="en">Dawn Lambertsen Kelly</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Debra_Dickerson">
     <yago:hasName xml:lang="en">Debra Dickerson</yago:hasName>
   </rdf:Description>
@@ -6164,9 +6143,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_G._Hartwell">
     <yago:hasName xml:lang="en">David G. Hartwell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Wilson_%28pastor%29">
-    <yago:hasName xml:lang="en">Don Wilson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ebershoff">
     <yago:hasName xml:lang="en">David Ebershoff</yago:hasName>
@@ -6191,6 +6167,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Du%C5%A1an_Veli%C4%8Dkovi%C4%87">
     <yago:hasName xml:lang="en">Dusan Velickovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Shannon">
+    <yago:hasName xml:lang="en">David Shannon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Delphine_de_Girardin">
     <yago:hasName xml:lang="en">Delphine Gay</yago:hasName>
@@ -6218,6 +6197,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Eddings">
     <yago:hasName xml:lang="en">David Eddings</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daymond_John">
+    <yago:hasName xml:lang="en">Daymond John</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_Baker">
     <yago:hasName xml:lang="en">Danny Baker</yago:hasName>
@@ -6249,9 +6231,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dylan_Thomas">
     <yago:hasName xml:lang="en">Dylan Thomas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Davis_Rich_Dewey">
-    <yago:hasName xml:lang="en">Davis Rich Dewey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deon_Meyer">
     <yago:hasName xml:lang="en">Deon Godfrey Meyer</yago:hasName>
@@ -6409,14 +6388,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Duvvuri_Venkata_Ramana_Shastri">
     <yago:hasName xml:lang="en">Duvvuri Venkata Ramana Shastri</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Brower">
-    <yago:hasName xml:lang="en">David Brower</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Walton_(writer)">
     <yago:hasName xml:lang="en">David Walton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Nicolle">
     <yago:hasName xml:lang="en">David Nicolle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marita_Bonner">
+    <yago:hasName xml:lang="en">Dyanna tree</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Anthony_Cooper">
     <yago:hasName xml:lang="en">Douglas Anthony Cooper</yago:hasName>
@@ -6449,7 +6428,6 @@
     <yago:hasName xml:lang="en">Don Carlos Seitz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Keyhoe">
-    <yago:hasName xml:lang="en">Donald Edward Keyhoe</yago:hasName>
     <yago:hasName xml:lang="en">Donald Keyhoe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Langdale">
@@ -6469,6 +6447,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dominic_Cotton">
     <yago:hasName xml:lang="en">Dominic Cotton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_C._Smith_%28author%29">
+    <yago:hasName xml:lang="en">David C. Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitri_Lipskerov">
     <yago:hasName xml:lang="en">Dmitri Lipskerov</yago:hasName>
@@ -6587,9 +6568,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniela_Sanzone">
     <yago:hasName xml:lang="en">Daniela Sanzone</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Wyman">
-    <yago:hasName xml:lang="en">David S Wyman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Abid_Qaiyum_Suleri">
     <yago:hasName xml:lang="en">Dr. Abid Qaiyum Suleri  عابد قيوم سليرى(Urdu)</yago:hasName>
   </rdf:Description>
@@ -6640,6 +6618,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lamb_(journalist)">
     <yago:hasName xml:lang="en">David Lamb</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gon%C3%A7alves_de_Magalh%C3%A3es%2C_Viscount_of_Araguaia">
+    <yago:hasName xml:lang="en">Domingos José Gonçalves de Magalhães</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%BAinn%C3%ADn_%C3%93_Maolconaire">
     <yago:hasName xml:lang="en">Duinnin O Maolconaire</yago:hasName>
   </rdf:Description>
@@ -6676,6 +6657,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dolly_Aglay">
     <yago:hasName xml:lang="en">Dolly Aglay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Eric_Capps">
+    <yago:hasName xml:lang="en">Donald Eric Capps</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ridgen">
     <yago:hasName xml:lang="en">David Ridgen</yago:hasName>
@@ -6767,6 +6751,9 @@
     <yago:hasName xml:lang="en">David H. Hackworth</yago:hasName>
     <yago:hasName xml:lang="en">David Hackworth</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dena_Higley">
+    <yago:hasName xml:lang="en">Dena Higley</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Allen_Sibley">
     <yago:hasName xml:lang="en">David Allen Sibley</yago:hasName>
   </rdf:Description>
@@ -6851,9 +6838,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_DeCaires">
     <yago:hasName xml:lang="en">David DeCaires</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Desmond">
-    <yago:hasName xml:lang="en">David Desmond</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Galkovsky">
     <yago:hasName xml:lang="en">Dmitry Galkovsky</yago:hasName>
   </rdf:Description>
@@ -6930,8 +6914,8 @@
     <yago:hasName xml:lang="en">Dan Campilan</yago:hasName>
     <yago:hasName xml:lang="en">Danifel Campilan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_J._Bradley">
-    <yago:hasName xml:lang="en">David John Bradley</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dimitrija_Demeter">
+    <yago:hasName xml:lang="en">Dimitrija Demeter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Bussy">
     <yago:hasName xml:lang="en">Dorothy Bussy</yago:hasName>
@@ -6976,9 +6960,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Dixon%2C_Jr.">
     <yago:hasName xml:lang="en">Dixon, Thomas, Jr.</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Macgregor">
-    <yago:hasName xml:lang="en">Douglas Macgregor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Henry_Wilson">
     <yago:hasName xml:lang="en">David Henry Wilson</yago:hasName>
   </rdf:Description>
@@ -7009,9 +6990,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Pringle">
     <yago:hasName xml:lang="en">David Pringle</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Singer_%28journalist%29">
-    <yago:hasName xml:lang="en">Daniel Singer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Anbumani_Ramadoss">
     <yago:hasName xml:lang="en">Dr Anbumani Ramadoss</yago:hasName>
   </rdf:Description>
@@ -7030,9 +7008,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denise_Danks">
     <yago:hasName xml:lang="en">Denise Danks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dr.Huesan_Tran">
-    <yago:hasName xml:lang="en">Dr. Huesan Tran</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doranna_Durgin">
     <yago:hasName xml:lang="en">Dorann Durgin</yago:hasName>
     <yago:hasName xml:lang="en">Doranna Durgin</yago:hasName>
@@ -7045,6 +7020,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Allan_(broadcaster)">
     <yago:hasName xml:lang="en">David Allan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domingo_Faustino_Sarmiento">
+    <yago:hasName xml:lang="en">Domingo F. Sarmiento</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dinko_%C5%A0imunovi%C4%87">
     <yago:hasName xml:lang="en">Dinko Simunovic</yago:hasName>
@@ -7059,9 +7037,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Marquis">
     <yago:hasName xml:lang="en">Don Marquis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dann_Glenn">
-    <yago:hasName xml:lang="en">Dann Glenn</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Hayter">
     <yago:hasName xml:lang="en">David Hayter</yago:hasName>
   </rdf:Description>
@@ -7074,9 +7049,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Diderot">
     <yago:hasName xml:lang="en">Denis Diderot</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Mahony">
-    <yago:hasName xml:lang="en">Dennis Mahony</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Djelal_Kadir">
     <yago:hasName xml:lang="en">Djelal Kadir</yago:hasName>
@@ -7178,11 +7150,11 @@
     <yago:hasName xml:lang="en">Dick Kingsmith</yago:hasName>
     <yago:hasName xml:lang="en">Dick King-Smith</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunstan_Thompson">
-    <yago:hasName xml:lang="en">Dunstan Thompson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Danton_Remoto">
     <yago:hasName xml:lang="en">Danton Remoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunstan_Thompson">
+    <yago:hasName xml:lang="en">Dunstan Thompson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_David_Cecil">
     <yago:hasName xml:lang="en">David Cecil</yago:hasName>
@@ -7209,8 +7181,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Leslie">
     <yago:hasName xml:lang="en">Dame Ann Leslie</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Brown_(programmer)">
-    <yago:hasName xml:lang="en">Donald M. Brown</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Javerbaum">
+    <yago:hasName xml:lang="en">David Javerbaum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ellwand">
     <yago:hasName xml:lang="en">David Ellwand</yago:hasName>
@@ -7298,9 +7270,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Freed">
     <yago:hasName xml:lang="en">Donald Freed</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dugald_Steer">
-    <yago:hasName xml:lang="en">Dugald Steer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Bradley_(novelist)">
     <yago:hasName xml:lang="en">David Bradley</yago:hasName>
@@ -7394,9 +7363,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Fresc%C3%B3">
     <yago:hasName xml:lang="en">Daniel Fresco</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deborah_Grabien">
-    <yago:hasName xml:lang="en">Deborah Grabien</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doric_Wilson">
     <yago:hasName xml:lang="en">Doric Wilson</yago:hasName>
   </rdf:Description>
@@ -7405,6 +7371,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Danielle_Nierenberg">
     <yago:hasName xml:lang="en">Danielle Nierenberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dem%C3%A9trio_Magnoli">
+    <yago:hasName xml:lang="en">Demétrio Martinelli Magnoli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Armon">
     <yago:hasName xml:lang="en">Dan Armon</yago:hasName>
@@ -7437,6 +7406,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Coit_Gilman">
     <yago:hasName xml:lang="en">Daniel Coit Gilman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_R._Palmer">
+    <yago:hasName xml:lang="en">David R. Palmer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Deirdre_English">
     <yago:hasName xml:lang="en">Deirdre English</yago:hasName>
   </rdf:Description>
@@ -7448,6 +7420,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Darshan_Singh_Awara">
     <yago:hasName xml:lang="en">Darshan Singh Awara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dani%C3%ABl_de_Clercq">
+    <yago:hasName xml:lang="en">Daniel de Clercq</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David-Matthew_Barnes">
     <yago:hasName xml:lang="en">David-Matthew Barnes</yago:hasName>
@@ -7509,9 +7484,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Peace">
     <yago:hasName xml:lang="en">David Peace</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Clair">
-    <yago:hasName xml:lang="en">Dick Clair</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Peppercorn">
     <yago:hasName xml:lang="en">David Peppercorn</yago:hasName>

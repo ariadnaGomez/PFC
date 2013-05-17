@@ -26,6 +26,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hortensia_Antommarchi">
     <yago:hasName xml:lang="en">Hortensia Antommarchi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hossein_Abadian">
+    <yago:hasName xml:lang="en">Hossein Abadian</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hank_Reinhardt">
     <yago:hasName xml:lang="en">Hank Reinhardt</yago:hasName>
   </rdf:Description>
@@ -90,6 +93,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Haley_Moss">
     <yago:hasName xml:lang="en">Haley Moss</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_William_Heinrich">
+    <yago:hasName xml:lang="en">Herbert Heinrich</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Dow">
     <yago:hasName xml:lang="en">Harold Dow</yago:hasName>
@@ -188,6 +194,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hanshan_(poet)">
     <yago:hasName xml:lang="en">Hanshan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Keilson">
+    <yago:hasName xml:lang="en">Hans Keilson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Horwood">
     <yago:hasName xml:lang="en">Harold Horwood</yago:hasName>
   </rdf:Description>
@@ -234,16 +243,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/HP_Tinker">
     <yago:hasName xml:lang="en">HP Tinker</yago:hasName>
+    <yago:hasName xml:lang="en">H. P. Tinker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Zia">
     <yago:hasName xml:lang="en">Helen Zia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Gore_Bishop">
     <yago:hasName xml:lang="en">Harry Gore Bishop</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Longhurst">
-    <yago:hasName xml:lang="en">Henry Carpenter Longhurst</yago:hasName>
-    <yago:hasName xml:lang="en">Henry Longhurst</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Hayes">
     <yago:hasName xml:lang="en">Harold Thomas Pace Hayes</yago:hasName>
@@ -270,9 +276,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Horace_Alexander">
     <yago:hasName xml:lang="en">Horace Alexander</yago:hasName>
     <yago:hasName xml:lang="en">Horace Gundry Alexander</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Brett_Melendy">
-    <yago:hasName xml:lang="en">H. Brett Melendy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herb_Wharton">
     <yago:hasName xml:lang="en">Herb Wharton</yago:hasName>
@@ -301,7 +304,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Houston_A._Baker%2C_Jr.">
     <yago:hasName xml:lang="en">Houston Baker</yago:hasName>
-    <yago:hasName xml:lang="en">Houston A. Baker Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Haven_Kimmel">
     <yago:hasName xml:lang="en">Haven Kimmel</yago:hasName>
@@ -344,9 +346,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Laurie">
     <yago:hasName xml:lang="en">Hugh Laurie</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Hasse">
-    <yago:hasName xml:lang="en">Henry Hasse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamza_Hakimzade_Niyazi">
     <yago:hasName xml:lang="en">Hamza Hakimzade Niyazi</yago:hasName>
@@ -475,6 +474,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Schwartz">
     <yago:hasName xml:lang="en">Howard Schwartz</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Jeanson">
+    <yago:hasName xml:lang="en">Henri Jeanson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/He%C3%B0in_Br%C3%BA">
     <yago:hasName xml:lang="en">Hedin Bru</yago:hasName>
   </rdf:Description>
@@ -537,10 +539,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Winter">
     <yago:hasName xml:lang="en">Henry Winter</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Stern">
-    <yago:hasName xml:lang="en">Howard Stern</yago:hasName>
-    <yago:hasName xml:lang="en">Howard Allan Stern</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamish_Bowles">
     <yago:hasName xml:lang="en">Hamish Bowles</yago:hasName>
   </rdf:Description>
@@ -580,7 +578,7 @@
     <yago:hasName xml:lang="en">Haruki Murakami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hollis_Summers">
-    <yago:hasName xml:lang="en">Hollis Summers</yago:hasName>
+    <yago:hasName xml:lang="en">Hollis S. Jr. Summers</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Mayhew">
     <yago:hasName xml:lang="en">Henry Mayhew</yago:hasName>
@@ -605,9 +603,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._G._de_Lisser">
     <yago:hasName xml:lang="en">H. G. De Lisser</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hazel_Rowley">
-    <yago:hasName xml:lang="en">Hazel Rowley</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Pendexter">
     <yago:hasName xml:lang="en">Hugh Pendexter</yago:hasName>
   </rdf:Description>
@@ -616,9 +611,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Jackson">
     <yago:hasName xml:lang="en">Hal Jackson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Lepage_(economist)">
-    <yago:hasName xml:lang="en">Henri Lepage</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann_L%C3%B6ns">
     <yago:hasName xml:lang="en">Hermann Lons</yago:hasName>
@@ -650,6 +642,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hardwicke_Rawnsley">
     <yago:hasName xml:lang="en">Hardwicke Rawnsley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Roujon">
+    <yago:hasName xml:lang="en">Henry Roujon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bonilla">
     <yago:hasName xml:lang="en">Henry Bonilla</yago:hasName>
@@ -695,6 +690,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hartzell_Spence">
     <yago:hasName xml:lang="en">Hartzell Spence</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holger_Henke">
+    <yago:hasName xml:lang="en">Holger Henke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Neele">
     <yago:hasName xml:lang="en">Henry Neele</yago:hasName>
@@ -760,6 +758,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Dan_MacLennan">
     <yago:hasName xml:lang="en">Hugh Dan Maclennan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Harris_Jessup">
+    <yago:hasName xml:lang="en">Henry Harris Jessup</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Fury">
     <yago:hasName xml:lang="en">Hannah Fury</yago:hasName>
   </rdf:Description>
@@ -792,9 +793,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hailey_Abbott">
     <yago:hasName xml:lang="en">Hailey Abbott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Noma">
-    <yago:hasName xml:lang="en">Hiroshi Noma</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helmut_Markwort">
     <yago:hasName xml:lang="en">Helmut Markwort</yago:hasName>
   </rdf:Description>
@@ -823,9 +821,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Ovbiagele">
     <yago:hasName xml:lang="en">Helen Ovbiagele</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Harrison_%28writer%29">
-    <yago:hasName xml:lang="en">Harry Harrison</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herschel_V._Jones">
     <yago:hasName xml:lang="en">Herschel V. Jones</yago:hasName>
   </rdf:Description>
@@ -844,9 +839,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Cook_(science_fiction_author)">
     <yago:hasName xml:lang="en">Hugh Cook</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Hill">
-    <yago:hasName xml:lang="en">Harry Hill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hassan_Sheikh_Mumin">
     <yago:hasName xml:lang="en">Hassan Sheikh Mumin</yago:hasName>
@@ -946,9 +938,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Buxton_Forman">
     <yago:hasName xml:lang="en">Harry Buxton Forman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harvey_Sicherman">
-    <yago:hasName xml:lang="en">Harvey Sicherman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Heere_Heeresma">
     <yago:hasName xml:lang="en">Heere Heeresma</yago:hasName>
   </rdf:Description>
@@ -1027,9 +1016,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Heine">
     <yago:hasName xml:lang="en">Heinrich Heine</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Humayun_Azad">
-    <yago:hasName xml:lang="en">Humayun Azad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Yglesias">
     <yago:hasName xml:lang="en">Helen Yglesias</yago:hasName>
@@ -1130,6 +1116,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Horace_Smith_(poet)">
     <yago:hasName xml:lang="en">Horace Smith</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hristo_Silyanov">
+    <yago:hasName xml:lang="en">Hristo Silyanov</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helena_Frith_Powell">
     <yago:hasName xml:lang="en">Helena Frith Powell</yago:hasName>
   </rdf:Description>
@@ -1176,9 +1165,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hart_Crane">
     <yago:hasName xml:lang="en">Hart Crane</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Vardon">
-    <yago:hasName xml:lang="en">Harry Vardon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hristo_Smirnenski">
     <yago:hasName xml:lang="en">Hristo Smirnenski</yago:hasName>
   </rdf:Description>
@@ -1224,9 +1210,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harvey_Breit">
     <yago:hasName xml:lang="en">Harvey Breit</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Kang">
-    <yago:hasName xml:lang="en">Han Kang</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henriett_Seth_F.">
     <yago:hasName xml:lang="en">Henriett Seth F.</yago:hasName>
   </rdf:Description>
@@ -1250,9 +1233,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henryk_Ehrlich">
     <yago:hasName xml:lang="en">Henryk Ehrlich</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisaye_Yamamoto">
-    <yago:hasName xml:lang="en">Hisaye Yamamoto</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Gorter">
     <yago:hasName xml:lang="en">Herman Gorter</yago:hasName>
@@ -1316,6 +1296,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Butler_Clarke">
     <yago:hasName xml:lang="en">Henry Butler Clarke</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayati_Citaklar">
+    <yago:hasName xml:lang="en">Hayati Citaklar</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Croy">
     <yago:hasName xml:lang="en">Homer Croy</yago:hasName>
   </rdf:Description>
@@ -1368,9 +1351,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Holly_Kearl">
     <yago:hasName xml:lang="en">Holly Kearl</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Jaffe">
-    <yago:hasName xml:lang="en">Harold Jaffe</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Henshui">
     <yago:hasName xml:lang="en">Henshui Zhang</yago:hasName>
   </rdf:Description>
@@ -1395,6 +1375,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Leopold_Wagner">
     <yago:hasName xml:lang="en">Heinrich Leopold Wagner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_L._Stone">
+    <yago:hasName xml:lang="en">Herbert L. Stone</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hori_Ahipene">
     <yago:hasName xml:lang="en">Hori Ahipene</yago:hasName>
@@ -1450,9 +1433,6 @@
     <yago:hasName xml:lang="en">Henrik Ibsen</yago:hasName>
     <yago:hasName xml:lang="en">Henrik Johann Ibsen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hartvig_Caspar_Christie">
-    <yago:hasName xml:lang="en">Hartvig Caspar Christie</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hanoch_Levin">
     <yago:hasName xml:lang="en">Hanoch Levin</yago:hasName>
   </rdf:Description>
@@ -1464,6 +1444,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans-Wilhelm_Steinfeld">
     <yago:hasName xml:lang="en">Hans-Wilhelm Steinfeld</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hubert_Selby%2C_Jr.">
+    <yago:hasName xml:lang="en">Hubert Jr. Selby</yago:hasName>
+    <yago:hasName xml:lang="en">Hubert Selby, Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Sakuishi">
+    <yago:hasName xml:lang="en">Harold Sakuishi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hoshino_Tenchi">
     <yago:hasName xml:lang="en">Hoshino Tenchi</yago:hasName>
@@ -1552,7 +1539,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Wandrei">
     <yago:hasName xml:lang="en">Howard Elmer Wandrei</yago:hasName>
-    <yago:hasName xml:lang="en">Howard Wandrei</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Solter">
     <yago:hasName xml:lang="en">Harry Solter</yago:hasName>
@@ -1614,9 +1600,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Sachs">
     <yago:hasName xml:lang="en">Hans Sachs</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Augenbraum">
-    <yago:hasName xml:lang="en">Harold Augenbraum</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hyun_Jin-geon">
     <yago:hasName xml:lang="en">Hyun Jin-geon</yago:hasName>
   </rdf:Description>
@@ -1659,9 +1642,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._L._Mencken">
     <yago:hasName xml:lang="en">H. L. Mencken</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hedda_Eulenberg">
-    <yago:hasName xml:lang="en">Hedda Eulenberg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._B._Marriott_Watson">
     <yago:hasName xml:lang="en">Henry Brereton Marriott Watson</yago:hasName>
     <yago:hasName xml:lang="en">H.B. Marriott Watson</yago:hasName>
@@ -1674,6 +1654,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Cook_(Canadian_novelist)">
     <yago:hasName xml:lang="en">Hugh Cook</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Baum">
+    <yago:hasName xml:lang="en">Henry Baum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Lambert">
     <yago:hasName xml:lang="en">Hugh Lambert</yago:hasName>
@@ -1727,8 +1710,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Seidel">
     <yago:hasName xml:lang="en">Heinrich Seidel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Hoover">
-    <yago:hasName xml:lang="en">Herbert Clark Hoover</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Glasse">
+    <yago:hasName xml:lang="en">Hannah Glasse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hughie_Cannon">
     <yago:hasName xml:lang="en">Hughie Canon</yago:hasName>
@@ -1777,10 +1760,14 @@
     <yago:hasName xml:lang="en">Harley Cokeliss</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hashim_bey_Vazirov">
+    <yago:hasName xml:lang="en">Haşım bəy Vəzirov</yago:hasName>
     <yago:hasName xml:lang="en">Hashim bey Vazirov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hossein_Panahi">
     <yago:hasName xml:lang="en">Hossein Panahi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Brody">
+    <yago:hasName xml:lang="en">Hugh Brody</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harriet_Theresa_Comstock">
     <yago:hasName xml:lang="en">Harriet Theresa Comstock</yago:hasName>
@@ -1798,11 +1785,17 @@
     <yago:hasName xml:lang="en">Harold C. Flemming</yago:hasName>
     <yago:hasName xml:lang="en">Harold Fleming</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Huncke">
-    <yago:hasName xml:lang="en">Herbert Huncke</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Paul">
+    <yago:hasName xml:lang="en">Herbert Paul</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Ree">
+    <yago:hasName xml:lang="en">Hans Ree</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Leyendecker">
     <yago:hasName xml:lang="en">Hans Leyendecker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hagar_Olsson">
+    <yago:hasName xml:lang="en">Hagar Olsson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heather_McGowan">
     <yago:hasName xml:lang="en">Heather McGowan</yago:hasName>
@@ -1812,6 +1805,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hussein_Ye">
     <yago:hasName xml:lang="en">Hussain Yee</yago:hasName>
+    <yago:hasName xml:lang="en">Hussein Ye</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Hendricks">
     <yago:hasName xml:lang="en">Howard G. Hendricks</yago:hasName>
@@ -1860,6 +1854,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hjalmar_Bergman">
     <yago:hasName xml:lang="en">Hjalmar Bergman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamid_Hassani">
+    <yago:hasName xml:lang="en">Hamid Hasani</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Q._Masur">
     <yago:hasName xml:lang="en">Harold Q. Masur</yago:hasName>
   </rdf:Description>
@@ -1871,6 +1868,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Warren">
     <yago:hasName xml:lang="en">Harry Warren</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helena_Kadare">
+    <yago:hasName xml:lang="en">Helena Kadare</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Hay_Whitney">
     <yago:hasName xml:lang="en">Helen Hay Whitney</yago:hasName>
@@ -1889,9 +1889,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hezi_Leskali">
     <yago:hasName xml:lang="en">Hezi Leskali</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilda_Neatby">
-    <yago:hasName xml:lang="en">Hilda Neatby</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hoang_Cam">
     <yago:hasName xml:lang="en">Hoàng Cầm</yago:hasName>
@@ -1986,6 +1983,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Cadwallader_Adams">
     <yago:hasName xml:lang="en">Henrycadwallader Adams</yago:hasName>
     <yago:hasName xml:lang="en">Henry Cadwaller Adams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._C._Matthew_Sim">
+    <yago:hasName xml:lang="en">H. C. Matthew Sim</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hector_Bolitho">
     <yago:hasName xml:lang="en">Hector Bolitho</yago:hasName>
@@ -2107,9 +2107,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Ball">
     <yago:hasName xml:lang="en">Hugo Ball</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Smith_%28writer%29">
-    <yago:hasName xml:lang="en">Helen Smith</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harcharan_Chawla">
     <yago:hasName xml:lang="en">Harcharan Chawla</yago:hasName>
   </rdf:Description>
@@ -2154,9 +2151,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hideyuki_Kikuchi">
     <yago:hasName xml:lang="en">Hideyuki Kikuchi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Eon_Flint">
-    <yago:hasName xml:lang="en">Homer Eon Flint</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Gh%C3%A9on">
     <yago:hasName xml:lang="en">Henri Gheon</yago:hasName>
   </rdf:Description>
@@ -2166,11 +2160,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heather_Thomas">
     <yago:hasName xml:lang="en">Heather Thomas</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Kuhner">
+    <yago:hasName xml:lang="en">Herbert Kuhner</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herb_Curtis">
     <yago:hasName xml:lang="en">Herb Curtis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Allen_%28journalist%29">
-    <yago:hasName xml:lang="en">Harry Allen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lin_Huiyin">
     <yago:hasName xml:lang="en">Huiyin Lin</yago:hasName>
@@ -2258,6 +2252,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Haki_St%C3%ABrmilli">
     <yago:hasName xml:lang="en">Haki Stërmilli</yago:hasName>
+    <yago:hasName xml:lang="en">Haki Stermilli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Farish">
     <yago:hasName xml:lang="en">Helen Farish</yago:hasName>
@@ -2302,9 +2297,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hasan_Seyidbeyli">
     <yago:hasName xml:lang="en">Hasan Seyidbeyli</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroko_Takenishi">
-    <yago:hasName xml:lang="en">Hiroko Takenishi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann_Hesse">
     <yago:hasName xml:lang="en">Hermann Hesse</yago:hasName>
   </rdf:Description>
@@ -2345,7 +2337,7 @@
     <yago:hasName xml:lang="en">Hugh Riminton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Bemmann">
-    <yago:hasName xml:lang="en">Hans Bemmann</yago:hasName>
+    <yago:hasName xml:lang="en">Hans Bemman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Havas">
     <yago:hasName xml:lang="en">Henrik Havas</yago:hasName>
@@ -2414,6 +2406,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Nicolson">
     <yago:hasName xml:lang="en">Harold Nicolson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_W._Percival">
+    <yago:hasName xml:lang="en">Harold W. Percival</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_C._Bradsby">
     <yago:hasName xml:lang="en">Henry C. Bradsby</yago:hasName>
   </rdf:Description>
@@ -2455,6 +2450,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Folz">
     <yago:hasName xml:lang="en">Hans Folz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saki">
+    <yago:hasName xml:lang="en">Hector Hugh Munro</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamish_Macdonald_(broadcaster)">
     <yago:hasName xml:lang="en">Hamish Macdonald</yago:hasName>
@@ -2559,9 +2557,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Meschonnic">
     <yago:hasName xml:lang="en">Henri Meschonnic</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Nearing">
-    <yago:hasName xml:lang="en">Homer Nearing</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hazel_Hall">
     <yago:hasName xml:lang="en">Hazel Hall</yago:hasName>
   </rdf:Description>
@@ -2586,6 +2581,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harrison_Slater">
     <yago:hasName xml:lang="en">Harrison Gradwell Slater</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Avery">
+    <yago:hasName xml:lang="en">Harold Avery</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hidemi_Kon">
     <yago:hasName xml:lang="en">Hidemi Kon</yago:hasName>
@@ -2670,9 +2668,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A9linand_of_Froidmont">
     <yago:hasName xml:lang="en">Helinand Of Froidmont</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_van_Dyke">
-    <yago:hasName xml:lang="en">Henry van Dyke</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Greenhough_Smith">
     <yago:hasName xml:lang="en">Herbert Greenhough Smith</yago:hasName>
   </rdf:Description>
@@ -2681,6 +2676,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harish_Iyer">
     <yago:hasName xml:lang="en">Harish Iyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Weir_Smyth">
+    <yago:hasName xml:lang="en">Herbert Weir Smyth</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Pilgaard">
     <yago:hasName xml:lang="en">Hans Pilgaard</yago:hasName>
@@ -2693,6 +2691,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howie_Schneider">
     <yago:hasName xml:lang="en">Howie Schneider</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hossein_Nasr">
+    <yago:hasName xml:lang="en">Hossein Nasr</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_William_Hornung">
     <yago:hasName xml:lang="en">Hornung</yago:hasName>
@@ -2742,9 +2743,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hanif_Baktash">
     <yago:hasName xml:lang="en">Hanif Baktash</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Werksman">
-    <yago:hasName xml:lang="en">Harry Werksman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Dunmore">
     <yago:hasName xml:lang="en">Helen Dunmore</yago:hasName>
@@ -2929,15 +2927,22 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Honor%C3%A9_Mercier">
     <yago:hasName xml:lang="en">Honoré Mercier</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_MacDonald_%28poet%29">
+    <yago:hasName xml:lang="en">Hugh MacDonald</yago:hasName>
+    <yago:hasName xml:lang="en">Hugh Macdonald</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Davis_%28photographer%29">
     <yago:hasName xml:lang="en">Harold Davis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hagop_Baronian">
-    <yago:hasName xml:lang="en">Hagop Baronian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Bates_(author)">
     <yago:hasName xml:lang="en">Harry Bates</yago:hasName>
     <yago:hasName xml:lang="en">Harry Bates (author)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Thomas">
+    <yago:hasName xml:lang="en">Helen Thomas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Braverman">
+    <yago:hasName xml:lang="en">Harry Braverman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Bernstein">
     <yago:hasName xml:lang="en">Henry Bernstein</yago:hasName>
@@ -2982,11 +2987,17 @@
     <yago:hasName xml:lang="en">H. R. Ellis Davidson</yago:hasName>
     <yago:hasName xml:lang="en">Hilda Ellis Davidson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hafeez_Hoorani">
+    <yago:hasName xml:lang="en">Hafeez Hoorani</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_von_Hofmannsthal">
     <yago:hasName xml:lang="en">Hugo Laurenz August Hofmann von Hofmannsthal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Meyer">
     <yago:hasName xml:lang="en">Henry Meyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hari_Rhodes">
+    <yago:hasName xml:lang="en">Hari Rhodes</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Alley">
     <yago:hasName xml:lang="en">Henry Alley</yago:hasName>
@@ -3060,6 +3071,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Kendall_(poet)">
     <yago:hasName xml:lang="en">Henry Kendall</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Florinus">
+    <yago:hasName xml:lang="en">Henrik Florinus</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wickham_Steed">
     <yago:hasName xml:lang="en">H. Wickham Steed</yago:hasName>
     <yago:hasName xml:lang="en">Henry Wickham Steed</yago:hasName>
@@ -3101,10 +3115,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Adam">
     <yago:hasName xml:lang="en">Helen Adam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Moore">
-    <yago:hasName xml:lang="en">Hal Moore</yago:hasName>
-    <yago:hasName xml:lang="en">Harold G. Moore</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Flagg_Gould">
     <yago:hasName xml:lang="en">Hannah Flagg Gould</yago:hasName>
   </rdf:Description>
@@ -3126,6 +3136,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Sykes_Davies">
     <yago:hasName xml:lang="en">Hugh Sykes Davies</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Thomas_Mandl">
+    <yago:hasName xml:lang="en">Herbert Thomas Mandl</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Huseyngulu_Sarabski">
     <yago:hasName xml:lang="en">Huseyngulu Sarabski</yago:hasName>
   </rdf:Description>
@@ -3135,6 +3148,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Jarvis_Raymond">
     <yago:hasName xml:lang="en">Henry Jarvis Raymond</yago:hasName>
     <yago:hasName xml:lang="en">Henry J. Raymond</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intizar_Hussain">
+    <yago:hasName xml:lang="en">Hussain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Staunton">
+    <yago:hasName xml:lang="en">Howard Staunton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herawati_Diah">
     <yago:hasName xml:lang="en">Herawati Diah</yago:hasName>
@@ -3205,7 +3224,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamma_Meliani">
     <yago:hasName xml:lang="en">Hamma Méliani</yago:hasName>
-    <yago:hasName xml:lang="en">Hamma Meliani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Horacio_Pagani_(sportswriter)">
     <yago:hasName xml:lang="en">Horacio Pagani</yago:hasName>
@@ -3270,9 +3288,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_McCulloch_(poet)">
     <yago:hasName xml:lang="en">Hugh Macculloch</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanwant_Singh_Deora">
-    <yago:hasName xml:lang="en">Hanwant Singh Deora</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Holly_Nelson">
     <yago:hasName xml:lang="en">Holly Nelson</yago:hasName>
@@ -3361,11 +3376,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_de_Bornier">
     <yago:hasName xml:lang="en">Henri de Bornier</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Clay_Lewis">
+    <yago:hasName xml:lang="en">Henryclay Lewis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_DeVore">
     <yago:hasName xml:lang="en">Howard Devore</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Lindqvist_%28journalist%29">
-    <yago:hasName xml:lang="en">Herman Lindqvist</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._M._Green">
     <yago:hasName xml:lang="en">Henry Mackenzie Green</yago:hasName>
@@ -3392,11 +3407,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Wittenwiler">
     <yago:hasName xml:lang="en">Heinrich Wittenwiler</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_T._Wilkins">
+    <yago:hasName xml:lang="en">Harold T. Wilkins</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Fast">
     <yago:hasName xml:lang="en">Howard Fast</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._Russell_Wakefield">
     <yago:hasName xml:lang="en">H. Russell Wakefield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harrison_Greenbaum">
+    <yago:hasName xml:lang="en">Harrison Greenbaum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bean">
     <yago:hasName xml:lang="en">Henry Bean</yago:hasName>
@@ -3432,9 +3453,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hovhannes_Hintliyan">
     <yago:hasName xml:lang="en">Hovhannes Hintliyan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirohito_%C5%8Cta">
-    <yago:hasName xml:lang="en">Hirohito Ota</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Augustin_Calahan">
     <yago:hasName xml:lang="en">Harold Calahan</yago:hasName>
   </rdf:Description>
@@ -3458,7 +3476,6 @@
     <yago:hasName xml:lang="en">Hans Otto Storm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harriet_McDougal">
-    <yago:hasName xml:lang="en">Harriet McDougal</yago:hasName>
     <yago:hasName xml:lang="en">Harriet McDougal Rigney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herm%C3%B3genes_Irisarri">
@@ -3473,9 +3490,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Donny_Davies">
     <yago:hasName xml:lang="en">Harry Donald Davies</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Storm">
-    <yago:hasName xml:lang="en">Hannah Storm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Dichand">
     <yago:hasName xml:lang="en">Hans Dichand</yago:hasName>
@@ -3500,9 +3514,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Lok">
     <yago:hasName xml:lang="en">Henry Lok</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Seland">
-    <yago:hasName xml:lang="en">Hans Seland</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Giroux">
     <yago:hasName xml:lang="en">Henry Giroux</yago:hasName>
@@ -3585,9 +3596,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Richardson_(playwright)">
     <yago:hasName xml:lang="en">Howard Richardson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Preston_%28writer%29">
-    <yago:hasName xml:lang="en">Harry Preston</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Reynolds_(poet)">
     <yago:hasName xml:lang="en">Henry Reynolds</yago:hasName>
   </rdf:Description>
@@ -3636,9 +3644,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Stewart_New">
     <yago:hasName xml:lang="en">Harry Stewart New</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Shima">
-    <yago:hasName xml:lang="en">Hiroshi Shima</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_John_Harrison">
     <yago:hasName xml:lang="en">Harrison</yago:hasName>
   </rdf:Description>
@@ -3647,6 +3652,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Huw_Edwards_(journalist)">
     <yago:hasName xml:lang="en">Huw Edwards</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huong_Keenleyside">
+    <yago:hasName xml:lang="en">Huong Keenleyside</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Heiberg">
     <yago:hasName xml:lang="en">Hans Heiberg</yago:hasName>
@@ -3663,9 +3671,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hari_Singh_Gour">
     <yago:hasName xml:lang="en">Hari Singh Gour</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruto_K%C5%8D">
-    <yago:hasName xml:lang="en">Haruto Ko</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hermynia_Zur_M%C3%BChlen">
     <yago:hasName xml:lang="en">Hermynia Zur Mühlen</yago:hasName>
   </rdf:Description>
@@ -3680,10 +3685,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harald_Langhelle">
     <yago:hasName xml:lang="en">Harald Langhelle</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hodding_Carter">
-    <yago:hasName xml:lang="en">Hodding Carter, II</yago:hasName>
-    <yago:hasName xml:lang="en">Hodding Carter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Hewitt">
     <yago:hasName xml:lang="en">Hugh Hewitt</yago:hasName>
@@ -3736,6 +3737,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/H._G._Adler">
     <yago:hasName xml:lang="en">H. G. Adler</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Kanter">
+    <yago:hasName xml:lang="en">Hal Kanter</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hanif_Kureishi">
     <yago:hasName xml:lang="en">Hanif Kureishi</yago:hasName>
   </rdf:Description>
@@ -3753,6 +3757,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Palmer_Geisel">
     <yago:hasName xml:lang="en">Helen Palmer Geisel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horacio_Quiroga">
+    <yago:hasName xml:lang="en">Horacio Quiroga</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Glapthorne">
     <yago:hasName xml:lang="en">Henry Glapthorne</yago:hasName>
@@ -3797,17 +3804,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Cecil_Leon">
     <yago:hasName xml:lang="en">Henry Cecil Leon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_L._Klawans">
-    <yago:hasName xml:lang="en">Harold L Klawans</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prosper_Duvergier_de_Hauranne">
     <yago:hasName xml:lang="en">Hauranne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Hyde_Russell">
-    <yago:hasName xml:lang="en">Howard Hyde Russell</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hiren_Gohain">
-    <yago:hasName xml:lang="en">Hiren Gohain</yago:hasName>
+    <yago:hasName xml:lang="en">Hiren Dr. Gohain</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hilary_Spurling">
     <yago:hasName xml:lang="en">Hilary Spurling</yago:hasName>
@@ -3835,9 +3836,6 @@
     <yago:hasName xml:lang="en">Harry Forrester</yago:hasName>
     <yago:hasName xml:lang="en">Harry Conway Forrester</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hara_Takashi">
-    <yago:hasName xml:lang="en">Hara Takashi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Mann">
     <yago:hasName xml:lang="en">Heinrich Mann</yago:hasName>
   </rdf:Description>
@@ -3845,7 +3843,7 @@
     <yago:hasName xml:lang="en">Hmawbi Saya Thein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Honor%C3%A9_d%27Urf%C3%A9">
-    <yago:hasName xml:lang="en">Honoré d'Urfé</yago:hasName>
+    <yago:hasName xml:lang="en">Honore d' Urfe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Groth">
     <yago:hasName xml:lang="en">Henrik Groth</yago:hasName>
@@ -3898,14 +3896,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harriet_Scott_Chessman">
     <yago:hasName xml:lang="en">Harriet Scott Chessman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Lofting">
-    <yago:hasName xml:lang="en">Hugh John Lofting</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harrison_Grey_Fiske">
     <yago:hasName xml:lang="en">Harrison Grey Fiske</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Lampert">
-    <yago:hasName xml:lang="en">Harry Lampert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A5kan_Persson">
     <yago:hasName xml:lang="en">Hakan Persson</yago:hasName>
@@ -3915,6 +3907,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Wrigley_Wilson">
     <yago:hasName xml:lang="en">Herbert Wrigley Wilson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Nouwen">
+    <yago:hasName xml:lang="en">Henri Nouwen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hazin_Lahiji">
     <yago:hasName xml:lang="en">Hazin Lahiji</yago:hasName>
@@ -3955,9 +3950,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Frederic">
     <yago:hasName xml:lang="en">Harold Frederic</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendrik_Pieter_Nicolaas_Muller">
-    <yago:hasName xml:lang="en">Hendrik Pieter Nicolaas Muller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Braham">
     <yago:hasName xml:lang="en">Hal Braham</yago:hasName>
@@ -4088,6 +4080,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_McFadden">
     <yago:hasName xml:lang="en">Hugh McFadden</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hwee_Hwee_Tan">
+    <yago:hasName xml:lang="en">Hwee Hwee Tan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Halide_Edip_Ad%C4%B1var">
     <yago:hasName xml:lang="en">Halide Edip Adivar</yago:hasName>
     <yago:hasName xml:lang="en">Halide Edip Adıvar</yago:hasName>
@@ -4100,6 +4095,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Trowbridge_Pulsifer">
     <yago:hasName xml:lang="en">Harold Trowbridge Pulsifer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamid_Khan_(lawyer)">
+    <yago:hasName xml:lang="en">Hamid Khan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Haroldo_de_Campos">
     <yago:hasName xml:lang="en">Haroldo De Campos</yago:hasName>
@@ -4187,6 +4185,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hryhorii_Epik">
     <yago:hasName xml:lang="en">Hryhorii Epik</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannu_Luntiala">
+    <yago:hasName xml:lang="en">Hannu Luntiala</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Howey">
     <yago:hasName xml:lang="en">Hugh Howey</yago:hasName>
   </rdf:Description>
@@ -4204,9 +4205,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helene_Chung_Martin">
     <yago:hasName xml:lang="en">Helene Chung</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hephaistio_of_Thebes">
-    <yago:hasName xml:lang="en">Hephaistio of Thebes</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herzl_Rosenblum">
     <yago:hasName xml:lang="en">Herzl Rosenblum</yago:hasName>
@@ -4235,6 +4233,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Snell">
     <yago:hasName xml:lang="en">Howard L. Snell</yago:hasName>
+    <yago:hasName xml:lang="en">Howard Snell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hilda_Morley">
     <yago:hasName xml:lang="en">Hilda Morley</yago:hasName>
@@ -4269,6 +4268,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Kruk">
     <yago:hasName xml:lang="en">Herman Kruk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iva_Herc%C3%ADkov%C3%A1">
+    <yago:hasName xml:lang="en">Hercikova</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helga_M._Novak">
     <yago:hasName xml:lang="en">Helga M. Novak</yago:hasName>
@@ -4347,7 +4349,7 @@
     <yago:hasName xml:lang="en">Hugo Salus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Him_Mark_Lai">
-    <yago:hasName xml:lang="en">Him Mark. Lai</yago:hasName>
+    <yago:hasName xml:lang="en">Him Mark Lai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Barbusse">
     <yago:hasName xml:lang="en">Henri Barbusse</yago:hasName>
@@ -4444,11 +4446,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A9ctor_Zumbado">
     <yago:hasName xml:lang="en">Héctor Zumbado Argueta</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Aptheker">
+    <yago:hasName xml:lang="en">Herbert Aptheker</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Fraenkel">
     <yago:hasName xml:lang="en">Heinrich Fraenkel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harish_Chandra_Mitra">
-    <yago:hasName xml:lang="en">Harish Chandra Mitra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Murger">
     <yago:hasName xml:lang="en">Henri Murger</yago:hasName>
@@ -4482,9 +4484,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Louis_Vivian_Derozio">
     <yago:hasName xml:lang="en">Henry Louis Vivian Derozio</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Hooven_Santmyer">
-    <yago:hasName xml:lang="en">Helen Hooven Santmyer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hava_Volovich">
     <yago:hasName xml:lang="en">Hava Volovich</yago:hasName>
@@ -4548,9 +4547,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_John_Timperley">
     <yago:hasName xml:lang="en">HJ Timperley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilda_van_Stockum">
-    <yago:hasName xml:lang="en">Hilda Stockum van</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heather_McHugh">
     <yago:hasName xml:lang="en">Heather McHugh</yago:hasName>
   </rdf:Description>
@@ -4587,9 +4583,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Huilgol_Narayana_Rao">
     <yago:hasName xml:lang="en">Huilgol Narayana Rao</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Markopolos">
-    <yago:hasName xml:lang="en">Harry Markopolos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Throop_Stanton">
     <yago:hasName xml:lang="en">Henry Throop Stanton</yago:hasName>
@@ -4641,9 +4634,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hope_Edelman">
     <yago:hasName xml:lang="en">Hope Edelman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Herb_Graffis">
-    <yago:hasName xml:lang="en">Herb Graffis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hedwig_Gorski">
     <yago:hasName xml:lang="en">Hedwig Gorski</yago:hasName>
@@ -4752,6 +4742,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H.H._Lewis">
     <yago:hasName xml:lang="en">Harold Harwell Lewis</yago:hasName>
+    <yago:hasName xml:lang="en">H.H. Lewis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hatice_Duman">
     <yago:hasName xml:lang="en">Hatice Duman</yago:hasName>
@@ -4777,7 +4768,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hassan_Nisar">
     <yago:hasName xml:lang="en">Hassan Nisar حسن نثار</yago:hasName>
-    <yago:hasName xml:lang="en">Hassan Nisar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_James_Byron">
     <yago:hasName xml:lang="en">Henry James Byron</yago:hasName>
@@ -4820,14 +4810,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_Isakhanli">
     <yago:hasName xml:lang="en">Hamlet Isakhanli</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hovik_Vardoumian">
-    <yago:hasName xml:lang="en">Hovik Vardoumian</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pottinger_Stephens">
     <yago:hasName xml:lang="en">Henry Pottinger Stephens</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Himerius">
-    <yago:hasName xml:lang="en">Himerius</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_de_Burgh">
     <yago:hasName xml:lang="en">Hugo Deburgh</yago:hasName>
@@ -4853,6 +4837,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harilal_Upadhyay">
     <yago:hasName xml:lang="en">Harilal Upadhyay</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann_von_Fran%C3%A7ois">
+    <yago:hasName xml:lang="en">Hermann von François</yago:hasName>
+    <yago:hasName xml:lang="en">Hermann Von Francois</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Rosenblat">
     <yago:hasName xml:lang="en">Herman Rosenblat</yago:hasName>
   </rdf:Description>
@@ -4871,11 +4859,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Horatio_Clare">
     <yago:hasName xml:lang="en">Horatio Clare</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharina_Hacker">
-    <yago:hasName xml:lang="en">Hacker</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_FitzGerald">
     <yago:hasName xml:lang="en">Helen Fitzgerald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharina_Hacker">
+    <yago:hasName xml:lang="en">Hacker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Ca%C3%AFn">
     <yago:hasName xml:lang="en">Henri Cain</yago:hasName>
@@ -4911,11 +4899,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hermes_Carleial">
     <yago:hasName xml:lang="en">Hermes Carleial</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Henryka_%C5%81azowert%C3%B3wna">
-    <yago:hasName xml:lang="en">Henryka Łazowertówna</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Levin">
-    <yago:hasName xml:lang="en">Harry Levin</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Stojan">
+    <yago:hasName xml:lang="en">Harry Stojan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Hunt_Jackson">
     <yago:hasName xml:lang="en">Helen Hunt Jackson</yago:hasName>
@@ -4945,20 +4930,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Nelson_Coleridge">
     <yago:hasName xml:lang="en">Henry Nelson Coleridge</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holly_Sorensen">
+    <yago:hasName xml:lang="en">Holly Sorensen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Douglas_Irvine">
     <yago:hasName xml:lang="en">Helen Douglas Irvine</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Heung-gil">
     <yago:hasName xml:lang="en">Heung-gil Yun</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Cain">
+    <yago:hasName xml:lang="en">Herman Cain</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Williamson">
     <yago:hasName xml:lang="en">Henry Williamson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Norr">
     <yago:hasName xml:lang="en">Henry Norr</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirotada_Ototake">
-    <yago:hasName xml:lang="en">Hirotada Ototake</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Hooton">
     <yago:hasName xml:lang="en">Harry Hooton</yago:hasName>
@@ -4980,6 +4968,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Landesmann">
     <yago:hasName xml:lang="en">Heinrich Landesmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiram_Caton">
+    <yago:hasName xml:lang="en">Hiram Caton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann_Schwarz_(philosopher)">
+    <yago:hasName xml:lang="en">Hermann Schwarz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A9ctor_Canziani">
     <yago:hasName xml:lang="en">Hector Canziani</yago:hasName>

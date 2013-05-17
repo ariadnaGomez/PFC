@@ -13,11 +13,11 @@ function searchDBPedia(authorName, autocomplete) {
                 $('#loading_gif').hide();
                 var result = jQuery.parseJSON(data);
                 if (result['data']) {
-                    createAuthorInfo(result['data']);                    
-                    if (result['books'].length>0) {
+                    createAuthorInfo(result['data']);
+                    if (result['books'].length > 0) {
                         createBookInfo(result['books']);
                     }
-                    if (result['influences'].length>0) {
+                    if (result['influences'].length > 0) {
                         createInfluencesInfo(result['influences']);
                     }
                 } else {
@@ -33,14 +33,32 @@ function searchDBPedia(authorName, autocomplete) {
 
 function createAuthorInfo(data) {
 
+    var birthDate = (data['?birthDate']['label']) ?
+            data['?birthDate']['label'] : data['?birthDate2']['label'];
+
+    var birthPlace = (data['?birthPlace']['label']) ?
+            data['?birthPlace']['label'] : data['?birthPlace2']['label'];
+    birthPlace = (birthPlace) ?
+            birthPlace : data['?birthPlace3']['label'];
+
+    var deathDate = (data['?deathDate']['label']) ?
+            data['?deathDate']['label'] : data['?deathDate2']['label'];
+
+    var deathPlace = (data['?deathPlace']['label']) ?
+            data['?deathPlace']['label'] : data['?deathPlace2']['label'];
+    deathPlace = (deathPlace) ?
+            deathPlace : data['?deathPlace3']['label'];
+
     $("#content").html('<h1>' + data['?name']['label'] + '</h1>');
     $("#content").append('<p>' + data['?abstract']['label']);
-    $('#content').append('<img class="imgl" src="' + data['?photo']['label'] + '" alt="" />');
+    if (data['?photo']['label']) {
+        $('#content').append('<img class="imgl" src="' + data['?photo']['label'] + '" alt="" />');
+    }
     $('#content').append('<div id=column><div class="subnav"><h2>Biography Data</h2><ul><li><div>Birth Date</div><ul><li>'
-            + data['?birthDate']['label'] + '</li></ul></li><li><div>Birth Place</div><ul><li>'
-            + data['?birthPlace']['label'] + '</li></ul></li><li><div>Death Date</div><ul><li>'
-            + data['?deathDate']['label'] + '</li></ul></li><li><div>Death Place</div><ul><li>'
-            + data['?deathPlace']['label'] + '</li></ul></li></ul></div></div>');
+            + birthDate + '</li></ul></li><li><div>Birth Place</div><ul><li>'
+            + birthPlace + '</li></ul></li><li><div>Death Date</div><ul><li>'
+            + deathDate + '</li></ul></li><li><div>Death Place</div><ul><li>'
+            + deathPlace + '</li></ul></li></ul></div></div>');
 
 }
 
