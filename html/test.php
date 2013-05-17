@@ -1,7 +1,7 @@
 <?php
 
-$response = file_get_contents('http://bnb.data.bl.uk/sparql?query=PREFIX+blt%3A+%3Chttp%3A%2F%2Fwww.bl.uk%2Fschemas%2Fbibliographic%2Fblterms%23%3E%0A++++++++PREFIX+dct%3A+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E+%0A++++++++PREFIX+owl%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E+%0A%0A++++++++++++SELECT+distinct+%3Ftitle+WHERE+{%0A++++++++++++++++%3Fauthor+owl%3AsameAs+%3Chttp%3A%2F%2Fviaf.org%2Fviaf%2F95218067%3E.%0A++++++++++++++++%3Fauthor+blt%3AhasContributedTo+%3Fbook.%0A++++++++++++++++%3Fbook+dct%3Atitle+%3Ftitle.%0A++++++++}');
-var_dump($response);die();
+$response = file_get_contents('http://localhost:8082/downloader2/services/authors/');
+echo $response;
 
 
 
@@ -62,8 +62,8 @@ var_dump($response);die();
 //var_dump($a);die();
 //$a = $_SERVER['DOCUMENT_ROOT'] . "/PFC/lib/rdfapi-php/api/" . "RdfAPI.php";
 //
-define("RDFAPI_INCLUDE_DIR", '../lib/rdfapi-php/api/');
-include_once(RDFAPI_INCLUDE_DIR . "RdfAPI.php");
+//define("RDFAPI_INCLUDE_DIR", '../lib/rdfapi-php/api/');
+//include_once(RDFAPI_INCLUDE_DIR . "RdfAPI.php");
 //$x = new MemModel();
 //$docu = $_SERVER['DOCUMENT_ROOT'] . "/PFC/data/sparql.n3";
 //$x->load($docu);
@@ -125,38 +125,38 @@ include_once(RDFAPI_INCLUDE_DIR . "RdfAPI.php");
 // Output model as HTML table
 //$model->writeAsHtmlTable();
 
-$bnbClient = ModelFactory::getSparqlClient("http://bnb.data.bl.uk/sparql");
-$bneClient = ModelFactory::getSparqlClient("http://datos.bne.es/sparql");
-
-$query = new ClientQuery();
-$queryString = '# Select an author based on the ISBN of one of their books.
-PREFIX bio: <http://purl.org/vocab/bio/0.1/> 
-PREFIX bibo: <http://purl.org/ontology/bibo/> 
-PREFIX blterms: <http://www.bl.uk/schemas/bibliographic/blterms#> 
-PREFIX dct: <http://purl.org/dc/terms/> 
-PREFIX event: <http://purl.org/NET/c4dm/event.owl#> 
-PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
-PREFIX isbd: <http://iflastandards.info/ns/isbd/elements/> 
-PREFIX org: <http://www.w3.org/ns/org#> 
-PREFIX owl: <http://www.w3.org/2002/07/owl#> 
-PREFIX rda: <http://RDVocab.info/ElementsGr2/> 
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
-
-SELECT ?author WHERE {
-  #Match the book
-  ?uri bibo:isbn10 "0261102214";
-       #Match its author
-	   dct:creator ?author.
-}
-';
-
-$query->query($queryString);
- $result = $bnbClient->query($query);
- var_dump($result);
+//$bnbClient = ModelFactory::getSparqlClient("http://bnb.data.bl.uk/sparql");
+//$bneClient = ModelFactory::getSparqlClient("http://datos.bne.es/sparql");
+//
+//$query = new ClientQuery();
+//$queryString = '# Select an author based on the ISBN of one of their books.
+//PREFIX bio: <http://purl.org/vocab/bio/0.1/> 
+//PREFIX bibo: <http://purl.org/ontology/bibo/> 
+//PREFIX blterms: <http://www.bl.uk/schemas/bibliographic/blterms#> 
+//PREFIX dct: <http://purl.org/dc/terms/> 
+//PREFIX event: <http://purl.org/NET/c4dm/event.owl#> 
+//PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
+//PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
+//PREFIX isbd: <http://iflastandards.info/ns/isbd/elements/> 
+//PREFIX org: <http://www.w3.org/ns/org#> 
+//PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+//PREFIX rda: <http://RDVocab.info/ElementsGr2/> 
+//PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+//PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+//PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+//PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+//
+//SELECT ?author WHERE {
+//  #Match the book
+//  ?uri bibo:isbn10 "0261102214";
+//       #Match its author
+//	   dct:creator ?author.
+//}
+//';
+//
+//$query->query($queryString);
+// $result = $bnbClient->query($query);
+// var_dump($result);
 //$memcache = new Memcache;
 //$memcache->connect('localhost', 11211) or die ("Could not connect");
 //

@@ -11,10 +11,10 @@ if ($memcache->connect('localhost', 11211) &&
         $res = $memcache->get('authors' . $initial)) {
     $authors = unserialize($res);
     $authorID = $authors[$_GET['authorName']];
-    if (!$authorID){
+    if (!$authorID) {
         $proccesor = new AuthorsProccesor($_GET['authorName'][0]);
-    $author = $proccesor->getAuthorID($_GET['authorName']);
-    $authorID = $author[0]['?person']->getLabel();
+        $author = $proccesor->getAuthorID($_GET['authorName']);
+        $authorID = $author[0]['?person']->getLabel();
     }
 } else {
     $proccesor = new AuthorsProccesor($_GET['authorName'][0]);
@@ -26,16 +26,10 @@ $data = $dbsearcher->searchAuthorInfo($authorID);
 $bneSearcher = new BNESearcher();
 $books = $bneSearcher->search($authorID);
 $bnbSearcher = new BNBSearcher();
-$ids = $bneSearcher->searchViafID($authorID);
-foreach ($ids as $key => $id){
-    $label = $id['?sameAs']->getLabel();
-    $pos = strpos($label, 'viaf');
-    if ($pos !== false) {
-        $viafID = $label;
-        break;
-    }
+$viafID = ($books[0]['?sameAs']) ? $books[0]['?sameAs'] -> getLabel() : '';
+if ($viafID) {
+    $influences = $bnbSearcher->search($viafID);
 }
-$influences = $bnbSearcher->search($viafID);
 $result['data'] = $data[0];
 $result['books'] = $books;
 $result['influences'] = $influences;

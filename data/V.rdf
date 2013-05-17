@@ -131,6 +131,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Adolfovitch_Rusanov">
     <yago:hasName xml:lang="en">Vladislav Adolfovitch Rusanov</yago:hasName>
+    <yago:hasName xml:lang="en">Vladislav Rusanov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Henry">
     <yago:hasName xml:lang="en">Veronica Henry</yago:hasName>
@@ -222,9 +223,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Botkin">
     <yago:hasName xml:lang="en">Vasily Botkin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Krapivin">
-    <yago:hasName xml:lang="en">Vladislav Krapivin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Gotera">
     <yago:hasName xml:lang="en">Vince Gotera</yago:hasName>
   </rdf:Description>
@@ -293,6 +291,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Parnakh">
     <yago:hasName xml:lang="en">Valentin Parnakh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Serventy">
+    <yago:hasName xml:lang="en">Vincent Serventy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Henley">
     <yago:hasName xml:lang="en">Virginia Syddall Henley</yago:hasName>
@@ -392,6 +393,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vicki_Mackenzie">
     <yago:hasName xml:lang="en">Vicki Mackenzie</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerian_Pidmohylny">
+    <yago:hasName xml:lang="en">Valerian Pidmohylny</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Rozhdestvensky">
     <yago:hasName xml:lang="en">Vsevolod Rozhdestvensky</yago:hasName>
   </rdf:Description>
@@ -440,9 +444,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Veijo_Meri">
     <yago:hasName xml:lang="en">Veijo Meri</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Zaharieva">
-    <yago:hasName xml:lang="en">Virginia Zaharieva</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Viriato_da_Cruz">
     <yago:hasName xml:lang="en">Viriato Da Cruz</yago:hasName>
   </rdf:Description>
@@ -451,6 +452,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Virginie_Despentes">
     <yago:hasName xml:lang="en">Virginie Despentes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Sorokin">
+    <yago:hasName xml:lang="en">Vladimir Sorokin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vanchinbalyn_Gularans">
     <yago:hasName xml:lang="en">Vanchinbalyn Gularans</yago:hasName>
@@ -501,7 +505,6 @@
     <yago:hasName xml:lang="en">Vidosav Stevanovic</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vinko_M%C3%B6derndorfer">
-    <yago:hasName xml:lang="en">Vinko Möderndorfer</yago:hasName>
     <yago:hasName xml:lang="en">Vinko Moderndorfer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Havel">
@@ -513,10 +516,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vital_Aza">
     <yago:hasName xml:lang="en">Vital Aza</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Verbswish">
-    <yago:hasName xml:lang="en">Verbswish</yago:hasName>
-    <yago:hasName xml:lang="en">verbswish</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Coren">
     <yago:hasName xml:lang="en">Victoria Coren</yago:hasName>
@@ -532,6 +531,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_L&apos;vovich_Korvin-Piotrovskii">
     <yago:hasName xml:lang="en">Vladimir L'vovich Korvin-Piotrovskii</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Desportes">
+    <yago:hasName xml:lang="en">Vincent Desportes</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Leonidas_Varouxis">
     <yago:hasName xml:lang="en">Varouxis Leonidas</yago:hasName>
   </rdf:Description>
@@ -541,11 +543,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victoire_L%C3%A9odile_B%C3%A9ra">
     <yago:hasName xml:lang="en">Victoire Leodile Bera</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virpi_H%C3%A4meen-Anttila">
+    <yago:hasName xml:lang="en">Virpi Hameen-Anttila</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A9nus_Khoury-Ghata">
     <yago:hasName xml:lang="en">Venus Khoury-Ghata</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Woolf">
     <yago:hasName xml:lang="en">Virginia Woolf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ngo_Van">
+    <yago:hasName xml:lang="en">Van Xuyet Ngo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vemana">
     <yago:hasName xml:lang="en">Vemana</yago:hasName>
@@ -567,6 +575,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Var%C4%81hamihira">
     <yago:hasName xml:lang="en">Varahamihir</yago:hasName>
+    <yago:hasName xml:lang="en">Varāhamihir</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/V._S._Naipaul">
     <yago:hasName xml:lang="en">V. S. Naipaul</yago:hasName>
@@ -574,11 +583,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Su%C3%A1rez">
     <yago:hasName xml:lang="en">Virgil Suárez</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Van_Hamme">
+    <yago:hasName xml:lang="en">Van Hamme</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vineet_Narain">
     <yago:hasName xml:lang="en">Vineet Narain</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentina_Dmitryeva">
-    <yago:hasName xml:lang="en">Valentina Dmitryeva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vandana_Singh">
     <yago:hasName xml:lang="en">Vandana Singh</yago:hasName>
@@ -647,6 +656,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Violette_Leduc">
     <yago:hasName xml:lang="en">Violette Leduc</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Taylor_(novelist)">
+    <yago:hasName xml:lang="en">Valerie Taylor</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valerio_Massimo_Manfredi">
     <yago:hasName xml:lang="en">Valerio Massimo Manfredi</yago:hasName>
   </rdf:Description>
@@ -680,9 +692,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valentino_Zeichen">
     <yago:hasName xml:lang="en">Valentino Zeichen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Marek_%28writer%29">
-    <yago:hasName xml:lang="en">Václav Marek</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Sleptsov">
     <yago:hasName xml:lang="en">Vasily Sleptsov</yago:hasName>
@@ -973,6 +982,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vachel_Lindsay">
     <yago:hasName xml:lang="en">Vachel Lindsay</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Plame">
+    <yago:hasName xml:lang="en">Valerie Plame Wilson</yago:hasName>
+    <yago:hasName xml:lang="en">Valerie Plame</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valentyn_Rechmedin">
     <yago:hasName xml:lang="en">Valentyn Rechmedin</yago:hasName>
     <yago:hasName xml:lang="en">Valentyn Ostapovych Rechmedin</yago:hasName>
@@ -1036,9 +1049,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ved_Pratap_Vaidik">
     <yago:hasName xml:lang="en">Ved Pratap Vaidik</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaikkath_Pachu_Moothathu">
-    <yago:hasName xml:lang="en">Vaikkathu Pachu Moothathu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Blue_(author)">
     <yago:hasName xml:lang="en">Violet Blue</yago:hasName>
   </rdf:Description>
@@ -1069,14 +1079,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Vodnik">
     <yago:hasName xml:lang="en">Valentin Vodnik</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Muyzhel">
-    <yago:hasName xml:lang="en">Viktor Muyzhel</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Bockris">
     <yago:hasName xml:lang="en">Victor Bockris</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Cressy-Marcks">
-    <yago:hasName xml:lang="en">Violet Olivia Cressy-Marcks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vaidehi_(Kannada_writer)">
     <yago:hasName xml:lang="en">Vaidehi</yago:hasName>
@@ -1089,9 +1093,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Mogens">
     <yago:hasName xml:lang="en">Victor Mogens</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidar_Sandbeck">
-    <yago:hasName xml:lang="en">Vidar Sandbeck</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/V._Akilesapillai">
     <yago:hasName xml:lang="en">V. Akilesapillai</yago:hasName>
@@ -1229,9 +1230,6 @@
     <yago:hasName xml:lang="en">Vishal Bhardwaj</yago:hasName>
     <yago:hasName xml:lang="en">Vishal Bharadwaj</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%AA_V%C4%83n_H%C6%B0u">
-    <yago:hasName xml:lang="en">Van Huu Le</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nasos_Vagenas">
     <yago:hasName xml:lang="en">Vagenas</yago:hasName>
   </rdf:Description>
@@ -1295,9 +1293,6 @@
     <yago:hasName xml:lang="en">Vereen Bell</yago:hasName>
     <yago:hasName xml:lang="en">Vereen M. Bell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vertamae_Grosvenor">
-    <yago:hasName xml:lang="en">Vertamae Grosvenor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vinnie_Tortorich">
     <yago:hasName xml:lang="en">Vinnie Tortorich</yago:hasName>
   </rdf:Description>
@@ -1351,10 +1346,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/V._C._Kulandaiswamy">
     <yago:hasName xml:lang="en">V C Kulandaiswamy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vakkom_Moulavi">
-    <yago:hasName xml:lang="en">Vakkom Abdul Khadir Moulavi</yago:hasName>
-    <yago:hasName xml:lang="en">Vakkom Moulavi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Duri%C3%A8s">
     <yago:hasName xml:lang="en">Vanessa Duries</yago:hasName>
     <yago:hasName xml:lang="en">Vanessa Duriès</yago:hasName>
@@ -1364,7 +1355,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/V._Anamika">
     <yago:hasName xml:lang="en">V. Anamika</yago:hasName>
-    <yago:hasName xml:lang="en">V.Anamika</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Nekrasov">
     <yago:hasName xml:lang="en">Viktor Nekrasov</yago:hasName>
@@ -1466,10 +1456,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_Hrab%C4%9B">
     <yago:hasName xml:lang="en">Vaclav Hrabe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitorino_Nem%C3%A9sio">
-    <yago:hasName xml:lang="en">Vitorino Nemésio</yago:hasName>
-    <yago:hasName xml:lang="en">Vitorino Nemesio</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Krestovsky">
     <yago:hasName xml:lang="en">Vsevolod Krestovsky</yago:hasName>
   </rdf:Description>
@@ -1517,8 +1503,10 @@
     <yago:hasName xml:lang="en">vbcc</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Michael_Brown">
-    <yago:hasName xml:lang="en">Vincent Michael Brown</yago:hasName>
     <yago:hasName xml:lang="en">Vincent Brown</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasyl_Stefanyk">
+    <yago:hasName xml:lang="en">Vasyl Stefanyk</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vilas_Sarang">
     <yago:hasName xml:lang="en">Vilas Sarang</yago:hasName>
@@ -1709,17 +1697,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vonne_van_der_Meer">
     <yago:hasName xml:lang="en">Vonne van der Meer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassilis_Alexakis">
-    <yago:hasName xml:lang="en">Vassilis Alexakis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yianis_Vilaras">
     <yago:hasName xml:lang="en">Vilaras Ioannis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vassilis_Alexakis">
+    <yago:hasName xml:lang="en">Vassilis Alexakis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Valmiki">
     <yago:hasName xml:lang="en">Valmiki</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Viola_Garfield">
-    <yago:hasName xml:lang="en">Viola Garfield</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vagif_Bayatly_Oner">
     <yago:hasName xml:lang="en">Vagif Bayatly</yago:hasName>
@@ -1763,6 +1748,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vivian_de_Sola_Pinto">
     <yago:hasName xml:lang="en">Vivian Pinto</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Boltyansky">
+    <yago:hasName xml:lang="en">Vladimir Boltyansky</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Anestin">
     <yago:hasName xml:lang="en">Victor Anestin</yago:hasName>
   </rdf:Description>
@@ -1787,11 +1775,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Car_Emin">
     <yago:hasName xml:lang="en">Viktor Car Emin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaidehi_%28Kannada_writer%29">
-    <yago:hasName xml:lang="en">Vaidehi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Finlay">
     <yago:hasName xml:lang="en">Victoria Finlay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varadaraja_V._Raman">
+    <yago:hasName xml:lang="en">Varadaraja V. Raman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vitali_Vitaliev">
     <yago:hasName xml:lang="en">Vital Vitaliev</yago:hasName>
@@ -1824,6 +1812,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Veljko_Petrovi%C4%87_(poet)">
     <yago:hasName xml:lang="en">Veljko Petrovic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Taylor">
+    <yago:hasName xml:lang="en">Vanessa Taylor</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vadivel_Nimalarajah">
     <yago:hasName xml:lang="en">Vadivel Nimalarajah</yago:hasName>
   </rdf:Description>
@@ -1845,14 +1836,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vikramaditya_Motwane">
     <yago:hasName xml:lang="en">Vikramaditya Motwane</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Vic_Reeves">
-    <yago:hasName xml:lang="en">Vic Reeves</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vajjala_Shiva_Kumar">
     <yago:hasName xml:lang="en">Vajjala Shiva Kumar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Ovechkin">
-    <yago:hasName xml:lang="en">Valentin Ovechkin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vi%C3%B1a_Delmar">
     <yago:hasName xml:lang="en">Viña Delmar</yago:hasName>
@@ -1872,6 +1857,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vamsy">
     <yago:hasName xml:lang="en">Vamsy</yago:hasName>
     <yago:hasName xml:lang="en">Vamsi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vishalakshi_Dakshinamurthy">
+    <yago:hasName xml:lang="en">Vishalakshi Dakshinamurthy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vin_Ray">
     <yago:hasName xml:lang="en">Vin Ray</yago:hasName>
@@ -2038,6 +2026,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Kozhevnikov">
     <yago:hasName xml:lang="en">Vadim Mikhaylovich Kozhevnikov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vadim_Sobko">
+    <yago:hasName xml:lang="en">Vadim Sobko</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Korolenko">
     <yago:hasName xml:lang="en">Vladimir Galaktionovich Korolenko</yago:hasName>
   </rdf:Description>
@@ -2074,9 +2065,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Vidri%C4%87">
     <yago:hasName xml:lang="en">Vladimir Vidric</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Riesel">
-    <yago:hasName xml:lang="en">Victor Riesel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Varjesh_Solanki">
     <yago:hasName xml:lang="en">Varjesh Solanki</yago:hasName>
@@ -2154,7 +2142,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Avseenko">
     <yago:hasName xml:lang="en">Vasily Grigorievich Avseenko</yago:hasName>
-    <yago:hasName xml:lang="en">Vasily Avseenko</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Bla%C5%BEi%C4%8D">
     <yago:hasName xml:lang="en">Viktor Blazic</yago:hasName>
@@ -2191,9 +2178,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Villase%C3%B1or">
     <yago:hasName xml:lang="en">Victor Villaseñor</yago:hasName>
     <yago:hasName xml:lang="en">Victor Villasenor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/V%C3%A1clav_C%C3%ADlek">
-    <yago:hasName xml:lang="en">Vaclav Cilek</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Huidobro">
     <yago:hasName xml:lang="en">Vicente Huidobro</yago:hasName>
@@ -2280,6 +2264,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vintil%C4%83_Cioc%C3%A2lteu">
     <yago:hasName xml:lang="en">Vintila Ciocalteu</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Roth">
+    <yago:hasName xml:lang="en">Veronica Roth</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Patrick">
     <yago:hasName xml:lang="en">Vincent Patrick</yago:hasName>
   </rdf:Description>
@@ -2363,7 +2350,7 @@
     <yago:hasName xml:lang="en">Valerian Gaprindashvili</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Volney_Mathison">
-    <yago:hasName xml:lang="en">Volney G. Mathison</yago:hasName>
+    <yago:hasName xml:lang="en">Volney Mathison</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Dedijer">
     <yago:hasName xml:lang="en">Vladimir Dedijer</yago:hasName>
@@ -2471,6 +2458,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vladislav_Listyev">
     <yago:hasName xml:lang="en">Vladislav Listyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulick_Bourke">
+    <yago:hasName xml:lang="en">Very Rev. Ulick J. Bourke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Voltairine_de_Cleyre">
     <yago:hasName xml:lang="en">Voltairine de Cleyre</yago:hasName>

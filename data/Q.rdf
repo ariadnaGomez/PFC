@@ -2,6 +2,9 @@
     xmlns:yago="http://dbpedia.org/class/yago/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qaisra_Shahraz">
+    <yago:hasName xml:lang="en">Qaisra Shahraz</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qadaryar">
     <yago:hasName xml:lang="en">Qadaryar</yago:hasName>
   </rdf:Description>
@@ -89,6 +92,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Smyrnaeus">
     <yago:hasName xml:lang="en">Quintus Smyrnaeus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_Bo_%28novelist%29">
+    <yago:hasName xml:lang="en">Qu Bo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quin_Hillyer">
     <yago:hasName xml:lang="en">Quin Hillyer</yago:hasName>

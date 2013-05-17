@@ -78,6 +78,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cai_Xiang">
     <yago:hasName xml:lang="en">Xiang Cai</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xaviera_Hollander">
+    <yago:hasName xml:lang="en">Xaviera Hollander</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xu">
     <yago:hasName xml:lang="en">Xu Gao</yago:hasName>
   </rdf:Description>
@@ -114,9 +117,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Xeni_Jardin">
     <yago:hasName xml:lang="en">Xeni Jardin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenophon">
-    <yago:hasName xml:lang="en">Xenophon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Atencio">
     <yago:hasName xml:lang="en">Xavier Atencio</yago:hasName>
   </rdf:Description>
@@ -132,12 +132,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Xiaolong">
     <yago:hasName xml:lang="en">Xiaolong Qiu</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/X._B._Saintine">
+    <yago:hasName xml:lang="en">Xavier Boniface Saintine</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Xuan_Dieu">
     <yago:hasName xml:lang="en">Xuan Dieu</yago:hasName>
     <yago:hasName xml:lang="en">Xuân Diệu</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/X._B._Saintine">
-    <yago:hasName xml:lang="en">Xavier Boniface Saintine</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nalan_Xingde">
     <yago:hasName xml:lang="en">Xingde Nalan</yago:hasName>

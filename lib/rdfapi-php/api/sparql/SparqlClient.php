@@ -75,7 +75,6 @@ class SparqlClient extends Object {
 
 		$url    = $this->_buildurl($query);
 		$result = file_get_contents($url);
-
 		return $this->returnResult($result);
 
 	}
