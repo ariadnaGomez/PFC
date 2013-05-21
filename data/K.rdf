@@ -5,6 +5,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kolau_Nadiradze">
     <yago:hasName xml:lang="en">Kolau Nadiradze</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._V._Akshara">
+    <yago:hasName xml:lang="en">K. V. Akshara</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kees_Fens">
     <yago:hasName xml:lang="en">Kees Fens</yago:hasName>
   </rdf:Description>
@@ -44,9 +47,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kostandin_Kristoforidhi">
     <yago:hasName xml:lang="en">Kostandin Kristoforidhi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Seong-kon">
-    <yago:hasName xml:lang="en">Kim Seong-kon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krzysztof_Skowro%C5%84ski">
     <yago:hasName xml:lang="en">Krzysztof Skowronski</yago:hasName>
   </rdf:Description>
@@ -54,11 +54,11 @@
     <yago:hasName xml:lang="en">Kamal Amrohi (Amrohvi)</yago:hasName>
     <yago:hasName xml:lang="en">Kamal Amrohi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kai_Starr">
+    <yago:hasName xml:lang="en">Kai Starr</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Morton">
     <yago:hasName xml:lang="en">Kate Morton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabir_Khan_%28director%29">
-    <yago:hasName xml:lang="en">Kabir Khan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Roberts_(author)">
     <yago:hasName xml:lang="en">Kate Roberts</yago:hasName>
@@ -75,8 +75,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Adam">
     <yago:hasName xml:lang="en">Kenneth Adam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Smith_%28filmmaker%29">
-    <yago:hasName xml:lang="en">Kathy Smith</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Kuhlken">
+    <yago:hasName xml:lang="en">Ken Kuhlken</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamalakanta_Jena">
+    <yago:hasName xml:lang="en">Kamalakanta Jena</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_S._Stern">
+    <yago:hasName xml:lang="en">Kenneth S. Stern</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Macklin">
+    <yago:hasName xml:lang="en">Keith Macklin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoko_Hayashi">
     <yago:hasName xml:lang="en">Kyoko Hayashi</yago:hasName>
@@ -136,6 +145,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/K_V_Ramachandran">
     <yago:hasName xml:lang="en">K.V. Ramachandran</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ka_Vang">
+    <yago:hasName xml:lang="en">Ka Vang</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karyn_Bryant">
     <yago:hasName xml:lang="en">Karyn Bryant</yago:hasName>
   </rdf:Description>
@@ -155,7 +167,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kimmie_Weeks">
     <yago:hasName xml:lang="en">Kimmie Weeks</yago:hasName>
-    <yago:hasName xml:lang="en">Kimmie L. Weeks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristine_Thatcher">
     <yago:hasName xml:lang="en">Kristine Thatcher</yago:hasName>
@@ -191,8 +202,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kavitha_Balakrishnan">
     <yago:hasName xml:lang="en">Kavitha Balakrishnan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kater_Gordon">
-    <yago:hasName xml:lang="en">Kater Gordon</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramzan_Khadzhiev">
+    <yago:hasName xml:lang="en">Khadzhiev</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalle_Lasn">
     <yago:hasName xml:lang="en">Kalle Lasn</yago:hasName>
@@ -211,7 +222,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_McMahon">
     <yago:hasName xml:lang="en">Katharine Macmahon</yago:hasName>
-    <yago:hasName xml:lang="en">Katharine McMahon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Gottschalk">
     <yago:hasName xml:lang="en">Keith Gottschalk</yago:hasName>
@@ -241,8 +251,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirwan_Ward">
     <yago:hasName xml:lang="en">Kirwan Ward</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Edwards_%28author%29">
-    <yago:hasName xml:lang="en">Kenneth Martin Edwards</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knut_Bj%C3%B8rnsen">
+    <yago:hasName xml:lang="en">Knut Bjørnsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kobus_Moolman">
     <yago:hasName xml:lang="en">Kobus Moolman</yago:hasName>
@@ -275,8 +285,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristen_Iversen">
     <yago:hasName xml:lang="en">Kristen Iversen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Kersten">
+    <yago:hasName xml:lang="en">Katherine Kersten</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Fotinov">
     <yago:hasName xml:lang="en">Konstantin Fotinov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazys_Boruta">
+    <yago:hasName xml:lang="en">Kazys Boruta</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazim_Ali">
     <yago:hasName xml:lang="en">Kazim Ali</yago:hasName>
@@ -398,6 +414,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Allan">
     <yago:hasName xml:lang="en">Kate Allan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kip_Holden">
+    <yago:hasName xml:lang="en">Kip Holden</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kylie_Brant">
     <yago:hasName xml:lang="en">Kylie Brant</yago:hasName>
   </rdf:Description>
@@ -412,6 +431,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirsten_Bakis">
     <yago:hasName xml:lang="en">Kirsten Bakis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaithapram_Damodaran_Namboothiri">
+    <yago:hasName xml:lang="en">Kaithapram Damodaran Namboothiri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Boo">
+    <yago:hasName xml:lang="en">Katherine Boo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Kirchwey">
     <yago:hasName xml:lang="en">Karl Kirchwey</yago:hasName>
@@ -437,10 +462,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kuntowijoyo">
     <yago:hasName xml:lang="en">Kuntowijoyo</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Moore_%28writer%29">
-    <yago:hasName xml:lang="en">Kelly Sheelagh Moore</yago:hasName>
-    <yago:hasName xml:lang="en">Kelly Moore</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frigyes_Karinthy">
     <yago:hasName xml:lang="en">Karinthy Frigyes</yago:hasName>
   </rdf:Description>
@@ -452,9 +473,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khairy_Shalaby">
     <yago:hasName xml:lang="en">Khairy Shalaby</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Connolly_%28writer%29">
-    <yago:hasName xml:lang="en">Kevin Connolly</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_von_Eckartshausen">
     <yago:hasName xml:lang="en">Karl von Eckartshausen</yago:hasName>
@@ -484,11 +502,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Emil_Franzos">
     <yago:hasName xml:lang="en">Karl Emil Franzos</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Velichkov">
-    <yago:hasName xml:lang="en">Konstantin Velichkov</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kambisseri_Karunakaran">
-    <yago:hasName xml:lang="en">Kambisseri Karunakaran</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Ferguson">
+    <yago:hasName xml:lang="en">Kathleen Ferguson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Crossley-Holland">
     <yago:hasName xml:lang="en">Kevin Crossley-Holland</yago:hasName>
@@ -521,13 +536,11 @@
     <yago:hasName xml:lang="en">Konrad Prószyński</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_P%C3%AD%C4%8D">
+    <yago:hasName xml:lang="en">Karel Pic</yago:hasName>
     <yago:hasName xml:lang="en">Karel Píč</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kisai_Marvazi">
     <yago:hasName xml:lang="en">Kisai Marvazi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Crawford">
-    <yago:hasName xml:lang="en">Kate Crawford</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kumaraswamy_Pulavar">
     <yago:hasName xml:lang="en">Kumaraswamy Pulavar</yago:hasName>
@@ -548,9 +561,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kester_Berwick">
     <yago:hasName xml:lang="en">Kester Berwick</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khalil_Abdel-Karim">
-    <yago:hasName xml:lang="en">Khalil Abdel-Karim</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Tso">
     <yago:hasName xml:lang="en">Karen Tso</yago:hasName>
@@ -608,14 +618,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kamo_no_Yasunori_no_musume">
     <yago:hasName xml:lang="en">Kamo No Yasunori No Musume</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Kinchev">
+    <yago:hasName xml:lang="en">Konstantin Kinchev</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khiren_Roy">
     <yago:hasName xml:lang="en">Khiren Roy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Fenton">
+    <yago:hasName xml:lang="en">Kate Fenton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keshavdas">
     <yago:hasName xml:lang="en">Keshavdas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kwaku_Sakyi-Addo">
     <yago:hasName xml:lang="en">Kwaku Sakyi-Addo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaoru_Kitamura">
+    <yago:hasName xml:lang="en">Kaoru Kitamura</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_McAlpine">
     <yago:hasName xml:lang="en">Katherine McAlpine</yago:hasName>
@@ -624,18 +643,19 @@
     <yago:hasName xml:lang="en">Klaus Dede</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krant_M._L._Verma">
-    <yago:hasName xml:lang="en">Krant Madan Lal Verma</yago:hasName>
-    <yago:hasName xml:lang="en">Krant M. L. Verma</yago:hasName>
     <yago:hasName xml:lang="en">Krant M.L.Verma</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Goldsmith">
     <yago:hasName xml:lang="en">Kenneth Goldsmith</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/K_G_Suresh">
-    <yago:hasName xml:lang="en">K G Suresh</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kottayam_Pushpanath">
+    <yago:hasName xml:lang="en">Kottayam Pushpanath</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Yabuki">
     <yago:hasName xml:lang="en">Kentaro Yabuki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kranti_Trivedi">
+    <yago:hasName xml:lang="en">Kranti Trivedi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kou_Fumizuki">
     <yago:hasName xml:lang="en">Kou Fumizuki</yago:hasName>
@@ -664,10 +684,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wee_Kim_Wee">
     <yago:hasName xml:lang="en">Kim Wee Wee</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_O%27Hearn">
-    <yago:hasName xml:lang="en">Kate Ohearn</yago:hasName>
-    <yago:hasName xml:lang="en">Kate O'Hearn</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kris_Saknussemm">
     <yago:hasName xml:lang="en">Kris Saknussemm</yago:hasName>
   </rdf:Description>
@@ -680,6 +696,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kyo_(musician)">
     <yago:hasName xml:lang="en">Kyo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaziev_Shapi">
+    <yago:hasName xml:lang="en">Kaziev Shapi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Link">
     <yago:hasName xml:lang="en">Kelly Link</yago:hasName>
   </rdf:Description>
@@ -691,6 +710,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Onjezani_Kenani">
     <yago:hasName xml:lang="en">Kenani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karina_Galvez">
+    <yago:hasName xml:lang="en">Karina Galvez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Kiwus">
     <yago:hasName xml:lang="en">Karin Kiwus</yago:hasName>
@@ -707,18 +729,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharyne_Lescailje">
     <yago:hasName xml:lang="en">Katharyne Lescailje</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._N._Prabhu">
+    <yago:hasName xml:lang="en">K. N. Prabhu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelvin_MacKenzie">
     <yago:hasName xml:lang="en">Kelvin MacKenzie</yago:hasName>
     <yago:hasName xml:lang="en">Kelvin Mackenzie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristian_Gravenor">
+    <yago:hasName xml:lang="en">Kristian Gravenor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kendell_Foster_Crossen">
     <yago:hasName xml:lang="en">Kendell Foster Crossen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Ryan">
     <yago:hasName xml:lang="en">Karen Ryan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Wilhelm_Friedrich_Schlegel">
-    <yago:hasName xml:lang="en">Karl Wilhelm Friedrich Schlegel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Lichtenstein">
     <yago:hasName xml:lang="en">Kurt Lichtenstein</yago:hasName>
@@ -739,25 +764,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Couric">
     <yago:hasName xml:lang="en">Katie Couric</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kume_no_Wakame">
-    <yago:hasName xml:lang="en">Kume no Wakame</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Seaforth_Mackenzie_(author)">
     <yago:hasName xml:lang="en">Kenneth Mackenzie</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kermit_Roosevelt_III">
     <yago:hasName xml:lang="en">Kermit Roosevelt III</yago:hasName>
-    <yago:hasName xml:lang="en">Kermit IV Roosevelt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashif_Abbasi">
-    <yago:hasName xml:lang="en">Kashif abbasi</yago:hasName>
-    <yago:hasName xml:lang="en">Kashif Abbasi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kre%C5%A1imir_Mi%C5%A1ak">
     <yago:hasName xml:lang="en">Krešimir Mišak</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasun_Ubayasiri">
-    <yago:hasName xml:lang="en">Kasun Ubayasiri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirsten_Miller_(South_African_writer)">
     <yago:hasName xml:lang="en">Kirsten Miller</yago:hasName>
@@ -771,9 +785,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Stone">
     <yago:hasName xml:lang="en">Katherine Stone Chase</yago:hasName>
     <yago:hasName xml:lang="en">Katherine Stone</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/K._V._Gautam">
-    <yago:hasName xml:lang="en">K. V. Gautam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kitty_Kelley">
     <yago:hasName xml:lang="en">Kitty Kelley</yago:hasName>
@@ -810,7 +821,7 @@
     <yago:hasName xml:lang="en">Kamleshwar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Knut_Olav_%C3%85m%C3%A5s">
-    <yago:hasName xml:lang="en">Knut Olav Åmås</yago:hasName>
+    <yago:hasName xml:lang="en">Knut Olav Åmås (born )</yago:hasName>
     <yago:hasName xml:lang="en">Knut Olav Aamaas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Wagner">
@@ -832,6 +843,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Ponders">
     <yago:hasName xml:lang="en">Kim Ponders</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiran_Chetry">
+    <yago:hasName xml:lang="en">Kiran Chetry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kain_Massin">
     <yago:hasName xml:lang="en">Kain Massin</yago:hasName>
@@ -858,9 +872,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Toman">
     <yago:hasName xml:lang="en">Karel Toman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaliram_Medhi">
-    <yago:hasName xml:lang="en">Kaliram Medhi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kachiyapper">
     <yago:hasName xml:lang="en">Kachiyapper</yago:hasName>
   </rdf:Description>
@@ -881,7 +892,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ki._Rajanarayanan">
     <yago:hasName xml:lang="en">Ki. Rajanarayanan (Tamil: கி. ராஜநாராயணன்)</yago:hasName>
-    <yago:hasName xml:lang="en">Ki. Rajanarayanan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karolina_Proniewska">
     <yago:hasName xml:lang="en">Karolina Proniewska</yago:hasName>
@@ -929,11 +939,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shin_Kyung-sook">
     <yago:hasName xml:lang="en">Kyung-sook Shin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Anderson_%28writer%29">
-    <yago:hasName xml:lang="en">Kenneth Anderson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_S._Davis">
     <yago:hasName xml:lang="en">Kenneth S. Davis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_L._Dixon">
+    <yago:hasName xml:lang="en">Kenneth Lee "Ken" Dixon</yago:hasName>
+    <yago:hasName xml:lang="en">Kenneth L. Dixon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaari_Utrio">
     <yago:hasName xml:lang="en">Kaari Utrio</yago:hasName>
@@ -949,6 +960,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kutty_(cartoonist)">
     <yago:hasName xml:lang="en">Kutty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Vennberg">
+    <yago:hasName xml:lang="en">Karl Vennberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirmen_Uribe">
     <yago:hasName xml:lang="en">Kirmen Uribe</yago:hasName>
@@ -994,14 +1008,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kemble_Scott">
     <yago:hasName xml:lang="en">Kemble Scott</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Umansky">
+    <yago:hasName xml:lang="en">Konstantin Aleksandrovich Umansky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Tei_Yamashita">
+    <yago:hasName xml:lang="en">Karen Tei Yamashita</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kongdej_Jaturanrasamee">
     <yago:hasName xml:lang="en">Kongdej Jaturanrasamee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Julius_Weber">
     <yago:hasName xml:lang="en">Karl Julius Weber</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiera_Cass">
-    <yago:hasName xml:lang="en">Kiera Cass</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kongkiat_Khomsiri">
     <yago:hasName xml:lang="en">Kongkiat Khomsiri</yago:hasName>
@@ -1030,6 +1047,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katerina_Gogou">
     <yago:hasName xml:lang="en">Katerina Gogou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kay_Bailey_Hutchison">
+    <yago:hasName xml:lang="en">Kay Bailey Hutchison</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristi_Brooks">
     <yago:hasName xml:lang="en">Kristi Brooks</yago:hasName>
@@ -1061,10 +1081,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khadeeja_Mumtaz">
     <yago:hasName xml:lang="en">Khadeeja Mumtaz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenyon_Painter">
-    <yago:hasName xml:lang="en">Kenyon V Painter</yago:hasName>
-    <yago:hasName xml:lang="en">Kenyon Painter</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Lonergan">
     <yago:hasName xml:lang="en">Kenneth Lonergan</yago:hasName>
   </rdf:Description>
@@ -1092,6 +1108,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_May">
     <yago:hasName xml:lang="en">Karl Friedrich May</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Reid_(journalist)">
+    <yago:hasName xml:lang="en">Ken Reid</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Cate">
     <yago:hasName xml:lang="en">Keith Alvin Cate</yago:hasName>
   </rdf:Description>
@@ -1104,18 +1123,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kersy_Katrak">
     <yago:hasName xml:lang="en">Kersy Katrak</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kir_Bulychov">
-    <yago:hasName xml:lang="en">Kir Bulychev</yago:hasName>
-    <yago:hasName xml:lang="en">Kir Bulychov</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalidas_Roy">
     <yago:hasName xml:lang="en">Kalidas Roy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Gannon">
-    <yago:hasName xml:lang="en">Kim Gannon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ni_Kuang">
     <yago:hasName xml:lang="en">Kuang Ni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Gannon">
+    <yago:hasName xml:lang="en">Kim Gannon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Kurtz">
     <yago:hasName xml:lang="en">Katherine Kurtz</yago:hasName>
@@ -1131,9 +1146,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoko_Ariyoshi">
     <yago:hasName xml:lang="en">Kyoko Ariyoshi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kieran_Egan_%28educationist%29">
-    <yago:hasName xml:lang="en">Kieran Egan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Skala">
     <yago:hasName xml:lang="en">Karl Skala</yago:hasName>
@@ -1162,9 +1174,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karan_Mahajan">
     <yago:hasName xml:lang="en">Karan Mahajan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kit_Wohl">
-    <yago:hasName xml:lang="en">Kit Wohl</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_R._A._DeCandido">
     <yago:hasName xml:lang="en">Keith R. A. DeCandido</yago:hasName>
@@ -1290,6 +1299,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Douglas">
     <yago:hasName xml:lang="en">Keith Douglas</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Simmonds">
+    <yago:hasName xml:lang="en">Kathryn Simmonds</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristin_Bair_O&apos;Keeffe">
     <yago:hasName xml:lang="en">Kristin Bair Okeeffe</yago:hasName>
   </rdf:Description>
@@ -1337,9 +1349,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Egon_Ebert">
     <yago:hasName xml:lang="en">Karl Egon Ebert</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Meyer">
-    <yago:hasName xml:lang="en">Kathleen Meyer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Rainer_R%C3%B6hl">
     <yago:hasName xml:lang="en">Klaus Rainer Rohl</yago:hasName>
   </rdf:Description>
@@ -1373,6 +1382,7 @@
     <yago:hasName xml:lang="en">Kent Brewster</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kieran_Scott">
+    <yago:hasName xml:lang="en">Kieran Scott</yago:hasName>
     <yago:hasName xml:lang="en">Kate Brian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Roberts">
@@ -1381,14 +1391,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kikuoka_Kuri">
     <yago:hasName xml:lang="en">Kikuoka Kuri</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Baker_%28game_designer%29">
-    <yago:hasName xml:lang="en">Keith Baker</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaj_Hasselriis">
     <yago:hasName xml:lang="en">Kaj Hasselriis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Kijewski">
     <yago:hasName xml:lang="en">Karen Kijewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Ariyoshi">
+    <yago:hasName xml:lang="en">Koji Ariyoshi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Canty_(author)">
     <yago:hasName xml:lang="en">Kevin Canty</yago:hasName>
@@ -1407,6 +1417,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Neville_(author)">
     <yago:hasName xml:lang="en">Katherine Neville</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Vivian_Rose">
+    <yago:hasName xml:lang="en">Kenneth Vivian Rose</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Frankish">
     <yago:hasName xml:lang="en">Kevin Frankish</yago:hasName>
   </rdf:Description>
@@ -1422,6 +1435,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Sveen">
     <yago:hasName xml:lang="en">Karin Sveen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kureepuzha_Sreekumar">
+    <yago:hasName xml:lang="en">Kureepuzha Sreekumar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Snow">
     <yago:hasName xml:lang="en">Kate Snow</yago:hasName>
@@ -1482,9 +1498,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazumi_Takahashi">
     <yago:hasName xml:lang="en">Kazumi Takahashi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Ferrell">
-    <yago:hasName xml:lang="en">Keith Ferrell</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Z%C3%A9ro">
     <yago:hasName xml:lang="en">Karl Zero</yago:hasName>
   </rdf:Description>
@@ -1507,18 +1520,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ya%C5%9Far_Kemal">
     <yago:hasName xml:lang="en">Kemal Sadık Gökçeli</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishna_Kanta_Handique">
-    <yago:hasName xml:lang="en">Krishna Kanta Handique</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/K%C3%A1tai_Tam%C3%A1s">
-    <yago:hasName xml:lang="en">Katai Tamas</yago:hasName>
-    <yago:hasName xml:lang="en">Kátai Tamás</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Westwood">
     <yago:hasName xml:lang="en">Kim Westwood</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kittikorn_Liasirikun">
     <yago:hasName xml:lang="en">Kittikorn Liasirikun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Austen">
+    <yago:hasName xml:lang="en">Katherine Austen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kit_Robinson">
     <yago:hasName xml:lang="en">Kit Robinson</yago:hasName>
@@ -1532,15 +1541,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Knuts_Skujenieks">
     <yago:hasName xml:lang="en">Knuts Skujenieks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kateb_Yacine">
-    <yago:hasName xml:lang="en">Kateb Yacine</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Sampson_(writer)">
     <yago:hasName xml:lang="en">Kevin Sampson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kateb_Yacine">
+    <yago:hasName xml:lang="en">Kateb Yacine</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kamaria_Muntu">
     <yago:hasName xml:lang="en">Kamaria Muntu</yago:hasName>
-    <yago:hasName xml:lang="en">Kamaria S Muntu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Murphy_(screenwriter)">
     <yago:hasName xml:lang="en">Kevin Murphy</yago:hasName>
@@ -1618,6 +1626,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Koren_Zailckas">
     <yago:hasName xml:lang="en">Koren Zailckas</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._A._Kulkarni">
+    <yago:hasName xml:lang="en">Kulkarni G A</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Heinzen">
     <yago:hasName xml:lang="en">Karl Heinzen</yago:hasName>
   </rdf:Description>
@@ -1646,17 +1657,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kegham_Parseghian">
     <yago:hasName xml:lang="en">Kegham Parseghian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anwar_Farrukhabadi">
-    <yago:hasName xml:lang="en">k</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kata_Inocencio">
     <yago:hasName xml:lang="en">Kata Inocencio</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kent_Stetson">
     <yago:hasName xml:lang="en">Kent Stetson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Auletta">
-    <yago:hasName xml:lang="en">Ken Auletta</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._J._Stevens">
     <yago:hasName xml:lang="en">K.J. Stevens</yago:hasName>
@@ -1684,14 +1689,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khakan_Sajid">
     <yago:hasName xml:lang="en">Khakan Sajid</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kimberly_Hunt">
+    <yago:hasName xml:lang="en">Kimberly Hunt</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kole_Nedelkovski">
     <yago:hasName xml:lang="en">Kole Nedelkovski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Mansfield_(writer)">
     <yago:hasName xml:lang="en">Keith Mansfield</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Brooks_%28writer%29">
-    <yago:hasName xml:lang="en">Kevin Brooks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Bruen">
     <yago:hasName xml:lang="en">Ken Bruen</yago:hasName>
@@ -1702,21 +1707,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Kerr_(actor)">
     <yago:hasName xml:lang="en">Kevin Kerr</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaviraj_%28Lyricist%29">
-    <yago:hasName xml:lang="en">Kaviraj</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaj_Munk">
     <yago:hasName xml:lang="en">Kaj Harald Leininger Munk</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Roberts">
     <yago:hasName xml:lang="en">Katherine Roberts</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirstyn_McDermott">
+    <yago:hasName xml:lang="en">Kirstyn McDermott</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kij_Johnson">
     <yago:hasName xml:lang="en">Kij Johnson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Wilhelm_von_Willisen">
-    <yago:hasName xml:lang="en">Karl Wilhelm von Willisen</yago:hasName>
-    <yago:hasName xml:lang="en">Karl Wilhelm Freiherr von Willisen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Leberecht_Immermann">
     <yago:hasName xml:lang="en">Karl Leberecht Immermann</yago:hasName>
@@ -1726,6 +1727,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kerry_Spackman">
     <yago:hasName xml:lang="en">Kerry Spackman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashif_Butt">
+    <yago:hasName xml:lang="en">Kashif Butt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kees_van_Beijnum">
+    <yago:hasName xml:lang="en">Kees Van Beijnum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keshav_Pandit">
     <yago:hasName xml:lang="en">Keshav Pandit</yago:hasName>
@@ -1745,17 +1752,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khumar_Barabankvi">
     <yago:hasName xml:lang="en">Khumar Barabankvi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karazhmakaran_Gopali">
-    <yago:hasName xml:lang="en">Karazhmakaran Gopali</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Duncum">
     <yago:hasName xml:lang="en">Ken Duncum</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyra_Davis">
-    <yago:hasName xml:lang="en">Kyra Davis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamal_Al-Solaylee">
-    <yago:hasName xml:lang="en">Kamal Al-Solaylee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K%C4%81lid%C4%81sa">
     <yago:hasName xml:lang="en">Kalidasa</yago:hasName>
@@ -1773,11 +1771,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Gordon">
     <yago:hasName xml:lang="en">Kate Gordon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyra_Hicks">
-    <yago:hasName xml:lang="en">Kyra Hicks</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Braid">
     <yago:hasName xml:lang="en">Kate Braid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazys_Brad%C5%ABnas">
+    <yago:hasName xml:lang="en">Kazys Bradunas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Rhodes">
     <yago:hasName xml:lang="en">Kate Rhodes</yago:hasName>
@@ -1787,6 +1785,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ki_Longfellow">
     <yago:hasName xml:lang="en">Ki Longfellow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kana_Nishino">
+    <yago:hasName xml:lang="en">Kana Nishino</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kimberly_Burwick">
     <yago:hasName xml:lang="en">Kimberly Burwick</yago:hasName>
@@ -1811,10 +1812,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krishan_Chander">
     <yago:hasName xml:lang="en">Krishan Chander</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Walker_%28writer%29">
-    <yago:hasName xml:lang="en">Kate Walker</yago:hasName>
-    <yago:hasName xml:lang="en">Kate Walter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Kwok-pun">
     <yago:hasName xml:lang="en">Kwok-Pun Wong</yago:hasName>
@@ -1841,20 +1838,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Waterhouse">
     <yago:hasName xml:lang="en">Keith Waterhouse</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Bowlen">
-    <yago:hasName xml:lang="en">Kathy Bowlen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kancha_Ilaiah">
     <yago:hasName xml:lang="en">Kancha Ilaiah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Bowlen">
+    <yago:hasName xml:lang="en">Kathy Bowlen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Taylor_(poet)">
     <yago:hasName xml:lang="en">Keith Taylor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khurram_Dara">
-    <yago:hasName xml:lang="en">Khurram Dara</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kendra_Norman-Bellamy">
     <yago:hasName xml:lang="en">Kendra Norman-Bellamy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Choy">
+    <yago:hasName xml:lang="en">Ken Choy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Wheeler_(novelist)">
     <yago:hasName xml:lang="en">Kate Wheeler</yago:hasName>
@@ -1880,9 +1877,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Julius_Goldstein">
     <yago:hasName xml:lang="en">Kurt Goldstein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Krissy_Kneen">
-    <yago:hasName xml:lang="en">Krissy Kneen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kay_Thorpe">
     <yago:hasName xml:lang="en">Kay Thorpe</yago:hasName>
   </rdf:Description>
@@ -1898,9 +1892,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keiko_Furukawa">
     <yago:hasName xml:lang="en">Keiko Furukawa</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_O%27Brien_%28author%29">
-    <yago:hasName xml:lang="en">Kevin O'Brien</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Newman_(artist)">
     <yago:hasName xml:lang="en">Karen Newman</yago:hasName>
   </rdf:Description>
@@ -1909,6 +1900,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Friedrich_Kurz">
     <yago:hasName xml:lang="en">Karl Friedrich Kurz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_R._Timmerman">
+    <yago:hasName xml:lang="en">Kenneth R. Timmerman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Russell">
     <yago:hasName xml:lang="en">Karen Russell</yago:hasName>
@@ -1923,14 +1917,11 @@
     <yago:hasName xml:lang="en">Kirsten H. Sanford</yago:hasName>
     <yago:hasName xml:lang="en">Kirsten Sanford</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_O._Chilstrom">
-    <yago:hasName xml:lang="en">Kenneth O. Chilstrom</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilmeny_Niland">
+    <yago:hasName xml:lang="en">Kilmeny Niland</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kjell_Arild_Pollestad">
     <yago:hasName xml:lang="en">Kjell Arild Pollestad</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khosro_Naghed">
-    <yago:hasName xml:lang="en">Khosrow Naghed</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Deans">
     <yago:hasName xml:lang="en">Kathryn Deans</yago:hasName>
@@ -1941,6 +1932,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kunikida_Doppo">
     <yago:hasName xml:lang="en">Kunikida Doppo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalle_K%C3%A4sper">
+    <yago:hasName xml:lang="en">Kalle Kasper</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khristo_Poshtakov">
     <yago:hasName xml:lang="en">Khristo Poshtakov</yago:hasName>
   </rdf:Description>
@@ -1950,14 +1944,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_McPhelim_Cleary">
     <yago:hasName xml:lang="en">Kate McPhelim Cleary</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Harrington_%28poet%29">
-    <yago:hasName xml:lang="en">Kate Harrington</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K%C3%A1lm%C3%A1n_T%C3%B3th">
     <yago:hasName xml:lang="en">Kalman Toth</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tamar_Kintsurashvili">
     <yago:hasName xml:lang="en">Kintsurashvili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khaled_Al-Maeena">
+    <yago:hasName xml:lang="en">Khaled al Maeena</yago:hasName>
+    <yago:hasName xml:lang="en">Khaled Almaeena</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kanti_Bajpai">
     <yago:hasName xml:lang="en">Kanti Bajpai</yago:hasName>
@@ -1984,6 +1979,9 @@
     <yago:hasName xml:lang="en">Kayyara Kinyanna Rai</yago:hasName>
     <yago:hasName xml:lang="en">Kayyar Kinhanna Rai</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dasaradhi">
+    <yago:hasName xml:lang="en">Krishnamacharyulu Dasaradhi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kerri_Sakamoto">
     <yago:hasName xml:lang="en">Kerri Sakamoto</yago:hasName>
   </rdf:Description>
@@ -1997,11 +1995,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kilimanoor_Ramakanthan">
     <yago:hasName xml:lang="en">Kilimanoor Ramakanthan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kainikkara_Padmanabha_Pillai">
+    <yago:hasName xml:lang="en">Kainikkara Padmanabha Pillai</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristin_Butcher">
     <yago:hasName xml:lang="en">Kristin Butcher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaarlo_Bergbom">
     <yago:hasName xml:lang="en">Kaarlo Bergbom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_DeYoung">
+    <yago:hasName xml:lang="en">Karen DeYoung</yago:hasName>
+    <yago:hasName xml:lang="en">Karen Deyoung</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kerry_Shawn_Keys">
     <yago:hasName xml:lang="en">Kerry Shawn Keys</yago:hasName>
@@ -2020,9 +2025,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Chi-won">
     <yago:hasName xml:lang="en">Kim Chi-won</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu_Keng">
-    <yago:hasName xml:lang="en">Keng Lu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenny_Hotz">
     <yago:hasName xml:lang="en">Kenny Hotz</yago:hasName>
@@ -2091,11 +2093,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krishnan_Guru-Murthy">
     <yago:hasName xml:lang="en">Krishnan Guru-Murthy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Krithika_%28writer%29">
-    <yago:hasName xml:lang="en">Krithika</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaoru_Kurimoto">
     <yago:hasName xml:lang="en">Kaoru Kurimoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kovilan">
+    <yago:hasName xml:lang="en">Kandanisseri Vattomparambil Velappan Ayyappan</yago:hasName>
+    <yago:hasName xml:lang="en">Kovilan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Taylor_(author)">
     <yago:hasName xml:lang="en">Keith Taylor</yago:hasName>
@@ -2148,6 +2151,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristjana_Gunnars">
     <yago:hasName xml:lang="en">Kristjana Gunnars</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Case">
+    <yago:hasName xml:lang="en">Ken Case</yago:hasName>
+    <yago:hasName xml:lang="en">Kenneth Craig "Ken" Case</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Kjelgaard">
     <yago:hasName xml:lang="en">Kjelgaard</yago:hasName>
   </rdf:Description>
@@ -2166,10 +2173,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kuttikrishna_Marar">
     <yago:hasName xml:lang="en">Kuttikrishna Marar</yago:hasName>
-    <yago:hasName xml:lang="en">KuttiKrishnamarar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Edward_Wagner">
-    <yago:hasName xml:lang="en">Karl Edward Wagner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Bazzana">
     <yago:hasName xml:lang="en">Kevin Bazzana</yago:hasName>
@@ -2200,10 +2203,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karmel_Kandreva">
     <yago:hasName xml:lang="en">Karmel Kandreva</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerry_Chater">
-    <yago:hasName xml:lang="en">Kerry Chater</yago:hasName>
-    <yago:hasName xml:lang="en">Kerry Michael Chater</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimierz_Moczarski">
     <yago:hasName xml:lang="en">Kazimierz Moczarski</yago:hasName>
@@ -2241,11 +2240,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/K%C3%A5re_Prytz">
     <yago:hasName xml:lang="en">Kaare Prytz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Gordon">
-    <yago:hasName xml:lang="en">Katharine Gordon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Groth">
     <yago:hasName xml:lang="en">Klaus Groth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kikuo_Takano">
+    <yago:hasName xml:lang="en">Kikuo Takano</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Lilley">
     <yago:hasName xml:lang="en">Kate Lilley</yago:hasName>
@@ -2260,14 +2259,14 @@
     <yago:hasName xml:lang="en">Katharine Maltwood</yago:hasName>
     <yago:hasName xml:lang="en">Katharine Emma Maltwood</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chan_Koonchung">
-    <yago:hasName xml:lang="en">Koonchung Chan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Heinz_Bohrer">
     <yago:hasName xml:lang="en">Karl Heinz Bohrer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Miyazawa">
     <yago:hasName xml:lang="en">Kenji Miyazawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_W._Clawson">
+    <yago:hasName xml:lang="en">Ken W. Clawson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khwaju_Kermani">
     <yago:hasName xml:lang="en">Khwaju Kermani</yago:hasName>
@@ -2291,11 +2290,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathrin_Passig">
     <yago:hasName xml:lang="en">Kathrin Passig</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Howard_Johnson">
-    <yago:hasName xml:lang="en">Kim Howard Johnson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Eagle">
     <yago:hasName xml:lang="en">Kathleen Eagle</yago:hasName>
+    <yago:hasName xml:lang="en">Kathleen Pierson Eagle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_In-suk">
     <yago:hasName xml:lang="en">Kim In-suk</yago:hasName>
@@ -2391,8 +2388,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_O&apos;Donnell">
     <yago:hasName xml:lang="en">Kelly Odonnell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khalil_Beidas">
+    <yago:hasName xml:lang="en">Khalil Beidas</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Tucker_Windham">
     <yago:hasName xml:lang="en">Kathryn Tucker Windham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kutlu_Adali">
+    <yago:hasName xml:lang="en">Kutlu Adali</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Landrigan">
     <yago:hasName xml:lang="en">Kevin Landrigan</yago:hasName>
@@ -2402,6 +2405,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Scholes">
     <yago:hasName xml:lang="en">Katherine Scholes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kish%C5%8D_Taniyama">
+    <yago:hasName xml:lang="en">Kishō Taniyama</yago:hasName>
+    <yago:hasName xml:lang="en">Kisho Taniyama</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Rooney">
     <yago:hasName xml:lang="en">Kathleen Rooney</yago:hasName>
@@ -2440,7 +2447,6 @@
     <yago:hasName xml:lang="en">Ken Piesse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katrina_vanden_Heuvel">
-    <yago:hasName xml:lang="en">Katrina vanden Heuvel</yago:hasName>
     <yago:hasName xml:lang="en">Katrina Vandenheuvel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/James_Klugmann">
@@ -2467,9 +2473,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuki_Kaneshiro">
     <yago:hasName xml:lang="en">Kazuki Kaneshiro</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaiser_Haq">
-    <yago:hasName xml:lang="en">Kaiser Haq</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Hanna">
     <yago:hasName xml:lang="en">Kevin Konrad Hanna</yago:hasName>
     <yago:hasName xml:lang="en">Kevin Hanna</yago:hasName>
@@ -2480,15 +2483,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Lomer">
     <yago:hasName xml:lang="en">Kathryn Lomer</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelton_B._Miller">
+    <yago:hasName xml:lang="en">Kelton Bedell Miller</yago:hasName>
+    <yago:hasName xml:lang="en">Kelton B. Miller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanthirava_Narasaraja_II">
+    <yago:hasName xml:lang="en">Kanthirava Narasaraja Ii</yago:hasName>
+    <yago:hasName xml:lang="en">Kanthirava Narasaraja II</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_G._Mills">
     <yago:hasName xml:lang="en">Kenneth G. Mills</yago:hasName>
     <yago:hasName xml:lang="en">Kenneth Mills</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krzysztof_Cegielski">
     <yago:hasName xml:lang="en">Krzysztof Cegielski</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Jackson_%28writer%29">
-    <yago:hasName xml:lang="en">Kevin Jackson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Koenraad_Elst">
     <yago:hasName xml:lang="en">Koenraad Elst</yago:hasName>
@@ -2501,9 +2509,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kjell_Fj%C3%B8rtoft">
     <yago:hasName xml:lang="en">Kjell Fjortoft</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamala_Sankrityayan">
-    <yago:hasName xml:lang="en">Kamala Sankrityayan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kent_Shaw">
     <yago:hasName xml:lang="en">Kent Shaw</yago:hasName>
@@ -2526,10 +2531,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Vollm%C3%B6ller">
     <yago:hasName xml:lang="en">Karl Vollmoller</yago:hasName>
     <yago:hasName xml:lang="en">Karl Vollmöller</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Walton_%28writer%29">
-    <yago:hasName xml:lang="en">Kenneth Andrew Walton</yago:hasName>
-    <yago:hasName xml:lang="en">Kenneth Walton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Zetter">
     <yago:hasName xml:lang="en">Kim Zetter</yago:hasName>
@@ -2558,9 +2559,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Schulz">
     <yago:hasName xml:lang="en">Kathryn Schulz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kesava_Reddy">
-    <yago:hasName xml:lang="en">Kesava Reddy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Caesar">
     <yago:hasName xml:lang="en">Kurt Caesar</yago:hasName>
   </rdf:Description>
@@ -2578,9 +2576,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Maron">
     <yago:hasName xml:lang="en">Karen Maron</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Bleyer">
-    <yago:hasName xml:lang="en">Kevin Bleyer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karyn_Monk">
     <yago:hasName xml:lang="en">Karyn Monk</yago:hasName>
@@ -2622,6 +2617,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kareen_Wynter">
     <yago:hasName xml:lang="en">Kareen Wynter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimierz_Waliszewski">
+    <yago:hasName xml:lang="en">Kazimierz Waliszewski</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Armstrong">
     <yago:hasName xml:lang="en">Karen Armstrong</yago:hasName>
   </rdf:Description>
@@ -2636,9 +2634,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Curran_(writer)">
     <yago:hasName xml:lang="en">Kevin Curran</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirk_Mitchell">
-    <yago:hasName xml:lang="en">Kirk Mitchell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Saunders">
     <yago:hasName xml:lang="en">Kate Saunders</yago:hasName>
@@ -2664,7 +2659,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kancherla_Gopanna">
     <yago:hasName xml:lang="en">Kancherla Gopanna</yago:hasName>
-    <yago:hasName xml:lang="en">Kancharla Gopanna</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Young-ha">
     <yago:hasName xml:lang="en">Kim Young-ha</yago:hasName>
@@ -2677,6 +2671,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kit_Berry">
     <yago:hasName xml:lang="en">Kit Berry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaarina_Goldberg">
+    <yago:hasName xml:lang="en">Kaarina Goldberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._T._Muhammed">
     <yago:hasName xml:lang="en">K. T. Muhammed</yago:hasName>
@@ -2696,6 +2693,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shen_Kuo">
     <yago:hasName xml:lang="en">Kuo Shen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazenambo_Kazenambo">
+    <yago:hasName xml:lang="en">Kazenambo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Essex">
     <yago:hasName xml:lang="en">Karen Essex</yago:hasName>
@@ -2724,18 +2724,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keisuke_Yoshida">
     <yago:hasName xml:lang="en">Keisuke Yoshida</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Lee_Bates">
-    <yago:hasName xml:lang="en">Katharine Lee Bates</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khandavalli_Lakshmi_Ranjanam">
     <yago:hasName xml:lang="en">Khandavalli Lakshmi Ranjanam</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Lee_Bates">
+    <yago:hasName xml:lang="en">Katharine Lee Bates</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Lasky">
     <yago:hasName xml:lang="en">Kathryn Lasky</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Yeon-su">
-    <yago:hasName xml:lang="en">Kim Yeon-Su</yago:hasName>
-    <yago:hasName xml:lang="en">Kim Yeon-su</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalayna_Price">
     <yago:hasName xml:lang="en">Kalayna Price</yago:hasName>
@@ -2777,9 +2773,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Irzykowski">
     <yago:hasName xml:lang="en">Karol Irzykowski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/K._Natesa_Iyer">
-    <yago:hasName xml:lang="en">K. Natesa Iyer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaushalya_Bannerji">
     <yago:hasName xml:lang="en">Kaushalya Bannerji</yago:hasName>
   </rdf:Description>
@@ -2788,10 +2781,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kishwar_Naheed">
     <yago:hasName xml:lang="en">Kishwar</yago:hasName>
-    <yago:hasName xml:lang="en">Kishwar Naheed</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerin_O%27Keefe">
-    <yago:hasName xml:lang="en">Kerin O'Keefe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iakovos_Kambanelis">
     <yago:hasName xml:lang="en">Kambanellis Iakovos</yago:hasName>
@@ -2817,13 +2806,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Constable">
     <yago:hasName xml:lang="en">Kate Constable</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_K%C3%B6rner_%28author%29">
-    <yago:hasName xml:lang="en">Karl Theodore Korner</yago:hasName>
-    <yago:hasName xml:lang="en">Karl Theodor Körner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Pl%C3%ADhal">
-    <yago:hasName xml:lang="en">Karel Plihal</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._C._Constantine">
     <yago:hasName xml:lang="en">K. C. Constantine</yago:hasName>
   </rdf:Description>
@@ -2845,18 +2827,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kay_Ryan">
     <yago:hasName xml:lang="en">Kay Ryan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Baldwin_%28novelist%29">
-    <yago:hasName xml:lang="en">Kathleen Baldwin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khushal_Khan_Khattak">
     <yago:hasName xml:lang="en">Khushal Khan Khattak (The Warrior Poet)</yago:hasName>
     <yago:hasName xml:lang="en">Khushal Khan Khattak</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaifi_Azmi">
     <yago:hasName xml:lang="en">Kaifi Azmi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamalakara_Kameshwara_Rao">
-    <yago:hasName xml:lang="en">Kamalakara Kameswara Rao</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelli_Russell_Agodon">
     <yago:hasName xml:lang="en">Kelli Russell Agodon</yago:hasName>
@@ -2883,17 +2859,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_M._Baer">
     <yago:hasName xml:lang="en">Karl M. Baer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Allen_Taylor">
-    <yago:hasName xml:lang="en">Kenneth Allen Taylor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kambara_Ariake">
     <yago:hasName xml:lang="en">Kambara Ariake</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kimiko_Hahn">
     <yago:hasName xml:lang="en">Kimiko Hahn</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Donohue_%28novelist%29">
-    <yago:hasName xml:lang="en">Keith Donohue</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristin_Hannah">
     <yago:hasName xml:lang="en">Kristin Hannah</yago:hasName>
@@ -2919,6 +2889,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khaqan_Haider_Ghazi">
     <yago:hasName xml:lang="en">Khaqan Haider Ghazi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_van_Mander">
+    <yago:hasName xml:lang="en">Karel van Mander</yago:hasName>
+    <yago:hasName xml:lang="en">Karel Van Mander</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Alcal%C3%A1">
     <yago:hasName xml:lang="en">Kathleen Alcalá</yago:hasName>
   </rdf:Description>
@@ -2942,12 +2916,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karlheinz_Deschner">
     <yago:hasName xml:lang="en">Karlheinz Deschner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_O%27Brien">
-    <yago:hasName xml:lang="en">Kathleen O'Brien</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kostas_Zouraris">
-    <yago:hasName xml:lang="en">Konstantinos Zouraris</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kris_Kirk">
     <yago:hasName xml:lang="en">Kris Kirk</yago:hasName>
@@ -3056,6 +3024,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Boykin">
     <yago:hasName xml:lang="en">Keith Boykin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Orrison">
+    <yago:hasName xml:lang="en">Katherine Orrison</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Stonehouse">
     <yago:hasName xml:lang="en">Kenneth Stonehouse</yago:hasName>
   </rdf:Description>
@@ -3089,6 +3060,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirsty_Wark">
     <yago:hasName xml:lang="en">Kirsty Anne Wark</yago:hasName>
     <yago:hasName xml:lang="en">Kirsty Wark</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_H._Ashley">
+    <yago:hasName xml:lang="en">Kenneth H. Ashley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Botsford">
     <yago:hasName xml:lang="en">Keith Botsford</yago:hasName>
@@ -3132,7 +3106,6 @@
     <yago:hasName xml:lang="en">Kaye Webb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaan_%C4%B0nce">
-    <yago:hasName xml:lang="en">Kaan İnce</yago:hasName>
     <yago:hasName xml:lang="en">Kaan Ince</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Kwang-su">
@@ -3141,16 +3114,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristina_Brenk">
     <yago:hasName xml:lang="en">Kristina Brenk</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kent_Cooper">
+    <yago:hasName xml:lang="en">Kent Cooper</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kostis_Gimossoulis">
     <yago:hasName xml:lang="en">Kostis Gimossoulis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kat_Martin">
     <yago:hasName xml:lang="en">Kat Martin</yago:hasName>
     <yago:hasName xml:lang="en">Kathleen Kelly Martin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Perdew">
-    <yago:hasName xml:lang="en">Kelly Perdew</yago:hasName>
-    <yago:hasName xml:lang="en">Kelly loser</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kamal_Khujandi">
     <yago:hasName xml:lang="en">Kamal Khujandi</yago:hasName>
@@ -3168,22 +3140,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_McCall">
     <yago:hasName xml:lang="en">Katie McCall</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Tidbeck">
-    <yago:hasName xml:lang="en">Karin Tidbeck</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristin_Williamson">
     <yago:hasName xml:lang="en">Kristin Williamson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_O%27Brien">
-    <yago:hasName xml:lang="en">Kate O'Brien</yago:hasName>
-    <yago:hasName xml:lang="en">Kate Obrien</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._Shivaram_Karanth">
     <yago:hasName xml:lang="en">K. Shivarama Karantha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Gutzman">
     <yago:hasName xml:lang="en">Kevin Gutzman</yago:hasName>
-    <yago:hasName xml:lang="en">Kevin R. C. Gutzman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kimberly_Quinn">
     <yago:hasName xml:lang="en">Kimberly Quinn</yago:hasName>
@@ -3218,9 +3182,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyohara_no_Motosuke">
     <yago:hasName xml:lang="en">Kiyohara no Motosuke</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kent_Harrington">
-    <yago:hasName xml:lang="en">Kent Harrington</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Chong">
     <yago:hasName xml:lang="en">Kevin Chong</yago:hasName>
   </rdf:Description>
@@ -3230,11 +3191,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_McGoogan">
     <yago:hasName xml:lang="en">Ken McGoogan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazys_Binkis">
+    <yago:hasName xml:lang="en">Kazys Binkis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Chu">
     <yago:hasName xml:lang="en">Kathy Chu</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Lord">
-    <yago:hasName xml:lang="en">Karen Lord</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenny_Smith">
+    <yago:hasName xml:lang="en">Kenny Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Thompson_(author)">
     <yago:hasName xml:lang="en">Kate Thompson</yago:hasName>
@@ -3251,11 +3215,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kavita_Daswani">
     <yago:hasName xml:lang="en">Kavita Daswani</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Gori">
+    <yago:hasName xml:lang="en">Kathy Gori</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Norris_(poet)">
     <yago:hasName xml:lang="en">Kathleen Norris</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kishor_Kadam">
-    <yago:hasName xml:lang="en">Kishor Kadam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathi_Kamen_Goldmark">
     <yago:hasName xml:lang="en">Kathi Kamen Goldmark</yago:hasName>
@@ -3263,20 +3227,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Wiktor_Zawodzi%C5%84ski">
     <yago:hasName xml:lang="en">Karol Wiktor Zawodzinski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Hitchcock_(author)">
-    <yago:hasName xml:lang="en">Karen Hitchcock</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Hlav%C3%A1%C4%8Dek">
     <yago:hasName xml:lang="en">Karel Hlavacek</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathi_Goertzen">
     <yago:hasName xml:lang="en">Kathi Goertzen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Miller">
-    <yago:hasName xml:lang="en">Karl Miller</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khalid_Amayreh">
     <yago:hasName xml:lang="en">Khalid Amayreh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Miller">
+    <yago:hasName xml:lang="en">Karl Miller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Hechtman">
     <yago:hasName xml:lang="en">Ken Hechtman</yago:hasName>
@@ -3323,6 +3284,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_O._Hanson">
     <yago:hasName xml:lang="en">Kenneth O. Hanson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K%C3%A4rim_Tin%C3%A7urin">
+    <yago:hasName xml:lang="en">Kärim Tinçurin</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl-Hermann_Flach">
     <yago:hasName xml:lang="en">Karl-Hermann Flach</yago:hasName>
   </rdf:Description>
@@ -3344,6 +3308,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kamini_Roy">
     <yago:hasName xml:lang="en">Kamini Roy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kir_Bulychev">
+    <yago:hasName xml:lang="en">Kir Bulychev</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Pol%C3%A1%C4%8Dek">
     <yago:hasName xml:lang="en">Karel Polacek</yago:hasName>
   </rdf:Description>
@@ -3354,9 +3321,6 @@
     <yago:hasName xml:lang="en">Konstanty Ildefons Gałczyński</yago:hasName>
     <yago:hasName xml:lang="en">Konstanty Ildefons Galczynski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Canty_%28author%29">
-    <yago:hasName xml:lang="en">Kevin Canty</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._V._Johansen">
     <yago:hasName xml:lang="en">K. V. Johansen</yago:hasName>
     <yago:hasName xml:lang="en">K.V. Johansen</yago:hasName>
@@ -3366,6 +3330,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Hulme">
     <yago:hasName xml:lang="en">Kathryn Hulme</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelefa_Sanneh">
+    <yago:hasName xml:lang="en">Kelefa Sanneh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_McColley">
     <yago:hasName xml:lang="en">Kevin McColley</yago:hasName>
@@ -3379,9 +3346,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kait_Kerrigan">
     <yago:hasName xml:lang="en">Kait Kerrigan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabir_Bakul">
-    <yago:hasName xml:lang="en">Kabir Bakul</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._S._Raja">
     <yago:hasName xml:lang="en">K. S. Raja</yago:hasName>
     <yago:hasName xml:lang="en">K.S. Raja</yago:hasName>
@@ -3392,8 +3356,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoteru_Hanada">
     <yago:hasName xml:lang="en">Kiyoteru Hanada</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidden%4038320210">
-    <yago:hasName xml:lang="en">KHUBAIB ORAIZY</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Skipper">
+    <yago:hasName xml:lang="en">Keith Skipper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Fordyce">
     <yago:hasName xml:lang="en">Keith Fordyce</yago:hasName>
@@ -3407,11 +3371,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kurumi_Inui">
     <yago:hasName xml:lang="en">Kurumi Inui</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klement_Jug">
+    <yago:hasName xml:lang="en">Klement Jug</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Merz">
     <yago:hasName xml:lang="en">Klaus Merz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Fedin">
     <yago:hasName xml:lang="en">Konstantin Aleksandrovich Fedin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Herber">
+    <yago:hasName xml:lang="en">Keith Herber</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Smith_(filmmaker)">
     <yago:hasName xml:lang="en">Kathy Smith</yago:hasName>
@@ -3421,6 +3391,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Roberts_(author)">
     <yago:hasName xml:lang="en">Kenneth Roberts</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Arenson">
+    <yago:hasName xml:lang="en">Karen Arenson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Kinoshita">
     <yago:hasName xml:lang="en">Kinoshita Junji</yago:hasName>
@@ -3452,9 +3425,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathie_Lee_Gifford">
     <yago:hasName xml:lang="en">Kathie Lee Gifford</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_H._Carl">
-    <yago:hasName xml:lang="en">Klaus H. Carl</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Gayer">
     <yago:hasName xml:lang="en">Karin Gayer</yago:hasName>
   </rdf:Description>
@@ -3474,11 +3444,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Quinn_(broadcaster)">
     <yago:hasName xml:lang="en">Keith Quinn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosta_Khetagurov">
-    <yago:hasName xml:lang="en">Kosta Khetagurov</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Novak">
+    <yago:hasName xml:lang="en">Kate Novak</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kris_Osborn">
     <yago:hasName xml:lang="en">Kris Osborn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosta_Khetagurov">
+    <yago:hasName xml:lang="en">Kosta Khetagurov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Yoneda">
+    <yago:hasName xml:lang="en">Karl Yoneda</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_McCune">
     <yago:hasName xml:lang="en">Keith McCune</yago:hasName>
@@ -3503,9 +3479,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Vaginov">
     <yago:hasName xml:lang="en">Konstantin Vaginov</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Pike_%28author%29">
-    <yago:hasName xml:lang="en">Kevin Christopher McFadden</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalyanasundaranar">
     <yago:hasName xml:lang="en">Kalyanasundaram</yago:hasName>
@@ -3559,9 +3532,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Hirotsu">
     <yago:hasName xml:lang="en">Kazuo Hirotsu</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Liu">
-    <yago:hasName xml:lang="en">Ken Liu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Brown_(playwright)">
     <yago:hasName xml:lang="en">Kenneth Brown</yago:hasName>
   </rdf:Description>
@@ -3584,7 +3554,11 @@
     <yago:hasName xml:lang="en">Karrine Steffans</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kurd_Lasswitz">
+    <yago:hasName xml:lang="en">Kurd Laßwitz</yago:hasName>
     <yago:hasName xml:lang="en">Kurd Lasswitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kay_Chorao">
+    <yago:hasName xml:lang="en">Kay Chorao</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katya_Adler">
     <yago:hasName xml:lang="en">Katya Adler</yago:hasName>
@@ -3612,13 +3586,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kui_Kinyanjui">
     <yago:hasName xml:lang="en">Kui Kinyanjui</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Weckstr%C3%B6m">
-    <yago:hasName xml:lang="en">Kim Weckstrom</yago:hasName>
-    <yago:hasName xml:lang="en">Kim Weckström</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kat_Kruger">
-    <yago:hasName xml:lang="en">Katherine (Kat) Kruger</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Volkman">
     <yago:hasName xml:lang="en">Karen Volkman</yago:hasName>
@@ -3670,15 +3637,11 @@
     <yago:hasName xml:lang="en">Kotayya Pratyagatma</yago:hasName>
     <yago:hasName xml:lang="en">K. Pratyagatma</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khagendranath_Mitra">
-    <yago:hasName xml:lang="en">Khagendranath Mitra</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Hynek_M%C3%A1cha">
     <yago:hasName xml:lang="en">Karel Hynek Mácha</yago:hasName>
     <yago:hasName xml:lang="en">Karel Hynek Macha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kedarnath_Singh">
-    <yago:hasName xml:lang="en">Kedar Nath Singh</yago:hasName>
     <yago:hasName xml:lang="en">Kedarnath Singh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Houghton">
@@ -3702,17 +3665,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kerstin_Norborg">
     <yago:hasName xml:lang="en">Kerstin Norborg</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl-Maria_Kertbeny">
+    <yago:hasName xml:lang="en">Karl-Maria Kertbeny</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_DiCamillo">
     <yago:hasName xml:lang="en">Kate DiCamillo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kass_Fleisher">
     <yago:hasName xml:lang="en">Kass Fleisher</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Collins_%28author%29">
-    <yago:hasName xml:lang="en">Kate Collins</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kahlil_Gibran">
-    <yago:hasName xml:lang="en">Kahlil Gibran</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Karbo">
     <yago:hasName xml:lang="en">Karen Karbo</yago:hasName>
@@ -3727,14 +3687,11 @@
     <yago:hasName xml:lang="en">Kenzo Kitakata</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Chiacchia">
+    <yago:hasName xml:lang="en">Kenneth Chiacchia</yago:hasName>
     <yago:hasName xml:lang="en">Kenneth "Ken" Chiacchia</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ku_Sang">
-    <yago:hasName xml:lang="en">Ku Sang</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kandukuri_Veeresalingam">
-    <yago:hasName xml:lang="en">Kandukuri</yago:hasName>
-    <yago:hasName xml:lang="en">Kandukuri Veereshalingam</yago:hasName>
+    <yago:hasName xml:lang="en">Kandukuri Veeresalingam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kit_Pearson">
     <yago:hasName xml:lang="en">Kit Pearson</yago:hasName>
@@ -3815,9 +3772,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalli_Dakos">
     <yago:hasName xml:lang="en">Kalli Dakos</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Young_%28poet%29">
-    <yago:hasName xml:lang="en">Kevin Young</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Bailey_(poet)">
     <yago:hasName xml:lang="en">Kevin Bailey</yago:hasName>
   </rdf:Description>
@@ -3848,18 +3802,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Anthony">
     <yago:hasName xml:lang="en">Katharine Anthony</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Chatto">
-    <yago:hasName xml:lang="en">Keith Chatto</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenzabur%C5%8D_%C5%8Ce">
     <yago:hasName xml:lang="en">Kenzaburō Ōe</yago:hasName>
     <yago:hasName xml:lang="en">Kenzaburo Oe</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Shapi_Kaziev">
-    <yago:hasName xml:lang="en">Kaziev Shapi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaleb_Nation_%28writer%29">
-    <yago:hasName xml:lang="en">Kaleb Nation</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._D._Wentworth">
     <yago:hasName xml:lang="en">K. D. Wentworth</yago:hasName>
@@ -3879,9 +3824,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Maltman">
     <yago:hasName xml:lang="en">Kim Maltman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Williamson_%28screenwriter%29">
-    <yago:hasName xml:lang="en">Kevin Williamson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Narasaki">
     <yago:hasName xml:lang="en">Karen Narasaki</yago:hasName>
   </rdf:Description>
@@ -3894,9 +3836,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keki_N._Daruwalla">
     <yago:hasName xml:lang="en">Keki N. Daruwalla</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kas%C3%ABm_Trebeshina">
-    <yago:hasName xml:lang="en">Kasëm Trebeshina</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kajetan_Kovi%C4%8D">
     <yago:hasName xml:lang="en">Kajetan Kovič</yago:hasName>
     <yago:hasName xml:lang="en">Kajetan Kovic</yago:hasName>
@@ -3907,12 +3846,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Carter_(comedian)">
     <yago:hasName xml:lang="en">Keith Carter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kajiyama_Toshiyuki">
+    <yago:hasName xml:lang="en">Kajiyama Toshiyuki</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kwame_Kwei-Armah">
     <yago:hasName xml:lang="en">Kwame Kwei-Armah</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kiril_Peychinovich">
     <yago:hasName xml:lang="en">Kiril Pejčinoviḱ</yago:hasName>
     <yago:hasName xml:lang="en">Kiril Peychinovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Smith_(presenter)">
+    <yago:hasName xml:lang="en">Kate Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Heyman">
     <yago:hasName xml:lang="en">Kathryn Heyman</yago:hasName>
@@ -3941,11 +3886,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._J._Gabrielsson">
     <yago:hasName xml:lang="en">K.J. Gabrielsson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Edwards">
-    <yago:hasName xml:lang="en">Kim Edwards</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kjell_Heggelund">
     <yago:hasName xml:lang="en">Kjell Heggelund</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auguste_Hilarion,_comte_de_K%C3%A9ratry">
+    <yago:hasName xml:lang="en">Keratry, Auguste Hilarion, comte de</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalki_Krishnamurthy">
     <yago:hasName xml:lang="en">Kalki Krishnamurthy</yago:hasName>
@@ -3957,7 +3902,7 @@
     <yago:hasName xml:lang="en">Kati Rekai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kembrew_McLeod">
-    <yago:hasName xml:lang="en">Kembrew McLeod</yago:hasName>
+    <yago:hasName xml:lang="en">Kembrew Macleod</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Maryam_Salama">
     <yago:hasName xml:lang="en">Kamel Maghur</yago:hasName>
@@ -3965,8 +3910,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Bridges">
     <yago:hasName xml:lang="en">Kate Bridges</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyun_Ki-young">
-    <yago:hasName xml:lang="en">Ki-Young Hyun</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaur_Kender">
+    <yago:hasName xml:lang="en">Kender</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kavi_Kant">
     <yago:hasName xml:lang="en">Kavi Kant</yago:hasName>
@@ -4044,17 +3989,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathe_Koja">
     <yago:hasName xml:lang="en">Kathe Koja</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Kotler">
-    <yago:hasName xml:lang="en">Kotler philip</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keston_Sutherland">
     <yago:hasName xml:lang="en">Keston Sutherland</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Reichardt">
     <yago:hasName xml:lang="en">Kelly Reichardt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Frampton">
-    <yago:hasName xml:lang="en">Kenneth Frampton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Adolph_Gjellerup">
     <yago:hasName xml:lang="en">Karl Gjellerup</yago:hasName>
@@ -4065,9 +4004,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Reback">
     <yago:hasName xml:lang="en">Katherine Reback</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kutty_%28cartoonist%29">
-    <yago:hasName xml:lang="en">Kutty</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kodai_no_Kimi">
     <yago:hasName xml:lang="en">Kodai No Kimi</yago:hasName>
@@ -4084,14 +4020,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krishnamoorthy_Puranik">
     <yago:hasName xml:lang="en">Krishnamoorthy Puranik</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanalaa">
-    <yago:hasName xml:lang="en">King of Maui</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Stripling_Byer">
-    <yago:hasName xml:lang="en">Kathryn Stripling Byer</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Dayus">
-    <yago:hasName xml:lang="en">Kathleen Dayus</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Flett">
+    <yago:hasName xml:lang="en">Kathryn Flett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Goedeke">
     <yago:hasName xml:lang="en">Karl Goedeke</yago:hasName>
@@ -4125,14 +4055,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katariina_Souri">
     <yago:hasName xml:lang="en">Katariina Souri</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Morris,_3rd_Baron_Killanin">
+    <yago:hasName xml:lang="en">Killanin, Michael Morris, 3rd Baron</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Max">
     <yago:hasName xml:lang="en">Kevin Max</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ky%C5%ABya_Fukada">
     <yago:hasName xml:lang="en">Kyūya Fukada</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumari_Radha">
-    <yago:hasName xml:lang="en">Kumari Radha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Gay">
     <yago:hasName xml:lang="en">Kelly Gay</yago:hasName>
@@ -4154,6 +4084,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristin_Naca">
     <yago:hasName xml:lang="en">Kristin Naca</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Garebian">
+    <yago:hasName xml:lang="en">Keith Garebian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Poppy_Harlow">
     <yago:hasName xml:lang="en">Katharine "Poppy" Harlow</yago:hasName>
@@ -4187,9 +4120,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khalil_Mutran">
     <yago:hasName xml:lang="en">Khalil Mutran</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Subramanian_Krishnamoorthy">
-    <yago:hasName xml:lang="en">Kolkata S. Krishnamoorthy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K._P._Rajagopalan">
     <yago:hasName xml:lang="en">K. P. Rajagopalan</yago:hasName>
   </rdf:Description>
@@ -4199,12 +4129,24 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazi_Nazrul_Islam">
     <yago:hasName xml:lang="en">Kazi Nazrul Islam</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristina_Borjesson">
+    <yago:hasName xml:lang="en">Kristina Borjesson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khoja_Akhmet_Yassawi">
+    <yago:hasName xml:lang="en">Khwaja Ahemad Yasavi</yago:hasName>
+    <yago:hasName xml:lang="en">Khoja Akhmet Yassawi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Law">
     <yago:hasName xml:lang="en">Keith Law</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Jebb">
+    <yago:hasName xml:lang="en">Keith Jebb</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keiichiro_Hirano">
     <yago:hasName xml:lang="en">Keiichiro Hirano</yago:hasName>
-    <yago:hasName xml:lang="en">Keiichirō Hirano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Marx">
+    <yago:hasName xml:lang="en">Karl Marx</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kai_Hermann">
     <yago:hasName xml:lang="en">Kai Hermann</yago:hasName>
@@ -4215,6 +4157,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirby_Doyle">
     <yago:hasName xml:lang="en">Kirby Doyle</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishan_Kumar_Sharma_%22Rasik%22">
+    <yago:hasName xml:lang="en">Krishan Kumar Sharma "Rasik"</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kirby_Wright">
     <yago:hasName xml:lang="en">Kirby Wright</yago:hasName>
   </rdf:Description>
@@ -4223,9 +4168,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Biebl">
     <yago:hasName xml:lang="en">Konstantin Biebl</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Neville_%28author%29">
-    <yago:hasName xml:lang="en">Katherine Neville</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Corrigan">
     <yago:hasName xml:lang="en">Kelly Corrigan</yago:hasName>
@@ -4239,9 +4181,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaylee_Hartung">
     <yago:hasName xml:lang="en">Kaylee Hartung</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazi_Abul_Kasem">
-    <yago:hasName xml:lang="en">Kazi Abul Kasem</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Fugate">
     <yago:hasName xml:lang="en">Katherine Fugate</yago:hasName>
   </rdf:Description>
@@ -4250,7 +4189,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K%C5%ABkai">
     <yago:hasName xml:lang="en">Kukai</yago:hasName>
-    <yago:hasName xml:lang="en">Kūkai (空海)</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalonymus_ben_Kalonymus">
     <yago:hasName xml:lang="en">Kalonymus Ben Kalonymus</yago:hasName>
@@ -4270,17 +4208,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Krishna_Prakash_Bahadur">
     <yago:hasName xml:lang="en">Krishna Prakash Bahadur</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_McFarland">
-    <yago:hasName xml:lang="en">Keith McFarland</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Bishop">
     <yago:hasName xml:lang="en">Kevin Bishop</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimierz_Zdziechowski">
     <yago:hasName xml:lang="en">Kazimierz Zdziechowski</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Okamatsu">
-    <yago:hasName xml:lang="en">Kazuo Okamatsu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kara_Magsanoc-Alikpala">
     <yago:hasName xml:lang="en">Kara Magsanoc-Alikpala</yago:hasName>
@@ -4291,17 +4223,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Brooks_(writer)">
     <yago:hasName xml:lang="en">Kevin Brooks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyle_Mills_%28author%29">
-    <yago:hasName xml:lang="en">Kyle Mills</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Eichenwald">
+    <yago:hasName xml:lang="en">Kurt Eichenwald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Kerwin_McCrimmon">
     <yago:hasName xml:lang="en">Katie Kerwin McCrimmon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kathi_Appelt">
     <yago:hasName xml:lang="en">Kathi Appelt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Charles">
-    <yago:hasName xml:lang="en">Kate Charles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katia_Grubisic">
     <yago:hasName xml:lang="en">Katia Grubisic</yago:hasName>
@@ -4312,11 +4241,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keir_Hardie">
     <yago:hasName xml:lang="en">Keir Hardie</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Sosnoski">
+    <yago:hasName xml:lang="en">Karen Sosnoski</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kat_Richardson">
     <yago:hasName xml:lang="en">Kat Richardson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken&apos;ichi_Yoshida_(literary_scholar)">
     <yago:hasName xml:lang="en">Ken'ichi Yoshida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Slaughter">
+    <yago:hasName xml:lang="en">Karin Slaughter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kiur_Aarma">
     <yago:hasName xml:lang="en">Kiur Aarma</yago:hasName>
@@ -4350,6 +4285,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Echlin">
     <yago:hasName xml:lang="en">Kim Echlin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Kirkwood,_Jr.">
+    <yago:hasName xml:lang="en">Kirkwood, Jr., James</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Glasier">
     <yago:hasName xml:lang="en">Katharine Glasier</yago:hasName>
     <yago:hasName xml:lang="en">Katharine Bruce Glasier</yago:hasName>
@@ -4378,6 +4316,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Marsh">
     <yago:hasName xml:lang="en">Katherine Marsh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelley_Kerney">
+    <yago:hasName xml:lang="en">Kelley Kerney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kabir_Suman">
     <yago:hasName xml:lang="en">Kabir Suman</yago:hasName>
@@ -4414,7 +4355,7 @@
     <yago:hasName xml:lang="en">Katja Spur</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karoline_von_G%C3%BCnderrode">
-    <yago:hasName xml:lang="en">Karoline Friederike Louise Maximiliane von Günderrode</yago:hasName>
+    <yago:hasName xml:lang="en">Karoline von Gunderrode</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaoru_Maruyama">
     <yago:hasName xml:lang="en">Kaoru Maruyama</yago:hasName>
@@ -4424,6 +4365,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Kruse_Anderson">
     <yago:hasName xml:lang="en">Karen Kruse Anderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S._B._Komaiko">
+    <yago:hasName xml:lang="en">Komaiko</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kulap_Saipradit">
     <yago:hasName xml:lang="en">Kulap Saipradit</yago:hasName>
@@ -4455,10 +4399,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kad_Merad">
     <yago:hasName xml:lang="en">Kad Merad</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Davies_%28director%29">
-    <yago:hasName xml:lang="en">Kevin Davies</yago:hasName>
-    <yago:hasName xml:lang="en">Kevin Jon Davies</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/K%C4%99stutis_Kasparavi%C4%8Dius">
     <yago:hasName xml:lang="en">Kestutis Kasparavicius</yago:hasName>
@@ -4498,12 +4438,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/King-Kok_Cheung">
     <yago:hasName xml:lang="en">King-Kok Cheung</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishan_Kumar_Sharma_%2522Rasik%2522">
-    <yago:hasName xml:lang="en">Krishan Kumar Sharma "Rasik"</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Wilhelm">
-    <yago:hasName xml:lang="en">Kate Wilhelm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Belford">
     <yago:hasName xml:lang="en">Ken Belford</yago:hasName>
@@ -4567,9 +4501,6 @@
     <yago:hasName xml:lang="en">Konstantin Ivanov</yago:hasName>
     <yago:hasName xml:lang="en">Konstantin Vasilyevich Ivanov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_O%27Grady">
-    <yago:hasName xml:lang="en">Kathleen O'Grady</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kivi_Larmola">
     <yago:hasName xml:lang="en">Kivi Larmola</yago:hasName>
   </rdf:Description>
@@ -4591,9 +4522,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Brush">
     <yago:hasName xml:lang="en">Katherine Brush</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_Page">
-    <yago:hasName xml:lang="en">Kathy Page</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Coogan">
     <yago:hasName xml:lang="en">Kevin Coogan</yago:hasName>
@@ -4622,9 +4550,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kiril_Merdzhanski">
     <yago:hasName xml:lang="en">Kiril Merdzhanski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Davies">
-    <yago:hasName xml:lang="en">Katharine Davies</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kane_O&apos;Hara">
     <yago:hasName xml:lang="en">Kane Ohara</yago:hasName>
   </rdf:Description>
@@ -4638,8 +4563,8 @@
     <yago:hasName xml:lang="en">Karolina Svetla</yago:hasName>
     <yago:hasName xml:lang="en">Karolina Světlá</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalin_Terziyski">
-    <yago:hasName xml:lang="en">Kalin Terziyski</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Kraus">
+    <yago:hasName xml:lang="en">Karl Kraus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kul_Nes%C3%AEm%C3%AE">
     <yago:hasName xml:lang="en">Kul Nesimi</yago:hasName>
@@ -4669,9 +4594,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharina_Hacker">
     <yago:hasName xml:lang="en">Katharina Hacker</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilimanoor_Raja_Raja_Varma_Koithampuran">
-    <yago:hasName xml:lang="en">Kilimanoor Raja Raja Varma Koithampuran</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katarina_Sandstr%C3%B6m">
     <yago:hasName xml:lang="en">Katarina Sandstrom</yago:hasName>
     <yago:hasName xml:lang="en">Katarina Sandström</yago:hasName>
@@ -4685,9 +4607,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kimmo_Lehtonen">
     <yago:hasName xml:lang="en">Kimmo Lehtonen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khwairakpam_Chaoba">
-    <yago:hasName xml:lang="en">Khwairakpam Chaoba</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Scott">
     <yago:hasName xml:lang="en">Kim Scott</yago:hasName>
   </rdf:Description>
@@ -4699,6 +4618,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Khan">
     <yago:hasName xml:lang="en">Katie Khan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitabatake_Chikafusa">
+    <yago:hasName xml:lang="en">Kitabatake Chikafusa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Schroeder">
     <yago:hasName xml:lang="en">Karl Schroeder</yago:hasName>
@@ -4717,9 +4639,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine_Susannah_Prichard">
     <yago:hasName xml:lang="en">Katharine Susannah Prichard</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Callan">
-    <yago:hasName xml:lang="en">Kevin Callan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kaho_Miyasaka">
     <yago:hasName xml:lang="en">Kaho Miyasaka</yago:hasName>
@@ -4753,7 +4672,6 @@
     <yago:hasName xml:lang="en">Keith Wilkinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karan_Thapar">
-    <yago:hasName xml:lang="en">Karan Thapars</yago:hasName>
     <yago:hasName xml:lang="en">Karan Thapar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kristijonas_Donelaitis">
@@ -4774,6 +4692,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Black">
     <yago:hasName xml:lang="en">Karen Black</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Bleyer">
+    <yago:hasName xml:lang="en">Keith Bleyer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karleen_Bradford">
     <yago:hasName xml:lang="en">Karleen Bradford</yago:hasName>
   </rdf:Description>
@@ -4784,7 +4705,7 @@
     <yago:hasName xml:lang="en">Karen Lee Field</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kuvempu">
-    <yago:hasName xml:lang="en">Kuppali Venkatappa Puttappa</yago:hasName>
+    <yago:hasName xml:lang="en">Kuppali Venkatappagowda Puttappa</yago:hasName>
     <yago:hasName xml:lang="en">Kuvempu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Welsh">
@@ -4809,14 +4730,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kusum_Nair">
     <yago:hasName xml:lang="en">Kusum Nair</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken%27ichi_Yoshida_%28literary_scholar%29">
-    <yago:hasName xml:lang="en">Ken'ichi Yoshida</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_An-hwei_Lee">
     <yago:hasName xml:lang="en">Karen An-Hwei Lee</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Sky">
-    <yago:hasName xml:lang="en">Kathleen Sky</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katalin_Bogyay">
     <yago:hasName xml:lang="en">Katalin Bogyay</yago:hasName>
@@ -4826,7 +4741,7 @@
     <yago:hasName xml:lang="en">kamal Haasan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_McLarin">
-    <yago:hasName xml:lang="en">Kim McLarin</yago:hasName>
+    <yago:hasName xml:lang="en">Kim Maclarin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Finley">
     <yago:hasName xml:lang="en">Karen Finley</yago:hasName>
@@ -4839,6 +4754,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Elliott">
     <yago:hasName xml:lang="en">Kate Elliott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamyang_Kyi">
+    <yago:hasName xml:lang="en">Kyi Jamyang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kat_Long">
     <yago:hasName xml:lang="en">Kat Long</yago:hasName>
@@ -4857,10 +4775,15 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kalifa_Tillisi">
     <yago:hasName xml:lang="en">Khalifa Mohammed Tillisi</yago:hasName>
-    <yago:hasName xml:lang="en">Kalifa Tillisi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Allott">
     <yago:hasName xml:lang="en">Kenneth Allott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Kawamura">
+    <yago:hasName xml:lang="en">Kawamura Takeshi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasym_Tynystanov">
+    <yago:hasName xml:lang="en">Kasym Tynystanov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kitamura_Tokoku">
     <yago:hasName xml:lang="en">Kitamura Tōkoku</yago:hasName>
@@ -4872,14 +4795,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Kemp_(literary_critic)">
     <yago:hasName xml:lang="en">Kemp</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Hardy">
-    <yago:hasName xml:lang="en">Keith Davis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katha_Pollitt">
     <yago:hasName xml:lang="en">Katha Pollitt</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiichi_Suzuki_%28composer%29">
-    <yago:hasName xml:lang="en">Keiichi Suzuki</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Reddin">
     <yago:hasName xml:lang="en">Keith Reddin</yago:hasName>
@@ -4892,9 +4809,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karin_Fossum">
     <yago:hasName xml:lang="en">Karin Fossum</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Minshew">
-    <yago:hasName xml:lang="en">Kathryn Minshew</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Binney_Shippen">
     <yago:hasName xml:lang="en">Katherine Shippen</yago:hasName>
@@ -4934,7 +4848,7 @@
     <yago:hasName xml:lang="en">Katenin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kumar_Vishwas">
-    <yago:hasName xml:lang="en">Kumar Vishwas</yago:hasName>
+    <yago:hasName xml:lang="en">Kumar Viswas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Gutzkow">
     <yago:hasName xml:lang="en">Karl Gutzkow</yago:hasName>
@@ -4942,11 +4856,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Khurshid_Rizvi">
     <yago:hasName xml:lang="en">Khurshid Rizvi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mang_Ke">
-    <yago:hasName xml:lang="en">Ke Mang</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Jennings">
     <yago:hasName xml:lang="en">Kate Jennings</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Hyesoon">
+    <yago:hasName xml:lang="en">Kim Hyesoon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Keorapetse_Kgositsile">
     <yago:hasName xml:lang="en">Keorapetse Kgositsile</yago:hasName>

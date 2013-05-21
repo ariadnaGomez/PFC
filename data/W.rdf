@@ -17,10 +17,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Vivibear">
     <yago:hasName xml:lang="en">Weiwei Zhang</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Cann">
+    <yago:hasName xml:lang="en">William A. Cann</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_F._Nolan">
     <yago:hasName xml:lang="en">William F. Nolan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_M._Miller,_Jr.">
+    <yago:hasName xml:lang="en">Walter Miller</yago:hasName>
     <yago:hasName xml:lang="en">Walter Michael Miller, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82adys%C5%82aw_M%C5%82ynek">
@@ -37,6 +41,9 @@
     <yago:hasName xml:lang="en">William Everett (real name) Cook</yago:hasName>
     <yago:hasName xml:lang="en">William Everett Cook</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_(Islwyn)">
+    <yago:hasName xml:lang="en">William Thomas</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Iwaniuk">
     <yago:hasName xml:lang="en">Waclaw Iwaniuk</yago:hasName>
   </rdf:Description>
@@ -51,6 +58,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cowper_Brann">
     <yago:hasName xml:lang="en">William Cowper Brann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Jerrold">
+    <yago:hasName xml:lang="en">Walter Copeland Jerrold</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Siebenhaar">
     <yago:hasName xml:lang="en">Willem Siebenhaar</yago:hasName>
@@ -79,6 +89,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Baylebridge">
     <yago:hasName xml:lang="en">William Baylebridge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Waiser">
+    <yago:hasName xml:lang="en">William "Bill" Waiser</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Waris_Dirie">
     <yago:hasName xml:lang="en">Waris Dirie</yago:hasName>
@@ -110,9 +123,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wells_Tower">
     <yago:hasName xml:lang="en">Wells Tower</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Julian_Fellowes">
-    <yago:hasName xml:lang="en">West Stafford</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Auld">
     <yago:hasName xml:lang="en">William Auld</yago:hasName>
   </rdf:Description>
@@ -138,9 +148,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hines">
     <yago:hasName xml:lang="en">William Hines</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Joseph_Corbet">
-    <yago:hasName xml:lang="en">William Joseph Corbet</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Eisner">
     <yago:hasName xml:lang="en">Will Eisner</yago:hasName>
   </rdf:Description>
@@ -159,6 +166,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walt_Curtis">
     <yago:hasName xml:lang="en">Walt Curtis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willard_Motley">
+    <yago:hasName xml:lang="en">Willard Motley</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cartwright_(dramatist)">
     <yago:hasName xml:lang="en">William Cartwright</yago:hasName>
   </rdf:Description>
@@ -167,9 +177,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Edmondstoune_Aytoun">
     <yago:hasName xml:lang="en">William Edmondstoune Aytoun</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Macarthur">
-    <yago:hasName xml:lang="en">William Macarthur</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Hodgkinson">
     <yago:hasName xml:lang="en">Will Hodgkinson</yago:hasName>
@@ -191,9 +198,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._D._Cocker">
     <yago:hasName xml:lang="en">W. D. Cocker</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_of_Apulia">
-    <yago:hasName xml:lang="en">William of Apulia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Manchester">
     <yago:hasName xml:lang="en">William Manchester</yago:hasName>
@@ -241,7 +245,7 @@
     <yago:hasName xml:lang="en">William Simpson Potter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_McIlvanney">
-    <yago:hasName xml:lang="en">William McIlvanney</yago:hasName>
+    <yago:hasName xml:lang="en">William Macilvanney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Micha%C5%82_Zaleski">
     <yago:hasName xml:lang="en">Wacław Michał Zaleski</yago:hasName>
@@ -260,9 +264,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wladimir_d&apos;Ormesson">
     <yago:hasName xml:lang="en">Wladimir d' Ormesson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Crowe_%28poet%29">
-    <yago:hasName xml:lang="en">William Crowe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Trant_Fagan">
     <yago:hasName xml:lang="en">William Trant Fagan</yago:hasName>
@@ -294,9 +295,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Elliott">
     <yago:hasName xml:lang="en">Will Elliott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Camden">
-    <yago:hasName xml:lang="en">William Camden</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Diehl">
     <yago:hasName xml:lang="en">William Diehl</yago:hasName>
   </rdf:Description>
@@ -308,10 +306,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walt_Bodine">
     <yago:hasName xml:lang="en">Walt Bodine</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Stevens_Perry">
-    <yago:hasName xml:lang="en">William Stevens Perry, D.D., LL.D. D.C.L.</yago:hasName>
-    <yago:hasName xml:lang="en">William Stevens Perry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winthrop_Mackworth_Praed">
     <yago:hasName xml:lang="en">Winthrop Mackworth Praed</yago:hasName>
@@ -338,6 +332,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_de_Malveisin">
     <yago:hasName xml:lang="en">William de Malveisin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Maginn">
+    <yago:hasName xml:lang="en">William Maginn</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Marchant">
     <yago:hasName xml:lang="en">William Marchant</yago:hasName>
   </rdf:Description>
@@ -357,9 +354,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Graham">
     <yago:hasName xml:lang="en">Winston Graham</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hurrell_Mallock">
-    <yago:hasName xml:lang="en">William Hurrell Mallock</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Allison">
     <yago:hasName xml:lang="en">Will Allison</yago:hasName>
   </rdf:Description>
@@ -372,6 +366,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Trevor">
     <yago:hasName xml:lang="en">William Trevor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Baer">
+    <yago:hasName xml:lang="en">William Baer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Kostakis_(author)">
     <yago:hasName xml:lang="en">William Adam Kostakis</yago:hasName>
@@ -410,9 +407,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Hanrahan">
     <yago:hasName xml:lang="en">Will Hanrahan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Horwood_%28novelist%29">
-    <yago:hasName xml:lang="en">William Horwood</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mastrosimone">
     <yago:hasName xml:lang="en">William Mastrosimone</yago:hasName>
   </rdf:Description>
@@ -427,9 +421,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wahei_Tatematsu">
     <yago:hasName xml:lang="en">Wahei Tatematsu</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendeen_H._Eolis">
-    <yago:hasName xml:lang="en">Wendeen H. Eolis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Barnstone">
     <yago:hasName xml:lang="en">Willis Barnstone</yago:hasName>
@@ -458,11 +449,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Boudreau">
     <yago:hasName xml:lang="en">Walter Boudreau</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Plomer">
+    <yago:hasName xml:lang="en">William Plomer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Wilson,_Lady_Wilson_of_Rievaulx">
     <yago:hasName xml:lang="en">Wilson of Rievaulx, Mary Wilson, Baroness</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dietrich_%28novelist%29">
-    <yago:hasName xml:lang="en">William Dietrich</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Archer_(critic)">
     <yago:hasName xml:lang="en">William Archer</yago:hasName>
@@ -473,8 +464,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winter_Miller">
     <yago:hasName xml:lang="en">Winter Miller</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Collins_%28poet%29">
-    <yago:hasName xml:lang="en">William Collins</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wen_Spencer">
+    <yago:hasName xml:lang="en">Wen Spencer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Karlin">
     <yago:hasName xml:lang="en">Wayne Karlin</yago:hasName>
@@ -510,6 +501,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_G._Bogart">
     <yago:hasName xml:lang="en">William G. Bogart</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winnie_Monsod">
+    <yago:hasName xml:lang="en">Winnie Monsod</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fitzjames_Oldham">
     <yago:hasName xml:lang="en">William Oldham</yago:hasName>
   </rdf:Description>
@@ -530,6 +524,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_William_Magnay,_2nd_Baronet">
     <yago:hasName xml:lang="en">William Magnay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Harman">
+    <yago:hasName xml:lang="en">Willis Harman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Roetzheim">
     <yago:hasName xml:lang="en">William Roetzheim</yago:hasName>
@@ -554,6 +551,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fulbecke">
     <yago:hasName xml:lang="en">William Fulbecke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Whitehouse_Collins">
+    <yago:hasName xml:lang="en">William Whitehouse Collins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winfield_Myers">
     <yago:hasName xml:lang="en">Winfield Myers</yago:hasName>
@@ -597,6 +597,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Woo">
     <yago:hasName xml:lang="en">William Woo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Ellis">
+    <yago:hasName xml:lang="en">Walter Ellis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Como">
     <yago:hasName xml:lang="en">William Como</yago:hasName>
@@ -661,6 +664,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Canton">
     <yago:hasName xml:lang="en">William Canton</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfred_Brown,_Baron_Brown">
+    <yago:hasName xml:lang="en">Wilfred Brown</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._Watts_Biggers">
     <yago:hasName xml:lang="en">W. Watts Biggers</yago:hasName>
   </rdf:Description>
@@ -708,9 +714,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Crowe_(poet)">
     <yago:hasName xml:lang="en">William Crowe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Lee_Brammer">
-    <yago:hasName xml:lang="en">William Lee Brammer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Somervile">
     <yago:hasName xml:lang="en">William Somervile</yago:hasName>
   </rdf:Description>
@@ -721,7 +724,7 @@
     <yago:hasName xml:lang="en">Wilhelm Herchenbach</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Montgomery_McGovern">
-    <yago:hasName xml:lang="en">William Montgomery McGovern</yago:hasName>
+    <yago:hasName xml:lang="en">William Montgomery Macgovern</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Rosenberg">
     <yago:hasName xml:lang="en">Wilhelm Ludwig Rosenberg</yago:hasName>
@@ -729,8 +732,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Gifford">
     <yago:hasName xml:lang="en">William Gifford</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_Harris">
-    <yago:hasName xml:lang="en">Wilson Harris</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Keepers_Maxwell,_Jr.">
+    <yago:hasName xml:lang="en">William Keepers Maxwell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._S._Jones">
     <yago:hasName xml:lang="en">W. S. Jones</yago:hasName>
@@ -738,8 +741,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._N._Herbert">
     <yago:hasName xml:lang="en">W. N. Herbert</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Lewis">
-    <yago:hasName xml:lang="en">Wendy Lewis</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morris_Meredith,_Jr.">
+    <yago:hasName xml:lang="en">William Meredith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Smith_(poet)">
     <yago:hasName xml:lang="en">William Smith</yago:hasName>
@@ -780,6 +783,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hawkins_(clergyman)">
     <yago:hasName xml:lang="en">William Hawkins</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Mossberg">
+    <yago:hasName xml:lang="en">Walter Mossberg</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hamilton_(British_Army_officer)">
     <yago:hasName xml:lang="en">William Hamilton</yago:hasName>
   </rdf:Description>
@@ -809,9 +815,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Christopher_Wordsworth">
     <yago:hasName xml:lang="en">William Christopher Wordsworth</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dalrymple_%28historian%29">
-    <yago:hasName xml:lang="en">William Dalrymple</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hinson_Cole">
     <yago:hasName xml:lang="en">William Hinson Cole</yago:hasName>
@@ -855,6 +858,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_S._Masterman">
     <yago:hasName xml:lang="en">Walter S. Masterman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hammersley">
+    <yago:hasName xml:lang="en">William Hammersley</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Borden">
     <yago:hasName xml:lang="en">Walter Borden</yago:hasName>
   </rdf:Description>
@@ -876,14 +882,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_James_Henderson">
     <yago:hasName xml:lang="en">William James Henderson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walid_Soliman">
+    <yago:hasName xml:lang="en">Walid Soliman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Richardson">
     <yago:hasName xml:lang="en">Willis Richardson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Gibson_(playwright)">
     <yago:hasName xml:lang="en">William Gibson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Chin_Foo">
-    <yago:hasName xml:lang="en">Wong Chin Foo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Hilbig">
     <yago:hasName xml:lang="en">Wolfgang Hilbig</yago:hasName>
@@ -903,14 +909,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Bowart">
     <yago:hasName xml:lang="en">Walter Bowart</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Kennedy_%28author%29">
-    <yago:hasName xml:lang="en">William Kennedy</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Sharpe_Kilmer">
     <yago:hasName xml:lang="en">Willis Sharpe Kilmer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendela_Hebbe">
     <yago:hasName xml:lang="en">Wendela Hebbe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Liggett">
+    <yago:hasName xml:lang="en">Walter Liggett</yago:hasName>
+    <yago:hasName xml:lang="en">Walter W. Liggett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Mass">
     <yago:hasName xml:lang="en">Wendy Mass</yago:hasName>
@@ -973,15 +980,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Kowalski">
     <yago:hasName xml:lang="en">Wladyslaw Kowalski</yago:hasName>
+    <yago:hasName xml:lang="en">Władysław Kowalski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Holt_(writer)">
     <yago:hasName xml:lang="en">William Holt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfred_Greatorex">
     <yago:hasName xml:lang="en">Wilfred Greatorex</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_da_Silva">
-    <yago:hasName xml:lang="en">Wilson da Silva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Woody_Allen">
     <yago:hasName xml:lang="en">Woody Allen</yago:hasName>
@@ -999,6 +1004,7 @@
     <yago:hasName xml:lang="en">William Hazlitt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Monahan">
+    <yago:hasName xml:lang="en">William J. Monahan</yago:hasName>
     <yago:hasName xml:lang="en">William Monahan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wim_Zaal">
@@ -1016,14 +1022,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Tobin">
     <yago:hasName xml:lang="en">William Tobin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wharton_%28author%29">
-    <yago:hasName xml:lang="en">William Wharton</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Alexander_Percy">
     <yago:hasName xml:lang="en">William Alexander Percy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wes_Melcher">
-    <yago:hasName xml:lang="en">Wes Melcher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Durchholz">
     <yago:hasName xml:lang="en">William Eric Durchholz</yago:hasName>
@@ -1091,14 +1091,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bell_(author)">
     <yago:hasName xml:lang="en">William Bell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Gay_%28author%29">
-    <yago:hasName xml:lang="en">William Gay</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mountfort">
     <yago:hasName xml:lang="en">William Mountfort</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Francis_Barry">
     <yago:hasName xml:lang="en">William Francis Barry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Charles_Bonaparte-Wyse">
+    <yago:hasName xml:lang="en">William Charles Bonaparte-Wyse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walther_Kiaulehn">
     <yago:hasName xml:lang="en">Walther Kiaulehn</yago:hasName>
@@ -1109,14 +1109,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._Eaton">
     <yago:hasName xml:lang="en">William J. Eaton</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Keepers_Maxwell%2C_Jr.">
-    <yago:hasName xml:lang="en">William Keepers Maxwell</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._Higginson">
     <yago:hasName xml:lang="en">William J. Higginson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Kloos">
     <yago:hasName xml:lang="en">Willem Kloos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Kaner">
+    <yago:hasName xml:lang="en">Walter Kaner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Logan_(poet)">
     <yago:hasName xml:lang="en">William Logan</yago:hasName>
@@ -1125,14 +1125,8 @@
     <yago:hasName xml:lang="en">William Arthur Irwin</yago:hasName>
     <yago:hasName xml:lang="en">W. Arthur Irwin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_Biermann">
-    <yago:hasName xml:lang="en">Wolf Biermann</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Whyte_III">
     <yago:hasName xml:lang="en">Whyte, Daniel, III</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Clark%2C_Jr._%28diplomat%29">
-    <yago:hasName xml:lang="en">William Clark Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Ziniu">
     <yago:hasName xml:lang="en">Wu Ziniu</yago:hasName>
@@ -1179,6 +1173,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Tevis">
     <yago:hasName xml:lang="en">Walter Tevis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._R._Rodgers">
+    <yago:hasName xml:lang="en">WR Rodgers</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Broniewski">
     <yago:hasName xml:lang="en">Wladyslaw Broniewski</yago:hasName>
   </rdf:Description>
@@ -1191,8 +1188,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_C._Dietz">
     <yago:hasName xml:lang="en">William C. Dietz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morris_Meredith%2C_Jr.">
-    <yago:hasName xml:lang="en">William Meredith</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_B._Wilderson_III">
+    <yago:hasName xml:lang="en">Wilderson, Frank B., III</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ritchie_(editor)">
     <yago:hasName xml:lang="en">William Ritchie</yago:hasName>
@@ -1208,6 +1205,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendell_Phillips_Garrison">
     <yago:hasName xml:lang="en">Wendell Phillips Garrison</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Wan">
+    <yago:hasName xml:lang="en">Wan Yang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Douglas-Home">
     <yago:hasName xml:lang="en">William Douglas Home</yago:hasName>
@@ -1227,9 +1227,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Peterfield_Trent">
     <yago:hasName xml:lang="en">William Peterfield Trent</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wright_%28author%29">
-    <yago:hasName xml:lang="en">William Wright</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winfield_Townley_Scott">
     <yago:hasName xml:lang="en">Winfield Townley Scott</yago:hasName>
   </rdf:Description>
@@ -1238,12 +1235,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Williams_Pantycelyn">
     <yago:hasName xml:lang="en">William Williams</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ellery_Channing_%28poet%29">
-    <yago:hasName xml:lang="en">William Ellery Channing</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Mingji">
-    <yago:hasName xml:lang="en">Wu Mingji</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_Lee_Flores">
     <yago:hasName xml:lang="en">Wilson Lee Flores</yago:hasName>
@@ -1279,9 +1270,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Walsh">
     <yago:hasName xml:lang="en">William Thomas Walsh</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_von_Scherff">
-    <yago:hasName xml:lang="en">Wilhelm von Scherff</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._Florence">
     <yago:hasName xml:lang="en">William J. Florence</yago:hasName>
     <yago:hasName xml:lang="en">William Jermyn Conlin</yago:hasName>
@@ -1292,9 +1280,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cowper">
     <yago:hasName xml:lang="en">William Cowper</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fyffe">
+    <yago:hasName xml:lang="en">William Fyffe</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare">
     <yago:hasName xml:lang="en">William Shakespeare</yago:hasName>
-    <yago:hasName xml:lang="en">William</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Ray">
     <yago:hasName xml:lang="en">Wayne Ray</yago:hasName>
@@ -1324,6 +1314,9 @@
     <yago:hasName xml:lang="en">Wiliam Cooper Nell</yago:hasName>
     <yago:hasName xml:lang="en">William Cooper Nell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_A._Hilliard">
+    <yago:hasName xml:lang="en">William A. Hilliard</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wanda_Malecka">
     <yago:hasName xml:lang="en">Wanda Malecka</yago:hasName>
   </rdf:Description>
@@ -1346,12 +1339,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilton_Barnhardt">
     <yago:hasName xml:lang="en">Wilton Barnhard</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fotheringham">
+    <yago:hasName xml:lang="en">William Fotheringham</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_MacLeod_Raine">
     <yago:hasName xml:lang="en">William MacLeod Raine</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Coleman_%28editor%29">
-    <yago:hasName xml:lang="en">William Coleman</yago:hasName>
-    <yago:hasName xml:lang="en">Willaim Coleman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Christopher_Baer">
     <yago:hasName xml:lang="en">Will Christopher Baer</yago:hasName>
@@ -1391,17 +1383,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Elsschot">
     <yago:hasName xml:lang="en">Willem Elsschot</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_P._Hoar">
-    <yago:hasName xml:lang="en">William P. Hoar</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_Beltr%C3%A1n">
+    <yago:hasName xml:lang="en">Washington Beltran</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Tefs">
     <yago:hasName xml:lang="en">Wayne Tefs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Witter_Bynner">
     <yago:hasName xml:lang="en">Witter Bynner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Inman_%28poet%29">
-    <yago:hasName xml:lang="en">Will Inman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wally_Bruner">
     <yago:hasName xml:lang="en">Wally Bruner</yago:hasName>
@@ -1440,10 +1429,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._Somerset_Maugham">
     <yago:hasName xml:lang="en">W. Somerset Maugham</yago:hasName>
     <yago:hasName xml:lang="en">William Somerset Maugham</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_MacDonald_%28Christian_author%29">
-    <yago:hasName xml:lang="en">William Macdonald</yago:hasName>
-    <yago:hasName xml:lang="en">William MacDonald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Whitley_Strieber">
     <yago:hasName xml:lang="en">Whitley Strieber</yago:hasName>
@@ -1495,9 +1480,6 @@
     <yago:hasName xml:lang="en">William "Popsie" Randolph</yago:hasName>
     <yago:hasName xml:lang="en">William “Popsie” Randolph</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Least_Heat-Moon">
-    <yago:hasName xml:lang="en">William Least Heat-Moon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Darcy">
     <yago:hasName xml:lang="en">Wendy Brennan</yago:hasName>
   </rdf:Description>
@@ -1531,9 +1513,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hannes_Bok">
     <yago:hasName xml:lang="en">Wayne Woodard</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Ming">
-    <yago:hasName xml:lang="en">Wu Ming</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wakas_Mir">
     <yago:hasName xml:lang="en">Wakas Mir</yago:hasName>
@@ -1587,6 +1566,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Parry">
     <yago:hasName xml:lang="en">William John Parry</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wiseman_Magwa">
+    <yago:hasName xml:lang="en">Wiseman Magwa</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dickey_(poet)">
     <yago:hasName xml:lang="en">William Dickey</yago:hasName>
   </rdf:Description>
@@ -1600,11 +1582,20 @@
     <yago:hasName xml:lang="en">Władysław Orkan</yago:hasName>
     <yago:hasName xml:lang="en">Wladyslaw Orkan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Hall_(Texas_politician)">
+    <yago:hasName xml:lang="en">William N. "Billy" Hall, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Perriam">
     <yago:hasName xml:lang="en">Wendy Perriam</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welly_Yang">
+    <yago:hasName xml:lang="en">Welly Yang</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Lowenfels">
     <yago:hasName xml:lang="en">Walter Lowenfels</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Xianghu">
+    <yago:hasName xml:lang="en">Wu Xianghu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cullen_Bryant">
     <yago:hasName xml:lang="en">William Cullen Bryant</yago:hasName>
@@ -1614,6 +1605,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Bird">
     <yago:hasName xml:lang="en">William Bird</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Grimm">
+    <yago:hasName xml:lang="en">Wilhelm Grimm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Adler">
     <yago:hasName xml:lang="en">Warren Adler</yago:hasName>
@@ -1639,9 +1633,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Herberg">
     <yago:hasName xml:lang="en">Will Herberg</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Still">
-    <yago:hasName xml:lang="en">William Still</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Reay">
     <yago:hasName xml:lang="en">William Thomas Reay</yago:hasName>
   </rdf:Description>
@@ -1654,15 +1645,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wael_Abbas">
     <yago:hasName xml:lang="en">Wael Abbas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Perron">
-    <yago:hasName xml:lang="en">Wendy Perron</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._S._Di_Piero">
     <yago:hasName xml:lang="en">W. S. Di Piero</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Whitehead_%28Canadian_writer%29">
-    <yago:hasName xml:lang="en">William Whitehead</yago:hasName>
-    <yago:hasName xml:lang="en">William (Bill) Whitehead</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Hall">
     <yago:hasName xml:lang="en">Willis Hall</yago:hasName>
@@ -1672,6 +1656,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_West">
     <yago:hasName xml:lang="en">Wendy West</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_H%C3%A4ring">
+    <yago:hasName xml:lang="en">Wilhelm Haring</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Jim">
     <yago:hasName xml:lang="en">wong4 zim1</yago:hasName>
@@ -1691,9 +1678,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Raspberry">
     <yago:hasName xml:lang="en">William Raspberry</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Li_%28linguist%29">
-    <yago:hasName xml:lang="en">Wang Li</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Nack">
     <yago:hasName xml:lang="en">William Nack</yago:hasName>
@@ -1721,9 +1705,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Karp">
     <yago:hasName xml:lang="en">Walter Karp</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Baer_%28poet%29">
-    <yago:hasName xml:lang="en">William Baer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Locke">
     <yago:hasName xml:lang="en">William John Locke</yago:hasName>
   </rdf:Description>
@@ -1735,9 +1716,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Meston">
     <yago:hasName xml:lang="en">William Meston</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McKay_Aitken">
-    <yago:hasName xml:lang="en">William Mckay Aitken</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Werner_Br%C3%A4unig">
     <yago:hasName xml:lang="en">Werner Bräunig</yago:hasName>
@@ -1781,9 +1759,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_R._Forstchen">
     <yago:hasName xml:lang="en">William R. Forstchen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Taylor_%28man_of_letters%29">
-    <yago:hasName xml:lang="en">William Taylor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Kerr">
     <yago:hasName xml:lang="en">Walter Kerr</yago:hasName>
   </rdf:Description>
@@ -1811,9 +1786,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wanda_Coleman">
     <yago:hasName xml:lang="en">Wanda Coleman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Winnie_Sorgdrager">
-    <yago:hasName xml:lang="en">Winnie Sorgdrager</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Self">
     <yago:hasName xml:lang="en">Will Self</yago:hasName>
@@ -1844,6 +1816,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hanley">
     <yago:hasName xml:lang="en">William Hanley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Warner,_Jr.">
+    <yago:hasName xml:lang="en">Warner, Harry, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_D._Wetherell">
     <yago:hasName xml:lang="en">Walter D. Wetherell</yago:hasName>
@@ -1891,17 +1866,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Wasserstein">
     <yago:hasName xml:lang="en">Wendy Wasserstein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Proxmire">
-    <yago:hasName xml:lang="en">William Proxmire</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Ernsting">
     <yago:hasName xml:lang="en">Walter Ernsting</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._Blake">
     <yago:hasName xml:lang="en">William J. Blake</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wilson_%28poet%29">
-    <yago:hasName xml:lang="en">William Wilson</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_(Gwilym_Marles)">
+    <yago:hasName xml:lang="en">William Thomas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Prescott_Webb">
     <yago:hasName xml:lang="en">Walter Prescott Webb</yago:hasName>
@@ -1945,6 +1917,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._A._Harbinson">
     <yago:hasName xml:lang="en">W.A. Harbinson</yago:hasName>
+    <yago:hasName xml:lang="en">W. A. Harbinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Congreve">
     <yago:hasName xml:lang="en">William Congreve</yago:hasName>
@@ -1967,11 +1940,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Stead">
     <yago:hasName xml:lang="en">William Thomas Stead</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Finch,_Countess_of_Winchilsea">
+    <yago:hasName xml:lang="en">Winchilsea, Anne Finch, Countess of</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._Dorvillier">
     <yago:hasName xml:lang="en">William Dorvillier</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Carpenter_%28writer%29">
-    <yago:hasName xml:lang="en">William Carpenter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Strode_(poet)">
     <yago:hasName xml:lang="en">William Strode</yago:hasName>
@@ -1999,9 +1972,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Patrick_Ryan">
     <yago:hasName xml:lang="en">William Patrick Ryan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thompson_(philosopher)">
-    <yago:hasName xml:lang="en">William Thompson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Stobb">
     <yago:hasName xml:lang="en">William Stobb</yago:hasName>
@@ -2041,12 +2011,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fennor">
     <yago:hasName xml:lang="en">William Fennor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_S._Burroughs%2C_Jr.">
-    <yago:hasName xml:lang="en">William S. Burroughs, Jr.</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Poy_Lee">
-    <yago:hasName xml:lang="en">William P. Lee</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wojciech_Belon">
     <yago:hasName xml:lang="en">Wojciech Belon</yago:hasName>
   </rdf:Description>
@@ -2084,9 +2048,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Kean_Seymour">
     <yago:hasName xml:lang="en">WK Seymour</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Wager">
-    <yago:hasName xml:lang="en">Walter Wager</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sansom">
     <yago:hasName xml:lang="en">William Sansom</yago:hasName>
   </rdf:Description>
@@ -2095,9 +2056,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Empson">
     <yago:hasName xml:lang="en">William Empson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyatt_Tee_Walker">
-    <yago:hasName xml:lang="en">Wyatt Tee Walker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Oltmans">
     <yago:hasName xml:lang="en">Willem Oltmans</yago:hasName>
@@ -2127,18 +2085,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Drummond_of_Hawthornden">
     <yago:hasName xml:lang="en">William Drummond of Hawthornden</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Peskett">
+    <yago:hasName xml:lang="en">William Peskett</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Whitney_Matheson">
     <yago:hasName xml:lang="en">Whitney Matheson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Westbrook_Pegler">
     <yago:hasName xml:lang="en">Westbrook Pegler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bell_%28author%29">
-    <yago:hasName xml:lang="en">William Bell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Willy_Eisenhart">
-    <yago:hasName xml:lang="en">Willy Eisenhart</yago:hasName>
-    <yago:hasName xml:lang="en">Willie Eisenhart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Johnson_(author)">
     <yago:hasName xml:lang="en">William Johnson</yago:hasName>
@@ -2174,9 +2128,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bayne_(1858%E2%80%931922)">
     <yago:hasName xml:lang="en">William Bayne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Thomson_Omond">
-    <yago:hasName xml:lang="en">William Omond</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Alexander_Greenhill">
     <yago:hasName xml:lang="en">William Alexander Greenhill</yago:hasName>
   </rdf:Description>
@@ -2185,12 +2136,19 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_McFee">
     <yago:hasName xml:lang="en">William McFee</yago:hasName>
+    <yago:hasName xml:lang="en">William Macfee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wace">
+    <yago:hasName xml:lang="en">Wace</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wallace_Thurman">
     <yago:hasName xml:lang="en">Wallace Thurman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willy_Maley">
     <yago:hasName xml:lang="en">Willy Maley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sherwen">
+    <yago:hasName xml:lang="en">William Paul Sherwen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sharp_(writer)">
     <yago:hasName xml:lang="en">William Sharp</yago:hasName>
@@ -2213,9 +2171,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Saroyan">
     <yago:hasName xml:lang="en">William Saroyan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Potocki">
-    <yago:hasName xml:lang="en">Wacław Potocki</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Stewart_Rose">
     <yago:hasName xml:lang="en">William Stewart Rose</yago:hasName>
   </rdf:Description>
@@ -2227,9 +2182,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Heinesen">
     <yago:hasName xml:lang="en">William Heinesen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Leete_Stone%2C_Sr.">
-    <yago:hasName xml:lang="en">William Leete Stone</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Fitzgerald">
     <yago:hasName xml:lang="en">William Thomas Fitzgerald</yago:hasName>
@@ -2290,9 +2242,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_L._Shirer">
     <yago:hasName xml:lang="en">William Shirer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Edwards_(school_inspector)">
-    <yago:hasName xml:lang="en">William Edwards</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilbert_Awdry">
     <yago:hasName xml:lang="en">Wilbert Vere Awdry</yago:hasName>
   </rdf:Description>
@@ -2308,14 +2257,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Paton_Ker">
     <yago:hasName xml:lang="en">William Paton Ker</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_Benavides">
+    <yago:hasName xml:lang="en">Washington Benavides</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Corbett">
     <yago:hasName xml:lang="en">W. Scott Corbett</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Weyl">
-    <yago:hasName xml:lang="en">Walter Weyl</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_J._Turner">
-    <yago:hasName xml:lang="en">Walter James Redfern Turner</yago:hasName>
+    <yago:hasName xml:lang="en">Walter James Turner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Schouler">
     <yago:hasName xml:lang="en">William Schouler</yago:hasName>
@@ -2338,9 +2287,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Carleton">
     <yago:hasName xml:lang="en">William Carleton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Haggard">
-    <yago:hasName xml:lang="en">William Haggard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Habington">
     <yago:hasName xml:lang="en">William Habington</yago:hasName>
@@ -2406,12 +2352,11 @@
     <yago:hasName xml:lang="en">William Wallace Johnstone</yago:hasName>
     <yago:hasName xml:lang="en">William W. Johnstone</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_S._Yellow_Robe%2C_Jr.">
-    <yago:hasName xml:lang="en">William S. Yellow Robe, Jr.</yago:hasName>
-    <yago:hasName xml:lang="en">William S. Yellow Robe</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Zabka">
     <yago:hasName xml:lang="en">William Zabka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bayard_Hale">
+    <yago:hasName xml:lang="en">William Bayard Hale</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Kenneth_Hartmann">
     <yago:hasName xml:lang="en">William K. Hartmann</yago:hasName>
@@ -2446,6 +2391,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Wildenvey">
     <yago:hasName xml:lang="en">Wildenvey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Leete_Stone,_Sr.">
+    <yago:hasName xml:lang="en">William Leete Stone</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hayley">
     <yago:hasName xml:lang="en">William Hayley</yago:hasName>
   </rdf:Description>
@@ -2467,8 +2415,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._H._Oliver">
     <yago:hasName xml:lang="en">W.H. Oliver</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(journalist)">
+    <yago:hasName xml:lang="en">Walter Martinez</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wordsworth_McAndrew">
-    <yago:hasName xml:lang="en">Wordsworth McAndrew</yago:hasName>
+    <yago:hasName xml:lang="en">Wordsworth Macandrew</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Vaughn_Moody">
     <yago:hasName xml:lang="en">William Vaughn Moody</yago:hasName>
@@ -2479,14 +2430,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Adams_(master)">
     <yago:hasName xml:lang="en">William Adams</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Watson_%28writer%29">
-    <yago:hasName xml:lang="en">William Watson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Li_(linguist)">
     <yago:hasName xml:lang="en">Wang Li</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Knoedelseder">
-    <yago:hasName xml:lang="en">William Knoedelseder</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82odzimierz_Antkowiak">
+    <yago:hasName xml:lang="en">Wlodzimierz Antkowiak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Hooper">
+    <yago:hasName xml:lang="en">Walter Hooper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ward_Morehouse">
     <yago:hasName xml:lang="en">Ward Morehouse</yago:hasName>
@@ -2517,9 +2468,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_L._Crawford">
     <yago:hasName xml:lang="en">William Levi Crawford</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Chapman_%28poet%29">
-    <yago:hasName xml:lang="en">William Chapman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Dulu">
     <yago:hasName xml:lang="en">Wang Baoxiang</yago:hasName>
     <yago:hasName xml:lang="en">Wang Dulu</yago:hasName>
@@ -2545,9 +2493,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Churchill_(ethnologist)">
     <yago:hasName xml:lang="en">William Churchill</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Leggett_(writer)">
-    <yago:hasName xml:lang="en">William Leggett</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dalrymple_(historian)">
     <yago:hasName xml:lang="en">William Dalrymple</yago:hasName>
   </rdf:Description>
@@ -2557,14 +2502,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Gilbert_(author)">
     <yago:hasName xml:lang="en">William Gilbert</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_de_Camp">
-    <yago:hasName xml:lang="en">Walter De Camp</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Slater_Brown">
     <yago:hasName xml:lang="en">William Slater Brown</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Arnold_Wood">
-    <yago:hasName xml:lang="en">Wood</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wiebke_Eden">
     <yago:hasName xml:lang="en">Wiebke Eden</yago:hasName>
@@ -2573,11 +2512,14 @@
     <yago:hasName xml:lang="en">Will Oursler</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._G._Sebald">
-    <yago:hasName xml:lang="en">Winfried Georg "Max" Sebald</yago:hasName>
-    <yago:hasName xml:lang="en">W. G. Sebald</yago:hasName>
+    <yago:hasName xml:lang="en">W.G. Sebald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Evans_Burton">
     <yago:hasName xml:lang="en">William Evans Burton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_F._Zorzi">
+    <yago:hasName xml:lang="en">William F Zorzi</yago:hasName>
+    <yago:hasName xml:lang="en">William F. Zorzi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Szewczyk">
     <yago:hasName xml:lang="en">Wilhelm Szewczyk</yago:hasName>
@@ -2627,7 +2569,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Werner_Veigel">
     <yago:hasName xml:lang="en">Werner Veigel</yago:hasName>
-    <yago:hasName xml:lang="en">Werner Viegel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_Tucker">
     <yago:hasName xml:lang="en">Wilson Tucker</yago:hasName>
@@ -2647,11 +2588,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfrid_Heighington">
     <yago:hasName xml:lang="en">Wilfrid Heighington</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Bartoszewski">
+    <yago:hasName xml:lang="en">Władysław Bartoszewski</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Kloefkorn">
     <yago:hasName xml:lang="en">William Kloefkorn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_R._Patterson">
-    <yago:hasName xml:lang="en">William R. Patterson</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldo_Williams">
+    <yago:hasName xml:lang="en">Waldo Williams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Greenwood">
     <yago:hasName xml:lang="en">Walter Greenwood</yago:hasName>
@@ -2665,9 +2609,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Bryson">
     <yago:hasName xml:lang="en">William McGuire Bryson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Adolf_Baillie_Grohman">
-    <yago:hasName xml:lang="en">William Adolph Baillie Grohman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hampton_(poet)">
     <yago:hasName xml:lang="en">William Hampton</yago:hasName>
   </rdf:Description>
@@ -2680,14 +2621,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Deverell">
     <yago:hasName xml:lang="en">William Deverell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robin_Waterfield">
-    <yago:hasName xml:lang="en">Waterfield</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._Joe_Hoppe">
     <yago:hasName xml:lang="en">W. Joe Hoppe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Waawaate_Fobister">
     <yago:hasName xml:lang="en">Waawaate Fobister</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lair_Hill">
+    <yago:hasName xml:lang="en">William Lair Hill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Shuo">
     <yago:hasName xml:lang="en">Wang Shuo</yago:hasName>
@@ -2732,17 +2673,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Nixon">
     <yago:hasName xml:lang="en">William Nixon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W.W.E._Ross">
-    <yago:hasName xml:lang="en">William Wrightson Eustace Ross</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilkie_Collins">
     <yago:hasName xml:lang="en">Wilkie Collins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Newton_(poet)">
     <yago:hasName xml:lang="en">William Newton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Arkin">
-    <yago:hasName xml:lang="en">William Arkin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bartholomew_(writer)">
     <yago:hasName xml:lang="en">William Bartholomew</yago:hasName>
@@ -2795,10 +2730,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hayes_Ward">
     <yago:hasName xml:lang="en">William Hayes Ward</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Brighty_Rands">
+    <yago:hasName xml:lang="en">William Brighty Rands</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._W._Jacobs">
     <yago:hasName xml:lang="en">William Wymark Jacobs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_B._McBurney">
+    <yago:hasName xml:lang="en">William B. Macburney</yago:hasName>
     <yago:hasName xml:lang="en">William B. McBurney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Will_R._Bird">
@@ -2809,6 +2748,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82odzimierz_Szymanowicz">
     <yago:hasName xml:lang="en">Wlodzimierz Szymanowicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winifred_Robinson">
+    <yago:hasName xml:lang="en">Winifred Robinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Collins_(poet)">
     <yago:hasName xml:lang="en">William Collins</yago:hasName>
@@ -2850,9 +2792,6 @@
     <yago:hasName xml:lang="en">William K. Hathaway</yago:hasName>
     <yago:hasName xml:lang="en">William 'Kit' Hathaway</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sloane_Coffin">
-    <yago:hasName xml:lang="en">William Sloane Coffin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morton_Payne">
     <yago:hasName xml:lang="en">William Morton Payne</yago:hasName>
   </rdf:Description>
@@ -2872,11 +2811,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Borchert">
     <yago:hasName xml:lang="en">Wolfgang Borchert</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Quick">
+    <yago:hasName xml:lang="en">William Thomas Quick</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Kempowski">
     <yago:hasName xml:lang="en">Walter Kempowski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Howard_Russell">
     <yago:hasName xml:lang="en">William Howard Russell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_D._Cohan">
+    <yago:hasName xml:lang="en">William D. Cohan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Robertson_Nicoll">
     <yago:hasName xml:lang="en">William Robertson Nicoll</yago:hasName>
@@ -2916,6 +2861,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Molitor">
     <yago:hasName xml:lang="en">Wilhelm Molitor</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._D._Workman,_Jr.">
+    <yago:hasName xml:lang="en">William Douglas Jr. Workman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Williams_(journalist)">
     <yago:hasName xml:lang="en">Walter Williams</yago:hasName>
   </rdf:Description>
@@ -2930,9 +2878,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilford_Leach">
     <yago:hasName xml:lang="en">Wilford Leach</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Barton_(writer)">
-    <yago:hasName xml:lang="en">William Barton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Phillips_(author)">
     <yago:hasName xml:lang="en">Wendy Phillips</yago:hasName>
@@ -2968,6 +2913,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._T._Pfefferle">
     <yago:hasName xml:lang="en">W.T. Pfefferle</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willoughby_Weaving">
+    <yago:hasName xml:lang="en">Willoughby Weaving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thorsell">
+    <yago:hasName xml:lang="en">William Thorsell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Leymergie">
     <yago:hasName xml:lang="en">William Leymergie</yago:hasName>
   </rdf:Description>
@@ -2983,9 +2934,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Godwin">
     <yago:hasName xml:lang="en">William Godwin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Scott_%28author%29">
-    <yago:hasName xml:lang="en">William Neville Scott</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dennis">
     <yago:hasName xml:lang="en">William Dennis</yago:hasName>
   </rdf:Description>
@@ -2998,14 +2946,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Flavelle_Monypenny">
     <yago:hasName xml:lang="en">William Flavelle Monypenny</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willi_Eichler">
+    <yago:hasName xml:lang="en">Willi Eichler</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_William_Cooper">
     <yago:hasName xml:lang="en">William Milton Cooper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Emerson_Barrett">
     <yago:hasName xml:lang="en">William Emerson Barrett</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Faunce">
-    <yago:hasName xml:lang="en">William Faunce</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Donaldson">
+    <yago:hasName xml:lang="en">William Donaldson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Waheed_Akhtar">
     <yago:hasName xml:lang="en">Waheed Akhtar</yago:hasName>
@@ -3021,10 +2972,13 @@
     <yago:hasName xml:lang="en">William Dufty</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._G._Griffiths">
-    <yago:hasName xml:lang="en">W G Griffiths</yago:hasName>
+    <yago:hasName xml:lang="en">W. G. Griffiths</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Learning">
     <yago:hasName xml:lang="en">Walter Learning</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walt_McDonald">
+    <yago:hasName xml:lang="en">Walt McDonald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._E._Cule">
     <yago:hasName xml:lang="en">William Edward Cule</yago:hasName>
@@ -3065,9 +3019,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._E._G._Louw">
     <yago:hasName xml:lang="en">W.E.G. Louw</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Warner%2C_Jr.">
-    <yago:hasName xml:lang="en">Warner, Harry, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Keith_Leask">
     <yago:hasName xml:lang="en">William Keith Leask</yago:hasName>
@@ -3146,20 +3097,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wladyslaw_Pleszczynski">
     <yago:hasName xml:lang="en">Wladyslaw Pleszczynski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Willy_Lindwer">
-    <yago:hasName xml:lang="en">Willy Lindwer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Werewere_Liking">
     <yago:hasName xml:lang="en">Werewere Liking</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._D._Valgardson">
-    <yago:hasName xml:lang="en">W. D. Valgardson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ellis_(writer_on_agriculture)">
     <yago:hasName xml:lang="en">William Ellis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._D._Valgardson">
+    <yago:hasName xml:lang="en">W. D. Valgardson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Shalit">
     <yago:hasName xml:lang="en">Wendy Shalit</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walt_Disney">
+    <yago:hasName xml:lang="en">Walter Elias Disney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Pater">
     <yago:hasName xml:lang="en">Walter Pater</yago:hasName>
@@ -3181,9 +3132,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Christofer_Br%C3%B8gger_(writer)">
     <yago:hasName xml:lang="en">Waldemar Christofer Broegger</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._D._Ehrhart">
-    <yago:hasName xml:lang="en">William Daniel Ehrhart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dean_Howells">
     <yago:hasName xml:lang="en">William Dean Howells</yago:hasName>
@@ -3240,10 +3188,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Heyen">
     <yago:hasName xml:lang="en">William Heyen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyman_Wong">
-    <yago:hasName xml:lang="en">Wyman Wong</yago:hasName>
-    <yago:hasName xml:lang="en">wong4 wai5 man4</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bradford_Reed">
     <yago:hasName xml:lang="en">William Bradford Reed</yago:hasName>
   </rdf:Description>
@@ -3253,17 +3197,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfrid_Philip_Ward">
     <yago:hasName xml:lang="en">Wilfrid Philip Ward</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Cahir">
+    <yago:hasName xml:lang="en">William Cahir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wynn_(poet)">
+    <yago:hasName xml:lang="en">William Wynn</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Anshi">
     <yago:hasName xml:lang="en">Wang Anshi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shaw_(writer)">
     <yago:hasName xml:lang="en">William Shaw</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Gordon_Stables">
-    <yago:hasName xml:lang="en">William Gordon Stables</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_King_(author)">
-    <yago:hasName xml:lang="en">William King</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Wanli">
     <yago:hasName xml:lang="en">Wanli Yang</yago:hasName>
@@ -3300,20 +3244,13 @@
     <yago:hasName xml:lang="en">William Henry Donald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_P._McGivern">
-    <yago:hasName xml:lang="en">William P. McGivern</yago:hasName>
+    <yago:hasName xml:lang="en">William P. Macgivern</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winnifred_Eaton">
     <yago:hasName xml:lang="en">Winnifred Eaton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Winifred_G%C3%A9rin">
     <yago:hasName xml:lang="en">Winifred Gerin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Templeton_%28screenwriter%29">
-    <yago:hasName xml:lang="en">William Pettigrew Templeton</yago:hasName>
-    <yago:hasName xml:lang="en">William Templeton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wadih_Sabra">
-    <yago:hasName xml:lang="en">Wadih Sabra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Seabrook">
     <yago:hasName xml:lang="en">William Buehler Seabrook</yago:hasName>
@@ -3338,12 +3275,8 @@
     <yago:hasName xml:lang="en">wong4 tin1 lam4</yago:hasName>
     <yago:hasName xml:lang="en">wáng2 tiān1 lín2</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Woodberry">
-    <yago:hasName xml:lang="en">Woodberry</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_E._Williams">
     <yago:hasName xml:lang="en">Walter Williams</yago:hasName>
-    <yago:hasName xml:lang="en">Walter E. Williams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Winston_Seaton">
     <yago:hasName xml:lang="en">William Winston Seaton</yago:hasName>
@@ -3360,6 +3293,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_King_(poet)">
     <yago:hasName xml:lang="en">William King</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Ellis">
+    <yago:hasName xml:lang="en">Warren Ellis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Bruno">
     <yago:hasName xml:lang="en">Walter Bruno</yago:hasName>
@@ -3394,10 +3330,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._Stanley_Moss">
     <yago:hasName xml:lang="en">William Stanley Moss</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_M._Miller%2C_Jr.">
-    <yago:hasName xml:lang="en">Walter Michael Miller, Jr.</yago:hasName>
-    <yago:hasName xml:lang="en">Walter Miller</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Woodruff">
     <yago:hasName xml:lang="en">William Woodruff</yago:hasName>
   </rdf:Description>
@@ -3427,6 +3359,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wojciech_%C5%BBukrowski">
     <yago:hasName xml:lang="en">Wojciech Zukrowski</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Raimond_Baird">
+    <yago:hasName xml:lang="en">William Raimond Baird</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ernest_Henley">
     <yago:hasName xml:lang="en">William Ernest Henley</yago:hasName>
   </rdf:Description>
@@ -3438,6 +3373,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Zakariasen">
     <yago:hasName xml:lang="en">William Zakariasen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilmot_Perkins">
+    <yago:hasName xml:lang="en">Wilmot 'Motty' Perkins</yago:hasName>
+    <yago:hasName xml:lang="en">Wilmot Perkins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wheeler_Antabanez">
     <yago:hasName xml:lang="en">Wheeler Antabanez</yago:hasName>
@@ -3466,9 +3405,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Tennant">
     <yago:hasName xml:lang="en">William Tennant</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Ruowang">
-    <yago:hasName xml:lang="en">Wang Ruowang</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hawkins_(songwriter_and_poet)">
     <yago:hasName xml:lang="en">William Hawkins</yago:hasName>
   </rdf:Description>
@@ -3483,6 +3419,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wies_Moens">
     <yago:hasName xml:lang="en">Wies Moens</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Hines_Page">
+    <yago:hasName xml:lang="en">Walter Hines Page</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Heminges">
     <yago:hasName xml:lang="en">William Heminges</yago:hasName>
@@ -3505,12 +3444,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Wong_(Hong_Kong_actor)">
     <yago:hasName xml:lang="en">Wong4 Cau1-sang1</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Baxter">
-    <yago:hasName xml:lang="en">Walter Baxter</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Wei_%288th_century_poet%29">
-    <yago:hasName xml:lang="en">Wei Wang</yago:hasName>
-    <yago:hasName xml:lang="en">Wang Wei</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Taylor_Adams">
+    <yago:hasName xml:lang="en">William Taylor Adams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Axon">
     <yago:hasName xml:lang="en">William Axon</yago:hasName>
@@ -3533,10 +3468,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_E._Vaughan">
     <yago:hasName xml:lang="en">William E. Vaughan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Buzenberg">
-    <yago:hasName xml:lang="en">William "Bill" Buzenberg</yago:hasName>
-    <yago:hasName xml:lang="en">William Buzenberg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willie_Perdomo">
     <yago:hasName xml:lang="en">Willie Perdomo</yago:hasName>
   </rdf:Description>
@@ -3549,19 +3480,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Carpenter_(writer)">
     <yago:hasName xml:lang="en">William Carpenter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfram_Aichele">
+    <yago:hasName xml:lang="en">Wolfram Aichele</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Van_Tilburg_Clark">
     <yago:hasName xml:lang="en">Walter Van Tilburg Clark</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Roper_(biographer)">
     <yago:hasName xml:lang="en">William Roper</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Reed_Huntington">
-    <yago:hasName xml:lang="en">William Reed Huntingdon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wanda_G%C3%A1g">
     <yago:hasName xml:lang="en">Wanda Hazel Gág</yago:hasName>
     <yago:hasName xml:lang="en">Wanda Gag</yago:hasName>
-    <yago:hasName xml:lang="en">Wanda Gág</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilebaldo_Solano">
     <yago:hasName xml:lang="en">Wilebaldo Solano</yago:hasName>
@@ -3587,7 +3517,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._A._Silva">
     <yago:hasName xml:lang="en">W.A.Silva</yago:hasName>
-    <yago:hasName xml:lang="en">W. A. Silva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_Mizner">
     <yago:hasName xml:lang="en">Wilson Mizner</yago:hasName>
@@ -3598,6 +3527,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wim_Hofman">
     <yago:hasName xml:lang="en">Wim Hofman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_James_Stillman">
+    <yago:hasName xml:lang="en">William James Stillman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_E._Bell">
+    <yago:hasName xml:lang="en">William E. Bell</yago:hasName>
+    <yago:hasName xml:lang="en">William Bell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Woody_Evans">
     <yago:hasName xml:lang="en">Woody Evans</yago:hasName>
@@ -3630,9 +3566,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Moore">
     <yago:hasName xml:lang="en">Wendy Moore</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Digby_%28writer%29">
-    <yago:hasName xml:lang="en">William Digby</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Virgil_Davis">
     <yago:hasName xml:lang="en">William Virgil Davis</yago:hasName>
   </rdf:Description>
@@ -3646,17 +3579,20 @@
     <yago:hasName xml:lang="en">Wentworth M. Johnson</yago:hasName>
     <yago:hasName xml:lang="en">Wentworth M Johnson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Shakespeare%27s_influence">
-    <yago:hasName xml:lang="en">William Shakespeare</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Graham_Stanton">
     <yago:hasName xml:lang="en">William Graham Stanton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Chetham-Strode">
     <yago:hasName xml:lang="en">Warren Chetham-Strode</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woody_Jenkins">
+    <yago:hasName xml:lang="en">Woody Jenkins</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Augustine_O&apos;Carroll">
     <yago:hasName xml:lang="en">William Augustine O'Carroll</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Quillian">
+    <yago:hasName xml:lang="en">William H. Quillian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Salisbury">
     <yago:hasName xml:lang="en">William Salisbury</yago:hasName>
@@ -3684,9 +3620,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Laird_Clowes">
     <yago:hasName xml:lang="en">William Laird Clowes</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Robinson_%28author%29">
-    <yago:hasName xml:lang="en">William Wheeler Robinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Werner_Aspenstr%C3%B6m">
     <yago:hasName xml:lang="en">Werner Aspenstrom</yago:hasName>
@@ -3734,6 +3667,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Harich">
     <yago:hasName xml:lang="en">Wolfgang Harich</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Duranty">
+    <yago:hasName xml:lang="en">Walter Duranty</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wantling">
     <yago:hasName xml:lang="en">William Wantling</yago:hasName>
   </rdf:Description>
@@ -3741,13 +3677,11 @@
     <yago:hasName xml:lang="en">Walter Wilson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Farrell">
+    <yago:hasName xml:lang="en">Warren Thomas Farrell</yago:hasName>
     <yago:hasName xml:lang="en">Warren Farrell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/W._B._Keckler">
     <yago:hasName xml:lang="en">W. B. Keckler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Reiser">
-    <yago:hasName xml:lang="en">Will Reiser</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Herndon_(lawyer)">
     <yago:hasName xml:lang="en">William Herndon</yago:hasName>
@@ -3770,16 +3704,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lu_Wenfu">
     <yago:hasName xml:lang="en">Wenfu Lu</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Hardy">
-    <yago:hasName xml:lang="en">Wolverine</yago:hasName>
-    <yago:hasName xml:lang="en">Willow the Whisp</yago:hasName>
-    <yago:hasName xml:lang="en">Wildo Jinx</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zhou_Weihui">
     <yago:hasName xml:lang="en">Weihui Zhou</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clemence_Dane">
-    <yago:hasName xml:lang="en">Winifred Ashton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wanda_Ramey">
     <yago:hasName xml:lang="en">Wanda Ramey</yago:hasName>
@@ -3799,11 +3725,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willson_Woodside">
     <yago:hasName xml:lang="en">Willson Woodside</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Stafford_%28poet%29">
-    <yago:hasName xml:lang="en">William Stafford</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Langewiesche">
     <yago:hasName xml:lang="en">William Langewiesche</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Brasch">
+    <yago:hasName xml:lang="en">Walter M Brasch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Willard_Mack">
     <yago:hasName xml:lang="en">Willard Mack</yago:hasName>
@@ -3832,6 +3758,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Dean_Myers">
     <yago:hasName xml:lang="en">Walter Dean Myers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_E._Hussman,_Jr.">
+    <yago:hasName xml:lang="en">Walter Edward Hussman, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_Allston">
     <yago:hasName xml:lang="en">Washington Allston</yago:hasName>
   </rdf:Description>
@@ -3854,9 +3783,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cauldwell">
     <yago:hasName xml:lang="en">William Cauldwell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Ralph_Eubanks">
-    <yago:hasName xml:lang="en">W. Ralph Eubanks</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Mattli">
     <yago:hasName xml:lang="en">Walter Mattli</yago:hasName>
   </rdf:Description>
@@ -3875,6 +3801,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Brandorff">
     <yago:hasName xml:lang="en">Walter Brandorff</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Roscoe_Thayer">
+    <yago:hasName xml:lang="en">William Roscoe Thayer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Wykes">
     <yago:hasName xml:lang="en">Walter Wykes</yago:hasName>
   </rdf:Description>
@@ -3883,10 +3812,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Lantz">
     <yago:hasName xml:lang="en">Walter Lantz</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Edgar">
-    <yago:hasName xml:lang="en">Walter Edgar</yago:hasName>
-    <yago:hasName xml:lang="en">Walter B. Edgar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dunbar">
     <yago:hasName xml:lang="en">William Dunbar</yago:hasName>
@@ -3909,14 +3834,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Safire">
     <yago:hasName xml:lang="en">William Safire</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Whitehead_%28English_poet%29">
-    <yago:hasName xml:lang="en">William Whitehead</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_B._Branch">
     <yago:hasName xml:lang="en">William B. Branch</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Miller_%28author%29">
-    <yago:hasName xml:lang="en">Warren Miller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Rzewuski">
     <yago:hasName xml:lang="en">Waclaw Rzewuski</yago:hasName>

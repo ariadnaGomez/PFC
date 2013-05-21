@@ -11,9 +11,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zarko_Kujundziski">
     <yago:hasName xml:lang="en">Zarko Kujundziski</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zofia_Na%C5%82kowska">
-    <yago:hasName xml:lang="en">Zofia Nalkowska</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wen_Zhenheng">
     <yago:hasName xml:lang="en">Zhenheng Wen</yago:hasName>
   </rdf:Description>
@@ -33,6 +30,9 @@
     <yago:hasName xml:lang="en">Zoran Hocevar</yago:hasName>
     <yago:hasName xml:lang="en">Zoran Hočevar</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wulf_Zendik">
+    <yago:hasName xml:lang="en">Zendik</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zaa_Nkweta">
     <yago:hasName xml:lang="en">Zaa Nkweta</yago:hasName>
   </rdf:Description>
@@ -45,10 +45,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zee_Edgell">
     <yago:hasName xml:lang="en">Zee Edgell</yago:hasName>
     <yago:hasName xml:lang="en">Zelma I. Edgell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zofia_Ch%C4%85dzy%C5%84ska">
-    <yago:hasName xml:lang="en">Zofia Chadzynska</yago:hasName>
-    <yago:hasName xml:lang="en">Zofia Chądzyńska</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cao_Zhi">
     <yago:hasName xml:lang="en">Zhi Cao</yago:hasName>
@@ -72,7 +68,6 @@
     <yago:hasName xml:lang="en">Zuhair Al-Jezairy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zaharije_Orfelin">
-    <yago:hasName xml:lang="en">Zaharija Orfelin</yago:hasName>
     <yago:hasName xml:lang="en">Zaharije Orfelin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zaki_Naguib_Mahmoud">
@@ -137,8 +132,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zane_Grey">
     <yago:hasName xml:lang="en">Zane Grey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zabel_Sibil_Asadour">
-    <yago:hasName xml:lang="en">Zabel Asadour (Sibil)</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhong_Rong">
+    <yago:hasName xml:lang="en">Zhong Rong</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zvi_Yair">
     <yago:hasName xml:lang="en">Zvi Yair</yago:hasName>
@@ -151,9 +146,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zo%C3%A9_Oldenbourg">
     <yago:hasName xml:lang="en">Zoe Oldenbourg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Junxiang">
-    <yago:hasName xml:lang="en">Zhang Junxiang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zo%C3%AB_Heller">
     <yago:hasName xml:lang="en">Zoe Heller</yago:hasName>
@@ -194,9 +186,7 @@
     <yago:hasName xml:lang="en">Zacarias Reyan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Chow">
-    <yago:hasName xml:lang="en">Zhōu Xīngchí</yago:hasName>
     <yago:hasName xml:lang="en">Zhōu Xīng Chí</yago:hasName>
-    <yago:hasName xml:lang="en">Zau1 Sing1-ci4</yago:hasName>
     <yago:hasName xml:lang="en">zau1 sing1 ci4</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zane_Radcliffe">
@@ -217,8 +207,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zden%C4%9Bk_Sv%C4%9Br%C3%A1k">
     <yago:hasName xml:lang="en">Zdeněk Svěrák</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeca_Afonso">
+    <yago:hasName xml:lang="en">Zeca Afonso</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zbigniew_Morsztyn">
     <yago:hasName xml:lang="en">Zbigniew Morsztyn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zelda_La_Grange">
+    <yago:hasName xml:lang="en">Zelda La Grange</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Zhongyan">
     <yago:hasName xml:lang="en">Zhongyan Fan</yago:hasName>
@@ -250,6 +246,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ziya_Movahed">
     <yago:hasName xml:lang="en">Ziya Movahed</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zenodotus">
+    <yago:hasName xml:lang="en">Zenodotus</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zsuzsi_Gartner">
     <yago:hasName xml:lang="en">Zsuzsi Gartner</yago:hasName>
   </rdf:Description>
@@ -257,11 +256,20 @@
     <yago:hasName xml:lang="en">Zain Abdul Hady</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Furqat">
-    <yago:hasName xml:lang="en">Zokirjon Mullo Xolmuhammad oʻgʻli</yago:hasName>
-    <yago:hasName xml:lang="en">Zokirjon Xolmuhammad oʻgʻli Furqat</yago:hasName>
+    <yago:hasName xml:lang="en">Zokirjon Xolmuhammad o'g'li Furqat</yago:hasName>
+    <yago:hasName xml:lang="en">Zokirjon Mullo Holmuhammad o'g'li</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zelmar_Michelini">
+    <yago:hasName xml:lang="en">Zelmar Michelini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoe_Wicomb">
+    <yago:hasName xml:lang="en">Zoë Wicomb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zora_Cross">
     <yago:hasName xml:lang="en">Zora Cross</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%BDarko_Petan">
+    <yago:hasName xml:lang="en">Zarko Petan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zafarul_Islam_Khan">
     <yago:hasName xml:lang="en">Zafarul Khan</yago:hasName>
@@ -295,6 +303,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zafar_Ali_Khan">
     <yago:hasName xml:lang="en">Zafar Ali Khan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Serembe">
+    <yago:hasName xml:lang="en">Zef Serembe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Zardetto">
+    <yago:hasName xml:lang="en">Zardetto, Carol, Liliana</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zachery_Kouwe">
     <yago:hasName xml:lang="en">Zachery Kouwe</yago:hasName>
   </rdf:Description>
@@ -316,11 +330,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zacharie_Myboto">
     <yago:hasName xml:lang="en">Zacharie Myboto</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zaheen_Shah_Taji">
-    <yago:hasName xml:lang="en">Zaheen Shah Taji</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zafar_Iqbal_(poet)">
     <yago:hasName xml:lang="en">Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zev_Chafets">
+    <yago:hasName xml:lang="en">Zev Chafets</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zakaria_Tamer">
     <yago:hasName xml:lang="en">Zakaria Tamer</yago:hasName>
@@ -349,9 +363,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zyranna_Zateli">
     <yago:hasName xml:lang="en">Zyranna Zateli</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zafar_Bangash">
-    <yago:hasName xml:lang="en">Zafar Bangash</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zoroaster">
     <yago:hasName xml:lang="en">Zaraϑuštra Spitāma</yago:hasName>
@@ -384,9 +395,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Zhensheng_(photojournalist)">
     <yago:hasName xml:lang="en">Zhensheng Li</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zaheer_Ahmed">
-    <yago:hasName xml:lang="en">Zaheer Ahmed</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zvi_Shiloah">
     <yago:hasName xml:lang="en">Zvi Shiloah</yago:hasName>
@@ -445,6 +453,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_Zanella">
     <yago:hasName xml:lang="en">Zanella</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zinovy_Zinik">
+    <yago:hasName xml:lang="en">Zinovy Zinik</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zelalem_Mekuria">
     <yago:hasName xml:lang="en">Zelalem Mekuria</yago:hasName>
   </rdf:Description>
@@ -468,9 +479,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zahra_Kazemi">
     <yago:hasName xml:lang="en">Zahra Kazemi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fitnat_Han%C4%B1m">
-    <yago:hasName xml:lang="en">Zübeyde</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zvonimir_Berkovi%C4%87">
     <yago:hasName xml:lang="en">Zvonimir Berković</yago:hasName>
@@ -508,14 +516,19 @@
     <yago:hasName xml:lang="en">Zulfiqar Shah Kohat</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zeb-un-Nisa">
-    <yago:hasName xml:lang="en">Zeb-un-Nisa</yago:hasName>
-    <yago:hasName xml:lang="en">Zēb-un-Nisā</yago:hasName>
+    <yago:hasName xml:lang="en">Zeb-Un-Nisa</yago:hasName>
+    <yago:hasName xml:lang="en">Zēb-un-Nisā Makhfī</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hai_Zi">
     <yago:hasName xml:lang="en">Zi Hai</yago:hasName>
+    <yago:hasName xml:lang="en">Zha Haisheng</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zandokht_Shirazi">
     <yago:hasName xml:lang="en">Zandokht Shirazi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zenobia_Camprub%C3%AD">
+    <yago:hasName xml:lang="en">Zenobia Camprubí</yago:hasName>
+    <yago:hasName xml:lang="en">Zenobia Camprubi Aymar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zora_Neale_Hurston">
     <yago:hasName xml:lang="en">Zora Neale Hurston</yago:hasName>
@@ -531,9 +544,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mehr_Lal_Soni_Zia_Fatehabadi">
     <yago:hasName xml:lang="en">Zia Fatehabadi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zofia_Stryje%C5%84ska">
-    <yago:hasName xml:lang="en">Zofia Stryjenska</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zoe_Williams">
     <yago:hasName xml:lang="en">Zoe Williams</yago:hasName>
@@ -556,9 +566,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zealia_Bishop">
     <yago:hasName xml:lang="en">Zealia Bishop</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zara_Wright">
-    <yago:hasName xml:lang="en">Zara Wright</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zo%C3%AB_Skoulding">
     <yago:hasName xml:lang="en">Zoe Skoulding</yago:hasName>
   </rdf:Description>
@@ -572,7 +579,7 @@
     <yago:hasName xml:lang="en">Zena Tsarfin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%B9mitrok_Biadula">
-    <yago:hasName xml:lang="en">Zmitrok (pen name) Biadula</yago:hasName>
+    <yago:hasName xml:lang="en">Zmitrok Biadula</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zeynalabdin_Shirvani">
     <yago:hasName xml:lang="en">Zeynalabdin Shirvani</yago:hasName>
@@ -606,7 +613,6 @@
     <yago:hasName xml:lang="en">Zihui Wang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zora_Tav%C4%8Dar">
-    <yago:hasName xml:lang="en">Zora Tavčar</yago:hasName>
     <yago:hasName xml:lang="en">Zora Tavcar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zaki_Nusseibeh">
@@ -618,13 +624,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zlatko_Krasni">
     <yago:hasName xml:lang="en">Zlatko Krasni</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%BDivko_%C4%8Cingo">
-    <yago:hasName xml:lang="en">Zhivko Chingo</yago:hasName>
-    <yago:hasName xml:lang="en">Zivko Cingo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zef_Jubani">
-    <yago:hasName xml:lang="en">Zef Jubani</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zsigmond_Br%C3%B3dy">
     <yago:hasName xml:lang="en">Zsigmond Brody</yago:hasName>
   </rdf:Description>
@@ -634,9 +633,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zurain_Imam">
     <yago:hasName xml:lang="en">Zurain Imam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ze%27ev_Ben-Haim">
-    <yago:hasName xml:lang="en">Ze'ev Ben-Haim</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zakes_Mda">
     <yago:hasName xml:lang="en">Zakes Mda</yago:hasName>
   </rdf:Description>
@@ -645,6 +641,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A9ctor_Zumbado">
     <yago:hasName xml:lang="en">Zumbado</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zelimkhan_Yandarbiyev">
+    <yago:hasName xml:lang="en">Zelimkhan Yandarbiyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zo%C3%A9_Vald%C3%A9s">
+    <yago:hasName xml:lang="en">Zoe Valdes</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zine_Eddine_Sekhri">
     <yago:hasName xml:lang="en">Zine Eddine Sekhri</yago:hasName>
@@ -673,8 +675,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zulfikar_Ghose">
     <yago:hasName xml:lang="en">Zulfikar Ghose</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Zuber_Usman">
-    <yago:hasName xml:lang="en">Zuber Usman</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Tianyi">
+    <yago:hasName xml:lang="en">Zhang Tianyi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Zeyn_al-Abedin_Maraghei">
     <yago:hasName xml:lang="en">Zeyn al-Abedin Abedin Maraghei</yago:hasName>

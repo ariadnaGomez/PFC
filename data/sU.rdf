@@ -1,0 +1,670 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Ulrik_B%C3%A5%C3%A5th">
+    <yago:hasName xml:lang="en">Albert Ulrik Baath</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Underwood_Johnson">
+    <yago:hasName xml:lang="en">Robert Underwood Johnson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiyo_Uno">
+    <yago:hasName xml:lang="en">Chiyo Uno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mehmood_ul_Hassan_Kaukab_Al-Tabrezi">
+    <yago:hasName xml:lang="en">Mehmood Ul Hassan Kaukab Al-Tabrezi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iqrar_ul_Hassan">
+    <yago:hasName xml:lang="en">Iqrar Ul Hassan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aziz_Ullah_Haidari">
+    <yago:hasName xml:lang="en">Aziz Ullah Haidari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regina_Ullmann">
+    <yago:hasName xml:lang="en">Regina Ullmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%B8ren_Ulrik_Thomsen">
+    <yago:hasName xml:lang="en">Soren Ulrik Thomsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaye_Umansky">
+    <yago:hasName xml:lang="en">Kaye Umansky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiya_Ueno">
+    <yago:hasName xml:lang="en">Toshiya Ueno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makerita_Urale">
+    <yago:hasName xml:lang="en">Makerita Urale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mati_Unt">
+    <yago:hasName xml:lang="en">Mati Unt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Ustinov">
+    <yago:hasName xml:lang="en">Peter Ustinov</yago:hasName>
+    <yago:hasName xml:lang="en">Sir Peter Ustinov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kavisekhara_Dr_Umar_Alisha">
+    <yago:hasName xml:lang="en">Kavisekhara Umar Alisha</yago:hasName>
+    <yago:hasName xml:lang="en">Kavisekhara Dr Umar Alisha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sitta_Umaru_Turay">
+    <yago:hasName xml:lang="en">Sitta Umaru Turay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_U._Hall">
+    <yago:hasName xml:lang="en">Dave U. Hall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meri_Utrio">
+    <yago:hasName xml:lang="en">Meri Utrio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Ulseth">
+    <yago:hasName xml:lang="en">Otto Ulseth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onyema_Ugochukwu">
+    <yago:hasName xml:lang="en">Onyema Ugochukwu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonia_Uribe">
+    <yago:hasName xml:lang="en">Sonia Uribe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myawaddy_Mingyi_U_Sa">
+    <yago:hasName xml:lang="en">Myawaddy Mingyi U Sa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dubravka_Ugre%C5%A1i%C4%87">
+    <yago:hasName xml:lang="en">Dubravka Ugresic</yago:hasName>
+    <yago:hasName xml:lang="en">Dubravka Ugrešić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosario_Ust%C3%A1riz_Borra">
+    <yago:hasName xml:lang="en">Rosario Ustáriz Borra</yago:hasName>
+    <yago:hasName xml:lang="en">Rosario Ustariz Borra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Umbral">
+    <yago:hasName xml:lang="en">Francisco Umbral</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rems_Umeasiegbu">
+    <yago:hasName xml:lang="en">Rems Umeasiegbu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrejs_Up%C4%ABts">
+    <yago:hasName xml:lang="en">Andrejs Upīts</yago:hasName>
+    <yago:hasName xml:lang="en">Andrejs Upits</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Boc%C3%A1ngel">
+    <yago:hasName xml:lang="en">Gabriel Bocangel y Unzueta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Ure">
+    <yago:hasName xml:lang="en">Joan Ure</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiko_Uchida">
+    <yago:hasName xml:lang="en">Yoshiko Uchida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentina_Ursu">
+    <yago:hasName xml:lang="en">Valentina Ursu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Ulewicz">
+    <yago:hasName xml:lang="en">Laura Ulewicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismael_Urbain">
+    <yago:hasName xml:lang="en">Ismael Urbain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Unger">
+    <yago:hasName xml:lang="en">Douglas Unger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buket_Uzuner">
+    <yago:hasName xml:lang="en">Buket Uzuner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bukhar-zhirau_Kalmakanov">
+    <yago:hasName xml:lang="en">Bukhar-zhirau Kalkaman Uli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Garc%C3%ADa_Usta">
+    <yago:hasName xml:lang="en">Jorge Garcia Usta</yago:hasName>
+    <yago:hasName xml:lang="en">Jorge García Usta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arja_Uusitalo">
+    <yago:hasName xml:lang="en">Arja Uusitalo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kornel_Ujejski">
+    <yago:hasName xml:lang="en">Kornel Ujejski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shams_Ur_Rehman_Alavi">
+    <yago:hasName xml:lang="en">Shams Ur Rehman Alavi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junichi_Ueno">
+    <yago:hasName xml:lang="en">Junichi Ueno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Coloane">
+    <yago:hasName xml:lang="en">Francisco Coloane and the chronist Mario Uribe.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Urasawa">
+    <yago:hasName xml:lang="en">Naoki Urasawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Uesugi">
+    <yago:hasName xml:lang="en">Takashi Uesugi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akhtar_ul_Iman">
+    <yago:hasName xml:lang="en">Akhtar Ul Iman</yago:hasName>
+    <yago:hasName xml:lang="en">Akhtar ul Iman ()</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Unger">
+    <yago:hasName xml:lang="en">Jim Unger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Umhoefer">
+    <yago:hasName xml:lang="en">Dave Umhoefer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milo_Urban">
+    <yago:hasName xml:lang="en">Milo Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Ullendorff">
+    <yago:hasName xml:lang="en">Edward Ullendorff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Woodward">
+    <yago:hasName xml:lang="en">Robert Upshar Woodward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Ukala">
+    <yago:hasName xml:lang="en">Sam Ukala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_M._Utley">
+    <yago:hasName xml:lang="en">Robert M. Utley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Usk">
+    <yago:hasName xml:lang="en">Thomas Usk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Maree_Urquhart">
+    <yago:hasName xml:lang="en">Emma Maree Urquhart</yago:hasName>
+    <yago:hasName xml:lang="en">Emma  Urquhart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Ramsey_Ullman">
+    <yago:hasName xml:lang="en">James Ramsay Ullman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathi_Unsworth">
+    <yago:hasName xml:lang="en">Cathi Unsworth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jenny_Uglow">
+    <yago:hasName xml:lang="en">Jenny Uglow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brady_Udall">
+    <yago:hasName xml:lang="en">Brady Udall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayu_Utami">
+    <yago:hasName xml:lang="en">Ayu Utami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Uruburu">
+    <yago:hasName xml:lang="en">Federico Uruburu Fernandez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Sambrano_Urdaneta">
+    <yago:hasName xml:lang="en">Oscar Sambrano Urdaneta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brenda_Ueland">
+    <yago:hasName xml:lang="en">Brenda Ueland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Urban">
+    <yago:hasName xml:lang="en">Mark Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Uflyand">
+    <yago:hasName xml:lang="en">Vladimir Uflyand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Unsworth">
+    <yago:hasName xml:lang="en">Barry Unsworth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_Urzidil">
+    <yago:hasName xml:lang="en">Johannes Urzidil</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_Ursu">
+    <yago:hasName xml:lang="en">Gheorghe Ursu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gen_Urobuchi">
+    <yago:hasName xml:lang="en">Gen Urobuchi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roberto_Castillo_Udiarte">
+    <yago:hasName xml:lang="en">Roberto Castillo Udiarte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lois_Utz">
+    <yago:hasName xml:lang="en">Lois Utz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahriye_%C3%9C%C3%A7ok">
+    <yago:hasName xml:lang="en">Bahriye Ucok</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adaora_Lily_Ulasi">
+    <yago:hasName xml:lang="en">Adaora Lily Ulasi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Utley">
+    <yago:hasName xml:lang="en">Tom Utley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chika_Unigwe">
+    <yago:hasName xml:lang="en">Chika Unigwe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mate_Ujevi%C4%87">
+    <yago:hasName xml:lang="en">Mate Ujevic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leopoldo_Alas">
+    <yago:hasName xml:lang="en">Leopoldo García-Alas y Ureña</yago:hasName>
+    <yago:hasName xml:lang="en">Leopoldo Alas Y Urena</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Channappa_Uttangi">
+    <yago:hasName xml:lang="en">Channappa Uttangi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Ulmer_(journalist)">
+    <yago:hasName xml:lang="en">James Ulmer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Uspensky">
+    <yago:hasName xml:lang="en">Nikolay Uspensky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deb_Olin_Unferth">
+    <yago:hasName xml:lang="en">Deb Unferth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Umbscheiden">
+    <yago:hasName xml:lang="en">Franz Umbscheiden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Upfield">
+    <yago:hasName xml:lang="en">Arthur Upfield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akinobu_Uraka">
+    <yago:hasName xml:lang="en">Akinobu Uraka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Uz">
+    <yago:hasName xml:lang="en">Johann Peter Uz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josipina_Turnograjska">
+    <yago:hasName xml:lang="en">Josipina Urbancic Turnograjska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mo_Udall">
+    <yago:hasName xml:lang="en">Mo Udall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upton_Sinclair">
+    <yago:hasName xml:lang="en">Sinclair, Upton Beall, Sr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honor%C3%A9_d&apos;Urf%C3%A9">
+    <yago:hasName xml:lang="en">Honore d' Urfe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Uhlman">
+    <yago:hasName xml:lang="en">Fred Uhlman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harrison_Ullmann">
+    <yago:hasName xml:lang="en">Harrison Ullmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Wong_Ulrich">
+    <yago:hasName xml:lang="en">Carmen Wong Ulrich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tor_Ulven">
+    <yago:hasName xml:lang="en">Tor Ulven</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amy_Uyematsu">
+    <yago:hasName xml:lang="en">Amy Uyematsu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohan_Upreti">
+    <yago:hasName xml:lang="en">Mohan Upreti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Usborne">
+    <yago:hasName xml:lang="en">Richard Usborne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Urban">
+    <yago:hasName xml:lang="en">Peter Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Henry_Underwood">
+    <yago:hasName xml:lang="en">Francis Henry Underwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgi_Ugulava">
+    <yago:hasName xml:lang="en">Gigi Ugulava</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_L._P._Beckwith,_Jr.">
+    <yago:hasName xml:lang="en">Henry L. P. Beckwith ("jr." until the death of his surviving  parent, 1989)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Uhlemann">
+    <yago:hasName xml:lang="en">Max Uhlemann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rick_Ungar">
+    <yago:hasName xml:lang="en">Rick Ungar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aindileas_Ua_Chl%C3%BAmh%C3%A1in">
+    <yago:hasName xml:lang="en">Aindileas Ua Chlumhain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Upson">
+    <yago:hasName xml:lang="en">Arthur Upson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Ugolini">
+    <yago:hasName xml:lang="en">Luigi Ugolini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Locking_Up_the_Sun">
+    <yago:hasName xml:lang="en">Locking Up the Sun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Urquhart">
+    <yago:hasName xml:lang="en">Thomas Urquhart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Under">
+    <yago:hasName xml:lang="en">Marie Under</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaak_Urmet">
+    <yago:hasName xml:lang="en">Jaak Urmet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Movladi_Udugov">
+    <yago:hasName xml:lang="en">Movladi Udugov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Urquhart">
+    <yago:hasName xml:lang="en">Jane Urquhart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Uhry">
+    <yago:hasName xml:lang="en">Alfred Uhry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ragnar_Ulstein">
+    <yago:hasName xml:lang="en">Ragnar Ulstein</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tin_Ujevi%C4%87">
+    <yago:hasName xml:lang="en">Tin Ujevic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Unkovic">
+    <yago:hasName xml:lang="en">Dennis Unkovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyakken_Uchida">
+    <yago:hasName xml:lang="en">Hyakken Uchida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Ungaretti">
+    <yago:hasName xml:lang="en">Giuseppe Ungaretti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rod_Usher">
+    <yago:hasName xml:lang="en">Rod Usher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arland_Ussher">
+    <yago:hasName xml:lang="en">Arland Ussher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Upton_(poet)">
+    <yago:hasName xml:lang="en">Charles Upton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Utkin">
+    <yago:hasName xml:lang="en">Iosif Utkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Ungaro">
+    <yago:hasName xml:lang="en">Joseph Ungaro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julian_Ursyn_Niemcewicz">
+    <yago:hasName xml:lang="en">Julian Ursyn Niemcewicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otilio_Ulate_Blanco">
+    <yago:hasName xml:lang="en">Otilio Ulate Blanco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilla_na_Naemh_Ua_Duinn">
+    <yago:hasName xml:lang="en">Gilla Na Naemh Ua Duinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mart_Ummelas">
+    <yago:hasName xml:lang="en">Mart Ummelas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Urban">
+    <yago:hasName xml:lang="en">Ken Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udo_Ulfkotte">
+    <yago:hasName xml:lang="en">Udo Ulfkotte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harilal_Upadhyay">
+    <yago:hasName xml:lang="en">Harilal Upadhyay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaari_Utrio">
+    <yago:hasName xml:lang="en">Kaari Utrio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Uziel">
+    <yago:hasName xml:lang="en">Isaac Uziel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu%C3%ADs_Alberto_Urrea">
+    <yago:hasName xml:lang="en">Luis Alberto Urrea</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%BA_Collchaille_Ua_Ba%C3%ADgill%C3%A1in">
+    <yago:hasName xml:lang="en">Cu Collchaille Ua Baigillain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milo%C5%A1_Urban">
+    <yago:hasName xml:lang="en">Milos Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salom%C3%A9_Ure%C3%B1a">
+    <yago:hasName xml:lang="en">Salomé Ureña</yago:hasName>
+    <yago:hasName xml:lang="en">Salome Urena</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lydia_Ugolini">
+    <yago:hasName xml:lang="en">Lydia Ugoini</yago:hasName>
+    <yago:hasName xml:lang="en">Lydia Ugolini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Uris">
+    <yago:hasName xml:lang="en">Leon Uris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shungicu_Uchida">
+    <yago:hasName xml:lang="en">Shungicu Uchida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Martin_Usteri">
+    <yago:hasName xml:lang="en">Johann Martin Usteri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sean_Ua_h-Uiccinn">
+    <yago:hasName xml:lang="en">Sean Ua H-Uiccinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirmen_Uribe">
+    <yago:hasName xml:lang="en">Kirmen Uribe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleanor_Updale">
+    <yago:hasName xml:lang="en">Eleanor Updale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adaora_Udoji">
+    <yago:hasName xml:lang="en">Adaora Udoji</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priscila_Uppal">
+    <yago:hasName xml:lang="en">Priscila Uppal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Upward">
+    <yago:hasName xml:lang="en">Edward Upward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luz_Mar%C3%ADa_Umpierre">
+    <yago:hasName xml:lang="en">Luz María Umpierre</yago:hasName>
+    <yago:hasName xml:lang="en">Luz Maria Umpierre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduard_Uspensky">
+    <yago:hasName xml:lang="en">Eduard Uspensky</yago:hasName>
+    <yago:hasName xml:lang="en">Eduard Nikolayevich Uspensky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Uhls">
+    <yago:hasName xml:lang="en">Jim Uhls</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imran_Anwar">
+    <yago:hasName xml:lang="en">Imran Anwar Urdu:عمران انور</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halit_Ziya_U%C5%9Fakl%C4%B1gil">
+    <yago:hasName xml:lang="en">Halit Ziya Uşaklıgil</yago:hasName>
+    <yago:hasName xml:lang="en">Halit Ziya Usakligil</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timotei_Ursu">
+    <yago:hasName xml:lang="en">Timotei Ursu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joop_den_Uyl">
+    <yago:hasName xml:lang="en">Joop den Uyl</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Ursu">
+    <yago:hasName xml:lang="en">Anne Ursu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Umansky">
+    <yago:hasName xml:lang="en">Konstantin Aleksandrovich Umansky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigrid_Undset">
+    <yago:hasName xml:lang="en">Sigrid Undset</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yngvar_Ustvedt">
+    <yago:hasName xml:lang="en">Yngvar Ustvedt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arturo_Uslar_Pietri">
+    <yago:hasName xml:lang="en">Arturo Uslar Pietri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyudmila_Ulitskaya">
+    <yago:hasName xml:lang="en">Lyudmila Ulitskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Uhnak">
+    <yago:hasName xml:lang="en">Dorothy Uhnak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Unger">
+    <yago:hasName xml:lang="en">Lisa Unger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._A._Urechia">
+    <yago:hasName xml:lang="en">V. A. Urechia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Urbinati">
+    <yago:hasName xml:lang="en">Rob Urbinati</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Untermeyer">
+    <yago:hasName xml:lang="en">Louis Untermeyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosana_Ubanell">
+    <yago:hasName xml:lang="en">Rosana Ubanell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Upward">
+    <yago:hasName xml:lang="en">Allen Upward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Upton">
+    <yago:hasName xml:lang="en">Lawrence Upton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Ulrich">
+    <yago:hasName xml:lang="en">Marshall Ulrich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerzy_Urban">
+    <yago:hasName xml:lang="en">Jerzy Urban</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leopold_Unger">
+    <yago:hasName xml:lang="en">Leopold Unger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tons_of_Fun_University">
+    <yago:hasName xml:lang="en">Tons of Fun University</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pip_Utton">
+    <yago:hasName xml:lang="en">Pip Utton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Unger">
+    <yago:hasName xml:lang="en">Craig Unger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Unna">
+    <yago:hasName xml:lang="en">Warren Unna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Else_Ury">
+    <yago:hasName xml:lang="en">Else Ury</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gul_Pacha_Ulfat">
+    <yago:hasName xml:lang="en">Gul Pacha Ulfat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evelyn_Underhill">
+    <yago:hasName xml:lang="en">Evelyn Underhill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Udall">
+    <yago:hasName xml:lang="en">Nicholas Udall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T._E._Utley">
+    <yago:hasName xml:lang="en">Peter Utley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K%C5%8Dichir%C5%8D_Uno">
+    <yago:hasName xml:lang="en">Kōichirō Uno</yago:hasName>
+    <yago:hasName xml:lang="en">Koichiro Uno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodolfo_Usigli">
+    <yago:hasName xml:lang="en">Rodolfo Usigli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urtzi_Urrutikoetxea">
+    <yago:hasName xml:lang="en">Urtzi Urrutikoetxea</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linn_Ullmann">
+    <yago:hasName xml:lang="en">Linn Ullman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohdan_Urbankowski">
+    <yago:hasName xml:lang="en">Bohdan Urbankowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Updike">
+    <yago:hasName xml:lang="en">John Updike</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Urondo">
+    <yago:hasName xml:lang="en">Francisco Urondo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Urino">
+    <yago:hasName xml:lang="en">Masao Urino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdolonyme_Ubicini">
+    <yago:hasName xml:lang="en">Jean-Henri-Abdolonyme Ubicini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%85shild_Ulstrup">
+    <yago:hasName xml:lang="en">Ashild Ulstrup</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_King_Udall">
+    <yago:hasName xml:lang="en">David King Udall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrian_Ursu">
+    <yago:hasName xml:lang="en">Adrian Ursu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syed_Ata_Ullah_Shah_Bukhari">
+    <yago:hasName xml:lang="en">Syed Ata Ullah Shah Bukhari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Coronel_Urtecho">
+    <yago:hasName xml:lang="en">Jose Coronel Urtecho</yago:hasName>
+    <yago:hasName xml:lang="en">José Coronel Urtecho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ushery">
+    <yago:hasName xml:lang="en">David Ushery</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilbur_Underwood">
+    <yago:hasName xml:lang="en">Wilbur Underwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_K._Updegrove">
+    <yago:hasName xml:lang="en">Mark K. Updegrove</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Uptin">
+    <yago:hasName xml:lang="en">Jonathan Uptin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anya_Ulinich">
+    <yago:hasName xml:lang="en">Anya Ulinich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Uhland">
+    <yago:hasName xml:lang="en">Ludwig Uhland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arantxa_Urretabizkaia">
+    <yago:hasName xml:lang="en">Arantxa Urretabizkaia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ugo_Foscolo">
+    <yago:hasName xml:lang="en">Niccolò Ugo Foscolo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qudrat_Ullah_Shahab">
+    <yago:hasName xml:lang="en">Qudrat Ullah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umar_Alisha">
+    <yago:hasName xml:lang="en">Dr Umar Alisha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thrity_Umrigar">
+    <yago:hasName xml:lang="en">Thrity Umrigar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willy_Ustad">
+    <yago:hasName xml:lang="en">Willy Ustad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_von_Thurn_und_Taxis">
+    <yago:hasName xml:lang="en">Fritz von Thurn und Taxis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Quijada_Ur%C3%ADas">
+    <yago:hasName xml:lang="en">Alfonso Quijada Urias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iginio_Ugo_Tarchetti">
+    <yago:hasName xml:lang="en">Iginio Ugo Tarchetti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khalil_Rza_Uluturk">
+    <yago:hasName xml:lang="en">Khalil Rza Uluturk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Udall">
+    <yago:hasName xml:lang="en">J. Nicholas Udall</yago:hasName>
+    <yago:hasName xml:lang="en">Nick Udall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_M._Gibson">
+    <yago:hasName xml:lang="en">At Universal's "Scott Pilgrim's Super Fun Party," produced by Gibson's i am 8-bit Productions.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ultimate_Fling">
+    <yago:hasName xml:lang="en">The Ultimate Fling</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anneli_Ute_Gabanyi">
+    <yago:hasName xml:lang="en">Anneli Ute Gabanyi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%BA%C3%A1n_%C3%BAa_Lothch%C3%A1in">
+    <yago:hasName xml:lang="en">Cuan Ua Lothchain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ulrich_Giesy">
+    <yago:hasName xml:lang="en">John Ulrich Giesy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Upton">
+    <yago:hasName xml:lang="en">Andrew Upton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilla_na_Naemh_Ua_Dunabhra">
+    <yago:hasName xml:lang="en">Gilla Na Naemh Ua Dunabhra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Izhar_ul_Haq">
+    <yago:hasName xml:lang="en">Muhammad Izhar ul Haq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Uspensky">
+    <yago:hasName xml:lang="en">Gleb Uspensky</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

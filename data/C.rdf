@@ -5,9 +5,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cirilo_Villaverde">
     <yago:hasName xml:lang="en">Cirilo Villaverde</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Higham_%28biographer%29">
-    <yago:hasName xml:lang="en">Charles Higham</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Lucas">
     <yago:hasName xml:lang="en">Craig Lucas</yago:hasName>
   </rdf:Description>
@@ -22,9 +19,6 @@
     <yago:hasName xml:lang="en">Carlos Davila</yago:hasName>
     <yago:hasName xml:lang="en">Carlos Dávila</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clinton_H._Stagg">
-    <yago:hasName xml:lang="en">Clinton H. Stagg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Foran">
     <yago:hasName xml:lang="en">Charles Foran</yago:hasName>
   </rdf:Description>
@@ -37,11 +31,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Mutsaers">
     <yago:hasName xml:lang="en">Charlotte Mutsaers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Christian">
+    <yago:hasName xml:lang="en">Catherine Christian</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron_McAllister">
     <yago:hasName xml:lang="en">Cameron McAllister</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_McNally">
-    <yago:hasName xml:lang="en">Clare McNally</yago:hasName>
+    <yago:hasName xml:lang="en">Clare Macnally</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cygwin">
     <yago:hasName xml:lang="en">Cygwin</yago:hasName>
@@ -104,9 +101,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheryl_Dunye">
     <yago:hasName xml:lang="en">Cheryl Dunye</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clay_Graham">
-    <yago:hasName xml:lang="en">Clay Graham</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Kabak">
     <yago:hasName xml:lang="en">Carrie Kabak</yago:hasName>
   </rdf:Description>
@@ -137,11 +131,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Buckle">
     <yago:hasName xml:lang="en">Catherine Buckle</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Conrad_Voss_Bark">
-    <yago:hasName xml:lang="en">Conrad Voss Bark</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Messina">
+    <yago:hasName xml:lang="en">Charles Messina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cha_In-Pyo">
+    <yago:hasName xml:lang="en">Cha In-Pyo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cale_Young_Rice">
     <yago:hasName xml:lang="en">Cale Young Rice</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Maurice_Donnay">
+    <yago:hasName xml:lang="en">Charles Maurice Donnay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sheffield">
     <yago:hasName xml:lang="en">Charles Sheffield</yago:hasName>
@@ -168,9 +168,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stuart_Calverley">
     <yago:hasName xml:lang="en">Charles Stuart Calverley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Glass_%28author%29">
-    <yago:hasName xml:lang="en">Cathy Glass</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Gasparino">
     <yago:hasName xml:lang="en">Charles (Charlie) Gasparino</yago:hasName>
     <yago:hasName xml:lang="en">Charlie Gasparino</yago:hasName>
@@ -179,8 +176,8 @@
     <yago:hasName xml:lang="en">C.B. Colby</yago:hasName>
     <yago:hasName xml:lang="en">C. B. Colby</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Matthew">
-    <yago:hasName xml:lang="en">Christopher Matthew</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gibson">
+    <yago:hasName xml:lang="en">Charles Gibson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sabine">
     <yago:hasName xml:lang="en">Charles Sabine</yago:hasName>
@@ -263,7 +260,6 @@
     <yago:hasName xml:lang="en">Chayyim Moses ben Isaiah Cantarini</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candace_Camp">
-    <yago:hasName xml:lang="en">Candace Pauline Camp Hopcus</yago:hasName>
     <yago:hasName xml:lang="en">Candace Pauline Camp</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Arnold">
@@ -271,9 +267,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Mosdell">
     <yago:hasName xml:lang="en">Chris Mosdell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Calega_Panzan">
-    <yago:hasName xml:lang="en">Calego Panzan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarina_I._H._Nichols">
     <yago:hasName xml:lang="en">Clarina I.H. Nichols</yago:hasName>
@@ -295,9 +288,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gu_Cheng">
     <yago:hasName xml:lang="en">Cheng Gu</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C._S._Chellappa">
-    <yago:hasName xml:lang="en">Cinnamanur Subramaniam Chellappa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Exbrayat">
     <yago:hasName xml:lang="en">Charles Exbrayat</yago:hasName>
@@ -352,9 +342,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cattamanchi_Ramalinga_Reddy">
     <yago:hasName xml:lang="en">C. R. Reddy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Hinz">
-    <yago:hasName xml:lang="en">Christopher Hinz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Edward_Sayle">
     <yago:hasName xml:lang="en">Charles Edward Sayle</yago:hasName>
   </rdf:Description>
@@ -385,6 +372,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corn%C3%A9lio_Pires">
     <yago:hasName xml:lang="en">Cornelio Pires</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curt_Menefee">
+    <yago:hasName xml:lang="en">Curt Menefee</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conon_de_B%C3%A9thune">
     <yago:hasName xml:lang="en">Conan de Bethune</yago:hasName>
   </rdf:Description>
@@ -397,8 +387,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Coningsby_Dawson">
     <yago:hasName xml:lang="en">Coningsby Dawson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Whyte">
+    <yago:hasName xml:lang="en">Christopher Whyte</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A6dmon">
     <yago:hasName xml:lang="en">Cædmon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_M._Pursifull">
+    <yago:hasName xml:lang="en">Carmen M. Pursifull</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camil_Baltazar">
     <yago:hasName xml:lang="en">Camil Baltazar</yago:hasName>
@@ -468,6 +464,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claes_Gill">
     <yago:hasName xml:lang="en">Claes Gill</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cynaethus">
+    <yago:hasName xml:lang="en">Cynaethus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chirayinkeezhu_Ramakrishnan_Nair">
+    <yago:hasName xml:lang="en">Chirayinkeezhu Ramakrishnan Nair</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Williams_(British_writer)">
     <yago:hasName xml:lang="en">Charles Williams</yago:hasName>
   </rdf:Description>
@@ -486,10 +488,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Bingham">
     <yago:hasName xml:lang="en">Charlotte Bingham</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Consuelo_Tom%C3%A1s">
-    <yago:hasName xml:lang="en">Consuelo Tomás</yago:hasName>
-    <yago:hasName xml:lang="en">Consuelo Tomas</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conor_Pope">
     <yago:hasName xml:lang="en">Conor Pope</yago:hasName>
   </rdf:Description>
@@ -498,9 +496,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Baker">
     <yago:hasName xml:lang="en">Catherine Baker</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Harvey_%28writer%29">
-    <yago:hasName xml:lang="en">Colin Harvey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chief_Buffalo_Child_Long_Lance">
     <yago:hasName xml:lang="en">Chief Buffalo Child Long Lance</yago:hasName>
@@ -511,8 +506,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Johnson_(author)">
     <yago:hasName xml:lang="en">Craig Johnson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Hart_%28novelist%29">
-    <yago:hasName xml:lang="en">Christopher Hart</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chloe_Lang">
+    <yago:hasName xml:lang="en">Chloe Lang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hale">
     <yago:hasName xml:lang="en">Charles Hale</yago:hasName>
@@ -536,11 +531,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Doty">
     <yago:hasName xml:lang="en">Chris Doty</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caitlin_Rother">
-    <yago:hasName xml:lang="en">Caitlin Rother</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Ritcheson">
     <yago:hasName xml:lang="en">Charles Ritcheson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Smart">
+    <yago:hasName xml:lang="en">Carolyn Smart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Moravia">
     <yago:hasName xml:lang="en">Charles Moravia</yago:hasName>
@@ -576,9 +571,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Jennings_(journalist)">
     <yago:hasName xml:lang="en">Charles Jennings</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Platt_%28author%29">
-    <yago:hasName xml:lang="en">Charles Platt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kenneth_Scott_Moncrieff">
     <yago:hasName xml:lang="en">Charles Kenneth Scott Moncrieff</yago:hasName>
     <yago:hasName xml:lang="en">C. K. Scott Moncrieff</yago:hasName>
@@ -611,15 +603,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Smith_(novelist)">
     <yago:hasName xml:lang="en">Catherine Smith</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Jaymes">
+    <yago:hasName xml:lang="en">Christopher Jaymes</yago:hasName>
+    <yago:hasName xml:lang="en">Chris Jaymes</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Vanocur">
     <yago:hasName xml:lang="en">Chris Vanocur</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Nejar">
     <yago:hasName xml:lang="en">Carlos Nejar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Jaymes">
-    <yago:hasName xml:lang="en">Christopher Jaymes</yago:hasName>
-    <yago:hasName xml:lang="en">Chris Jaymes</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Sykes_(author)">
     <yago:hasName xml:lang="en">Christopher Sykes</yago:hasName>
@@ -653,7 +645,10 @@
     <yago:hasName xml:lang="en">Christine Schutt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Hillgarth">
-    <yago:hasName xml:lang="en">Captain Alan Hugh Hillgarth</yago:hasName>
+    <yago:hasName xml:lang="en">Captain Sir Alan Hugh Hillgarth Bt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Hunt">
+    <yago:hasName xml:lang="en">Chris Hunt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Mathieson">
     <yago:hasName xml:lang="en">Craig Mathieson</yago:hasName>
@@ -670,9 +665,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Bell_(military_historian)">
     <yago:hasName xml:lang="en">Christopher Bell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C_R_Irani">
-    <yago:hasName xml:lang="en">C R Irani</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cherd_Songsri">
     <yago:hasName xml:lang="en">Cherd Songsri</yago:hasName>
   </rdf:Description>
@@ -688,15 +680,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Crazy_Mohan">
     <yago:hasName xml:lang="en">Crazy Mohan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clint_Bolick">
-    <yago:hasName xml:lang="en">Clint Bolick</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Williams_(journalist)">
     <yago:hasName xml:lang="en">Chris Williams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Chen">
     <yago:hasName xml:lang="en">Can4 Cung1</yago:hasName>
     <yago:hasName xml:lang="en">Chén Chōng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Spencer">
+    <yago:hasName xml:lang="en">Catherine Spencer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Gallardo_(actor)">
     <yago:hasName xml:lang="en">Carlos Gallardo</yago:hasName>
@@ -725,6 +717,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chaganti_Somayajulu">
     <yago:hasName xml:lang="en">Chaganti Somayajulu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Ram%C3%ADrez_MacGregor">
+    <yago:hasName xml:lang="en">Carlos Ramírez Macgregor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Wall">
     <yago:hasName xml:lang="en">Cynthia Wall</yago:hasName>
@@ -788,14 +783,19 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kinkead">
     <yago:hasName xml:lang="en">Charles Kinkead</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Costache_Ioanid">
-    <yago:hasName xml:lang="en">Costache Ioanid</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A2ndido_de_Oliveira">
+    <yago:hasName xml:lang="en">Cândido Fernandes Plácido de Oliveira</yago:hasName>
+    <yago:hasName xml:lang="en">Cândido de Oliveira</yago:hasName>
+    <yago:hasName xml:lang="en">Candido de Oliveira</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candy_Crowley">
     <yago:hasName xml:lang="en">Candy Crowley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charloun_Rieu">
     <yago:hasName xml:lang="en">Charloun Rieu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Cardoso">
+    <yago:hasName xml:lang="en">Carlos Cardoso</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Coulson_Kernahan">
     <yago:hasName xml:lang="en">Coulson Kernahan</yago:hasName>
@@ -808,6 +808,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carly_Milne">
     <yago:hasName xml:lang="en">Carly Milne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cc65">
+    <yago:hasName xml:lang="en">cc65</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cristina_Fallar%C3%A1s">
     <yago:hasName xml:lang="en">Cristina Fallaras</yago:hasName>
@@ -860,8 +863,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Deblois">
     <yago:hasName xml:lang="en">Charles Deblois</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Edward_Barns">
-    <yago:hasName xml:lang="en">Charles Edward Barns</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Laux">
+    <yago:hasName xml:lang="en">Constance Laux</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Creedon">
     <yago:hasName xml:lang="en">Carolyn Creedon</yago:hasName>
@@ -870,7 +873,7 @@
     <yago:hasName xml:lang="en">Cormac McCarthy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_McCall">
-    <yago:hasName xml:lang="en">Christina McCall</yago:hasName>
+    <yago:hasName xml:lang="en">Christina Maccall</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claus_Toksvig">
     <yago:hasName xml:lang="en">Claus Toksvig</yago:hasName>
@@ -950,6 +953,9 @@
     <yago:hasName xml:lang="en">Convers Francis</yago:hasName>
     <yago:hasName xml:lang="en">Convers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%BA%C3%A1n_%C3%BAa_Lothch%C3%A1in">
+    <yago:hasName xml:lang="en">Cuan Ua Lothchain</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carles_Riba">
     <yago:hasName xml:lang="en">Carles Riba</yago:hasName>
   </rdf:Description>
@@ -975,15 +981,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Tsui_Siu-Ming">
     <yago:hasName xml:lang="en">Ceoi4 Siu2 Ming4</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Changjiang">
-    <yago:hasName xml:lang="en">Changjiang Fan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candia_McWilliam">
-    <yago:hasName xml:lang="en">Candia Frances Juliet McWilliam</yago:hasName>
+    <yago:hasName xml:lang="en">Candia Macwilliam</yago:hasName>
     <yago:hasName xml:lang="en">Candia McWilliam</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaman_Lal_Chaman">
-    <yago:hasName xml:lang="en">Chaman Lal Chaman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Zarin">
     <yago:hasName xml:lang="en">Cynthia Zarin</yago:hasName>
@@ -1018,6 +1018,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Paolini">
     <yago:hasName xml:lang="en">Christopher Paolini</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_McCready">
+    <yago:hasName xml:lang="en">Connie McCready</yago:hasName>
+    <yago:hasName xml:lang="en">Connie Maccready</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Baker_Kline">
     <yago:hasName xml:lang="en">Christina Baker Kline</yago:hasName>
   </rdf:Description>
@@ -1036,14 +1040,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Bernos_de_Gasztold">
     <yago:hasName xml:lang="en">Carmen Bernos De Gasztold</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Celia_Fiennes">
-    <yago:hasName xml:lang="en">Celia Fiennes</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corrado_Alvaro">
     <yago:hasName xml:lang="en">Corrado Alvaro</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Radziwill">
-    <yago:hasName xml:lang="en">Carole DiFalco Radziwill</yago:hasName>
+    <yago:hasName xml:lang="en">Carole DiFalco Radziwiłł</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Mille">
     <yago:hasName xml:lang="en">Constantin Mille</yago:hasName>
@@ -1069,11 +1070,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bonett">
     <yago:hasName xml:lang="en">Coulson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Clark%2C_Jr._%28diplomat%29">
-    <yago:hasName xml:lang="en">Clark, William, Jr.</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Anyanwu">
     <yago:hasName xml:lang="en">Christina Anyanwu</yago:hasName>
+    <yago:hasName xml:lang="en">Christiana Anyanwu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clark_Blaise">
     <yago:hasName xml:lang="en">Clark Blaise</yago:hasName>
@@ -1092,6 +1091,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camara_Laye">
     <yago:hasName xml:lang="en">Camara Laye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christoforos_Liontakis">
+    <yago:hasName xml:lang="en">Christoforos Liontakis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._J._Cherryh">
     <yago:hasName xml:lang="en">Carolyn Janice Cherry</yago:hasName>
@@ -1144,6 +1146,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colson_Whitehead">
     <yago:hasName xml:lang="en">Colson Whitehead</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Breen">
+    <yago:hasName xml:lang="en">Chris Breen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_D._Wright">
     <yago:hasName xml:lang="en">Carolyn D. Wright</yago:hasName>
   </rdf:Description>
@@ -1181,6 +1186,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Hampton">
     <yago:hasName xml:lang="en">Christopher Hampton</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristian_P%C3%A2rvulescu">
+    <yago:hasName xml:lang="en">Cristian Parvulescu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._H._Greenblatt">
     <yago:hasName xml:lang="en">C. H. Greenblatt</yago:hasName>
     <yago:hasName xml:lang="en">Carl Harvey Greenblatt</yago:hasName>
@@ -1193,6 +1201,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bukowski">
     <yago:hasName xml:lang="en">Charles Bukowski</yago:hasName>
+    <yago:hasName xml:lang="en">Charles Bukows-ki</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Dotremont">
     <yago:hasName xml:lang="en">Christian Dotremont</yago:hasName>
@@ -1208,10 +1217,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Smith_(Romani_poet)">
     <yago:hasName xml:lang="en">Charlie Smith</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cortney_Lance_Bledsoe">
-    <yago:hasName xml:lang="en">C.L. Bledsoe</yago:hasName>
-    <yago:hasName xml:lang="en">Cortney Lance Bledsoe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Carswell">
     <yago:hasName xml:lang="en">Catherine Carswell</yago:hasName>
@@ -1234,12 +1239,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._Louis_Leipoldt">
     <yago:hasName xml:lang="en">C. Louis Leipoldt</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Turner_%28author%29">
-    <yago:hasName xml:lang="en">Chris Turner</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Forch%C3%A9">
     <yago:hasName xml:lang="en">Carolyn Forche</yago:hasName>
-    <yago:hasName xml:lang="en">Carolyn Forché</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Francis_Horne">
     <yago:hasName xml:lang="en">Charles F. Horne</yago:hasName>
@@ -1255,12 +1256,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_E._Maple">
     <yago:hasName xml:lang="en">Charles Edward Maple</yago:hasName>
+    <yago:hasName xml:lang="en">Charles E. Maple</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Danyan">
     <yago:hasName xml:lang="en">Chen Danyan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Cartlidge">
-    <yago:hasName xml:lang="en">Cartlidge Michelle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paschal_Eze">
     <yago:hasName xml:lang="en">C. Paschal Eze</yago:hasName>
@@ -1300,6 +1299,9 @@
     <yago:hasName xml:lang="en">Chris Arnold</yago:hasName>
     <yago:hasName xml:lang="en">Chris Armold</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chika_Unigwe">
+    <yago:hasName xml:lang="en">Chika Unigwe</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candida_Lycett_Green">
     <yago:hasName xml:lang="en">Candida Lycett Green</yago:hasName>
   </rdf:Description>
@@ -1330,9 +1332,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Hollingworth">
     <yago:hasName xml:lang="en">Clare Hollingworth</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristina_Rodr%C3%ADguez">
-    <yago:hasName xml:lang="en">Cristina Rodriguez</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lockwood_(author)">
     <yago:hasName xml:lang="en">Charles Lockwood</yago:hasName>
   </rdf:Description>
@@ -1341,6 +1340,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Dyment">
     <yago:hasName xml:lang="en">Clifford Dyment</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Mowat">
+    <yago:hasName xml:lang="en">Claire Mowat</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_See">
     <yago:hasName xml:lang="en">Carolyn See</yago:hasName>
@@ -1357,17 +1359,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celia_Brayfield">
     <yago:hasName xml:lang="en">Celia Brayfield</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linghu_Chu">
+    <yago:hasName xml:lang="en">Chu Linghu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Hale">
     <yago:hasName xml:lang="en">Constance Hale</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clair_Maxwell">
     <yago:hasName xml:lang="en">Clair Maxwell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Antoniade">
-    <yago:hasName xml:lang="en">Constantin Antoniade</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyrus_Cassells">
+    <yago:hasName xml:lang="en">Cyrus Cassells</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colette_Peignot">
     <yago:hasName xml:lang="en">Colette Peignot</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Langbridge_Morgan">
+    <yago:hasName xml:lang="en">Charles Langbridge Morgan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Rosenblum">
     <yago:hasName xml:lang="en">Constance Rosenblum</yago:hasName>
@@ -1458,9 +1466,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Codrin_Arsene">
     <yago:hasName xml:lang="en">Codrin Arsene</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Omine">
-    <yago:hasName xml:lang="en">Carolyn Omine</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Walker">
     <yago:hasName xml:lang="en">Carole Walker</yago:hasName>
   </rdf:Description>
@@ -1478,6 +1483,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cristache_Gheorghiu">
     <yago:hasName xml:lang="en">Cristache Gheorghiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clay_Perry">
+    <yago:hasName xml:lang="en">Clay Perry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cratinus">
     <yago:hasName xml:lang="en">Cratinus</yago:hasName>
@@ -1529,9 +1537,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Burleigh_Galbreath">
     <yago:hasName xml:lang="en">Charles Burleigh Galbreath</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caj_Westerberg">
-    <yago:hasName xml:lang="en">Caj Westerberg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dolman">
     <yago:hasName xml:lang="en">Charles Dolman</yago:hasName>
   </rdf:Description>
@@ -1552,6 +1557,9 @@
     <yago:hasName xml:lang="en">C.E. Murphy</yago:hasName>
     <yago:hasName xml:lang="en">C. E. Murphy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McClelland">
+    <yago:hasName xml:lang="en">Colin McClelland</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cora_Taylor">
     <yago:hasName xml:lang="en">Cora Taylor</yago:hasName>
   </rdf:Description>
@@ -1563,6 +1571,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Zook">
     <yago:hasName xml:lang="en">Chris Zook</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collie_Knox">
+    <yago:hasName xml:lang="en">Collie Knox</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wright_(poet)">
     <yago:hasName xml:lang="en">Charles Wright</yago:hasName>
@@ -1594,6 +1605,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cho_Ramaswamy">
     <yago:hasName xml:lang="en">Cho Ramaswamy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Evans-Jones">
+    <yago:hasName xml:lang="en">Cynan Evans-Jones</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Dodd">
     <yago:hasName xml:lang="en">Christina Dodd</yago:hasName>
   </rdf:Description>
@@ -1603,15 +1617,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clennell_Wickham">
     <yago:hasName xml:lang="en">Clennell Wilsden Wickham</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyrano_de_Bergerac">
-    <yago:hasName xml:lang="en">Cyrano De Bergerac</yago:hasName>
-    <yago:hasName xml:lang="en">Cyrano de Bergerac</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Koch">
     <yago:hasName xml:lang="en">Christopher Koch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarice_Tinsley">
     <yago:hasName xml:lang="en">Clarice Tinsley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Sterling">
+    <yago:hasName xml:lang="en">Claire Sterling</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Gee">
     <yago:hasName xml:lang="en">Catherine Gee</yago:hasName>
@@ -1631,14 +1644,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Hirschfeld">
     <yago:hasName xml:lang="en">Carol Hirschfeld</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Laberge">
+    <yago:hasName xml:lang="en">Charles Laberge</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celestino_Gorostiza">
     <yago:hasName xml:lang="en">Celestino Gorostiza</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chima_Simone">
     <yago:hasName xml:lang="en">Chima Simone</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Black">
-    <yago:hasName xml:lang="en">Carol Black</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Hennessy">
     <yago:hasName xml:lang="en">Claire Hennessy</yago:hasName>
@@ -1658,11 +1671,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stross">
     <yago:hasName xml:lang="en">Charles Stross</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Darwin">
-    <yago:hasName xml:lang="en">Charles Robert Darwin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Loret_de_Mola">
-    <yago:hasName xml:lang="en">Carlos Loret De Mola Alvarez</yago:hasName>
+    <yago:hasName xml:lang="en">Carlos Loret De Mola</yago:hasName>
     <yago:hasName xml:lang="en">Carlos Loret de Mola</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Edward_Eaton">
@@ -1673,6 +1683,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ciaran_Berry">
     <yago:hasName xml:lang="en">Ciaran Berry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_C._Clarke">
+    <yago:hasName xml:lang="en">CBE, FRAS, Sri Lankabhimanya</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Cooper_(author)">
     <yago:hasName xml:lang="en">Charlotte Cooper</yago:hasName>
@@ -1695,8 +1708,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_Walker_(journalist)">
     <yago:hasName xml:lang="en">Connie Walker</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristin_O%27Keefe_Aptowicz">
-    <yago:hasName xml:lang="en">Cristin O'Keefe Aptowicz</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Jovet">
+    <yago:hasName xml:lang="en">Carmen Jovet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carla_Romano">
     <yago:hasName xml:lang="en">Carla Romano</yago:hasName>
@@ -1718,6 +1731,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Alden_Seltzer">
     <yago:hasName xml:lang="en">Charles Alden Seltzer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Marin">
+    <yago:hasName xml:lang="en">Carol Marin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Istv%C3%A1n_Cs._Bartos">
     <yago:hasName xml:lang="en">Cs. Istvan Bartos</yago:hasName>
@@ -1753,8 +1769,8 @@
     <yago:hasName xml:lang="en">Charles Perez</yago:hasName>
     <yago:hasName xml:lang="en">Charles Perez Rinehard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_Litton_Falkiner">
-    <yago:hasName xml:lang="en">C Litton Falkiner</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Jacobs-Bond">
+    <yago:hasName xml:lang="en">Carrie Jacobs-Bond</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Cheney">
     <yago:hasName xml:lang="en">Colin Cheney</yago:hasName>
@@ -1833,6 +1849,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Bachelder">
     <yago:hasName xml:lang="en">Chris Bachelder</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cinaethon_of_Sparta">
+    <yago:hasName xml:lang="en">Cinaethon of Sparta</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clive_Myrie">
     <yago:hasName xml:lang="en">Clive Myrie</yago:hasName>
   </rdf:Description>
@@ -1909,6 +1928,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caspar_Whitney">
     <yago:hasName xml:lang="en">Caspar Whitney</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_du_Perron">
+    <yago:hasName xml:lang="en">Charles Edgar du Perron</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Pellicer">
     <yago:hasName xml:lang="en">Carlos Pellicer</yago:hasName>
   </rdf:Description>
@@ -1926,6 +1948,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Champagne">
     <yago:hasName xml:lang="en">Claude Champagne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Quinn">
+    <yago:hasName xml:lang="en">Carolyn Quinn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chandrakant_Keni">
     <yago:hasName xml:lang="en">Chandrakant Keni</yago:hasName>
@@ -1957,13 +1982,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Wilson">
     <yago:hasName xml:lang="en">Colin Wilson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cl%C3%A9ment_Richard">
+    <yago:hasName xml:lang="en">Clement Richard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Mitchell">
+    <yago:hasName xml:lang="en">Chris Mitchell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cornelia_Funke">
     <yago:hasName xml:lang="en">Cornelia Funke</yago:hasName>
     <yago:hasName xml:lang="en">Cornelia Caroline Funke</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chantal_H%C3%A9bert">
-    <yago:hasName xml:lang="en">Chantal Hebert</yago:hasName>
-    <yago:hasName xml:lang="en">Chantal Hébert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Enjolet">
     <yago:hasName xml:lang="en">Catherine Enjolet</yago:hasName>
@@ -1986,20 +2013,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chandidas">
     <yago:hasName xml:lang="en">Chandidas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Dennis">
-    <yago:hasName xml:lang="en">Carl Dennis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corneliu_M._Popescu">
     <yago:hasName xml:lang="en">Corneliu M Popescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Dennis">
+    <yago:hasName xml:lang="en">Carl Dennis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Hunter">
     <yago:hasName xml:lang="en">Catherine Hunter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colleen_Higgs">
     <yago:hasName xml:lang="en">Colleen Higgs</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Barstow">
-    <yago:hasName xml:lang="en">Colin Barstow</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clara_Jessup_Moore">
     <yago:hasName xml:lang="en">Clara Jessup Moore</yago:hasName>
@@ -2029,9 +2053,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Bateson">
     <yago:hasName xml:lang="en">Catherine Bateson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C_K_Meena">
-    <yago:hasName xml:lang="en">C K Meena</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Claremont">
     <yago:hasName xml:lang="en">Chris Claremont</yago:hasName>
   </rdf:Description>
@@ -2048,6 +2069,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hoff">
     <yago:hasName xml:lang="en">Charles Hoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Bunch">
+    <yago:hasName xml:lang="en">Chris Bunch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christoph_von_Schmid">
     <yago:hasName xml:lang="en">Christoph von Schmid</yago:hasName>
@@ -2067,6 +2091,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Macfaull">
     <yago:hasName xml:lang="en">Charles Macfaull</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_T%C4%83nase_(journalist)">
+    <yago:hasName xml:lang="en">Constantin Tănase</yago:hasName>
+    <yago:hasName xml:lang="en">Constantin Tanase</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cavan_Scott">
     <yago:hasName xml:lang="en">Cavan Scott</yago:hasName>
   </rdf:Description>
@@ -2075,6 +2103,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Labb%C3%A9">
     <yago:hasName xml:lang="en">Carlos Labbé</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Yu">
+    <yago:hasName xml:lang="en">Courtesy name: Tuìzhī 退之</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camille_Martin">
     <yago:hasName xml:lang="en">Camille Martin</yago:hasName>
@@ -2112,7 +2143,7 @@
     <yago:hasName xml:lang="en">Chris Stroffolino</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_McCabe">
-    <yago:hasName xml:lang="en">Charles McCabe</yago:hasName>
+    <yago:hasName xml:lang="en">Charles Maccabe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Campbell_McGrath">
     <yago:hasName xml:lang="en">Campbell McGrath</yago:hasName>
@@ -2139,6 +2170,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Adams_Miller">
     <yago:hasName xml:lang="en">Caroline Adams Miller</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnival_of_Rust_(song)">
+    <yago:hasName xml:lang="en">Carnival of Rust</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Magalh%C3%A3es_de_Azeredo">
     <yago:hasName xml:lang="en">Carlos Magalhaes De Azeredo</yago:hasName>
     <yago:hasName xml:lang="en">Carlos Magalhães de Azeredo</yago:hasName>
@@ -2149,20 +2183,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Bront%C3%AB">
     <yago:hasName xml:lang="en">Charlotte Brontë</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Boylan">
-    <yago:hasName xml:lang="en">Clare Boylan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Reade">
     <yago:hasName xml:lang="en">Charles Reade</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cellach_h%C3%BAa_R%C3%BAanada">
-    <yago:hasName xml:lang="en">Cellach Hua Ruanada</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Boylan">
+    <yago:hasName xml:lang="en">Clare Boylan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cas_Wouters">
     <yago:hasName xml:lang="en">Cas Wouters</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Count_Geoffrey_Potocki_de_Montalk">
     <yago:hasName xml:lang="en">Count Geoffrey Potocki de Montalk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Lindsey_Alderman">
+    <yago:hasName xml:lang="en">Clifford Lindsey Alderman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Ornstein">
     <yago:hasName xml:lang="en">Charles Ornsetin</yago:hasName>
@@ -2179,6 +2213,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Col_Buchanan">
     <yago:hasName xml:lang="en">Col Buchanan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Michael_Bellman">
+    <yago:hasName xml:lang="en">Carl Michael Bellman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Ireson">
     <yago:hasName xml:lang="en">Craig Ireson</yago:hasName>
@@ -2207,14 +2244,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Turnbull">
     <yago:hasName xml:lang="en">Constance Mary Turnbull</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciprian_Porumbescu">
-    <yago:hasName xml:lang="en">Ciprian Porumbescu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Mary_Yonge">
     <yago:hasName xml:lang="en">Charlotte Mary Yonge</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Leka">
     <yago:hasName xml:lang="en">Claire Leka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Alington_Barnard">
+    <yago:hasName xml:lang="en">Charlotte Alington Pye Barnard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cedric_Belfrage">
     <yago:hasName xml:lang="en">Cedric Belfrage</yago:hasName>
@@ -2234,6 +2271,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_B._Garrigus">
     <yago:hasName xml:lang="en">Charles B. Garrigus</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curtis_Strange">
+    <yago:hasName xml:lang="en">Curtis Northrup Strange</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Montagu_Doughty">
     <yago:hasName xml:lang="en">C.M. Doughty</yago:hasName>
   </rdf:Description>
@@ -2251,9 +2291,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Crispin_Black">
     <yago:hasName xml:lang="en">Crispin Black</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carter_Smith">
-    <yago:hasName xml:lang="en">Carter Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Marlow">
     <yago:hasName xml:lang="en">Christopher Nicole &amp; Diana Bachmann</yago:hasName>
@@ -2276,6 +2313,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Off">
     <yago:hasName xml:lang="en">Carol Off</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Skelton">
+    <yago:hasName xml:lang="en">Charlie Skelton</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Nicole">
     <yago:hasName xml:lang="en">Christopher Robin Nicole</yago:hasName>
   </rdf:Description>
@@ -2288,9 +2328,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Wiman">
     <yago:hasName xml:lang="en">Christian Wiman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Captain_Beefheart">
-    <yago:hasName xml:lang="en">Captain Beefheart</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Callimachus">
     <yago:hasName xml:lang="en">Callimachus</yago:hasName>
   </rdf:Description>
@@ -2300,6 +2337,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clyde_Fitch">
     <yago:hasName xml:lang="en">Clyde Fitch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Malone">
+    <yago:hasName xml:lang="en">Carole Malone</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bowden">
     <yago:hasName xml:lang="en">Charles Bowden</yago:hasName>
@@ -2356,11 +2396,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kains_Jackson">
     <yago:hasName xml:lang="en">Charles Kains Jackson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Cumpi%C3%A1n">
+    <yago:hasName xml:lang="en">Carlos Cumpian</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Agee">
     <yago:hasName xml:lang="en">Chris Agee</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Phillips">
-    <yago:hasName xml:lang="en">Claude Phillips</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cornelius_Mathews">
     <yago:hasName xml:lang="en">Cornelius Mathews</yago:hasName>
@@ -2368,8 +2408,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Chorley">
     <yago:hasName xml:lang="en">Charles Chorley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Van_Horne">
+    <yago:hasName xml:lang="en">Chris Van Horne</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Shinn">
     <yago:hasName xml:lang="en">Christopher Shinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Pierson">
+    <yago:hasName xml:lang="en">Chris Pierson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chauncey_C._Loomis">
     <yago:hasName xml:lang="en">Chauncey C. Loomis</yago:hasName>
@@ -2415,6 +2461,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Charlotta_Cederstr%C3%B6m">
     <yago:hasName xml:lang="en">Christina Charlotta Cederstrom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Dominicci">
+    <yago:hasName xml:lang="en">Carmen Dominicci</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cherie_Priest">
     <yago:hasName xml:lang="en">Cherie Priest</yago:hasName>
@@ -2508,8 +2557,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron_Williams">
     <yago:hasName xml:lang="en">Cameron Williams</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celia_Barker_Lottridge">
+    <yago:hasName xml:lang="en">Celia Lottridge</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheong_Chi-yong">
     <yago:hasName xml:lang="en">Cheong Chi-yong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Duke_of_Orl%C3%A9ans">
+    <yago:hasName xml:lang="en">Charles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Marlowe">
     <yago:hasName xml:lang="en">Christopher Marlowe</yago:hasName>
@@ -2522,9 +2577,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Heimerdinger">
     <yago:hasName xml:lang="en">Chris Heimerdinger</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Stasheff">
-    <yago:hasName xml:lang="en">Christopher Stasheff</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chirikure_Chirikure">
     <yago:hasName xml:lang="en">Chirikure</yago:hasName>
@@ -2560,6 +2612,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A9sar_Jaroslavsky">
     <yago:hasName xml:lang="en">Cesar Jaroslavsky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Agell">
+    <yago:hasName xml:lang="en">Charlotte Agell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Merritt">
     <yago:hasName xml:lang="en">Constance Merritt</yago:hasName>
   </rdf:Description>
@@ -2575,9 +2630,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charmaine_Dragun">
     <yago:hasName xml:lang="en">Charmaine Dragun</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Curiatius_Maternus">
-    <yago:hasName xml:lang="en">Curiatius Maternus</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Bax">
     <yago:hasName xml:lang="en">Clifford Bax</yago:hasName>
   </rdf:Description>
@@ -2589,9 +2641,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Myss">
     <yago:hasName xml:lang="en">Caroline Myss</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Peterson_%28photographer%29">
-    <yago:hasName xml:lang="en">Charles Peterson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hamilton_(writer)">
     <yago:hasName xml:lang="en">Charles Hamilton</yago:hasName>
@@ -2627,15 +2676,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Gottfried_K%C3%B6rner">
     <yago:hasName xml:lang="en">Christian Gottfried Korner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Gordon_Cumming">
+    <yago:hasName xml:lang="en">Charlotte Gordon Cummng</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._J._Dennis">
     <yago:hasName xml:lang="en">C. J. Dennis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Tomalin">
     <yago:hasName xml:lang="en">Claire Tomalin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lynch_%28journalist%29">
-    <yago:hasName xml:lang="en">Charles Burchill Lynch</yago:hasName>
-    <yago:hasName xml:lang="en">Charles Lynch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mair">
     <yago:hasName xml:lang="en">Charles Mair</yago:hasName>
@@ -2653,6 +2701,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._V._Raman_Pillai">
     <yago:hasName xml:lang="en">C.V. Raman Pillai</yago:hasName>
     <yago:hasName xml:lang="en">C. V. Raman Pillai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_McKenna">
+    <yago:hasName xml:lang="en">Christina McKenna</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cecelia_Ahern">
     <yago:hasName xml:lang="en">Cecelia Ahern</yago:hasName>
@@ -2706,6 +2757,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Simic">
     <yago:hasName xml:lang="en">Charles Simic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Levenson">
+    <yago:hasName xml:lang="en">Christopher Levenson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kingsley">
     <yago:hasName xml:lang="en">Charles Kingsley</yago:hasName>
   </rdf:Description>
@@ -2720,10 +2774,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caleb_J._Ross">
     <yago:hasName xml:lang="en">Caleb J. Ross</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Morris_%28author%29">
-    <yago:hasName xml:lang="en">Chris Morris</yago:hasName>
-    <yago:hasName xml:lang="en">Christopher Crosby Morris</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colleen_Williams">
     <yago:hasName xml:lang="en">Colleen Williams</yago:hasName>
@@ -2751,9 +2801,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Offutt">
     <yago:hasName xml:lang="en">Chris Offutt</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Pelieu">
-    <yago:hasName xml:lang="en">Claude Pelieu</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chay_Yew">
     <yago:hasName xml:lang="en">Chay Yew</yago:hasName>
   </rdf:Description>
@@ -2763,17 +2810,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Justin_Lo">
     <yago:hasName xml:lang="en">cètián</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_B._Cooney">
-    <yago:hasName xml:lang="en">Caroline B. Cooney</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_LeGrand">
     <yago:hasName xml:lang="en">Connie Legrand</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_S._Nicol%C4%83escu-Plop%C5%9For">
+    <yago:hasName xml:lang="en">Constantin S Nicolaescu-Plopsor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Kutschera">
     <yago:hasName xml:lang="en">Chris Kuschera</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Mary_Brame">
     <yago:hasName xml:lang="en">Charlotte Mary Brame</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udaya_Dharmawardhana">
+    <yago:hasName xml:lang="en">Chinthana Dharmadasa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Bowman">
     <yago:hasName xml:lang="en">Catherine Bowman</yago:hasName>
@@ -2823,9 +2873,6 @@
     <yago:hasName xml:lang="en">Carol Shields</yago:hasName>
     <yago:hasName xml:lang="en">Carol Ann Shields</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Sommer">
-    <yago:hasName xml:lang="en">Carl Sommer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chang-Rae_Lee">
     <yago:hasName xml:lang="en">Chang-Rae Lee</yago:hasName>
     <yago:hasName xml:lang="en">Chang-rae Lee</yago:hasName>
@@ -2863,14 +2910,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Divine">
     <yago:hasName xml:lang="en">Charles Divine</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Oscar_Munthe">
+    <yago:hasName xml:lang="en">Carl Oscar Munthe</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mackay">
     <yago:hasName xml:lang="en">Charles Mackay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carleton_Beals">
     <yago:hasName xml:lang="en">Carleton Beals</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Frederick">
-    <yago:hasName xml:lang="en">Carl Frederick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Goutiere_Weston">
     <yago:hasName xml:lang="en">Christine Goutiere Weston</yago:hasName>
@@ -2891,9 +2938,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chabeli_Iglesias">
     <yago:hasName xml:lang="en">Chabeli Iglesias</yago:hasName>
     <yago:hasName xml:lang="en">Chábeli Iglesias</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hamilton_%28writer%29">
-    <yago:hasName xml:lang="en">Charles Hamilton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cully_Cobb">
     <yago:hasName xml:lang="en">Cully Cobb</yago:hasName>
@@ -2926,17 +2970,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Comte_de_Lautr%C3%A9amont">
     <yago:hasName xml:lang="en">Comte de Lautréamont</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Gustaf_af_Leopold">
-    <yago:hasName xml:lang="en">Carl Gustaf Af Leopold</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Green_(writer)">
     <yago:hasName xml:lang="en">Chris Green</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corinth_Morter_Lewis">
     <yago:hasName xml:lang="en">Corinth Morter Lewis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Tame">
-    <yago:hasName xml:lang="en">Chris Ronald Tame</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladys_Carmagnola">
+    <yago:hasName xml:lang="en">Carmagnola</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Merrill">
     <yago:hasName xml:lang="en">Christopher Merrill</yago:hasName>
@@ -2946,9 +2987,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Calvin_Thomas_(linguist)">
     <yago:hasName xml:lang="en">Calvin Thomas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Fox">
-    <yago:hasName xml:lang="en">Claire Fox</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Co%C5%9Fkun_K%C4%B1rca">
     <yago:hasName xml:lang="en">Coskun Kirca</yago:hasName>
@@ -2971,14 +3009,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camilo_Pessanha">
     <yago:hasName xml:lang="en">Camilo Pessanha</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_M._Burge">
-    <yago:hasName xml:lang="en">Constance M. Burge</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Reid">
     <yago:hasName xml:lang="en">Christopher Reid</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Campion_Platt">
     <yago:hasName xml:lang="en">Campion Platt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Louis-Etienne_Nuitter">
+    <yago:hasName xml:lang="en">Charles-Louis-Etienne Nuitter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Anderson">
     <yago:hasName xml:lang="en">Caroline Anderson</yago:hasName>
@@ -3006,9 +3044,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Flood">
     <yago:hasName xml:lang="en">Cynthia Flood</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dickens%2C_Jr.">
-    <yago:hasName xml:lang="en">Charles Culliford Boz Dickens</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cezar_Bolliac">
     <yago:hasName xml:lang="en">Cezar Bolliac</yago:hasName>
@@ -3073,9 +3108,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charisse_Jones">
     <yago:hasName xml:lang="en">Charisse Jones</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_McLean_Andrews">
-    <yago:hasName xml:lang="en">Charles McLean Andrews</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conor_O&apos;Clery">
     <yago:hasName xml:lang="en">Conor Oclery</yago:hasName>
   </rdf:Description>
@@ -3099,6 +3131,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catharine_Parr_Traill">
     <yago:hasName xml:lang="en">Catharine Parr Traill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christos_Lambrakis">
+    <yago:hasName xml:lang="en">Christos Lambrakis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clark_Howell">
     <yago:hasName xml:lang="en">Clark Howell</yago:hasName>
@@ -3144,17 +3179,16 @@
     <yago:hasName xml:lang="en">Charles Dezobry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Loomis">
-    <yago:hasName xml:lang="en">Carol Junge Loomis</yago:hasName>
     <yago:hasName xml:lang="en">Carol Loomis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christiane_Jacox_Kyle">
     <yago:hasName xml:lang="en">Christiane Jacox Kyle</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chellapilla_Venkata_Sastry">
+    <yago:hasName xml:lang="en">Chellapilla Venkata Sastry</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_von_Wurzbach">
     <yago:hasName xml:lang="en">Constantin von Wurzbach</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Che_Lan_Vien">
-    <yago:hasName xml:lang="en">Chế Lan Viên</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cliff_Temple">
     <yago:hasName xml:lang="en">Cliff Temple</yago:hasName>
@@ -3201,6 +3235,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Smart">
     <yago:hasName xml:lang="en">Christopher Smart</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Molloy">
+    <yago:hasName xml:lang="en">Charles Molloy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caleb_Schaber">
+    <yago:hasName xml:lang="en">Caleb Schaber</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_G%C3%B6ttfert">
     <yago:hasName xml:lang="en">Constantin Göttfert</yago:hasName>
     <yago:hasName xml:lang="en">Constantin Gottfert</yago:hasName>
@@ -3219,6 +3259,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conor_McPherson">
     <yago:hasName xml:lang="en">Conor McPherson</yago:hasName>
+    <yago:hasName xml:lang="en">Conor Macpherson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cvetka_Lipu%C5%A1">
     <yago:hasName xml:lang="en">Cvetka Lipus</yago:hasName>
@@ -3226,18 +3267,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cirilo_R._Zayas">
     <yago:hasName xml:lang="en">Cirilo R. Zayas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Chi-won">
-    <yago:hasName xml:lang="en">Chi-Won Kim</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Neal_Ascherson">
     <yago:hasName xml:lang="en">Charles Neal Ascherson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Can_Y%C3%BCcel">
     <yago:hasName xml:lang="en">Can Yucel</yago:hasName>
     <yago:hasName xml:lang="en">Can Yücel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Valentino">
-    <yago:hasName xml:lang="en">Chris Valentino</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Thorne_Boas">
     <yago:hasName xml:lang="en">Carlos Thorne</yago:hasName>
@@ -3248,17 +3283,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candace_Robb">
     <yago:hasName xml:lang="en">Candace Robb</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cory_Doctorow">
+    <yago:hasName xml:lang="en">Cory Doctorow</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Galbraith">
     <yago:hasName xml:lang="en">Colin Galbraith</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Noriega_Hope">
-    <yago:hasName xml:lang="en">Carlos Noriega Hope</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Wong">
+    <yago:hasName xml:lang="en">Cyril Wong</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Harman_(composer)">
     <yago:hasName xml:lang="en">Chris Paul Harman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Mary_Kleefeld">
     <yago:hasName xml:lang="en">Carolyn Mary Kleefeld</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cearbhall_%C3%93g_%C3%93_D%C3%A1laigh">
+    <yago:hasName xml:lang="en">Cearbhall Og O Dalaigh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Changling">
     <yago:hasName xml:lang="en">Changling Wang</yago:hasName>
@@ -3275,9 +3316,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Bernardo_Gonz%C3%A1lez_Pecotche">
     <yago:hasName xml:lang="en">Carlos Bernardo González Pecotche</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Soentpiet">
-    <yago:hasName xml:lang="en">Chris Soentpiet</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Kampmann">
     <yago:hasName xml:lang="en">Christian Kampmann</yago:hasName>
   </rdf:Description>
@@ -3287,17 +3325,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Lawson">
     <yago:hasName xml:lang="en">Chris Lawson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Bodsworth">
-    <yago:hasName xml:lang="en">Charles Frederick Bodsworth</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Wurzer">
+    <yago:hasName xml:lang="en">Cathy Wurzer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christof_Teuscher">
     <yago:hasName xml:lang="en">Christof Teuscher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colman_nepos_Cracavist">
     <yago:hasName xml:lang="en">Colman nepos Cracavist</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmelina_Soto">
-    <yago:hasName xml:lang="en">Carmelina Soto Valencia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gidley_Wheeler">
     <yago:hasName xml:lang="en">Charles Gidley Wheeler</yago:hasName>
@@ -3383,6 +3418,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Unk_White">
     <yago:hasName xml:lang="en">Cecil 'Unk' White</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_de_Oliveira">
+    <yago:hasName xml:lang="en">Carlos De Oliveira</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Barber_(author)">
     <yago:hasName xml:lang="en">Charles Matthew Barber</yago:hasName>
     <yago:hasName xml:lang="en">Charles Barber</yago:hasName>
@@ -3408,12 +3446,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Cole_Catley">
     <yago:hasName xml:lang="en">Christine Cole Catley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sprague_%28poet%29">
-    <yago:hasName xml:lang="en">Charles Sprague</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christophe_Richer">
-    <yago:hasName xml:lang="en">Christophe Richer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Potts">
     <yago:hasName xml:lang="en">Charles Potts</yago:hasName>
   </rdf:Description>
@@ -3426,10 +3458,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ciril_Zlobec">
     <yago:hasName xml:lang="en">Ciril Zlobec</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley">
+    <yago:hasName xml:lang="en">Christopher Walter Monckton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ces%C3%A1rio_Verde">
+    <yago:hasName xml:lang="en">Cesario Verde</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cole_Porter">
     <yago:hasName xml:lang="en">Cole Porter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Lemos_Simmonds">
+    <yago:hasName xml:lang="en">Carlos Apolinar Lemos Simmonds</yago:hasName>
     <yago:hasName xml:lang="en">Carlos Lemos Simmonds</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Bateman">
@@ -3455,9 +3494,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Rosin">
     <yago:hasName xml:lang="en">Charles Rosin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Kennedy">
-    <yago:hasName xml:lang="en">Caroline Kennedy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clelia_Duel_Mosher">
     <yago:hasName xml:lang="en">Clelia Duel Mosher</yago:hasName>
@@ -3521,9 +3557,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Taylor">
     <yago:hasName xml:lang="en">Cecil Taylor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Joachim_Hambro_%28philologist%29">
-    <yago:hasName xml:lang="en">Carl Joachim Hambro</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Fforde">
     <yago:hasName xml:lang="en">Catherine Rose Gordon-Cumming Fforde</yago:hasName>
   </rdf:Description>
@@ -3534,14 +3567,17 @@
     <yago:hasName xml:lang="en">Charles Karel Bouley II</yago:hasName>
     <yago:hasName xml:lang="en">Charles Karel Bouley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_McCarthy">
-    <yago:hasName xml:lang="en">Claire McCarthy</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chester_Brown">
+    <yago:hasName xml:lang="en">Chester Brown</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Lindberg">
     <yago:hasName xml:lang="en">Christina Lindberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wilson_(journalist)">
     <yago:hasName xml:lang="en">Charles Wilson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clementino_Ocampos">
+    <yago:hasName xml:lang="en">Clementino Ocampos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Franklin">
     <yago:hasName xml:lang="en">Carl Franklin</yago:hasName>
@@ -3570,9 +3606,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carina_Burman">
     <yago:hasName xml:lang="en">Carina Burman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chan_Koonchung">
-    <yago:hasName xml:lang="en">Chan Koonchung</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Wilson_(columnist)">
     <yago:hasName xml:lang="en">Craig Wilson</yago:hasName>
@@ -3617,6 +3650,7 @@
     <yago:hasName xml:lang="en">Charles Alverson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_McKay">
+    <yago:hasName xml:lang="en">Claude Mackay</yago:hasName>
     <yago:hasName xml:lang="en">Claude McKay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celia_Correas_de_Zapata">
@@ -3651,9 +3685,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Powell_(poet)">
     <yago:hasName xml:lang="en">Craig Powell</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cendrine_Wolf">
-    <yago:hasName xml:lang="en">Cendrine Wolf</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christoph_Ernst_von_Houwald">
     <yago:hasName xml:lang="en">Christoph Ernst von Houwald</yago:hasName>
@@ -3696,8 +3727,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McAdam_(novelist)">
     <yago:hasName xml:lang="en">Colin McAdam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_of_Kostenets">
-    <yago:hasName xml:lang="en">Constantine of Kostenets</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Navarrete_C%C3%A1ceres">
+    <yago:hasName xml:lang="en">Carlos Navarrete Caceres</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Portis">
     <yago:hasName xml:lang="en">Charles Portis</yago:hasName>
@@ -3711,9 +3742,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Brennan">
     <yago:hasName xml:lang="en">Christopher John Brennan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chung_Li-ho">
-    <yago:hasName xml:lang="en">Chung Li-ho</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Correlli_Barnett">
     <yago:hasName xml:lang="en">Correlli Barnett</yago:hasName>
   </rdf:Description>
@@ -3726,9 +3754,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._J._Henderson">
     <yago:hasName xml:lang="en">Cj Henderson</yago:hasName>
     <yago:hasName xml:lang="en">C.J. Henderson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lysaght">
-    <yago:hasName xml:lang="en">Charles Lysaght</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Wright_(author)">
     <yago:hasName xml:lang="en">Christopher Wright</yago:hasName>
@@ -3755,14 +3780,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Firan">
     <yago:hasName xml:lang="en">Carmen Firan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Courtlandt_Bryan">
+    <yago:hasName xml:lang="en">C. D. B. Bryan</yago:hasName>
+    <yago:hasName xml:lang="en">Courtlandt Bryan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kenny_McClatchy">
     <yago:hasName xml:lang="en">Charles Kenny Macclatchy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Lloyd_(screenwriter)">
     <yago:hasName xml:lang="en">Christopher Lloyd</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Dossi">
-    <yago:hasName xml:lang="en">Carlo Dossi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corneliu_Zelea_Codreanu">
     <yago:hasName xml:lang="en">Corneliu Zelea Codreanu</yago:hasName>
@@ -3798,6 +3824,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conn_Iggulden">
     <yago:hasName xml:lang="en">Conn Iggulden</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cont_Mhlanga">
+    <yago:hasName xml:lang="en">Cont Mhlanga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colm%C3%A1n_of_Cloyne">
+    <yago:hasName xml:lang="en">Colman Of Cloyne</yago:hasName>
+    <yago:hasName xml:lang="en">Colmán of Cloyne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corrado_Paina">
+    <yago:hasName xml:lang="en">Corrado Paina</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chart_Korbjitti">
     <yago:hasName xml:lang="en">Chart Korbjitti</yago:hasName>
   </rdf:Description>
@@ -3807,14 +3843,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corey_H%C3%A9bert">
     <yago:hasName xml:lang="en">Corey Hebert</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Marie_de_F%C3%A9letz">
-    <yago:hasName xml:lang="en">Charles-Marie de Feletz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Derrick">
     <yago:hasName xml:lang="en">Christopher Derrick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Porta">
     <yago:hasName xml:lang="en">Carlo Porta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Barkley">
+    <yago:hasName xml:lang="en">Charles Barkley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Marie-Charles_de_Bernard_du_Grail_de_la_Villette">
     <yago:hasName xml:lang="en">Charles de Bernard</yago:hasName>
@@ -3835,6 +3871,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Haber">
     <yago:hasName xml:lang="en">Carl Haber</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chapanga_Wilson">
+    <yago:hasName xml:lang="en">Chapanga Wilson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Clinton_Van_Doren">
     <yago:hasName xml:lang="en">Carl Clinton Van Doren</yago:hasName>
   </rdf:Description>
@@ -3849,6 +3888,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Harpur">
     <yago:hasName xml:lang="en">Charles Harpur</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chez_Scheme">
+    <yago:hasName xml:lang="en">Chez Scheme</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christianus_Petrus_Eliza_Robid%C3%A9_van_der_Aa">
     <yago:hasName xml:lang="en">Christianus Petrus Eliza Robide van der Aa</yago:hasName>
   </rdf:Description>
@@ -3858,18 +3900,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cats_Falck">
     <yago:hasName xml:lang="en">Cats Falck</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Alpert">
-    <yago:hasName xml:lang="en">Carl Alpert</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Page">
     <yago:hasName xml:lang="en">Clarence Page</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Fullerton">
     <yago:hasName xml:lang="en">Charlotte Fullerton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Vel%C3%A1stegui">
-    <yago:hasName xml:lang="en">Cecilia Velastegui</yago:hasName>
-    <yago:hasName xml:lang="en">Cecilia Velástegui</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Al._Ionescu-Caion">
     <yago:hasName xml:lang="en">Constantin Al. Ionescu-Caion</yago:hasName>
@@ -3890,9 +3925,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Kracht">
     <yago:hasName xml:lang="en">Christian Kracht</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colmar_Freiherr_von_der_Goltz">
-    <yago:hasName xml:lang="en">Colmar Freiherr von der Goltz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Curt_Siodmak">
     <yago:hasName xml:lang="en">Curt Siodmak</yago:hasName>
   </rdf:Description>
@@ -3905,8 +3937,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Charlesworth">
     <yago:hasName xml:lang="en">Chris Charlesworth</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Creighton_Burns">
+    <yago:hasName xml:lang="en">Creighton Burns</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Windham">
     <yago:hasName xml:lang="en">Craig Windham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Bell_(politician)">
+    <yago:hasName xml:lang="en">Chris Bell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Carlos_Cata%C3%B1o">
     <yago:hasName xml:lang="en">Catano</yago:hasName>
@@ -3927,9 +3965,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Vale_Allen">
     <yago:hasName xml:lang="en">Charlotte Vale-Allen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clothna_mac_Aenghusa">
-    <yago:hasName xml:lang="en">Clothna mac Aenghus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Colletet">
     <yago:hasName xml:lang="en">Colletet</yago:hasName>
@@ -3952,6 +3987,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Diamond">
     <yago:hasName xml:lang="en">Charles Diamond</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caspar_Wintermans">
+    <yago:hasName xml:lang="en">Caspar Wintermans</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Honor%C3%A9">
     <yago:hasName xml:lang="en">Carl Honore</yago:hasName>
   </rdf:Description>
@@ -3965,14 +4003,11 @@
     <yago:hasName xml:lang="en">Cahit Zarifoğlu</yago:hasName>
     <yago:hasName xml:lang="en">Cahit Zarifoglu</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanmao_%28author%29">
-    <yago:hasName xml:lang="en">Chen Mao Ping (陳懋平)</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colet_Abedi">
     <yago:hasName xml:lang="en">Colet Abedi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Dolan">
-    <yago:hasName xml:lang="en">Chris Dolan</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_F%C3%BCrchtegott_Gellert">
+    <yago:hasName xml:lang="en">Christian Fürchtegott Gellert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clara_Stanton_Jones">
     <yago:hasName xml:lang="en">Clara Stanton Jones</yago:hasName>
@@ -3980,25 +4015,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camil_Petrescu">
     <yago:hasName xml:lang="en">Camil Petrescu</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Formby">
+    <yago:hasName xml:lang="en">Clint Formby</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Conrad_Sayce">
     <yago:hasName xml:lang="en">Conrad Sayce</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curt_Gentry">
+    <yago:hasName xml:lang="en">Curt Gentry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_McKitterick">
     <yago:hasName xml:lang="en">Christopher Mckitterick</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucy_Gordon_%28writer%29">
-    <yago:hasName xml:lang="en">Christine Sparks Fiorotto</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Posadas">
     <yago:hasName xml:lang="en">Carmen Posadas</yago:hasName>
     <yago:hasName xml:lang="en">Carmen de Posadas Mañé</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_DeRose_%28author%29">
-    <yago:hasName xml:lang="en">Chris DeRose</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Garabed_Atamian">
-    <yago:hasName xml:lang="en">Charles Garabed Atamian</yago:hasName>
-    <yago:hasName xml:lang="en">Charles Atamian</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Bush">
     <yago:hasName xml:lang="en">Catherine Bush</yago:hasName>
@@ -4023,6 +4054,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Cooper,_Jr.">
     <yago:hasName xml:lang="en">Clarence Cooper Jr.</yago:hasName>
+    <yago:hasName xml:lang="en">Clarence Jr. Cooper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Martin-Jenkins">
     <yago:hasName xml:lang="en">Christopher Martin-Jenkins</yago:hasName>
@@ -4034,7 +4066,7 @@
     <yago:hasName xml:lang="en">Carrie Tiffany</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christen_Craig">
-    <yago:hasName xml:lang="en">Christen Drew</yago:hasName>
+    <yago:hasName xml:lang="en">Christen Craig</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_A._R._Christensen">
     <yago:hasName xml:lang="en">Christian A. R. Christensen</yago:hasName>
@@ -4050,9 +4082,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Casey_Viator">
     <yago:hasName xml:lang="en">Casey Viator</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Allen_%28author%29">
-    <yago:hasName xml:lang="en">Chris Allen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Lee_Swartz">
     <yago:hasName xml:lang="en">Clarence Lee Swartz</yago:hasName>
@@ -4082,6 +4111,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Lane">
     <yago:hasName xml:lang="en">Christopher Lane</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carilda_Oliver_Labra">
+    <yago:hasName xml:lang="en">Carilda Oliver Labra</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cathi_Unsworth">
     <yago:hasName xml:lang="en">Cathi Unsworth</yago:hasName>
   </rdf:Description>
@@ -4107,9 +4139,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Brookfield">
     <yago:hasName xml:lang="en">Charles Brookfield</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Webb">
-    <yago:hasName xml:lang="en">Clifford Webb</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Permell">
     <yago:hasName xml:lang="en">Charlotte Permell</yago:hasName>
   </rdf:Description>
@@ -4125,6 +4154,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christabel_Marshall">
     <yago:hasName xml:lang="en">Christabel Marshall</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Brown_(satirist)">
+    <yago:hasName xml:lang="en">Craig Brown</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Day">
     <yago:hasName xml:lang="en">Clarence Day</yago:hasName>
   </rdf:Description>
@@ -4134,11 +4166,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Seymour">
     <yago:hasName xml:lang="en">Craig Seymour</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tay_Cheng_Khoon">
+    <yago:hasName xml:lang="en">Cheng Khoon Tay</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer_(journalist)">
     <yago:hasName xml:lang="en">Charles Spencer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Amy_Dawson_Scott">
     <yago:hasName xml:lang="en">Catherine Amy Dawson Scott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cui_Hao_(poet)">
+    <yago:hasName xml:lang="en">Cui Hao</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Petit">
     <yago:hasName xml:lang="en">Chris Petit</yago:hasName>
@@ -4151,9 +4189,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_In-hun">
     <yago:hasName xml:lang="en">Choi In-hun</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Nelson_Fyle">
-    <yago:hasName xml:lang="en">Clifford Nelson Fyle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Channappa_Uttangi">
     <yago:hasName xml:lang="en">Channappa Uttangi</yago:hasName>
@@ -4169,6 +4204,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Daniel_Rodr%C3%ADguez_Castelao">
     <yago:hasName xml:lang="en">Castelao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Gallis%C3%A1">
+    <yago:hasName xml:lang="en">Carlos Gallisa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Hinton">
     <yago:hasName xml:lang="en">Craig Hinton</yago:hasName>
@@ -4212,9 +4250,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Browne">
     <yago:hasName xml:lang="en">Chris Browne</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Orlebar">
-    <yago:hasName xml:lang="en">Christopher Orlebar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Glass">
     <yago:hasName xml:lang="en">Charles Glass</yago:hasName>
@@ -4291,15 +4326,9 @@
     <yago:hasName xml:lang="en">Catherine Hubback</yago:hasName>
     <yago:hasName xml:lang="en">Catherine Anne Hubback</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clive_Barry">
-    <yago:hasName xml:lang="en">Clive Stephen Barry</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._J._Freezer">
     <yago:hasName xml:lang="en">Cyril Freezer</yago:hasName>
     <yago:hasName xml:lang="en">C. J. Freezer</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Priest_%28novelist%29">
-    <yago:hasName xml:lang="en">Christopher Priest</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Clark">
     <yago:hasName xml:lang="en">Catherine Clark</yago:hasName>
@@ -4348,6 +4377,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Chazal">
     <yago:hasName xml:lang="en">Claire Chazal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Crommett">
+    <yago:hasName xml:lang="en">Christopher Crommett</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carles_Francino">
     <yago:hasName xml:lang="en">Carles Francino</yago:hasName>
   </rdf:Description>
@@ -4371,6 +4403,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colleen_Coble">
     <yago:hasName xml:lang="en">Colleen Coble</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dow">
+    <yago:hasName xml:lang="en">Charles Dow</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Ruiz-Tagle">
     <yago:hasName xml:lang="en">Carlos Ruiz-Tagle</yago:hasName>
@@ -4402,9 +4437,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cindy_Adams">
     <yago:hasName xml:lang="en">Cindy Adams</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Camillo_Boito">
-    <yago:hasName xml:lang="en">Camillo Boito</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_L%C3%A4ckberg">
     <yago:hasName xml:lang="en">Camilla Läckberg</yago:hasName>
     <yago:hasName xml:lang="en">Camilla Lackberg</yago:hasName>
@@ -4421,9 +4453,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_Ann_Kirk">
     <yago:hasName xml:lang="en">Connie Ann Kirk</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C._M._Eddy%2C_Jr.">
-    <yago:hasName xml:lang="en">Clifford M. Eddy, Jr.</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Jones">
     <yago:hasName xml:lang="en">Carrie Jones</yago:hasName>
   </rdf:Description>
@@ -4432,6 +4461,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Pinto">
     <yago:hasName xml:lang="en">Carlos Pinto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C_P_Surendran">
+    <yago:hasName xml:lang="en">C. P. Surendran</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Le_Quintrec">
     <yago:hasName xml:lang="en">Charles le Quintrec</yago:hasName>
@@ -4467,6 +4499,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cho_Seon-jak">
     <yago:hasName xml:lang="en">Cho Seon-jak</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristina_Marcano">
+    <yago:hasName xml:lang="en">Cirstina Marcano</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Frode_Tiller">
     <yago:hasName xml:lang="en">Carl Frode Tiller</yago:hasName>
   </rdf:Description>
@@ -4482,6 +4517,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cengiz_Da%C4%9Fc%C4%B1">
     <yago:hasName xml:lang="en">Cengiz Dagci</yago:hasName>
     <yago:hasName xml:lang="en">Cengiz Dağcı</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Heavysege">
+    <yago:hasName xml:lang="en">Charles Heavysege</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Forsaith">
     <yago:hasName xml:lang="en">Carl C. Forsaith</yago:hasName>
@@ -4503,12 +4541,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Day-Lewis">
     <yago:hasName xml:lang="en">Cecil Day-Lewis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cozmin_Gu%C5%9F%C4%83">
+    <yago:hasName xml:lang="en">Cozmin Gusa</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_J._Fourie">
     <yago:hasName xml:lang="en">Charles J Fourie</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A9sar_Andreu_Iglesias">
-    <yago:hasName xml:lang="en">Cesar Andreu Iglesias</yago:hasName>
-    <yago:hasName xml:lang="en">César Andreu Iglesias</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Anne_Davis">
     <yago:hasName xml:lang="en">Carol Anne Davis</yago:hasName>
@@ -4520,11 +4557,17 @@
     <yago:hasName xml:lang="en">Conrad Potter Aiken</yago:hasName>
     <yago:hasName xml:lang="en">Conrad Aiken</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolina_Garcia-Aguilera">
+    <yago:hasName xml:lang="en">Carolina Garcia-Aguilera</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Jones_(novelist)">
     <yago:hasName xml:lang="en">Catherine Lace Jones</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Lacerda">
     <yago:hasName xml:lang="en">Carlos Lacerda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Douglas">
+    <yago:hasName xml:lang="en">Colin Douglas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Johnson_(writer)">
     <yago:hasName xml:lang="en">Charles Johnson</yago:hasName>
@@ -4535,14 +4578,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cate_Marvin">
     <yago:hasName xml:lang="en">Cate Marvin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Hyatt">
-    <yago:hasName xml:lang="en">Carole Hyatt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clayton_Matthews">
     <yago:hasName xml:lang="en">Clayton Hartley Matthews</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Ride">
-    <yago:hasName xml:lang="en">Christopher Ride</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Pignat">
     <yago:hasName xml:lang="en">Caroline Pignat</yago:hasName>
@@ -4574,6 +4611,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Plymell">
     <yago:hasName xml:lang="en">Charles Plymell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Y._Lee_(author)">
+    <yago:hasName xml:lang="en">C. Y. Lee</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheri_Viswanath">
     <yago:hasName xml:lang="en">Cheri Viswanath</yago:hasName>
   </rdf:Description>
@@ -4592,18 +4632,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Merriman">
     <yago:hasName xml:lang="en">Catherine Merriman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chimako_Tada">
-    <yago:hasName xml:lang="en">Chimako Tada</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Crystal_Warren">
     <yago:hasName xml:lang="en">Crystal Warren</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McNaughton">
-    <yago:hasName xml:lang="en">Colin McNaughton</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hardie_Buzacott">
+    <yago:hasName xml:lang="en">Charles Hardie Buzacott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cond%C3%A9_Benoist_Pallen">
-    <yago:hasName xml:lang="en">Condé Benoist Pallen</yago:hasName>
-    <yago:hasName xml:lang="en">Conde Benoist Pallen</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McNaughton">
+    <yago:hasName xml:lang="en">Colin Macnaughton</yago:hasName>
+    <yago:hasName xml:lang="en">Colin McNaughton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Niese">
     <yago:hasName xml:lang="en">Charlotte Niese</yago:hasName>
@@ -4616,6 +4653,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Anne_Southey">
     <yago:hasName xml:lang="en">Caroline Anne Southey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_Clyde,_III">
+    <yago:hasName xml:lang="en">Clyde, Nelson, Iii</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_W._Henderson">
     <yago:hasName xml:lang="en">Charles W. Henderson</yago:hasName>
@@ -4650,11 +4690,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Perry_(author)">
     <yago:hasName xml:lang="en">Charles Perry</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Reis_Felix">
-    <yago:hasName xml:lang="en">Charles Reis Felix</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Connell_McShane">
-    <yago:hasName xml:lang="en">Connell McShane</yago:hasName>
+    <yago:hasName xml:lang="en">Connell Macshane</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Pezoa_V%C3%A9liz">
     <yago:hasName xml:lang="en">Carlos Pezoa Veliz</yago:hasName>
@@ -4689,6 +4726,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cino_da_Pistoia">
     <yago:hasName xml:lang="en">Cino da Pistoia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Grieve">
+    <yago:hasName xml:lang="en">Cathy Grieve</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Miskel-Hoyt">
     <yago:hasName xml:lang="en">Caroline Miskel-Hoyt</yago:hasName>
@@ -4733,9 +4773,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cl%C3%A9ment_Marchand">
     <yago:hasName xml:lang="en">Clement Marchand</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cassie_J._Sneider">
-    <yago:hasName xml:lang="en">Cassie J. Sneider</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Can_D%C3%BCndar">
     <yago:hasName xml:lang="en">Can Dundar</yago:hasName>
     <yago:hasName xml:lang="en">Can Dündar</yago:hasName>
@@ -4758,23 +4795,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celine_Kiernan">
     <yago:hasName xml:lang="en">Celine Kiernan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Anderson_(writer)">
-    <yago:hasName xml:lang="en">Chris Anderson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chiyo_Uno">
     <yago:hasName xml:lang="en">Chiyo Uno</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cormac_Mac_Con_Midhe">
     <yago:hasName xml:lang="en">Cormac Mac Con Midhe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Barbarito">
-    <yago:hasName xml:lang="en">Carlos Barbarito</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Anvil">
     <yago:hasName xml:lang="en">Christopher Anvil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Fern%C3%A1ndez_Shaw">
     <yago:hasName xml:lang="en">Carlos Fernandez Shaw</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Bascombe">
+    <yago:hasName xml:lang="en">Chris Bascombe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Shadwell">
+    <yago:hasName xml:lang="en">Charles Shadwell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Odets">
     <yago:hasName xml:lang="en">Clifford Odets</yago:hasName>
@@ -4783,14 +4820,14 @@
     <yago:hasName xml:lang="en">Catherine Mylinh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McDougall">
-    <yago:hasName xml:lang="en">Colin McDougall</yago:hasName>
+    <yago:hasName xml:lang="en">Colin Macdougall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_de_Pizan">
+    <yago:hasName xml:lang="en">Christine de Pisan</yago:hasName>
+    <yago:hasName xml:lang="en">Christine De Pizan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Jeremiah_Wells">
     <yago:hasName xml:lang="en">Charles Jeremiah Wells</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_de_Pizan">
-    <yago:hasName xml:lang="en">Christine de Pizan</yago:hasName>
-    <yago:hasName xml:lang="en">Christine De Pizan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claudia_Dain">
     <yago:hasName xml:lang="en">Claudia Dain</yago:hasName>
@@ -4798,9 +4835,13 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Dunne">
     <yago:hasName xml:lang="en">Catherine Dunne</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_T._Beaird">
+    <yago:hasName xml:lang="en">Charles Thomas Beaird</yago:hasName>
+    <yago:hasName xml:lang="en">Charles T. Beaird</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_D._McAtee">
+    <yago:hasName xml:lang="en">Charles D. Macatee</yago:hasName>
     <yago:hasName xml:lang="en">Charles D. “Chuck” McAtee</yago:hasName>
-    <yago:hasName xml:lang="en">Charles D. McAtee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Banks">
     <yago:hasName xml:lang="en">Christopher Banks</yago:hasName>
@@ -4813,9 +4854,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Dann">
     <yago:hasName xml:lang="en">Colin Dann</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Natalie_Clifford_Barney">
-    <yago:hasName xml:lang="en">Clifford Barney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Victor_de_Bonstetten">
     <yago:hasName xml:lang="en">Charles Victor de Bonstetten</yago:hasName>
@@ -4835,11 +4873,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilia_Chavchavadze">
     <yago:hasName xml:lang="en">Chavchavadze Ilia</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Collin_Wilcox_%28writer%29">
-    <yago:hasName xml:lang="en">Collin Wilcox</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cyrus_Hamlin">
     <yago:hasName xml:lang="en">Cyrus Hamlin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Thompson_(reporter)">
+    <yago:hasName xml:lang="en">Charlie Thompson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catharina_Ahlgren">
     <yago:hasName xml:lang="en">Catharina Ahlgren</yago:hasName>
@@ -4852,6 +4890,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Patrick_Graves">
     <yago:hasName xml:lang="en">Charles Graves</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Quintanilla">
+    <yago:hasName xml:lang="en">Carl Quintanilla</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Innocenzo_Frugoni">
     <yago:hasName xml:lang="en">Carlo Innocenzio Maria Frugoni</yago:hasName>
@@ -4875,12 +4916,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colette_Bryce">
     <yago:hasName xml:lang="en">Colette Bryce</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McAdam_%28novelist%29">
-    <yago:hasName xml:lang="en">Colin McAdam</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Chan">
-    <yago:hasName xml:lang="en">Can4 Jan1gin6</yago:hasName>
-    <yago:hasName xml:lang="en">Chén Xīnjiàn</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmelo_D%C3%ADaz_Fern%C3%A1ndez">
+    <yago:hasName xml:lang="en">Carmelo Diaz Fernandez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_M%C3%BCnch">
     <yago:hasName xml:lang="en">Christopher Münch</yago:hasName>
@@ -4907,9 +4944,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chalmers_Johnson">
     <yago:hasName xml:lang="en">Chalmers Johnson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Njik%C3%A9-Bergeret">
-    <yago:hasName xml:lang="en">Claude Njiké - Bergeret</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carter_Revard">
     <yago:hasName xml:lang="en">Carter Revard</yago:hasName>
   </rdf:Description>
@@ -4922,28 +4956,24 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/William_Clark,_Jr._(diplomat)">
     <yago:hasName xml:lang="en">Clark, William, Jr.</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Noyes">
-    <yago:hasName xml:lang="en">CBE</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Dean_Andersson">
+    <yago:hasName xml:lang="en">C. Dean Andersson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Rotolo">
-    <yago:hasName xml:lang="en">Chris Rotolo</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chick_Hearn">
+    <yago:hasName xml:lang="en">Chick Hearn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_%C3%89tienne_Brasseur_de_Bourbourg">
     <yago:hasName xml:lang="en">Charles Etienne Brasseur de Bourbourg</yago:hasName>
     <yago:hasName xml:lang="en">Charles Étienne Brasseur de Bourbourg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ant%C3%B3nio_Diniz_da_Cruz_e_Silva">
+    <yago:hasName xml:lang="en">Cruz E Silva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Nahon">
     <yago:hasName xml:lang="en">Chris Nahon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Quinlan">
     <yago:hasName xml:lang="en">Carrie Quinlan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Liu_Cixin">
-    <yago:hasName xml:lang="en">Cixin Liu</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Oquendo_de_Amat">
-    <yago:hasName xml:lang="en">Carlos Oquendo de Amat</yago:hasName>
-    <yago:hasName xml:lang="en">Carlos Oquendo De Amat</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Fern">
     <yago:hasName xml:lang="en">Charlie Fern</yago:hasName>
@@ -4969,6 +4999,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Priest_(novelist)">
     <yago:hasName xml:lang="en">Christopher Priest</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristi%C3%A1n_Huneeus">
+    <yago:hasName xml:lang="en">Cristian Huneeus</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Mott">
     <yago:hasName xml:lang="en">Christopher Mott</yago:hasName>
     <yago:hasName xml:lang="en">Christopher "Chris" Mott</yago:hasName>
@@ -4979,8 +5012,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Knox">
     <yago:hasName xml:lang="en">Caroline Knox</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnival_of_Rust">
+    <yago:hasName xml:lang="en">Carnival of Rust</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Walsh_(poet)">
     <yago:hasName xml:lang="en">Catherine Walsh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_McCollum">
+    <yago:hasName xml:lang="en">Claire McCollum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Wattie">
     <yago:hasName xml:lang="en">Chris Wattie</yago:hasName>
@@ -5000,6 +5039,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camille_Norton">
     <yago:hasName xml:lang="en">Camille Norton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._V._Sreeraman">
+    <yago:hasName xml:lang="en">C. V. Sreeraman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Middleton_(d._1628)">
     <yago:hasName xml:lang="en">Christopher Middleton</yago:hasName>
@@ -5038,8 +5080,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chicho_Jesurun">
     <yago:hasName xml:lang="en">Chicho Jesurun</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_J._Holcroft">
-    <yago:hasName xml:lang="en">Christopher J. Holcroft</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wentworth_Dilke">
+    <yago:hasName xml:lang="en">Charles Wentworth Dilke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Alessandro_Guidi">
     <yago:hasName xml:lang="en">Carlo Guidi</yago:hasName>
@@ -5055,12 +5097,9 @@
     <yago:hasName xml:lang="en">Caroline Snedeker</yago:hasName>
     <yago:hasName xml:lang="en">Caroline Dale Snedeker</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Hartling">
-    <yago:hasName xml:lang="en">Carlos Hartling</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catriona_Sparks">
     <yago:hasName xml:lang="en">Catriona Sparks</yago:hasName>
-    <yago:hasName xml:lang="en">Catriona (Cat) Sparks</yago:hasName>
+    <yago:hasName xml:lang="en">Catriona (Cat) sparks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camilo_Jos%C3%A9_Cela">
     <yago:hasName xml:lang="en">Camilo José Cela</yago:hasName>
@@ -5068,9 +5107,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Murphey">
     <yago:hasName xml:lang="en">Cecil Murphey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch%C5%8Dhei_Kambayashi">
-    <yago:hasName xml:lang="en">Chohei Kambayashi</yago:hasName>
-    <yago:hasName xml:lang="en">Chōhei Kambayashi</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Franqui">
+    <yago:hasName xml:lang="en">Carlos Franqui</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chantal_Chawaf">
     <yago:hasName xml:lang="en">Chantal Chawaf</yago:hasName>
@@ -5093,6 +5131,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Beranek">
     <yago:hasName xml:lang="en">Christian Beranek</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Gusoff">
+    <yago:hasName xml:lang="en">Carolyn Gusoff</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Groenhuijsen">
     <yago:hasName xml:lang="en">Charles Groenhuijsen</yago:hasName>
   </rdf:Description>
@@ -5101,6 +5142,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheryl_Casone">
     <yago:hasName xml:lang="en">Cheryl Casone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon">
+    <yago:hasName xml:lang="en">Clarendon, Edward Hyde, 1st Earl Of</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantijn_Huygens">
     <yago:hasName xml:lang="en">Constantijn Huygens</yago:hasName>
@@ -5114,9 +5158,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_L._Fontenay">
     <yago:hasName xml:lang="en">Charles Louis Fontenay</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Haines">
-    <yago:hasName xml:lang="en">Carolyn Haines</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%8Cedomir_Mirkovi%C4%87">
     <yago:hasName xml:lang="en">Cedomir Mirkovic</yago:hasName>
   </rdf:Description>
@@ -5129,8 +5170,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ch%C3%A9_Walker">
     <yago:hasName xml:lang="en">Che Walker</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chandradhar_Barua">
-    <yago:hasName xml:lang="en">Chandradhar Barua</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Edward_Elder">
+    <yago:hasName xml:lang="en">Christian Edward Elder</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mathes">
     <yago:hasName xml:lang="en">Charles Mathes</yago:hasName>
@@ -5139,7 +5180,7 @@
     <yago:hasName xml:lang="en">Christian Ward</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Bond">
-    <yago:hasName xml:lang="en">Christopher Godfrey Bond</yago:hasName>
+    <yago:hasName xml:lang="en">Christopher Bond</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Corey_J._Hodges">
     <yago:hasName xml:lang="en">Corey J. Hodges</yago:hasName>
@@ -5154,8 +5195,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christen_Aagaard">
     <yago:hasName xml:lang="en">Christen Aagaard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/S._P._Meek">
-    <yago:hasName xml:lang="en">Capt. S.P. Meek</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Dore">
+    <yago:hasName xml:lang="en">Christopher Dore</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Cerf">
     <yago:hasName xml:lang="en">Christopher Cerf</yago:hasName>
@@ -5174,6 +5215,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Ball_(linguist)">
     <yago:hasName xml:lang="en">Christopher John Elinger Ball</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bryan_Alvarez">
+    <yago:hasName xml:lang="en">Chico Alvarez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Birkin">
     <yago:hasName xml:lang="en">Charles Birkin</yago:hasName>
@@ -5207,9 +5251,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charley_Trujillo">
     <yago:hasName xml:lang="en">Charles Trujillo</yago:hasName>
     <yago:hasName xml:lang="en">Charley Trujillo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Beaumont">
-    <yago:hasName xml:lang="en">Charles Beaumont</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Courtney_Love">
     <yago:hasName xml:lang="en">Courtney Love</yago:hasName>
@@ -5246,6 +5287,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Humphreys">
     <yago:hasName xml:lang="en">Chris Humphreys</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curtis_White">
+    <yago:hasName xml:lang="en">Curtis White</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Tennyson_Turner">
     <yago:hasName xml:lang="en">Charles Tennyson Turner</yago:hasName>
   </rdf:Description>
@@ -5269,7 +5313,7 @@
     <yago:hasName xml:lang="en">Chris Kuzneski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheche_Lazaro">
-    <yago:hasName xml:lang="en">Che Lázaro</yago:hasName>
+    <yago:hasName xml:lang="en">Che Lazaro</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron_Crowe">
     <yago:hasName xml:lang="en">Cameron Crowe</yago:hasName>
@@ -5356,9 +5400,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_S._Batey">
     <yago:hasName xml:lang="en">Carol S Batey</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Pike_%28author%29">
-    <yago:hasName xml:lang="en">Christopher (pseudonym) Pike</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chas_Newkey-Burden">
     <yago:hasName xml:lang="en">Chas Newkey-Burden</yago:hasName>
   </rdf:Description>
@@ -5370,6 +5411,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Connolly">
     <yago:hasName xml:lang="en">Cyril Connolly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chansa_Kabwela">
+    <yago:hasName xml:lang="en">Chansa Kabwela</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chauncey_Forward_Black">
     <yago:hasName xml:lang="en">Chauncey Forward Black</yago:hasName>
@@ -5388,9 +5432,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camille_Paglia">
     <yago:hasName xml:lang="en">Camille Paglia</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Randau">
-    <yago:hasName xml:lang="en">Carl Randau</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_D._Simak">
     <yago:hasName xml:lang="en">Clifford D. Simak</yago:hasName>
@@ -5425,11 +5466,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Canchupati_Venkatrao_Venkaswami_Rao">
     <yago:hasName xml:lang="en">Canchupati Venkatrao Rao</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Newman_%28author%29">
-    <yago:hasName xml:lang="en">Charles Newman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mu%C3%B1oz">
     <yago:hasName xml:lang="en">Charles Munoz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cordelia_Mendoza">
+    <yago:hasName xml:lang="en">Cordelia Mendoza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crist%C3%B3bal_de_Viru%C3%A9s">
+    <yago:hasName xml:lang="en">Cristobal de Virues</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Zeepvat">
     <yago:hasName xml:lang="en">Charlotte Zeepvat</yago:hasName>
@@ -5437,11 +5481,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cory_Allen">
     <yago:hasName xml:lang="en">Cory Allen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Bigsby">
+    <yago:hasName xml:lang="en">Christopher William Edgar Bigsby</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Healey_Dall">
     <yago:hasName xml:lang="en">Caroline Wells Healey Dall</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Knapp">
     <yago:hasName xml:lang="en">Caroline Knapp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Bram">
+    <yago:hasName xml:lang="en">Christopher Bram</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Unger">
     <yago:hasName xml:lang="en">Craig Unger</yago:hasName>
@@ -5460,9 +5510,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Laughton">
     <yago:hasName xml:lang="en">Charles Laughton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chandra_Bharati">
-    <yago:hasName xml:lang="en">Chandra Bharati</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cabot_Rea">
     <yago:hasName xml:lang="en">Cabot Rea</yago:hasName>
@@ -5514,9 +5561,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Grace">
     <yago:hasName xml:lang="en">Carol Grace</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Cattle">
-    <yago:hasName xml:lang="en">Christopher Cattle</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Nodier">
     <yago:hasName xml:lang="en">Charles Nodier</yago:hasName>
   </rdf:Description>
@@ -5529,9 +5573,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Bruneau">
     <yago:hasName xml:lang="en">Carol Bruneau</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Boston_Weatherford">
-    <yago:hasName xml:lang="en">Carole Boston Weatherford</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Tourneur">
     <yago:hasName xml:lang="en">Cyril Tourneur</yago:hasName>
@@ -5548,14 +5589,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Pascal">
     <yago:hasName xml:lang="en">Christine Pascal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corina_Cre%C5%A3u">
+    <yago:hasName xml:lang="en">Corina Cretu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chip_Giller">
     <yago:hasName xml:lang="en">Chip Giller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_S._Haas">
     <yago:hasName xml:lang="en">Charles S. Haas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_A_Brent">
-    <yago:hasName xml:lang="en">Carolyn A Brent</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Friedrich_Paul_Ernst">
     <yago:hasName xml:lang="en">CFP Ernst</yago:hasName>
@@ -5639,6 +5680,9 @@
     <yago:hasName xml:lang="en">Christopher Reuel Tolkien</yago:hasName>
     <yago:hasName xml:lang="en">Christopher Tolkien</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolina_Coronado">
+    <yago:hasName xml:lang="en">Carolina Coronado</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Pountney">
     <yago:hasName xml:lang="en">Christine Pountney</yago:hasName>
   </rdf:Description>
@@ -5655,17 +5699,27 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_G._Moore">
     <yago:hasName xml:lang="en">Christopher G. Moore</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Wilson_%28columnist%29">
-    <yago:hasName xml:lang="en">Craig Wilson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chenjerai_Hove">
     <yago:hasName xml:lang="en">Chenjerai Hove</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casey_McKinnon">
+    <yago:hasName xml:lang="en">Casey McKinnon</yago:hasName>
+    <yago:hasName xml:lang="en">Casey Mackinnon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._A._Lejeune">
+    <yago:hasName xml:lang="en">C. A. Lejeune</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cesare_Segre">
+    <yago:hasName xml:lang="en">Cesare Segre</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Morgan_(journalist)">
     <yago:hasName xml:lang="en">Chris Morgan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Greenberg">
     <yago:hasName xml:lang="en">Carl Greenberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grits_Gresham">
+    <yago:hasName xml:lang="en">Claude Hamilton "Grits" Gresham, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carey_Harrison">
     <yago:hasName xml:lang="en">Carey Harrison</yago:hasName>
@@ -5704,6 +5758,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Sharp">
     <yago:hasName xml:lang="en">Clifford Sharp</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clodomiro_Castilla">
+    <yago:hasName xml:lang="en">Clodomiro Castilla</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Butler_(lawyer)">
     <yago:hasName xml:lang="en">Charles Butler</yago:hasName>
   </rdf:Description>
@@ -5730,6 +5787,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Lehmann-Haupt">
     <yago:hasName xml:lang="en">Christopher Lehmann-Haupt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Baptiste_du_Val-de-Gr%C3%A2ce,_baron_de_Cloots">
+    <yago:hasName xml:lang="en">Cloots, Jean-Baptiste du Val-de-Grace, baron de</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Morton">
     <yago:hasName xml:lang="en">Colin Morton</yago:hasName>
@@ -5765,15 +5825,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Camilo_Arenivar">
     <yago:hasName xml:lang="en">Camilo Arenivar</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cara_Black_%28author%29">
-    <yago:hasName xml:lang="en">Cara Black</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constancio_C._Vigil">
+    <yago:hasName xml:lang="en">Constancio Cecilio Vigil</yago:hasName>
+    <yago:hasName xml:lang="en">Constancio C. Vigil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._E._Gatchalian">
     <yago:hasName xml:lang="en">C. E. Gatchalian</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Barber_%28author%29">
-    <yago:hasName xml:lang="en">Charles Matthew Barber</yago:hasName>
-    <yago:hasName xml:lang="en">Charles Barber</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cody_Willard">
     <yago:hasName xml:lang="en">Cody Willard</yago:hasName>
@@ -5790,30 +5847,32 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Bath">
     <yago:hasName xml:lang="en">Chris Bath</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sorel,_sieur_de_Souvigny">
+    <yago:hasName xml:lang="en">Charles Sorel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cathal_Bu%C3%AD_Mac_Giolla_Ghunna">
     <yago:hasName xml:lang="en">Cathal Buí Mac Giolla Ghunna</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Demers">
     <yago:hasName xml:lang="en">Charles Demers</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/C.H._Greenblatt">
-    <yago:hasName xml:lang="en">Carl Harvey Greenblatt</yago:hasName>
-    <yago:hasName xml:lang="en">C.H. Greenblatt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Bickmore">
     <yago:hasName xml:lang="en">Carrie Bickmore</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coleridge_and_opium">
+    <yago:hasName xml:lang="en">Coleridge And Opium</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Negruzzi">
     <yago:hasName xml:lang="en">Constantin Negruzzi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Walsh_%28poet%29">
-    <yago:hasName xml:lang="en">Catherine Walsh</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Morin">
+    <yago:hasName xml:lang="en">Carol Morin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Morin">
+    <yago:hasName xml:lang="en">Carole Morin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Song">
     <yago:hasName xml:lang="en">Cathy Song</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Keegan">
-    <yago:hasName xml:lang="en">Claire Keegan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Cheng&apos;en">
     <yago:hasName xml:lang="en">Chengen Wu</yago:hasName>
@@ -5821,11 +5880,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._H._B._Kitchin">
     <yago:hasName xml:lang="en">C. H. B. Kitchin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chittadhar_Hridaya">
-    <yago:hasName xml:lang="en">Chittadhar Hridaya</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Lucarelli">
     <yago:hasName xml:lang="en">Carlo Lucarelli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clancy_Chassay">
+    <yago:hasName xml:lang="en">Clancy Chassay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corina_Fusu">
+    <yago:hasName xml:lang="en">Corina Fusu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Changampuzha_Krishna_Pillai">
     <yago:hasName xml:lang="en">Changampuzha</yago:hasName>
@@ -5839,6 +5901,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chandler_Brossard">
     <yago:hasName xml:lang="en">Chandler Brossard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Fitzgeoffrey">
+    <yago:hasName xml:lang="en">Charles Fitzgeoffrey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Choerilus_(playwright)">
     <yago:hasName xml:lang="en">Choerilus</yago:hasName>
@@ -5871,6 +5936,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Helen_Spence">
     <yago:hasName xml:lang="en">Catherine Helen Spence</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Gerow">
+    <yago:hasName xml:lang="en">Charlie Gerow</yago:hasName>
+    <yago:hasName xml:lang="en">Charles R. Gerow</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Major">
     <yago:hasName xml:lang="en">Charles Major</yago:hasName>
   </rdf:Description>
@@ -5893,6 +5962,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._K._Stead">
     <yago:hasName xml:lang="en">C. K. Stead</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_L._Dennis">
+    <yago:hasName xml:lang="en">Carol L. Dennis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Cotts">
     <yago:hasName xml:lang="en">Cynthia Cotts</yago:hasName>
@@ -5927,6 +5999,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Marriner">
     <yago:hasName xml:lang="en">Craig Mariner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Gordon">
+    <yago:hasName xml:lang="en">Carl Gordon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christie_Golden">
+    <yago:hasName xml:lang="en">Christie Golden</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Des_Roches">
     <yago:hasName xml:lang="en">Catherine Des Roches</yago:hasName>
   </rdf:Description>
@@ -5941,9 +6019,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Newman_(broadcaster)">
     <yago:hasName xml:lang="en">CM</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christo_Pimpirev">
-    <yago:hasName xml:lang="en">Christo Pimpirev</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Sequeira">
     <yago:hasName xml:lang="en">Christopher Sequeira</yago:hasName>
@@ -5990,6 +6065,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clem_Schouwenaars">
     <yago:hasName xml:lang="en">Clem Schouwenaars</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clint_Formby">
+    <yago:hasName xml:lang="en">Clint Formby</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Du_Bos">
     <yago:hasName xml:lang="en">Charles Du Bos</yago:hasName>
@@ -6050,9 +6128,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Hutchinson_(Canadian_poet)">
     <yago:hasName xml:lang="en">Chris Hutchinson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clive_Egleton">
-    <yago:hasName xml:lang="en">Clive Egleton</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Wood">
     <yago:hasName xml:lang="en">Clement Wood</yago:hasName>
   </rdf:Description>
@@ -6067,6 +6142,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_H._Taylor_(lyricist)">
     <yago:hasName xml:lang="en">Charles H. Taylor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cork_Graham">
+    <yago:hasName xml:lang="en">Cork Graham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colette_Hume">
     <yago:hasName xml:lang="en">Colette Hume</yago:hasName>
@@ -6091,6 +6169,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Curzio_Malaparte">
     <yago:hasName xml:lang="en">Curzio Malaparte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Lee_Sanchez">
+    <yago:hasName xml:lang="en">Carol Lee Sanchez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Perrault">
     <yago:hasName xml:lang="en">Charles Perrault</yago:hasName>
@@ -6125,6 +6206,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Hughes">
     <yago:hasName xml:lang="en">Charlotte Hughes</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Patrick_Mahon">
+    <yago:hasName xml:lang="en">Charles James Patrick Mahon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cacamatzin">
+    <yago:hasName xml:lang="en">Cacamatzin</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A9sar_Aira">
     <yago:hasName xml:lang="en">César Aira</yago:hasName>
     <yago:hasName xml:lang="en">Cesar Aira</yago:hasName>
@@ -6134,6 +6221,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Thomas_(author)">
     <yago:hasName xml:lang="en">Craig Thomas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Austen">
+    <yago:hasName xml:lang="en">Carrie Austen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celeste_O._Norfleet">
     <yago:hasName xml:lang="en">Celeste O. Norfleet</yago:hasName>
@@ -6210,8 +6300,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Bobin">
     <yago:hasName xml:lang="en">Christian Bobin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Roberson_%28author%29">
-    <yago:hasName xml:lang="en">Chris Roberson</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_Wanek">
+    <yago:hasName xml:lang="en">Connie Wanek</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colleen_Egan">
     <yago:hasName xml:lang="en">Colleen Egan</yago:hasName>
@@ -6243,8 +6333,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Constance_Holme">
     <yago:hasName xml:lang="en">Constance Holme</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chloe_Lang_%28author%29">
-    <yago:hasName xml:lang="en">Chloe Lang</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Kay">
+    <yago:hasName xml:lang="en">Christine Kay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_Willis">
     <yago:hasName xml:lang="en">Connie Willis</yago:hasName>
@@ -6258,14 +6348,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clair_M._Poulson">
     <yago:hasName xml:lang="en">Clair Poulson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%A9sar_Vichard_de_Saint-R%C3%A9al">
+    <yago:hasName xml:lang="en">Cesar Vichard De Saint-Real</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hadfield_(journalist)">
     <yago:hasName xml:lang="en">Charles Hadfield</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colm_Brogan">
     <yago:hasName xml:lang="en">Colm Brogan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheryl_Strayed">
-    <yago:hasName xml:lang="en">Cheryl Strayed</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Weld">
     <yago:hasName xml:lang="en">Carol Weld</yago:hasName>
@@ -6284,10 +6374,6 @@
     <yago:hasName xml:lang="en">Celia de Fréine</yago:hasName>
     <yago:hasName xml:lang="en">Celia De Freine</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Casares_%28writer%29">
-    <yago:hasName xml:lang="en">Carlos (writer) Casares</yago:hasName>
-    <yago:hasName xml:lang="en">Carlos Casares Mouriño</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chase_Twichell">
     <yago:hasName xml:lang="en">Chase Twichell</yago:hasName>
   </rdf:Description>
@@ -6302,8 +6388,7 @@
     <yago:hasName xml:lang="en">Christopher Hawthorne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Cook">
-    <yago:hasName xml:lang="en">Cook, Jr., Charles Edward</yago:hasName>
-    <yago:hasName xml:lang="en">Charles Edward "Charlie" Cook, Jr.</yago:hasName>
+    <yago:hasName xml:lang="en">Charlie Cook</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Heitor_Cony">
     <yago:hasName xml:lang="en">Carlos Heitor Cony</yago:hasName>
@@ -6402,6 +6487,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cristina_Peri_Rossi">
     <yago:hasName xml:lang="en">Cristina Peri Rossi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._C._McNeile">
+    <yago:hasName xml:lang="en">Cyril McNeile</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coriolan_Ardouin">
+    <yago:hasName xml:lang="en">Coriolan Ardouin</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Marshall">
     <yago:hasName xml:lang="en">Catherine Marshall</yago:hasName>
   </rdf:Description>
@@ -6443,9 +6534,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cecco_Angiolieri">
     <yago:hasName xml:lang="en">Cecco Angiolieri</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Moore_%28author%29">
-    <yago:hasName xml:lang="en">Christopher Moore</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Harrod-Eagles">
     <yago:hasName xml:lang="en">Cynthia Harrod-Eagles</yago:hasName>
   </rdf:Description>
@@ -6465,11 +6553,14 @@
     <yago:hasName xml:lang="en">Chingiz Abdullayev</yago:hasName>
     <yago:hasName xml:lang="en">Chingiz Akif oglu Abdullayev</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Allan">
+    <yago:hasName xml:lang="en">Charlie Allan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Critias">
+    <yago:hasName xml:lang="en">Critias</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Plum-Ucci">
     <yago:hasName xml:lang="en">Carol Plum-Ucci</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Smith_Bowers">
-    <yago:hasName xml:lang="en">Cathy Smith Bowers</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Paul_Curtis">
     <yago:hasName xml:lang="en">Christopher Paul Curtis</yago:hasName>
@@ -6491,6 +6582,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Lloyd_Burns">
     <yago:hasName xml:lang="en">Catherine Lloyd Burns</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carles_Fages_de_Climent">
+    <yago:hasName xml:lang="en">Carles Fages de Climent</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Julien_Lioult_de_Ch%C3%AAnedoll%C3%A9">
     <yago:hasName xml:lang="en">Charles-Julien Lioult de Chenedolle</yago:hasName>
@@ -6545,7 +6639,7 @@
     <yago:hasName xml:lang="en">Countess Dash</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_In-ho">
-    <yago:hasName xml:lang="en">Ch'oe In-ho</yago:hasName>
+    <yago:hasName xml:lang="en">Choi In-ho</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Carlson">
     <yago:hasName xml:lang="en">Charlie Carlson</yago:hasName>
@@ -6563,24 +6657,14 @@
     <yago:hasName xml:lang="en">Carrier Weaver</yago:hasName>
     <yago:hasName xml:lang="en">Carrie Weaver</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Hag%C3%A8ge">
-    <yago:hasName xml:lang="en">Claude Hagege</yago:hasName>
-    <yago:hasName xml:lang="en">Claude Hagège</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlton_T._Spiller">
     <yago:hasName xml:lang="en">Carlton T. Spiller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_L._Grant">
     <yago:hasName xml:lang="en">Charles L. Grant</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Ibarguren">
-    <yago:hasName xml:lang="en">Carlos Ibarguren</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Fenno_Hoffman">
     <yago:hasName xml:lang="en">Charles Fenno Hoffman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmen_Rodr%C3%ADguez">
-    <yago:hasName xml:lang="en">Carmen Rodriguez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Choe_Yun">
     <yago:hasName xml:lang="en">Ch'oe Hyon-mu</yago:hasName>
@@ -6591,6 +6675,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Silja_Walter">
     <yago:hasName xml:lang="en">Cécile (Silja) Walter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clemente_Soto_V%C3%A9lez">
+    <yago:hasName xml:lang="en">Clemente Soto Velez</yago:hasName>
+    <yago:hasName xml:lang="en">Clemente Soto Vélez</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chan_Siu_Kei">
     <yago:hasName xml:lang="en">Chan Siu Kei</yago:hasName>
     <yago:hasName xml:lang="en">chénshàoqí</yago:hasName>
@@ -6598,17 +6686,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cl%C3%A1ir_N%C3%AD_Aonghusa">
     <yago:hasName xml:lang="en">Clair Ni Aonghusa</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Harris_%28author%29">
-    <yago:hasName xml:lang="en">Christine Harris</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christianna_Brand">
-    <yago:hasName xml:lang="en">Christianna Brand</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/C._Leigh_Purtill">
     <yago:hasName xml:lang="en">C. Leigh Purtill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Wyld_Ospina">
     <yago:hasName xml:lang="en">Carlos Wyld Ospina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Narayanareddy">
+    <yago:hasName xml:lang="en">C. Narayanareddy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Green_(author)">
     <yago:hasName xml:lang="en">Christopher Green</yago:hasName>
@@ -6641,9 +6726,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Channing_Pollock_(writer)">
     <yago:hasName xml:lang="en">Channing Pollock</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cvetka_Bevc">
-    <yago:hasName xml:lang="en">Cvetka Bevc</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Warren_Greene">
     <yago:hasName xml:lang="en">Charles Warren Greene</yago:hasName>
   </rdf:Description>
@@ -6662,9 +6744,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clancy_Carlile">
     <yago:hasName xml:lang="en">Clancy Carlile</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cearbhall_mac_Lochlainn_%C3%93_D%C3%A1laigh">
-    <yago:hasName xml:lang="en">Cearbhall Mac Lochlainn O Dalaigh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chip_Berlet">
     <yago:hasName xml:lang="en">Chip Berlet</yago:hasName>
@@ -6689,6 +6768,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cindy_Elavsky">
     <yago:hasName xml:lang="en">Cindy Elavsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cor_van_den_Heuvel">
+    <yago:hasName xml:lang="en">Cor Van den Heuvel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cleon_Skousen">
     <yago:hasName xml:lang="en">Cleon Skousen</yago:hasName>
@@ -6765,9 +6847,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_M._Tanner">
     <yago:hasName xml:lang="en">Charles M. Tanner</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Westwood_%28author%29">
-    <yago:hasName xml:lang="en">Chris Westwood</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Caroline_Blackwood">
     <yago:hasName xml:lang="en">Caroline Blackwood</yago:hasName>
   </rdf:Description>
@@ -6805,8 +6884,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Atanes">
     <yago:hasName xml:lang="en">Carlos Atanes</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Williams_%28British_writer%29">
-    <yago:hasName xml:lang="en">Charles Williams</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Browning">
+    <yago:hasName xml:lang="en">Christopher Browning</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Milne">
     <yago:hasName xml:lang="en">Christian Milne</yago:hasName>
@@ -6826,14 +6905,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cornelius_Brown">
     <yago:hasName xml:lang="en">Cornelius Brown</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristina_Odone">
+    <yago:hasName xml:lang="en">Cristina Odone</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carlotta_Gall">
     <yago:hasName xml:lang="en">Carlotta Gall</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Celestine_Sibley">
     <yago:hasName xml:lang="en">Celestine Sibley</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clayton_Clemens">
-    <yago:hasName xml:lang="en">Clayton Clemens</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cleolinda_Jones">
     <yago:hasName xml:lang="en">Cleolinda Jones</yago:hasName>
@@ -6866,9 +6945,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Harper">
     <yago:hasName xml:lang="en">Colin Harper</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Zhongyan">
-    <yago:hasName xml:lang="en">Courtesy name: Xīwén ()</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cora_Coralina">
     <yago:hasName xml:lang="en">Cora Coralina</yago:hasName>
   </rdf:Description>
@@ -6877,9 +6953,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Taylor_(writer)">
     <yago:hasName xml:lang="en">Craig Taylor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wright_%28poet%29">
-    <yago:hasName xml:lang="en">Charles Wright</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Houzhu">
     <yago:hasName xml:lang="en">Courtesy name: Chongguang 重光  Noble titlesDuke of Anding 安定公</yago:hasName>
@@ -6922,15 +6995,27 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Casimiro_de_Abreu">
     <yago:hasName xml:lang="en">Casimiro de Abreu</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caetano_da_Costa_Alegre">
+    <yago:hasName xml:lang="en">Caetano de Costa Alegre</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Brasher">
     <yago:hasName xml:lang="en">Christopher William "Chris" Brasher</yago:hasName>
     <yago:hasName xml:lang="en">Chris Brasher</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Fredrik_Dahlgren">
+    <yago:hasName xml:lang="en">Carl Fredrik Dahlgren</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Coral_Lansbury">
     <yago:hasName xml:lang="en">Coral Lansbury</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Nicholl_(author)">
     <yago:hasName xml:lang="en">Charles Nicholl</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Costantini">
+    <yago:hasName xml:lang="en">Costantini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Horman">
+    <yago:hasName xml:lang="en">Charles Horman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Welles">
     <yago:hasName xml:lang="en">Chris Welles</yago:hasName>
@@ -6996,6 +7081,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clyde_Brion_Davis">
     <yago:hasName xml:lang="en">Clyde Brion Davis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carla_Robinson">
+    <yago:hasName xml:lang="en">Carla Robinson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dobzynski">
     <yago:hasName xml:lang="en">Charles Dobzynski</yago:hasName>
   </rdf:Description>
@@ -7008,6 +7096,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Scovell_LaZebnik">
     <yago:hasName xml:lang="en">Claire Scovell Lazebnik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_J._Levy">
+    <yago:hasName xml:lang="en">Clifford J. Levy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christophe_Moehrlen">
     <yago:hasName xml:lang="en">Christophe Moehrlen</yago:hasName>
@@ -7044,11 +7135,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cheryl_Kaye_Tardif">
     <yago:hasName xml:lang="en">Cheryl Kaye Tardif</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crosbie_Ward">
+    <yago:hasName xml:lang="en">Crosbie Ward</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Looby">
     <yago:hasName xml:lang="en">Christopher Looby</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cooper_Edens">
-    <yago:hasName xml:lang="en">Cooper Edens</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Thompson">
     <yago:hasName xml:lang="en">Craig Thompson</yago:hasName>
@@ -7077,13 +7168,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carey_Salerno">
     <yago:hasName xml:lang="en">Carey Salerno</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_d%27Lacey">
-    <yago:hasName xml:lang="en">Chris Dlacey</yago:hasName>
-    <yago:hasName xml:lang="en">Chris d'Lacey</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_E._Fritch">
-    <yago:hasName xml:lang="en">Charles E. Fritch</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Keatley">
     <yago:hasName xml:lang="en">Charlotte Keatley</yago:hasName>
   </rdf:Description>
@@ -7095,6 +7179,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chaduranga">
     <yago:hasName xml:lang="en">Chaduranga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Rihoit">
+    <yago:hasName xml:lang="en">Catherine Rihoit</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cercamon">
     <yago:hasName xml:lang="en">Cercamon</yago:hasName>
@@ -7117,19 +7204,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Osborne_(music_writer)">
     <yago:hasName xml:lang="en">Charles Osborne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Beecher">
-    <yago:hasName xml:lang="en">Charles Beecher</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caridad_Bravo_Adams">
     <yago:hasName xml:lang="en">Caridad Bravo Adams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chad_Oliver">
     <yago:hasName xml:lang="en">Chad Oliver</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Foley">
-    <yago:hasName xml:lang="en">Cactus Jack</yago:hasName>
-    <yago:hasName xml:lang="en">Commissioner Manson</yago:hasName>
-    <yago:hasName xml:lang="en">Cactus Jack Manson/&gt;</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Rayner">
     <yago:hasName xml:lang="en">Claire Rayner</yago:hasName>
@@ -7149,8 +7228,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cathy_Kelly">
     <yago:hasName xml:lang="en">Cathy Kelly</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Lloyd_%28screenwriter%29">
-    <yago:hasName xml:lang="en">Christopher Lloyd</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_de_Saint-%C3%89vremond">
+    <yago:hasName xml:lang="en">Charles de Saint-Évremond</yago:hasName>
+    <yago:hasName xml:lang="en">Charles De Saint-Evremond</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chloe_Aridjis">
     <yago:hasName xml:lang="en">Chloe Aridjis</yago:hasName>
@@ -7209,6 +7289,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Tomlinson">
     <yago:hasName xml:lang="en">Charles Tomlinson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corra_May_Harris">
+    <yago:hasName xml:lang="en">Corra Mae Harris</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Groeschel">
     <yago:hasName xml:lang="en">Craig Groeschel</yago:hasName>
   </rdf:Description>
@@ -7260,9 +7343,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_de_Gaulle_(poet)">
     <yago:hasName xml:lang="en">Charles de Gaulle</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Chambers">
-    <yago:hasName xml:lang="en">Clare Chambers</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chauncey_Bailey">
     <yago:hasName xml:lang="en">Chauncey Bailey</yago:hasName>
   </rdf:Description>
@@ -7277,9 +7357,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wachira">
     <yago:hasName xml:lang="en">Charles Wachira</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Thomas_%28author%29">
-    <yago:hasName xml:lang="en">Craig Thomas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Candida_Cave">
     <yago:hasName xml:lang="en">Candida Cave</yago:hasName>
@@ -7327,9 +7404,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Collette">
     <yago:hasName xml:lang="en">Carolyn Collette</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cho%CA%BBlpon">
-    <yago:hasName xml:lang="en">Choʻlpon</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Calvin_C._Hernton">
     <yago:hasName xml:lang="en">Calvin C. Hernton</yago:hasName>
   </rdf:Description>
@@ -7344,6 +7418,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cordelia_Fine">
     <yago:hasName xml:lang="en">Cordelia Fine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C%C3%BA_Chuimne">
+    <yago:hasName xml:lang="en">Cu Chuimne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cornell_Woolrich">
     <yago:hasName xml:lang="en">Cornell Woolrich</yago:hasName>
@@ -7385,6 +7462,7 @@
     <yago:hasName xml:lang="en">Christine Adamo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chic_Sale">
+    <yago:hasName xml:lang="en">Chic Sale</yago:hasName>
     <yago:hasName xml:lang="en">Charles "Chic" Sale</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Wilson_(writer)">
@@ -7395,6 +7473,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lillard">
     <yago:hasName xml:lang="en">Charles Lillard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilio_Apostol">
+    <yago:hasName xml:lang="en">Cecilio Apostol</yago:hasName>
+    <yago:hasName xml:lang="en">Cecilio Apóstol</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Cayetano">
     <yago:hasName xml:lang="en">Cayetano</yago:hasName>
@@ -7433,7 +7515,7 @@
     <yago:hasName xml:lang="en">Chris Ward</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_McLeod">
-    <yago:hasName xml:lang="en">Cynthia McLeod</yago:hasName>
+    <yago:hasName xml:lang="en">Cynthia Macleod</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Cornel_Lengyel">
     <yago:hasName xml:lang="en">Cornel Lengyel</yago:hasName>
@@ -7498,12 +7580,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Caitriona_O&apos;Reilly">
     <yago:hasName xml:lang="en">Caitriona Oreilly</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_William_MacLeod">
-    <yago:hasName xml:lang="en">Colin William MacLeod</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Cypherpunk">
-    <yago:hasName xml:lang="en">Cypherpunk</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Chao_Yuen_Ren">
     <yago:hasName xml:lang="en">Chao Yuen Ren</yago:hasName>

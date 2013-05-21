@@ -1,0 +1,1877 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_H._Ince">
+    <yago:hasName xml:lang="en">Thomas H. Ince</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Idato">
+    <yago:hasName xml:lang="en">Michael Idato</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claribel_Alegr%C3%ADa">
+    <yago:hasName xml:lang="en">Clara Isabel Alegría Vides</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomas_Platero_IV">
+    <yago:hasName xml:lang="en">Tomas Platero IV</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masti_Venkatesha_Iyengar">
+    <yago:hasName xml:lang="en">Maasthi Venkatesha Iyengar</yago:hasName>
+    <yago:hasName xml:lang="en">Maasti Venkatesh Iyengar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Iwaniuk">
+    <yago:hasName xml:lang="en">Waclaw Iwaniuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Herzog">
+    <yago:hasName xml:lang="en">Arthur Herzog III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Shriver">
+    <yago:hasName xml:lang="en">Shriver, Robert Sargent, Iii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Merc%C3%A8_Mar%C3%A7al">
+    <yago:hasName xml:lang="en">Maria Merce Marcal I Serra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Ishikawa_(author)">
+    <yago:hasName xml:lang="en">Jun Ishikawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mile_Isakov">
+    <yago:hasName xml:lang="en">Miodrag Isakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Y%C5%8Djir%C5%8D_Ishizaka">
+    <yago:hasName xml:lang="en">Yojiro Ishizaka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jared_Israel">
+    <yago:hasName xml:lang="en">Jared Israel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Al._Ionescu-Caion">
+    <yago:hasName xml:lang="en">Constantin Al. Ionescu-Caion</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Weiss">
+    <yago:hasName xml:lang="en">Havens in a Hectic World: Finding Sacred Spaces</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanzan_Ishibashi">
+    <yago:hasName xml:lang="en">Tanzan Ishibashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiromi_It%C5%8D">
+    <yago:hasName xml:lang="en">Hiromi Itō</yago:hasName>
+    <yago:hasName xml:lang="en">Hiromi Ito</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Ibsen_Bille">
+    <yago:hasName xml:lang="en">Irene Ibsen Bille</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriano_Irala">
+    <yago:hasName xml:lang="en">Adriano Irala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jurga_Ivanauskait%C4%97">
+    <yago:hasName xml:lang="en">Jurga Ivanauskaite</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry_Irwin">
+    <yago:hasName xml:lang="en">William Henry Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathryn_Irene_Glascock">
+    <yago:hasName xml:lang="en">Kathryn Irene Glascock</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolores_Ib%C3%A1rruri">
+    <yago:hasName xml:lang="en">Dolores Ibárruri</yago:hasName>
+    <yago:hasName xml:lang="en">Dolores Ibarruri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sue_Isle">
+    <yago:hasName xml:lang="en">Sue Isle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_I_of_Montenegro">
+    <yago:hasName xml:lang="en">Nicholas I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quima_Jaume_i_Carbo">
+    <yago:hasName xml:lang="en">Quima Jaume i Carbo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordi_Valls_i_Pozo">
+    <yago:hasName xml:lang="en">Jordi Valls I Pozo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ireland_(author)">
+    <yago:hasName xml:lang="en">David Neil Ireland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_I._Sirovich">
+    <yago:hasName xml:lang="en">William Irving Sirovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Ivry">
+    <yago:hasName xml:lang="en">Benjamin Ivry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Inzillo">
+    <yago:hasName xml:lang="en">Carlos Inzillo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_G._Ingersoll">
+    <yago:hasName xml:lang="en">Robert G. Ingersoll</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Ingram_(journalist)">
+    <yago:hasName xml:lang="en">Derek Ingram</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ignatieff">
+    <yago:hasName xml:lang="en">Michael Ignatieff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_I._Cobb">
+    <yago:hasName xml:lang="en">Frank I. Cobb</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilarion_(Ohienko)">
+    <yago:hasName xml:lang="en">Metropolitan Ilarion</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Inge_S%C3%B8rb%C3%B8">
+    <yago:hasName xml:lang="en">Jan Inge Soerboe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cha_In-Pyo">
+    <yago:hasName xml:lang="en">Cha In-Pyo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D._Iacobescu">
+    <yago:hasName xml:lang="en">Armand Iacobsohn</yago:hasName>
+    <yago:hasName xml:lang="en">D. Iacobescu</yago:hasName>
+    <yago:hasName xml:lang="en">D. (Dumitru) Iacobescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bravig_Imbs">
+    <yago:hasName xml:lang="en">Bravig Imbs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Crick">
+    <yago:hasName xml:lang="en">thumb|Crick while reporting on a visit by Nick Clegg to a college in Norwich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inkulab">
+    <yago:hasName xml:lang="en">Makkal Pavalar Inkulab</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Insana">
+    <yago:hasName xml:lang="en">Ron Insana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanthirava_Narasaraja_II">
+    <yago:hasName xml:lang="en">Kanthirava Narasaraja Ii</yago:hasName>
+    <yago:hasName xml:lang="en">Kanthirava Narasaraja II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Ibsen">
+    <yago:hasName xml:lang="en">Henrik Ibsen</yago:hasName>
+    <yago:hasName xml:lang="en">Henrik Johann Ibsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Steinbeck_IV">
+    <yago:hasName xml:lang="en">John Steinbeck IV</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_McCaffrey">
+    <yago:hasName xml:lang="en">Anne Inez McCaffrey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honey_Irani">
+    <yago:hasName xml:lang="en">Honey Irani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamdun_ibn_al-Hajj_al-Fasi">
+    <yago:hasName xml:lang="en">Hamdun ibn al-Hajj al-Fasi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Iashvili">
+    <yago:hasName xml:lang="en">Paolo Iashvili</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zach_Braff">
+    <yago:hasName xml:lang="en">Zachary Israel Braff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Ingle">
+    <yago:hasName xml:lang="en">Laura Ingle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_ibn_Abitur">
+    <yago:hasName xml:lang="en">Joseph Ibn Abitur</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnaldur_Indri%C3%B0ason">
+    <yago:hasName xml:lang="en">Arnaldur Indriðason</yago:hasName>
+    <yago:hasName xml:lang="en">Arnaldur Indridason</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pico_Iyer">
+    <yago:hasName xml:lang="en">Pico Iyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J%C3%B3zef_Ignacy_Kraszewski">
+    <yago:hasName xml:lang="en">Jozef Ignacy Kraszewski</yago:hasName>
+    <yago:hasName xml:lang="en">Józef Ignacy Kraszewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riad_Ismat">
+    <yago:hasName xml:lang="en">Riad Ismatرياض عصمت</yago:hasName>
+    <yago:hasName xml:lang="en">Riad Ismat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Innaurato">
+    <yago:hasName xml:lang="en">Albert Innaurato</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reed_Irvine">
+    <yago:hasName xml:lang="en">Reed Irvine</yago:hasName>
+    <yago:hasName xml:lang="en">Reed John Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Svetoslav_Ivanov">
+    <yago:hasName xml:lang="en">Svetoslav Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanis%C5%82aw_Ignacy_Witkiewicz">
+    <yago:hasName xml:lang="en">Stanisław Ignacy Witkiewicz</yago:hasName>
+    <yago:hasName xml:lang="en">Stanislaw Ignacy Witkiewicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akhtar_ul_Iman">
+    <yago:hasName xml:lang="en">Akhtar Ul Iman</yago:hasName>
+    <yago:hasName xml:lang="en">Akhtar ul Iman ()</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_III_of_Sicily">
+    <yago:hasName xml:lang="en">Frederick III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Michel_Iribarren">
+    <yago:hasName xml:lang="en">Jean-Michel Iribarren</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamid_Ismailov">
+    <yago:hasName xml:lang="en">Hamid Ismailov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garabet_Ibr%C4%83ileanu">
+    <yago:hasName xml:lang="en">Garabet Ibraileanu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alojz_Ihan">
+    <yago:hasName xml:lang="en">Alojz Ihan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammed_Zafar_Iqbal">
+    <yago:hasName xml:lang="en">Muhammed Zafar Iqbal</yago:hasName>
+    <yago:hasName xml:lang="en">Muhammad Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_ibn_Ezra">
+    <yago:hasName xml:lang="en">Abraham Ibn Ezra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%8Ctomo_no_Sakanoe_no_Iratsume">
+    <yago:hasName xml:lang="en">Ōtomo no Sakanoe no Iratsume</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chayyim_Moses_ben_Isaiah_Azriel_Cantarini">
+    <yago:hasName xml:lang="en">Chayyim Moses ben Isaiah Cantarini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._A._Isaac">
+    <yago:hasName xml:lang="en">K. A. Isaac</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarina_I._H._Nichols">
+    <yago:hasName xml:lang="en">Clarina I.H. Nichols</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Teliha">
+    <yago:hasName xml:lang="en">Olena Ivanivna Teliha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishna_Raja_Wadiyar_IV">
+    <yago:hasName xml:lang="en">Krishna Raja Wadiyar IV</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdisalam_Issa-Salwe">
+    <yago:hasName xml:lang="en">Abdisalam Issa-Salwe</yago:hasName>
+    <yago:hasName xml:lang="en">Dr. Abdisalam Mohamed Issa-Salwe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bari_Imam">
+    <yago:hasName xml:lang="en">Bari Imam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikki_Kita">
+    <yago:hasName xml:lang="en">Kita Ikki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotte_Ingrisch">
+    <yago:hasName xml:lang="en">Lotte Ingrisch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shannon_Hale">
+    <yago:hasName xml:lang="en">Shannon princess academy is a great book! Hale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Ioannides">
+    <yago:hasName xml:lang="en">Costa Ioannides</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Ireson">
+    <yago:hasName xml:lang="en">Craig Ireson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josep_Maria_Benet_i_Jornet">
+    <yago:hasName xml:lang="en">Josep Maria Benet i Jornet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montserrat_Roig">
+    <yago:hasName xml:lang="en">Montserrat Roig i Fransitorra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaume_Agelat_i_Garrega">
+    <yago:hasName xml:lang="en">Jaume Agelat i Garrega</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fedir_Danylak">
+    <yago:hasName xml:lang="en">Fedir Ivanovych Danylak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernhard_Severin_Ingemann">
+    <yago:hasName xml:lang="en">Bernhard Severin Ingemann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikbal_Ali_Shah">
+    <yago:hasName xml:lang="en">Sirdar Ikbal Ali Shah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bogdan_Istru">
+    <yago:hasName xml:lang="en">Bogdan Istru</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Indeok">
+    <yago:hasName xml:lang="en">Park Indeok</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malik_ibn_al-Murahhal">
+    <yago:hasName xml:lang="en">Malik Ibn Murahhal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mateiu_Caragiale">
+    <yago:hasName xml:lang="en">Mateiu Ion Caragiale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avetik_Isahakyan">
+    <yago:hasName xml:lang="en">Avetik Isahakyan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_Ibbotson">
+    <yago:hasName xml:lang="en">Eva Ibbotson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dino_Ignacio">
+    <yago:hasName xml:lang="en">Dino Ignacio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luca_Caragiale">
+    <yago:hasName xml:lang="en">Luca Ion Caragiale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B%C3%A9la_Ill%C3%A9s_(writer)">
+    <yago:hasName xml:lang="en">Bela Illes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_I">
+    <yago:hasName xml:lang="en">Ismail I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Claude_Izzo">
+    <yago:hasName xml:lang="en">Jean-Claude Izzo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petro_Franko">
+    <yago:hasName xml:lang="en">Petro Ivanovych Franko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumait_Ibn_Zaid">
+    <yago:hasName xml:lang="en">Kumait Ibn Zaid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Fern%C3%A1ndez-Shaw">
+    <yago:hasName xml:lang="en">Guillermo Iturralde Fernández-Shaw</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwen_Ifill">
+    <yago:hasName xml:lang="en">Gwen Ifill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Gnedich">
+    <yago:hasName xml:lang="en">Nikolay Ivanovich Gnedich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Likhonosov">
+    <yago:hasName xml:lang="en">Viktor Ivanovich Likhonosov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_In-hun">
+    <yago:hasName xml:lang="en">Choi In-hun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Davey">
+    <yago:hasName xml:lang="en">Richard Innes Davey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ka&apos;b_ibn_al-Ashraf">
+    <yago:hasName xml:lang="en">Kab Ibn Al-Ashraf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Ismail_Samatar">
+    <yago:hasName xml:lang="en">Ahmed Ismail Samatar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Ismail">
+    <yago:hasName xml:lang="en">Mohammad Ismail</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ion_Popa">
+    <yago:hasName xml:lang="en">Victor Ion Popa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeru_Inukai">
+    <yago:hasName xml:lang="en">Takeru Inukai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jahanara_Imam">
+    <yago:hasName xml:lang="en">Jahanara Imam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lidia_Ivanova">
+    <yago:hasName xml:lang="en">Lidia Mikhailovna Ivanova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Inagaki">
+    <yago:hasName xml:lang="en">Hiroshi Inagaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Imlach">
+    <yago:hasName xml:lang="en">Gary Imlach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Viktorovich_Ivanov">
+    <yago:hasName xml:lang="en">Alexey Viktorovich Ivanov</yago:hasName>
+    <yago:hasName xml:lang="en">Alexei Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molly_Ivins">
+    <yago:hasName xml:lang="en">Molly Ivins</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Iqbal_Rashid">
+    <yago:hasName xml:lang="en">Ian Iqbal Rashid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Hoffman_II">
+    <yago:hasName xml:lang="en">Michael Anthony Hoffman II</yago:hasName>
+    <yago:hasName xml:lang="en">Michael A. Ii Hoffman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Andreas_Ihleb%C3%A6k">
+    <yago:hasName xml:lang="en">Hans Andreas Ihlebaek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_John_McLeod_Innes">
+    <yago:hasName xml:lang="en">James John McLeod Innes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nae_Ionescu">
+    <yago:hasName xml:lang="en">Nae Ionescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Ignace_Ad%C3%A9lard_Gill">
+    <yago:hasName xml:lang="en">Charles Ignace Adelard Gill</yago:hasName>
+    <yago:hasName xml:lang="en">Charles Ignace Adélard Gill or Clairon and Léon Duval</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austen_Ivereigh">
+    <yago:hasName xml:lang="en">Austen Ivereigh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Isaacs">
+    <yago:hasName xml:lang="en">Jorge Isaacs Ferrer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Irby_Gwaltney">
+    <yago:hasName xml:lang="en">Francis Irby Gwaltney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Kumayt_ibn_Zayd_al-Asadi">
+    <yago:hasName xml:lang="en">Al-Kumayt Ibn Zayd Al-Asadi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ab%C3%BB_&apos;Uthm%C3%A2n_Sa&apos;%C3%AEd_ibn_Hakam_al_Qurashi">
+    <yago:hasName xml:lang="en">Abu 'Uthman Sa'id ibn Hakam al Qurashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Inchbald">
+    <yago:hasName xml:lang="en">Elizabeth Inchbald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G%C5%8D_Ikeyamada">
+    <yago:hasName xml:lang="en">Gō Ikeyamada</yago:hasName>
+    <yago:hasName xml:lang="en">Go Ikeyamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tochukwu_Ipere">
+    <yago:hasName xml:lang="en">Tochukwu Ipere</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida,_Countess_von_Hahn-Hahn">
+    <yago:hasName xml:lang="en">Hahn-Hahn, Ida, Countess von</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nada_Ivelji%C4%87">
+    <yago:hasName xml:lang="en">Nada Iveljic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irfan_Abidi">
+    <yago:hasName xml:lang="en">Syed Irfan Haider Abidi (Urdu: )</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fakhr-al-Din_Iraqi">
+    <yago:hasName xml:lang="en">Fakhruddin Iraqi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Ibrahim_Zauq">
+    <yago:hasName xml:lang="en">Muhammad Ibrahim Zauq</yago:hasName>
+    <yago:hasName xml:lang="en">Sheikh Muhammad Ibrahim Zauq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaduvur_Duraisami_Iyengar">
+    <yago:hasName xml:lang="en">Vadavur Iyengar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faisal_Islam">
+    <yago:hasName xml:lang="en">Faisal Islam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balanadarajah_Iyer">
+    <yago:hasName xml:lang="en">Balanadarajah Iyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Ben_Kargbo">
+    <yago:hasName xml:lang="en">Alhaji Ibrahim Ben Kargbo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Iremonger">
+    <yago:hasName xml:lang="en">Valentin Iremonger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Ivanovich_Melnikov">
+    <yago:hasName xml:lang="en">Pavel Ivanovich Melnikov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawit_Isaak">
+    <yago:hasName xml:lang="en">Dawit Isaak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lew_Irwin">
+    <yago:hasName xml:lang="en">Lew Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._Raghava_Iyengar">
+    <yago:hasName xml:lang="en">Mahavidwan R. Raghava Iyengar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfredo_Iriarte">
+    <yago:hasName xml:lang="en">Alfredo Iriarte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aftab_Iqbal_Shamim">
+    <yago:hasName xml:lang="en">Aftab Iqbal Shamim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Im_Chul-woo">
+    <yago:hasName xml:lang="en">Chul-woo Im</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zafar_Iqbal_(poet)">
+    <yago:hasName xml:lang="en">Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izabela_Sadoveanu-Evan">
+    <yago:hasName xml:lang="en">Isabella Sadoveanu, Izabela Morţun, Izabela Sadoveanu-Andrei</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil_Isac">
+    <yago:hasName xml:lang="en">Emil Isac</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Ingham">
+    <yago:hasName xml:lang="en">Mary Ingham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ehsan_Ilahi_Zahir">
+    <yago:hasName xml:lang="en">Ehsan Illahi Zahir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Taylor_Innes">
+    <yago:hasName xml:lang="en">Alexander Taylor Innes</yago:hasName>
+    <yago:hasName xml:lang="en">Alexander Innes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malik_ibn_Anas">
+    <yago:hasName xml:lang="en">Malik Ibn Anas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonh_Ingham">
+    <yago:hasName xml:lang="en">Jonh Ingham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L._Ian_MacDonald">
+    <yago:hasName xml:lang="en">L. Ian Macdonald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raghava_Iyengar">
+    <yago:hasName xml:lang="en">Mahavidwan R. Raghava Iyengar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moses_ibn_Ezra">
+    <yago:hasName xml:lang="en">Moses Ibn Ezra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiharu_Ikeda">
+    <yago:hasName xml:lang="en">Toshiharu Ikeda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Al_Issawi">
+    <yago:hasName xml:lang="en">Omar al Issawi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Ireland">
+    <yago:hasName xml:lang="en">Kevin Ireland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dafydd_Ifans">
+    <yago:hasName xml:lang="en">Dafydd Ifans</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristen_Iversen">
+    <yago:hasName xml:lang="en">Kristen Iversen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulfat_Idilbi">
+    <yago:hasName xml:lang="en">Ulfat Idilbi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Irzykowski">
+    <yago:hasName xml:lang="en">Karol Irzykowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Ignatius_Constantine_Clarke">
+    <yago:hasName xml:lang="en">Joseph Ignatius Constantine Clarke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonallah_Ibrahim">
+    <yago:hasName xml:lang="en">Sonallah Ibrahim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iakovos_Kambanelis">
+    <yago:hasName xml:lang="en">Kambanellis Iakovos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salom%C3%B3n_Ibarra_Mayorga">
+    <yago:hasName xml:lang="en">Salomon Ibarra Mayorga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umar_Ibn_Abi_Rabi&apos;ah">
+    <yago:hasName xml:lang="en">Umar Ibn Abi Rabiah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agha_Ibrahim_Akram">
+    <yago:hasName xml:lang="en">A. I. Akram</yago:hasName>
+    <yago:hasName xml:lang="en">Agha Ibrahim Akram</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ilyas_Qadri">
+    <yago:hasName xml:lang="en">Muhammad Ilyas Attar Qadiri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adras_LaBorde">
+    <yago:hasName xml:lang="en">LaBorde, I, Adras Paul</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Ingelow">
+    <yago:hasName xml:lang="en">Jean Ingelow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Isler">
+    <yago:hasName xml:lang="en">Alan Isler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parvez_Imroz">
+    <yago:hasName xml:lang="en">Parvez Imroz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dalia_Ibelhauptait%C4%97">
+    <yago:hasName xml:lang="en">Dalia Ibelhauptaite</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohan_Krishna_Indraganti">
+    <yago:hasName xml:lang="en">Mohan Krishna Indraganti</yago:hasName>
+    <yago:hasName xml:lang="en">Mohan Krishan Indraganti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Isherwood">
+    <yago:hasName xml:lang="en">Christopher Isherwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iorgu_Iordan">
+    <yago:hasName xml:lang="en">Iorgu Iordan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bleed_Into_Me">
+    <yago:hasName xml:lang="en">Bleed Into Me</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innes_Ireland">
+    <yago:hasName xml:lang="en">Innes Ireland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Ivory">
+    <yago:hasName xml:lang="en">Judith Ivory</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._I._Bezzerides">
+    <yago:hasName xml:lang="en">A. I. Bezzerides</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinji_Imaoka">
+    <yago:hasName xml:lang="en">Shinji Imaoka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Isabel_Seabury">
+    <yago:hasName xml:lang="en">Ruth Isabel Seabury</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strobe_Talbott">
+    <yago:hasName xml:lang="en">Nelson Strobridge "Strobe" Talbott III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nayeemul_Islam_Khan">
+    <yago:hasName xml:lang="en">Nayeemul Islam Khan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Ierunca">
+    <yago:hasName xml:lang="en">Virgil Ierunca</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IX,_Duke_of_Aquitaine">
+    <yago:hasName xml:lang="en">Duke of Aquitaine William IX</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Ibrahim_Warsame_&apos;Hadrawi&apos;">
+    <yago:hasName xml:lang="en">Mohamed Ibrahim Warsame Hadrawi</yago:hasName>
+    <yago:hasName xml:lang="en">Mohamed Ibrahim Warsame 'Hadrawi'</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prentiss_Ingraham">
+    <yago:hasName xml:lang="en">Prentiss Ingraham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Montseny">
+    <yago:hasName xml:lang="en">Joan Montseny i Carret</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panait_Istrati">
+    <yago:hasName xml:lang="en">Panait Istrati</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarita_Aliger">
+    <yago:hasName xml:lang="en">Margarita Iosifovna Aliger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirela_Ivanova">
+    <yago:hasName xml:lang="en">Mirela Ivanova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Isaacs_(writer)">
+    <yago:hasName xml:lang="en">David Isaacs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Almas_Ildyrym">
+    <yago:hasName xml:lang="en">Almas Ildyrym</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn-e-Insha">
+    <yago:hasName xml:lang="en">Ibn-e- Insha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Armstrong_Percy_III">
+    <yago:hasName xml:lang="en">William Armstrong III Percy</yago:hasName>
+    <yago:hasName xml:lang="en">William Armstrong Percy, III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Chardynin">
+    <yago:hasName xml:lang="en">Pyotr Ivanovich Chardynin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jarir_ibn_Atiyah">
+    <yago:hasName xml:lang="en">Jarir ibn Atiyah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arturo_Islas">
+    <yago:hasName xml:lang="en">Arturo Islas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larissa_Ione">
+    <yago:hasName xml:lang="en">Larissa Ione</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nilima_Ibrahim">
+    <yago:hasName xml:lang="en">Nilima Ibrahim</yago:hasName>
+    <yago:hasName xml:lang="en">নীলিমা ইব্রাহীমNilima Ibrahim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisp_in_Small_Pieces">
+    <yago:hasName xml:lang="en">Lisp in Small Pieces</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yubya">
+    <yago:hasName xml:lang="en">Yubya I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ian_Black">
+    <yago:hasName xml:lang="en">Michael Ian Black</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_Irving">
+    <yago:hasName xml:lang="en">Washington Irving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tancred_Ibsen">
+    <yago:hasName xml:lang="en">Tancred Ibsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isidore_Isou">
+    <yago:hasName xml:lang="en">Isidore Isou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moses_Isegawa">
+    <yago:hasName xml:lang="en">Moses Isegawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An%C3%ADbal_Gonz%C3%A1lez_Irizarry">
+    <yago:hasName xml:lang="en">Anibal Gonzalez Irizarry</yago:hasName>
+    <yago:hasName xml:lang="en">Anibal González Irizarry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Irving_Hancock">
+    <yago:hasName xml:lang="en">H. Irving Hancock</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Isikoff">
+    <yago:hasName xml:lang="en">Michael Isikoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_Izmaylov">
+    <yago:hasName xml:lang="en">Michelle Izmaylov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikbal_Kuttipuram">
+    <yago:hasName xml:lang="en">Dr. Iqbal Kuttippuram</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colette_Inez">
+    <yago:hasName xml:lang="en">Colette Inez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ibrahim_Siddiqui">
+    <yago:hasName xml:lang="en">Muhammad Ibrahim Siddiqui</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Conan_Doyle">
+    <yago:hasName xml:lang="en">Sir Arthur Ignatius Conan Doyle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jens_Immanuel_Baggesen">
+    <yago:hasName xml:lang="en">Jens Immanuel Baggesen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_ibn_Ghiyyat">
+    <yago:hasName xml:lang="en">Ghiyyat Isaac Ibn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulloor_S._Parameswara_Iyer">
+    <yago:hasName xml:lang="en">Ulloor S. Parameswara Iyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adomn%C3%A1n">
+    <yago:hasName xml:lang="en">Saint Adomnán of Iona</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gitobu_Imanyara">
+    <yago:hasName xml:lang="en">Gitobu Imanyara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kata_Inocencio">
+    <yago:hasName xml:lang="en">Kata Inocencio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Inber">
+    <yago:hasName xml:lang="en">Vera Inber</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gyula_Illy%C3%A9s">
+    <yago:hasName xml:lang="en">Gyula Illyes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Ihnatko">
+    <yago:hasName xml:lang="en">Andy Ihnatko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ignatow">
+    <yago:hasName xml:lang="en">David Ignatow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazi_Nazrul_Islam">
+    <yago:hasName xml:lang="en">Kazi Nazrul Islam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_F._Ince">
+    <yago:hasName xml:lang="en">John F. Ince</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sallam_ibn_Abu_al-Huqayq">
+    <yago:hasName xml:lang="en">Sallam Ibn Abu Al-Huqayq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Inglis">
+    <yago:hasName xml:lang="en">Brian Inglis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hodding_Carter_III">
+    <yago:hasName xml:lang="en">William Hodding Carter, III</yago:hasName>
+    <yago:hasName xml:lang="en">Hodding III Carter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Isidore_Samson">
+    <yago:hasName xml:lang="en">Joseph Isidore Samson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Irwin_(journalist)">
+    <yago:hasName xml:lang="en">Colin Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Otho_Cresap_Ord,_II">
+    <yago:hasName xml:lang="en">Edward Otho Cresap Ord, II</yago:hasName>
+    <yago:hasName xml:lang="en">Ord, Edward Otho Cresap, II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yianis_Vilaras">
+    <yago:hasName xml:lang="en">Vilaras Ioannis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Ibarg%C3%BCen">
+    <yago:hasName xml:lang="en">Alberto Ibarguen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Torrance">
+    <yago:hasName xml:lang="en">Richard Iain Torrance</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Holt_Ingraham">
+    <yago:hasName xml:lang="en">Joseph Holt Ingraham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dakotsu_Iida">
+    <yago:hasName xml:lang="en">Dakotsu Iida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ismail_Zabeeh">
+    <yago:hasName xml:lang="en">Muhammad Ismail Zabeeh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_Clyde,_III">
+    <yago:hasName xml:lang="en">Clyde, Nelson, Iii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avi_(author)">
+    <yago:hasName xml:lang="en">Ed Irv Wort</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eug%C3%A8ne_Ionesco">
+    <yago:hasName xml:lang="en">Eugène Ionesco</yago:hasName>
+    <yago:hasName xml:lang="en">Eugene Ionesco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Attil%C3%A2_%C4%B0lhan">
+    <yago:hasName xml:lang="en">Attila Ilhan</yago:hasName>
+    <yago:hasName xml:lang="en">Attilâ İlhan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Leberecht_Immermann">
+    <yago:hasName xml:lang="en">Karl Leberecht Immermann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adi_Ignatius">
+    <yago:hasName xml:lang="en">Adi Ignatius</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Mu&apos;tamid_ibn_Abbad">
+    <yago:hasName xml:lang="en">Mutamid ibn Abbad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_I_of_Scotland">
+    <yago:hasName xml:lang="en">James I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allama_Muhammad_Idrees_Dahiri">
+    <yago:hasName xml:lang="en">Muhammad Idrees Dahiri Naqshbandi</yago:hasName>
+    <yago:hasName xml:lang="en">Allama Muhammad Idrees Dahiri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anosh_Irani">
+    <yago:hasName xml:lang="en">Anosh Irani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ibbitson">
+    <yago:hasName xml:lang="en">John Ibbitson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Take_Ionescu">
+    <yago:hasName xml:lang="en">Take Ionescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hushang_Irani">
+    <yago:hasName xml:lang="en">Hushang Irani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_K._Smith">
+    <yago:hasName xml:lang="en">Dr. Ian K. Smith, M.D.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Inverdale">
+    <yago:hasName xml:lang="en">John Inverdale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_H._Will_III">
+    <yago:hasName xml:lang="en">Will, Oscar H., Iii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammed_al-Ifrani">
+    <yago:hasName xml:lang="en">Mohammed Ifrani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinmura_Izuru">
+    <yago:hasName xml:lang="en">Shinmura Izuru</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masanori_Ito">
+    <yago:hasName xml:lang="en">Masanori Ito</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Isaacson">
+    <yago:hasName xml:lang="en">Emily Isaacson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naftali_Herz_Imber">
+    <yago:hasName xml:lang="en">Naphtali Herz Imber</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josep_Pla">
+    <yago:hasName xml:lang="en">Josep Pla i Casadevall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilyas_Shurpayev">
+    <yago:hasName xml:lang="en">Ilyas Imranovich Shurpayev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Izaguirre">
+    <yago:hasName xml:lang="en">Boris Izaguirre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%B0smail_Cem_%C4%B0pek%C3%A7i">
+    <yago:hasName xml:lang="en">Ismail Cem Ipekci</yago:hasName>
+    <yago:hasName xml:lang="en">İsmail Cem İpekçi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salomon_Isacovici">
+    <yago:hasName xml:lang="en">Salomon Isacovici</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Ietaka">
+    <yago:hasName xml:lang="en">Fujiwara no Ietaka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohinder_Pratap_Chand">
+    <yago:hasName xml:lang="en">Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Maragall">
+    <yago:hasName xml:lang="en">Joan Maragall i Gorina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nab%C3%ADl-i-A%60zam">
+    <yago:hasName xml:lang="en">Nabil i Azam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Cano_Isaza">
+    <yago:hasName xml:lang="en">Guillermo Cano Isaza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tudor_Aaron_Istodor">
+    <yago:hasName xml:lang="en">Tudor Aaron Istodor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jabra_Ibrahim_Jabra">
+    <yago:hasName xml:lang="en">Jabra Ibrahim Jabra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._Inman">
+    <yago:hasName xml:lang="en">P. Inman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Ivory">
+    <yago:hasName xml:lang="en">Helen Ivory</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T._B._Ilangaratne">
+    <yago:hasName xml:lang="en">Tikiri Bandara Ilangaratne</yago:hasName>
+    <yago:hasName xml:lang="en">T. B. Ilangaratne</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stella_Inger">
+    <yago:hasName xml:lang="en">Stella Inger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Illayapparachchi">
+    <yago:hasName xml:lang="en">Eric Illayapparachchi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Ishiguro">
+    <yago:hasName xml:lang="en">Kazuo Ishiguro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Isra%C3%ABl_Tarte">
+    <yago:hasName xml:lang="en">Joseph Israël Tarte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_M._Gibson">
+    <yago:hasName xml:lang="en">At Universal's "Scott Pilgrim's Super Fun Party," produced by Gibson's i am 8-bit Productions.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Isakovsky">
+    <yago:hasName xml:lang="en">Mikhail Isakovksy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Ivry">
+    <yago:hasName xml:lang="en">Bob Ivry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Izhar_ul_Haq">
+    <yago:hasName xml:lang="en">Muhammad Izhar ul Haq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Iredale">
+    <yago:hasName xml:lang="en">Tim Iredale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_II_Petrovi%C4%87-Njego%C5%A1">
+    <yago:hasName xml:lang="en">Petar II Petrović Njegoš</yago:hasName>
+    <yago:hasName xml:lang="en">Петар II Петровић Његош</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_In-ho">
+    <yago:hasName xml:lang="en">Choi In-ho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_A._McPhillips_III">
+    <yago:hasName xml:lang="en">Macphillips, Joseph A., Iii</yago:hasName>
+    <yago:hasName xml:lang="en">Joseph A. McPhillips III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taufiq_Ismail">
+    <yago:hasName xml:lang="en">Taufik Ismail</yago:hasName>
+    <yago:hasName xml:lang="en">Taufiq Ismail</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Llion_Iwan">
+    <yago:hasName xml:lang="en">Llion Iwan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Irwin">
+    <yago:hasName xml:lang="en">Margaret Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Thomas_Idlet">
+    <yago:hasName xml:lang="en">John Thomas Idlet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modest_Ilyich_Tchaikovsky">
+    <yago:hasName xml:lang="en">Modest Ilyich Tchaikovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_ibn_al-Madini">
+    <yago:hasName xml:lang="en">Ali Ibn Al-Madini</yago:hasName>
+    <yago:hasName xml:lang="en">Ali ibn al-Madini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namiki_Gohei_I">
+    <yago:hasName xml:lang="en">Namiki Gohei I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chabeli_Iglesias">
+    <yago:hasName xml:lang="en">Chabeli Iglesias</yago:hasName>
+    <yago:hasName xml:lang="en">Chábeli Iglesias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sh%C5%8Dko_Ieda">
+    <yago:hasName xml:lang="en">Shōko Ieda</yago:hasName>
+    <yago:hasName xml:lang="en">Shoko Ieda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Solzhenitsyn">
+    <yago:hasName xml:lang="en">Aleksandr Isayevich Solzhenitsyn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawson_Fusao_Inada">
+    <yago:hasName xml:lang="en">Lawson Fusao Inada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaros%C5%82aw_Iwaszkiewicz">
+    <yago:hasName xml:lang="en">Jarosław Iwaszkiewicz</yago:hasName>
+    <yago:hasName xml:lang="en">Jaroslaw Iwaszkiewicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Mentzer">
+    <yago:hasName xml:lang="en">Jacob Franklin "Frank" Mentzer III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Isaacs">
+    <yago:hasName xml:lang="en">Susan Isaacs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_ibn_al-Mahdi">
+    <yago:hasName xml:lang="en">Ibrahim ibn al-Mahdi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Iglesias_de_la_Casa">
+    <yago:hasName xml:lang="en">Jose Iglesias de la Casa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Kells_Ingram">
+    <yago:hasName xml:lang="en">John Kells Ingram</yago:hasName>
+    <yago:hasName xml:lang="en">John Kells Ingham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaan_%C4%B0nce">
+    <yago:hasName xml:lang="en">Kaan Ince</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Witi_Ihimaera">
+    <yago:hasName xml:lang="en">Witi Ihimaera</yago:hasName>
+    <yago:hasName xml:lang="en">Witi Tame Ihimaera-Smiler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juana_In%C3%A9s_de_la_Cruz">
+    <yago:hasName xml:lang="en">Juana Ines de Asbaje y Ramírez de Santillana</yago:hasName>
+    <yago:hasName xml:lang="en">Juana Inés de la Cruz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_It%C5%8D_(film_director)">
+    <yago:hasName xml:lang="en">Daisuke Ito</yago:hasName>
+    <yago:hasName xml:lang="en">Daisuke Itō</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El%C3%ADas_Pino_Iturrieta">
+    <yago:hasName xml:lang="en">Elías Pino Iturrieta</yago:hasName>
+    <yago:hasName xml:lang="en">Elias Pino Iturrieta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jawed_Iqbal">
+    <yago:hasName xml:lang="en">Jawed Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selwyn_Image">
+    <yago:hasName xml:lang="en">Selwyn Image</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zee_Edgell">
+    <yago:hasName xml:lang="en">Zelma I. Edgell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%BDeljko_Ivankovi%C4%87">
+    <yago:hasName xml:lang="en">Željko Ivanković</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansaku_Itami">
+    <yago:hasName xml:lang="en">Mansaku Itami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralf_Isau">
+    <yago:hasName xml:lang="en">Ralf Isau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbas_Ibn_al-Ahnaf">
+    <yago:hasName xml:lang="en">Abbas Ibn Al-Ahnaf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andre_Dubus">
+    <yago:hasName xml:lang="en">Andre Dubus II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Ignacio_Garc%C3%ADa_Hamilton">
+    <yago:hasName xml:lang="en">Jose Ignacio García Hamilton</yago:hasName>
+    <yago:hasName xml:lang="en">Jose Ignacio Garcia Hamilton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Margarit_i_Consarnau">
+    <yago:hasName xml:lang="en">Joan Margarit I Consarnau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Yutkevich">
+    <yago:hasName xml:lang="en">Sergei Iosifovich Yutkevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R%C4%B1fat_Ilgaz">
+    <yago:hasName xml:lang="en">Rıfat Ilgaz</yago:hasName>
+    <yago:hasName xml:lang="en">Rifat Ilgaz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_I_Esterh%C3%A1zy_of_Gal%C3%A1ntha">
+    <yago:hasName xml:lang="en">Paul I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Richard_Fendall_II">
+    <yago:hasName xml:lang="en">Philip Richard Fendall II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tricia_Ingrams">
+    <yago:hasName xml:lang="en">Tricia Ingrams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Arthur_Irwin">
+    <yago:hasName xml:lang="en">William Arthur Irwin</yago:hasName>
+    <yago:hasName xml:lang="en">W. Arthur Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilia_Chavchavadze">
+    <yago:hasName xml:lang="en">Chavchavadze Ilia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Lafitte_Ithurralde">
+    <yago:hasName xml:lang="en">Pierre Lafitte Ithurralde</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Whyte_III">
+    <yago:hasName xml:lang="en">Whyte, Daniel, III</yago:hasName>
+    <yago:hasName xml:lang="en">Daniel Whyte III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kancha_Ilaiah">
+    <yago:hasName xml:lang="en">Kancha Ilaiah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Ilnicka">
+    <yago:hasName xml:lang="en">Maria Ilnicka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Igarashi">
+    <yago:hasName xml:lang="en">Hitoshi Igarashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sean_Ingle">
+    <yago:hasName xml:lang="en">Sean Ingle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augusta,_Lady_Gregory">
+    <yago:hasName xml:lang="en">Gregory, Isabella Augusta, Lady Gregory</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_Imogen_Guiney">
+    <yago:hasName xml:lang="en">Louise Imogen Guiney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vsevolod_Ivanov">
+    <yago:hasName xml:lang="en">Vsevolod Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Innocenzo_Frugoni">
+    <yago:hasName xml:lang="en">Carlo Innocenzio Maria Frugoni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sh%C5%8Dhei_Imamura">
+    <yago:hasName xml:lang="en">Shōhei Imamura</yago:hasName>
+    <yago:hasName xml:lang="en">Shohei Imamura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Ingold">
+    <yago:hasName xml:lang="en">Jon Ingold</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Itani">
+    <yago:hasName xml:lang="en">Frances Itani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malabo_Lopelo_Melaka">
+    <yago:hasName xml:lang="en">King Malabo I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Inskeep">
+    <yago:hasName xml:lang="en">Steve Inskeep</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Ingoli%C4%8D">
+    <yago:hasName xml:lang="en">Anton Ingolič</yago:hasName>
+    <yago:hasName xml:lang="en">Anton Ingolic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Iremil_Teodoro">
+    <yago:hasName xml:lang="en">John Iremil E. Teodoro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_ibn_al-Ahmar">
+    <yago:hasName xml:lang="en">Ismail Ibn Ahmar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silius_Italicus">
+    <yago:hasName xml:lang="en">Tiberius Catius Asconius Silius Italicus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Impastato">
+    <yago:hasName xml:lang="en">Giuseppe Impastato</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Inman_(poet)">
+    <yago:hasName xml:lang="en">Will Inman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khasan_Israilov">
+    <yago:hasName xml:lang="en">Khasan Israilov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabral_Ibacka">
+    <yago:hasName xml:lang="en">Cabral Ibacka</yago:hasName>
+    <yago:hasName xml:lang="en">Cabral Neculai Ibacka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Safronov">
+    <yago:hasName xml:lang="en">Ivan Ivanovich Safronov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amr_ibn_Kulthum">
+    <yago:hasName xml:lang="en">Amr ibn Kulthum</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Irvine">
+    <yago:hasName xml:lang="en">Ian Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winfield_Parks">
+    <yago:hasName xml:lang="en">Winfield Irving Parks</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomi_Iizuka">
+    <yago:hasName xml:lang="en">Naomi Iizuki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_B._Wilderson_III">
+    <yago:hasName xml:lang="en">Wilderson, Frank B., III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ives">
+    <yago:hasName xml:lang="en">David Ives</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falaba_Issa_Traor%C3%A9">
+    <yago:hasName xml:lang="en">Falaba Issa Traore</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheldon_Pollock">
+    <yago:hasName xml:lang="en">Sheldon I. Pollock</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josep_Feliu_i_Codina">
+    <yago:hasName xml:lang="en">Josep Feliu i Codina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Irwin_(writer)">
+    <yago:hasName xml:lang="en">Robert Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Imhasly">
+    <yago:hasName xml:lang="en">Pierre Imhasly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hafez_Ibrahim">
+    <yago:hasName xml:lang="en">Hafez Ibrahim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Rivera_Indarte">
+    <yago:hasName xml:lang="en">José Rivera Indarte</yago:hasName>
+    <yago:hasName xml:lang="en">Jose Rivera Indarte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Ignacio_Corti%C3%B1as">
+    <yago:hasName xml:lang="en">Jorge Ignacio Cortinas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inez_Haynes_Irwin">
+    <yago:hasName xml:lang="en">Inez Haynes Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Fulton">
+    <yago:hasName xml:lang="en">Margaret Isobel Fulton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K%C5%8Dtar%C5%8D_Isaka">
+    <yago:hasName xml:lang="en">Kotaro Isaka</yago:hasName>
+    <yago:hasName xml:lang="en">Kōtarō Isaka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namiki_Sh%C5%8Dz%C5%8D_II">
+    <yago:hasName xml:lang="en">Namiki Shozo Ii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_II_of_Aragon">
+    <yago:hasName xml:lang="en">Alfonso II of Aragon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Irwin_Thompson">
+    <yago:hasName xml:lang="en">William Irwin Thompson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolae_Iorga">
+    <yago:hasName xml:lang="en">Nicolae Iorga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masuji_Ibuse">
+    <yago:hasName xml:lang="en">Masuji Ibuse</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Ingalls_Wilder">
+    <yago:hasName xml:lang="en">Laura Ingalls Wilder</yago:hasName>
+    <yago:hasName xml:lang="en">Laura Elizabeth Ingalls  Wilder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulton_Lewis_III">
+    <yago:hasName xml:lang="en">Fulton III Lewis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mako_Iwamatsu">
+    <yago:hasName xml:lang="en">Mako Iwamatsu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adlai_Stevenson_IV">
+    <yago:hasName xml:lang="en">Adlai IV Stevenson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kermit_Roosevelt_III">
+    <yago:hasName xml:lang="en">Kermit Roosevelt III</yago:hasName>
+    <yago:hasName xml:lang="en">Roosevelt, Kermit, III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Risto_Isom%C3%A4ki">
+    <yago:hasName xml:lang="en">Risto Isomäki</yago:hasName>
+    <yago:hasName xml:lang="en">Risto Isomaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adah_Isaacs_Menken">
+    <yago:hasName xml:lang="en">Adah Isaacs Menken</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yagutil_Mishiev">
+    <yago:hasName xml:lang="en">Yagutil Israelovich Mishiev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josep_Palau_i_Fabre">
+    <yago:hasName xml:lang="en">Josep Palau I Fabre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Ilovaysky">
+    <yago:hasName xml:lang="en">Dmitry Ilovaysky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joesoef_Isak">
+    <yago:hasName xml:lang="en">Joesoef Isak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Ingrams">
+    <yago:hasName xml:lang="en">Richard Ingrams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Ireland">
+    <yago:hasName xml:lang="en">Doug Ireland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Ioannou">
+    <yago:hasName xml:lang="en">Susan Ioannou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicente_Blasco_Ib%C3%A1%C3%B1ez">
+    <yago:hasName xml:lang="en">Vicente Blasco Ibanez</yago:hasName>
+    <yago:hasName xml:lang="en">Vicente Blasco Ibáñez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Isaakovich_Gelman">
+    <yago:hasName xml:lang="en">Alexander Isaakovich Gelman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Isserman">
+    <yago:hasName xml:lang="en">Maurice Isserman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Hammerstein_II">
+    <yago:hasName xml:lang="en">Hammerstein, Oscar, Ii</yago:hasName>
+    <yago:hasName xml:lang="en">Oscar Hammerstein II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Ivasyuk">
+    <yago:hasName xml:lang="en">Volodymyr Mykhailovych Ivasiuk</yago:hasName>
+    <yago:hasName xml:lang="en">Volodymyr Ivasyuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Telesio_Interlandi">
+    <yago:hasName xml:lang="en">Telesio Interlandi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nestor_Ignat">
+    <yago:hasName xml:lang="en">Nestor Ignat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Isaac_Jaffe">
+    <yago:hasName xml:lang="en">Louis Isaac Jaffe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Elies_Adell_i_Pitarch">
+    <yago:hasName xml:lang="en">Joan Elies Adell I Pitarch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Olympiad_of_Informatics">
+    <yago:hasName xml:lang="en">National Olympiad of Informatics</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masuo_Ikeda">
+    <yago:hasName xml:lang="en">Masuo Ikeda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narc%C3%ADs_Oller">
+    <yago:hasName xml:lang="en">Narcís Oller i Moragas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurence_Sydney_Brodribb_Irving">
+    <yago:hasName xml:lang="en">Laurence Irving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Holy_Roman_Emperor">
+    <yago:hasName xml:lang="en">Frederick II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Balkhi">
+    <yago:hasName xml:lang="en">Syed Ismail Balkhi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasha_Issenberg">
+    <yago:hasName xml:lang="en">Sasha Issenberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aliagha_Vahid">
+    <yago:hasName xml:lang="en">Əliağa Məmmədqulu oğlu İsgəndərov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Ingham">
+    <yago:hasName xml:lang="en">Bernard Ingham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jakov_Ignjatovi%C4%87">
+    <yago:hasName xml:lang="en">Jakov Ignjatovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Isay">
+    <yago:hasName xml:lang="en">Richard Isay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Inaba">
+    <yago:hasName xml:lang="en">Ian Inaba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-A&apos;sha">
+    <yago:hasName xml:lang="en">Maymun Ibn Qays Al Asha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Saunders">
+    <yago:hasName xml:lang="en">Jean Innes Saunders</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Ivan%C4%8Di%C4%87">
+    <yago:hasName xml:lang="en">Viktor Ivancic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pliny_Earle_(physician)">
+    <yago:hasName xml:lang="en">Pliny II Earle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masanori_Ito_(music_critic)">
+    <yago:hasName xml:lang="en">Masanori Ito</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Ivask">
+    <yago:hasName xml:lang="en">Ivar Ivask</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Crew_Inman">
+    <yago:hasName xml:lang="en">Arthur Crew Inman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oakley_Hall_III">
+    <yago:hasName xml:lang="en">Hall, Oakley, Iii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanabusa_Itch%C5%8D">
+    <yago:hasName xml:lang="en">Hanabusa Itchō</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christine_Frederick">
+    <yago:hasName xml:lang="en">Christine Isobel McGaffey Frederick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montserrat_Abell%C3%B3_i_Soler">
+    <yago:hasName xml:lang="en">Montserrat Abello I Soler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstanty_Ildefons_Ga%C5%82czy%C5%84ski">
+    <yago:hasName xml:lang="en">Konstanty Ildefons Gałczyński</yago:hasName>
+    <yago:hasName xml:lang="en">Konstanty Ildefons Galczynski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wesley_Weeks,_III">
+    <yago:hasName xml:lang="en">Thomas Wesley Weeks III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herm%C3%B3genes_Irisarri">
+    <yago:hasName xml:lang="en">Hermogenes Irisarri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Iorwerth_Ellis">
+    <yago:hasName xml:lang="en">Thomas Iorwerth Ellis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignacio_E._Lozano,_Sr.">
+    <yago:hasName xml:lang="en">Lozano, Ignacio E., Sr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyn_Irvine">
+    <yago:hasName xml:lang="en">Lyn Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Todd_Ipson">
+    <yago:hasName xml:lang="en">Jason Todd Ipson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kobayashi_Issa">
+    <yago:hasName xml:lang="en">Kobayashi Issa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujio_Ishihara">
+    <yago:hasName xml:lang="en">Fujio Ishihara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Vasilyevich_Ivanov">
+    <yago:hasName xml:lang="en">Konstantin Ivanov</yago:hasName>
+    <yago:hasName xml:lang="en">Konstantin Vasilyevich Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Caulfield_Irwin">
+    <yago:hasName xml:lang="en">Thomas Caulfield Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Irving">
+    <yago:hasName xml:lang="en">John Irving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Ivanovich_Ivanov">
+    <yago:hasName xml:lang="en">Vyacheslav Ivanovich Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Haight_Morrison">
+    <yago:hasName xml:lang="en">Morrison, IV, Jacob Haight</yago:hasName>
+    <yago:hasName xml:lang="en">Jacob Haight Morrison, IV</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Iribe">
+    <yago:hasName xml:lang="en">Paul Iribe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Izard">
+    <yago:hasName xml:lang="en">Georges Izard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Merlin_Mann">
+    <yago:hasName xml:lang="en">Merlin Dean Mann III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Iovanna">
+    <yago:hasName xml:lang="en">Carol Iovanna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sariamin_Ismail">
+    <yago:hasName xml:lang="en">Sariamin Ismail</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laulasi_Island">
+    <yago:hasName xml:lang="en">Laulasi Island</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sabit_%C4%B0nce">
+    <yago:hasName xml:lang="en">Sabit Ince</yago:hasName>
+    <yago:hasName xml:lang="en">Sabit İnce</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namiki_Sh%C5%8Dz%C5%8D_I">
+    <yago:hasName xml:lang="en">Namiki Shozo I</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideo_Levy">
+    <yago:hasName xml:lang="en">Hideo Ian Levy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fazil_Iskander">
+    <yago:hasName xml:lang="en">Fazil Iskander</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Mirabella_III">
+    <yago:hasName xml:lang="en">Fran Mirabella III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdul_Samad_Ismail">
+    <yago:hasName xml:lang="en">Abdul Samad Ismail</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algol">
+    <yago:hasName xml:lang="en">The constellation Perseus and Algol, the Bright Star in the Gorgon's head</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Iparraguirre">
+    <yago:hasName xml:lang="en">Sylvia Iparraguirre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiko_Itoyama">
+    <yago:hasName xml:lang="en">Akiko Itoyama</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_ibn_Gabirol">
+    <yago:hasName xml:lang="en">Solomon ibn Gabirol</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurumi_Inui">
+    <yago:hasName xml:lang="en">Kurumi Inui</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farhat_Ishtiaq">
+    <yago:hasName xml:lang="en">Farhat Ishtiaq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taruho_Inagaki">
+    <yago:hasName xml:lang="en">Taruho Inagaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Abellan_i_Mula">
+    <yago:hasName xml:lang="en">Joan Abalan i Mula</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teimuraz_II">
+    <yago:hasName xml:lang="en">Teimuraz II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Khvostov">
+    <yago:hasName xml:lang="en">Dmitry Ivanovich Kvostov</yago:hasName>
+    <yago:hasName xml:lang="en">Dmitry Ivanovich Khvostov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B._M._Idinabba">
+    <yago:hasName xml:lang="en">B. M. Idinabba</yago:hasName>
+    <yago:hasName xml:lang="en">B.M. Idinabba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricardo_Ernesto_Montes_i_Bradley">
+    <yago:hasName xml:lang="en">R-E Montes i Bradley</yago:hasName>
+    <yago:hasName xml:lang="en">Ricardo Ernesto Montes I Bradley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheikh_Ahmad-e_Jami">
+    <yago:hasName xml:lang="en">Ahmad Ibn Abolhasan Jāmi-e Nāmaghi-e Torshizi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasil_Iljoski">
+    <yago:hasName xml:lang="en">Vasil Iljoski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rex_Ingamells">
+    <yago:hasName xml:lang="en">Reginald Charles (Rex) Ingamells</yago:hasName>
+    <yago:hasName xml:lang="en">Rex Ingamells</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_C._Collins">
+    <yago:hasName xml:lang="en">Jim C. Collins, III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Ice_(poet)">
+    <yago:hasName xml:lang="en">Black Ice</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Ip">
+    <yago:hasName xml:lang="en">Susan Ip</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Ivanovich_Kuskov">
+    <yago:hasName xml:lang="en">Sergey Ivanovich Kuskov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergio_Infante">
+    <yago:hasName xml:lang="en">Sergio Infante</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Ireland">
+    <yago:hasName xml:lang="en">Ann Ireland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idriss_ibn_al-Hassan_al-Alami">
+    <yago:hasName xml:lang="en">Idriss Ibn al-Hassan al-Alami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Codrin_Arsene">
+    <yago:hasName xml:lang="en">thumb|Codrin Arsene, Chicago, Il, November 2010</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Ionescu_de_la_Brad">
+    <yago:hasName xml:lang="en">Ion Ionescu de la Brad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ignatius">
+    <yago:hasName xml:lang="en">David Ignatius</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_C._Irvine">
+    <yago:hasName xml:lang="en">Alexander C. Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Cullen">
+    <yago:hasName xml:lang="en">Edward Joseph "Ed" Cullen, III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Irving">
+    <yago:hasName xml:lang="en">David Irving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._R._Indugopan">
+    <yago:hasName xml:lang="en">G. R. Indugopan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Isobel_Johnstone">
+    <yago:hasName xml:lang="en">Christian Isobel Johnstone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Ibn_al-Qadi">
+    <yago:hasName xml:lang="en">Ahmad Ibn Qadi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bashar_ibn_Burd">
+    <yago:hasName xml:lang="en">Bashar ibn Burd</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_Isakhanli">
+    <yago:hasName xml:lang="en">Hamlet Isakhanli</yago:hasName>
+    <yago:hasName xml:lang="en">Hamlet İsaxanlı</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Isidor_Beck">
+    <yago:hasName xml:lang="en">Karl Isidor Beck</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Irby">
+    <yago:hasName xml:lang="en">Lee Irby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ip_Yut_Kin">
+    <yago:hasName xml:lang="en">Yut Kin Ip</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/&apos;Alqama_ibn_&apos;Abada">
+    <yago:hasName xml:lang="en">Alqama ibn Abada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryurik_Ivnev">
+    <yago:hasName xml:lang="en">Rurik Ivnev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khawaja_Zafar_Iqbal">
+    <yago:hasName xml:lang="en">Khawaja Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_K._Ilsley">
+    <yago:hasName xml:lang="en">George K Ilsley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I._Dragoslav">
+    <yago:hasName xml:lang="en">Ion Sumanariu Ivanciuc</yago:hasName>
+    <yago:hasName xml:lang="en">Ion V. Ivaciuc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Irenaeus_Prime-Stevenson">
+    <yago:hasName xml:lang="en">Edward Irenaeus Prime-Stevenson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mircea_Ivanescu">
+    <yago:hasName xml:lang="en">Mircea Ivanescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Indiana">
+    <yago:hasName xml:lang="en">Gary Indiana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marina_Tsvetaeva">
+    <yago:hasName xml:lang="en">Marina Ivanovna Tsvetaeva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Illica">
+    <yago:hasName xml:lang="en">Luigi Illica</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Ingoldsby">
+    <yago:hasName xml:lang="en">Pat Ingoldsby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jouni_Inkala">
+    <yago:hasName xml:lang="en">Jouni Inkala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._D._Fitzgerald">
+    <yago:hasName xml:lang="en">Robert David III FitzGerald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amram_ibn_Salameh">
+    <yago:hasName xml:lang="en">Amram Ibn Salameh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sirajul_Islam">
+    <yago:hasName xml:lang="en">Sirajul Islam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Y%C5%ABho_Iwasato">
+    <yago:hasName xml:lang="en">Yūho Iwasato</yago:hasName>
+    <yago:hasName xml:lang="en">Yuuho Iwasato</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dimitar_Inkiow">
+    <yago:hasName xml:lang="en">Dimitar Inkiow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toomas_Hendrik_Ilves">
+    <yago:hasName xml:lang="en">Toomas Hendrik Ilves</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Imlah">
+    <yago:hasName xml:lang="en">Mick Imlah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josep_Lladonosa_i_Gir%C3%B3">
+    <yago:hasName xml:lang="en">Josep Lladonosa I Giro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ky%C5%8Dka_Izumi">
+    <yago:hasName xml:lang="en">Kyoka Izumi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinweizu_Ibekwe">
+    <yago:hasName xml:lang="en">Chinweizu Ibekwe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Irvine_(journalist)">
+    <yago:hasName xml:lang="en">John Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hammond_Innes">
+    <yago:hasName xml:lang="en">Hammond Innes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rahat_Indori">
+    <yago:hasName xml:lang="en">Rahat Indori</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benito_Pastoriza_Iyodo">
+    <yago:hasName xml:lang="en">Benito Pastoriza Iyodo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DMW_Greer">
+    <yago:hasName xml:lang="en">David Milne Willard III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Ingenieros">
+    <yago:hasName xml:lang="en">Jose Ingenieros</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Javier_Ill%C3%A1n_Vivas">
+    <yago:hasName xml:lang="en">Francisco Javier Illan Vivas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I._M._R._A._Iriyagolla">
+    <yago:hasName xml:lang="en">I. M. R. A. Iriyagolla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joaquim_Maria_Puyal">
+    <yago:hasName xml:lang="en">Joaquim Maria Puyal i Ortiga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuz%C5%8D_Ishikawa">
+    <yago:hasName xml:lang="en">Tatsuzo Ishikawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Isra%C3%ABl_de_Haan">
+    <yago:hasName xml:lang="en">Jacob Israël de Haan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josh_Robin">
+    <yago:hasName xml:lang="en">Joshua Ian Robin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Douglas_Irvine">
+    <yago:hasName xml:lang="en">Helen Douglas Irvine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Karel_Bouley">
+    <yago:hasName xml:lang="en">Charles Karel Bouley II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tariq_Ismail_Sagar">
+    <yago:hasName xml:lang="en">Tariq Ismail Sagar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jovita_Idar">
+    <yago:hasName xml:lang="en">Jovita Idar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlton_Mellick_III">
+    <yago:hasName xml:lang="en">Carlton Mellick III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohdan_Ihor_Antonych">
+    <yago:hasName xml:lang="en">Bohdan Ihor Antonych</yago:hasName>
+    <yago:hasName xml:lang="en">Bogdan Igor Antonych</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geir_Ivars%C3%B8y">
+    <yago:hasName xml:lang="en">Geir Ivarsøy</yago:hasName>
+    <yago:hasName xml:lang="en">Geir Ivarsoy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hodding_Carter">
+    <yago:hasName xml:lang="en">Hodding Carter, II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finn_Iunker">
+    <yago:hasName xml:lang="en">Finn Iunker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_Irving">
+    <yago:hasName xml:lang="en">Clifford Irving</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ani_Idrus">
+    <yago:hasName xml:lang="en">Ani Idurs</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Ingebrigtsen">
+    <yago:hasName xml:lang="en">Roger Ingebrigtsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syed_Hasan_Imam_(actor)">
+    <yago:hasName xml:lang="en">Syed Hasan Imam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saadi_(poet)">
+    <yago:hasName xml:lang="en">Muslih-ud-Din Mushrif ibn-Abdullah Shirazi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shotaro_Ishinomori">
+    <yago:hasName xml:lang="en">Shotaro Ishinomori</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_M._Irwin">
+    <yago:hasName xml:lang="en">Stephen M. Irwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_K._Iglehart">
+    <yago:hasName xml:lang="en">John K. Iglehart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Izzard">
+    <yago:hasName xml:lang="en">Ralph William Burdick Izzard</yago:hasName>
+    <yago:hasName xml:lang="en">Ralph Izzard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usama_ibn_Munqidh">
+    <yago:hasName xml:lang="en">Usama ibn Munqidh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usmar_Ismail">
+    <yago:hasName xml:lang="en">Usmar Ismail</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Istv%C3%A1n_Cs._Bartos">
+    <yago:hasName xml:lang="en">Cs. Istvan Bartos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amjad_Islam_Amjad">
+    <yago:hasName xml:lang="en">Amjad Islam Amjad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeremy_Ingalls">
+    <yago:hasName xml:lang="en">Jeremy Ingalls</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frid_Ingulstad">
+    <yago:hasName xml:lang="en">Frid Ingulstad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolf_Ivar_Arwidsson">
+    <yago:hasName xml:lang="en">Adolf Ivar Arwidsson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Srul_Irving_Glick">
+    <yago:hasName xml:lang="en">Srul Irving Glick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_In-suk">
+    <yago:hasName xml:lang="en">Kim In-suk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahadur_Shah_II">
+    <yago:hasName xml:lang="en">Bahadur Shah  II</yago:hasName>
+    <yago:hasName xml:lang="en">Bahadur Shah Ii</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takami_It%C5%8D">
+    <yago:hasName xml:lang="en">Takami Itō</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Im_Sang-soo">
+    <yago:hasName xml:lang="en">Sang-soo Im</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%9Etefan_Octavian_Iosif">
+    <yago:hasName xml:lang="en">Ştefan Octavian Iosif</yago:hasName>
+    <yago:hasName xml:lang="en">Stefan Octavian Iosif</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Inge">
+    <yago:hasName xml:lang="en">William Inge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K%C5%8Dichi_Iiboshi">
+    <yago:hasName xml:lang="en">Koichi Iiboshi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Odoevsky">
+    <yago:hasName xml:lang="en">Alexander Ivanovich Odoevsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Inman">
+    <yago:hasName xml:lang="en">Robert A. Inman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anders_Isaksson">
+    <yago:hasName xml:lang="en">Anders Isaksson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Imbriglio">
+    <yago:hasName xml:lang="en">Catherine Imbriglio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie_Irene_Loeb">
+    <yago:hasName xml:lang="en">Sophie Irene Loeb</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Hossain_Siraji">
+    <yago:hasName xml:lang="en">Syed Ismail Hossain Siraji</yago:hasName>
+    <yago:hasName xml:lang="en">Syed Ismail Hussain Siraji</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Ivanov">
+    <yago:hasName xml:lang="en">Georgy Ivanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Isabella_Thackeray_Ritchie">
+    <yago:hasName xml:lang="en">Anne Isabella Thackeray</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Ivan">
+    <yago:hasName xml:lang="en">Victor Ivan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_III_of_Aragon">
+    <yago:hasName xml:lang="en">Peter III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Ignacio_Castillo">
+    <yago:hasName xml:lang="en">Jorge Ignacio Castillo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._I._M._Stewart">
+    <yago:hasName xml:lang="en">J. I. M. Stewart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Christie">
+    <yago:hasName xml:lang="en">Ronald I. Christie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evelyn_Irons">
+    <yago:hasName xml:lang="en">Evelyn Irons</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdi_%C4%B0pek%C3%A7i">
+    <yago:hasName xml:lang="en">Abdi Ipekci</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisashi_Inoue">
+    <yago:hasName xml:lang="en">Hisashi Inoue</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Iles">
+    <yago:hasName xml:lang="en">Greg Iles</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zurain_Imam">
+    <yago:hasName xml:lang="en">Zurain Imam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Baker_(game_designer)">
+    <yago:hasName xml:lang="en">L. Richard Baker III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Iqbal">
+    <yago:hasName xml:lang="en">Muhammad Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vojislav_Ili%C4%87">
+    <yago:hasName xml:lang="en">Vojislav Ilic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dinu_Nicodin">
+    <yago:hasName xml:lang="en">Nicolae Ioanid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_C._Lea,_III">
+    <yago:hasName xml:lang="en">Thomas Calloway "Tom" Lea, III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltasar_Porcel">
+    <yago:hasName xml:lang="en">Baltasar Porcel i Pujol</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_III,_Margrave_of_Meissen">
+    <yago:hasName xml:lang="en">Henry the Illustrious</yago:hasName>
+    <yago:hasName xml:lang="en">Margrave Henry III of Meissen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Ingpen">
+    <yago:hasName xml:lang="en">Robert Ingpen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Radovan_Iv%C5%A1i%C4%87">
+    <yago:hasName xml:lang="en">Radovan Ivšić</yago:hasName>
+    <yago:hasName xml:lang="en">Radovan Ivsic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sami_Ibrahim_Haddad">
+    <yago:hasName xml:lang="en">Sami Ibrahim Haddad</yago:hasName>
+    <yago:hasName xml:lang="en">Sami Ibrahim HADDAD</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Dmitriev">
+    <yago:hasName xml:lang="en">Ivan Ivanovich Dmitiev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abai_Qunanbaiuli">
+    <yago:hasName xml:lang="en">Abay Ibrahim Qunanbayuli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Crile_III">
+    <yago:hasName xml:lang="en">George III Crile</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Ewing_III">
+    <yago:hasName xml:lang="en">Robert Wilson Ewing III</yago:hasName>
+    <yago:hasName xml:lang="en">Ewing, III, Robert</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshii_Isamu">
+    <yago:hasName xml:lang="en">Yoshii Isamu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerardo_Garc%C3%ADa_Pimentel">
+    <yago:hasName xml:lang="en">Gerardo Israel  García Pimentel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_B%C4%83ie%C5%9Fu">
+    <yago:hasName xml:lang="en">Baiesu Ion</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Cabrera_Infante">
+    <yago:hasName xml:lang="en">Guillermo Cabrera Infante</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulinus_II_of_Aquileia">
+    <yago:hasName xml:lang="en">Saint Paulinus II</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conn_Iggulden">
+    <yago:hasName xml:lang="en">Conn Iggulden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_I._Robertson,_Jr.">
+    <yago:hasName xml:lang="en">Dr. James I. Robertson, Jr.</yago:hasName>
+    <yago:hasName xml:lang="en">James I Robertson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markku_Into">
+    <yago:hasName xml:lang="en">Markku Into</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Jos%C3%A9_de_Irisarri">
+    <yago:hasName xml:lang="en">Antonio Jose De Irisarri</yago:hasName>
+    <yago:hasName xml:lang="en">Antonio José de Irisarri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C3%ADa_Irene_Forn%C3%A9s">
+    <yago:hasName xml:lang="en">María Irene Fornés</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

@@ -8,6 +8,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_F%C3%BChmann">
     <yago:hasName xml:lang="en">Franz Fühmann</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Dexter">
+    <yago:hasName xml:lang="en">Felix Dexter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrice_Taylor">
+    <yago:hasName xml:lang="en">Fabrice Taylor</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Florentius_Volusenus">
     <yago:hasName xml:lang="en">Florentius Volusenus</yago:hasName>
   </rdf:Description>
@@ -30,9 +36,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_William_Reitz">
     <yago:hasName xml:lang="en">Francis William Reitz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Adolfo_de_Varnhagen%2C_Viscount_of_Porto_Seguro">
-    <yago:hasName xml:lang="en">Francisco Adolfo de Varnhagen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_de_La_Rochefoucauld_(writer)">
     <yago:hasName xml:lang="en">François de La Rochefoucauld</yago:hasName>
   </rdf:Description>
@@ -52,14 +55,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Fern">
     <yago:hasName xml:lang="en">Fanny Fern</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinando_Petruccelli_della_Gattina">
-    <yago:hasName xml:lang="en">Ferdinando Petruccelli della Gattina</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Howe">
     <yago:hasName xml:lang="en">Fanny Howe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Phillips">
     <yago:hasName xml:lang="en">Fiona Phillips</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois,_Vicomte_de_Curel">
+    <yago:hasName xml:lang="en">Francois de Curel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Vickery">
     <yago:hasName xml:lang="en">Frank Vickery</yago:hasName>
@@ -116,11 +119,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Filippo_Tommaso_Marinetti">
     <yago:hasName xml:lang="en">Filippo Tommaso Marinetti</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Filipe_La_F%C3%A9ria">
+    <yago:hasName xml:lang="en">Filipe La Feria</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Filippo_Anfuso">
     <yago:hasName xml:lang="en">Filippo Anfuso</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Schlotterbeck">
     <yago:hasName xml:lang="en">Friedrich Schlotterbeck</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Laurin">
+    <yago:hasName xml:lang="en">Fredrik Laurin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Janos_Nyiri">
     <yago:hasName xml:lang="en">File:Janos Nyiri, 1970.pdf</yago:hasName>
@@ -157,6 +166,13 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emery_Bonett">
     <yago:hasName xml:lang="en">Felicity Winifred Carter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Edward_H%C3%A9bert">
+    <yago:hasName xml:lang="en">Felix Edward Hebert</yago:hasName>
+    <yago:hasName xml:lang="en">Felix Edward "Eddie" Hébert</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Mehring">
+    <yago:hasName xml:lang="en">Franz Mehring</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederica_Sagor_Maas">
     <yago:hasName xml:lang="en">Frederica Sagor Maas</yago:hasName>
   </rdf:Description>
@@ -168,6 +184,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Sanders">
     <yago:hasName xml:lang="en">Francesca Sanders</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_L%C3%A9vitan">
+    <yago:hasName xml:lang="en">Felix Levitan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Rabelais">
     <yago:hasName xml:lang="en">Francois Rabelais</yago:hasName>
@@ -195,6 +214,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederico_Barbosa">
     <yago:hasName xml:lang="en">Frederico Barbosa</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Firat_Cewer%C3%AE">
+    <yago:hasName xml:lang="en">Firat Ceweri</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Farouk_Shousha">
     <yago:hasName xml:lang="en">Farouk Shousha</yago:hasName>
   </rdf:Description>
@@ -219,14 +241,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Berry">
     <yago:hasName xml:lang="en">Francis Berry</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_de_La_Rochefoucauld_%28writer%29">
-    <yago:hasName xml:lang="en">François de La Rochefoucauld</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_A._Meyer">
     <yago:hasName xml:lang="en">Frank A. Meyer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Coloane">
     <yago:hasName xml:lang="en">Francisco Coloane</yago:hasName>
+    <yago:hasName xml:lang="en">Francisco Coloane and the chronist Mario Uribe.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Wedekind">
     <yago:hasName xml:lang="en">Frank Wedekind</yago:hasName>
@@ -238,16 +258,12 @@
     <yago:hasName xml:lang="en">FRANCK GORDON</yago:hasName>
     <yago:hasName xml:lang="en">Franck Gordon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._L._Lucas">
-    <yago:hasName xml:lang="en">Frank Laurence Lucas</yago:hasName>
-    <yago:hasName xml:lang="en">F.L. Lucas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Kaplan">
-    <yago:hasName xml:lang="en">Fred Kaplan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_III_of_Sicily">
     <yago:hasName xml:lang="en">Frederick 03 Of Sicily</yago:hasName>
     <yago:hasName xml:lang="en">Frederick III</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Froma_Harrop">
+    <yago:hasName xml:lang="en">Froma Harrop</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Faith_Baldwin">
     <yago:hasName xml:lang="en">Faith Baldwin</yago:hasName>
@@ -257,6 +273,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Yerby">
     <yago:hasName xml:lang="en">Frank Yerby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muztar_Abbasi">
+    <yago:hasName xml:lang="en">father nam=haji muhammad saleem (r.a.h)</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_H._Wu">
     <yago:hasName xml:lang="en">Frank H. Wu</yago:hasName>
@@ -268,11 +287,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Blei">
     <yago:hasName xml:lang="en">Franz Blei</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Ormsby">
+    <yago:hasName xml:lang="en">Frank Ormsby</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Kynaston">
     <yago:hasName xml:lang="en">Francis Kynaston</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Boothby">
     <yago:hasName xml:lang="en">Frances Boothby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Pessa">
+    <yago:hasName xml:lang="en">Fernando Pessa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdo_Godina">
     <yago:hasName xml:lang="en">Ferdo Godina</yago:hasName>
@@ -285,6 +310,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Freeman_Wills_Crofts">
     <yago:hasName xml:lang="en">Freeman Wills Crofts</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulgencio_R._Moreno">
+    <yago:hasName xml:lang="en">Fulgencio R. Moreno</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_O&apos;Hara">
     <yago:hasName xml:lang="en">Frank O'Hara</yago:hasName>
@@ -334,20 +362,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Luther_Mott">
     <yago:hasName xml:lang="en">Frank Luther Mott</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francess_Lantz">
-    <yago:hasName xml:lang="en">Francess Lantz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fabian_Waintal">
     <yago:hasName xml:lang="en">Fabian Waintal</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Roche">
-    <yago:hasName xml:lang="en">Frank Roche</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Paige">
-    <yago:hasName xml:lang="en">Frances Paige</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Lewald">
     <yago:hasName xml:lang="en">Fanny Lewald</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Fyfield">
+    <yago:hasName xml:lang="en">Frances Hegarty</yago:hasName>
+    <yago:hasName xml:lang="en">Frances Fyfield</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Ebersole">
     <yago:hasName xml:lang="en">Frank Ebersole</yago:hasName>
@@ -357,9 +380,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Florencio_Varela_(writer)">
     <yago:hasName xml:lang="en">Florencio Varela</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Sutermeister">
-    <yago:hasName xml:lang="en">Frederick Sutermeister</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._T._Prince">
     <yago:hasName xml:lang="en">F.T. Prince</yago:hasName>
@@ -386,9 +406,6 @@
     <yago:hasName xml:lang="en">Francois Gény</yago:hasName>
     <yago:hasName xml:lang="en">François Gény</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Archer_(writer)">
-    <yago:hasName xml:lang="en">Fred Archer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_D&apos;Arcy">
     <yago:hasName xml:lang="en">Fr. Martin D'Arcy, S.J.</yago:hasName>
   </rdf:Description>
@@ -411,9 +428,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Umbscheiden">
     <yago:hasName xml:lang="en">Franz Umbscheiden</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisca_Josefa_de_la_Concepci%C3%B3n">
-    <yago:hasName xml:lang="en">Francisca Josefa de Castillo y Guevara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Feliu_Formosa">
     <yago:hasName xml:lang="en">Feliu Formosa</yago:hasName>
@@ -440,8 +454,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fleur_Revell">
     <yago:hasName xml:lang="en">Fleur Revell-Devlin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Xavier_Lasance">
-    <yago:hasName xml:lang="en">Francis Xavier Lasance</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Bunker_Gilbreth,_Jr.">
+    <yago:hasName xml:lang="en">Frank Bunker Gilbreth, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_Tanco">
     <yago:hasName xml:lang="en">Félix Tanco y Bosmeniel</yago:hasName>
@@ -468,6 +482,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mi_Fu">
     <yago:hasName xml:lang="en">Fu Mia</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Little">
+    <yago:hasName xml:lang="en">Frances Little</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_S._Durbin">
     <yago:hasName xml:lang="en">Frederic S. Durbin</yago:hasName>
   </rdf:Description>
@@ -490,6 +507,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_FitzGerald_(journalist)">
     <yago:hasName xml:lang="en">Frances FitzGerald</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_Paula_Mart%C3%ADnez_de_la_Rosa_y_Berdejo">
+    <yago:hasName xml:lang="en">Francisco Martinez de la Rosa</yago:hasName>
+    <yago:hasName xml:lang="en">Francisco Martínez de la Rosa</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Johnson_Goodnow">
     <yago:hasName xml:lang="en">Frank Johnson Goodnow Ph.D., LL.B.</yago:hasName>
     <yago:hasName xml:lang="en">Frank Johnson Goodnow</yago:hasName>
@@ -503,6 +524,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Brookhouser">
     <yago:hasName xml:lang="en">Frank Brookhouser</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Leviston">
+    <yago:hasName xml:lang="en">Frances Leviston</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Wilson_(actor)">
     <yago:hasName xml:lang="en">Francis Wilson</yago:hasName>
   </rdf:Description>
@@ -511,6 +535,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franco_Ambriz">
     <yago:hasName xml:lang="en">Franco Ambriz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Spee">
+    <yago:hasName xml:lang="en">Friedrich Spee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Melton">
     <yago:hasName xml:lang="en">Frank Melton</yago:hasName>
@@ -523,6 +550,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Lebowitz">
     <yago:hasName xml:lang="en">Fran Lebowitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Gardner_Moore">
+    <yago:hasName xml:lang="en">Frank Gardner Moore</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_G._Slaughter">
     <yago:hasName xml:lang="en">Frank Slaughter</yago:hasName>
@@ -550,11 +580,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Worrall">
     <yago:hasName xml:lang="en">Frank Worrall</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%AD%C3%B0a_%C3%81._Sigur%C3%B0ard%C3%B3ttir">
+    <yago:hasName xml:lang="en">Frida A. Sigurdardottir</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Darcy__Frank_Brennan__1">
     <yago:hasName xml:lang="en">Frank Brennan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Farzana_Doctor">
-    <yago:hasName xml:lang="en">Farzana Doctor</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Hamanari">
+    <yago:hasName xml:lang="en">Fujiwara no Hamanari</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Dahn">
     <yago:hasName xml:lang="en">Felix Dahn</yago:hasName>
@@ -580,10 +613,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Branston">
     <yago:hasName xml:lang="en">Frank Branston</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Richter">
-    <yago:hasName xml:lang="en">Francis C. Richter</yago:hasName>
-    <yago:hasName xml:lang="en">Francis Richter</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Father_Jean_Bernard">
     <yago:hasName xml:lang="en">Father Jean Bernard</yago:hasName>
   </rdf:Description>
@@ -593,8 +622,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferron">
     <yago:hasName xml:lang="en">Ferron</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdo_Kozak">
+    <yago:hasName xml:lang="en">Ferdo Kozak</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_McGuinness">
     <yago:hasName xml:lang="en">Frank McGuinness</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Nolan">
+    <yago:hasName xml:lang="en">Frederick Nolan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Morweiser">
     <yago:hasName xml:lang="en">Fanny Morweiser</yago:hasName>
@@ -605,9 +640,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Wilhelm_Riemer">
     <yago:hasName xml:lang="en">Friedrich Wilhelm Riemer</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Felicia_Bond">
-    <yago:hasName xml:lang="en">Felicia Bond</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Goldman">
     <yago:hasName xml:lang="en">Francisco Goldman</yago:hasName>
@@ -631,17 +663,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Ryan">
     <yago:hasName xml:lang="en">Frederick Ryan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Adolfo_de_Varnhagen,_Viscount_of_Porto_Seguro">
+    <yago:hasName xml:lang="en">Francisco Adolfo de Varnhagen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Futaro_Yamada">
     <yago:hasName xml:lang="en">Futaro Yamada</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Anderson_%28historian%29">
-    <yago:hasName xml:lang="en">Fred Anderson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Faezeh_Hashemi">
     <yago:hasName xml:lang="en">Faezeh Hashemi Rafsanjani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Mottino">
     <yago:hasName xml:lang="en">Francesco Mottino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Fournier">
+    <yago:hasName xml:lang="en">Fournier</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fawn_M._Brodie">
     <yago:hasName xml:lang="en">Fawn McKay Brodie</yago:hasName>
@@ -666,9 +701,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernanda_Eberstadt">
     <yago:hasName xml:lang="en">Fernanda Eberstadt</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Goncalves_Namora">
+    <yago:hasName xml:lang="en">Fernando Namora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Carri%C3%B3n_de_Fierro">
+    <yago:hasName xml:lang="en">Fanny Carrion de Fierro</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._R._Scott">
     <yago:hasName xml:lang="en">F. R. Scott</yago:hasName>
     <yago:hasName xml:lang="en">Frank Scott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Rojas_Tollinchi">
+    <yago:hasName xml:lang="en">Francisco Rojas Tollinchi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Asatada">
     <yago:hasName xml:lang="en">Fujiwara no Asatada</yago:hasName>
@@ -682,15 +726,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Carco">
     <yago:hasName xml:lang="en">Francis Carco</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Messina">
+    <yago:hasName xml:lang="en">Frank Messina</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Honsberger">
     <yago:hasName xml:lang="en">Fred Honsberger</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Burney_(1776%E2%80%931828)">
-    <yago:hasName xml:lang="en">Frances Burney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Mayes">
     <yago:hasName xml:lang="en">Frances Mayes</yago:hasName>
     <yago:hasName xml:lang="en">Frances Repton Mayes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Burney_(1776%E2%80%931828)">
+    <yago:hasName xml:lang="en">Frances Burney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fyfe_Robertson">
     <yago:hasName xml:lang="en">Fyfe Robertson</yago:hasName>
@@ -710,9 +757,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Levy">
     <yago:hasName xml:lang="en">Francis Levy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._A._Forbes">
-    <yago:hasName xml:lang="en">F. A. Forbes</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_Arvers">
     <yago:hasName xml:lang="en">Felix Arvers</yago:hasName>
@@ -741,13 +785,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Gautier">
     <yago:hasName xml:lang="en">Francois Gautier</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Detela">
-    <yago:hasName xml:lang="en">Fran Detela</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frane_Mil%C4%8Dinski">
-    <yago:hasName xml:lang="en">Frane Milcinski</yago:hasName>
-    <yago:hasName xml:lang="en">Frane Milčinski</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferenc_Rajniss">
     <yago:hasName xml:lang="en">Ferenc Rajniss</yago:hasName>
   </rdf:Description>
@@ -768,9 +805,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Millar">
     <yago:hasName xml:lang="en">Fiona Millar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred%2C_Lord_Tennyson">
-    <yago:hasName xml:lang="en">FRS</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fern_Michaels">
     <yago:hasName xml:lang="en">Fern Michaels</yago:hasName>
@@ -802,6 +836,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fausto_Cercignani">
     <yago:hasName xml:lang="en">Fausto Cercignani</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Matos_Paoli">
+    <yago:hasName xml:lang="en">Francisco Matos Paoli</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Pfemfert">
     <yago:hasName xml:lang="en">Franz Pfemfert</yago:hasName>
   </rdf:Description>
@@ -819,6 +856,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9licien_Marceau">
     <yago:hasName xml:lang="en">Felicien Marceau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Dh%C3%BCnen">
+    <yago:hasName xml:lang="en">Felix Dhunen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Mallison">
+    <yago:hasName xml:lang="en">Francis Avery Mallison</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Heteronym_(literature)">
     <yago:hasName xml:lang="en">Fernando Pessoa</yago:hasName>
@@ -840,9 +883,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fern%C3%A1n_P%C3%A9rez_de_Guzm%C3%A1n">
     <yago:hasName xml:lang="en">Fernando Perez de Guzman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulgencio_Arg%C3%BCelles">
-    <yago:hasName xml:lang="en">Fulgencio Argüelles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kenny_Fries">
     <yago:hasName xml:lang="en">Fries</yago:hasName>
@@ -875,6 +915,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felice_Romani">
     <yago:hasName xml:lang="en">Felice Romani</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nisar_Ahmed_Faruqi">
+    <yago:hasName xml:lang="en">Faruqi Nisar Ahmed</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stack">
     <yago:hasName xml:lang="en">Frank Stack</yago:hasName>
   </rdf:Description>
@@ -887,6 +930,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Wilhelm_Gotter">
     <yago:hasName xml:lang="en">Friedrich Wilhelm Gotter</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Sale%C5%A1ki_Fin%C5%BEgar">
+    <yago:hasName xml:lang="en">Fran Saleški Finžgar</yago:hasName>
+    <yago:hasName xml:lang="en">Fran Saleski Finzgar</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Fisher_Browne">
     <yago:hasName xml:lang="en">Francis Fisher Browne</yago:hasName>
   </rdf:Description>
@@ -898,9 +945,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_von_Hagedorn">
     <yago:hasName xml:lang="en">Friedrich von Hagedorn</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Gorenstein">
-    <yago:hasName xml:lang="en">Friedrich Naumovich Gorenstein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Forceythe_Willson">
     <yago:hasName xml:lang="en">Forceythe Willson</yago:hasName>
@@ -928,7 +972,7 @@
     <yago:hasName xml:lang="en">Fujiwara no Ietaka</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Christoph_F%C3%B6rster">
-    <yago:hasName xml:lang="en">Friedrich Christoph Förster</yago:hasName>
+    <yago:hasName xml:lang="en">Friedrich Christoph Forster</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franciszek_Karpi%C5%84ski">
     <yago:hasName xml:lang="en">Franciszek Karpinski</yago:hasName>
@@ -938,9 +982,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Charles_McGee">
     <yago:hasName xml:lang="en">Frank Charles McGee</yago:hasName>
+    <yago:hasName xml:lang="en">Frank Charles Macgee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Florence_Marryat">
     <yago:hasName xml:lang="en">Florence Marryat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Clarkson">
+    <yago:hasName xml:lang="en">Frederick Clarkson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fearghal_%C3%93g_Mac_an_Bhaird">
     <yago:hasName xml:lang="en">Fearghal Og Mac An Bhaird</yago:hasName>
@@ -995,14 +1043,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fahmi_al-Husseini">
     <yago:hasName xml:lang="en">Fahmi al- Husseini</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Farrukh_Ahmad">
-    <yago:hasName xml:lang="en">Farrukh Ahmed</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Farzaneh_Aghaeipour">
     <yago:hasName xml:lang="en">Farzaneh Aghaeipour</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Harriet_Whipple_Green_McDougall">
-    <yago:hasName xml:lang="en">Frances Harriet Whipple Green McDougall</yago:hasName>
+    <yago:hasName xml:lang="en">Frances Harriet Whipple Green Macdougall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Fontenoy">
+    <yago:hasName xml:lang="en">Fontenoy; Jean</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Parkinson_Keyes">
     <yago:hasName xml:lang="en">Frances Parkinson Keyes</yago:hasName>
@@ -1022,17 +1070,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Julius_Hammer">
     <yago:hasName xml:lang="en">Friedrich Hammer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Florence_Littauer">
-    <yago:hasName xml:lang="en">Florence Littauer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_E._Peretti">
     <yago:hasName xml:lang="en">Frank E. Peretti</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Paz_Castillo">
+    <yago:hasName xml:lang="en">Fernando Paz Castillo</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_S._Williamson">
     <yago:hasName xml:lang="en">Frank S Williamson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesc_Fontanella">
-    <yago:hasName xml:lang="en">Francesc Fontanella</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Joy_Fielding">
     <yago:hasName xml:lang="en">Fielding</yago:hasName>
@@ -1040,17 +1085,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felicity_Barr">
     <yago:hasName xml:lang="en">Felicity Barr</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Massiani">
-    <yago:hasName xml:lang="en">Francisco Massiani</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franti%C5%A1ek_Sl%C3%A1ma_(politician)">
     <yago:hasName xml:lang="en">František Sláma</yago:hasName>
     <yago:hasName xml:lang="en">Frantisek Slama</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fawwaz_Tuqan">
+    <yago:hasName xml:lang="en">Fawwaz Ahmad Abdul Fattah Tuqan</yago:hasName>
     <yago:hasName xml:lang="en">Fawwaz Tuqan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_McIntosh">
+    <yago:hasName xml:lang="en">Fiona Macintosh</yago:hasName>
     <yago:hasName xml:lang="en">Fiona McIntosh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Brousse">
@@ -1066,8 +1110,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Gaeta">
     <yago:hasName xml:lang="en">Francesco Gaeta</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Gustavus_Burnaby">
-    <yago:hasName xml:lang="en">Frederick Gustavus Burnaby</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fariba_Nawa">
+    <yago:hasName xml:lang="en">Fariba Nawa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Bon">
     <yago:hasName xml:lang="en">François Bon</yago:hasName>
@@ -1076,6 +1120,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Mistral">
     <yago:hasName xml:lang="en">Frédéric Mistral</yago:hasName>
     <yago:hasName xml:lang="en">Frederic Mistral</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Harvey_(poet)">
+    <yago:hasName xml:lang="en">Francis Harvey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Jammes">
     <yago:hasName xml:lang="en">Francis Jammes</yago:hasName>
@@ -1101,13 +1148,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fatima_Surayya_Bajia">
     <yago:hasName xml:lang="en">Fatim Surayya Bajia</yago:hasName>
-    <yago:hasName xml:lang="en">Fatima Surayya Bajia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frans_Kellendonk">
     <yago:hasName xml:lang="en">Frans Kellen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_R._Stockton">
-    <yago:hasName xml:lang="en">Frank R. Stockton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Paul_Fiorentino">
     <yago:hasName xml:lang="en">Fiorentino</yago:hasName>
@@ -1118,9 +1161,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Fawkes">
     <yago:hasName xml:lang="en">Francis Fawkes</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frithjof_S%C3%A6len_%28writer%29">
-    <yago:hasName xml:lang="en">Frithjof Saelen</yago:hasName>
-    <yago:hasName xml:lang="en">Frithjof Sælen</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florjan_Lipu%C5%A1">
+    <yago:hasName xml:lang="en">Florjan Lipus</yago:hasName>
+    <yago:hasName xml:lang="en">Florjan Lipuš</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Clemens_Gerke">
     <yago:hasName xml:lang="en">Friedrich Clemens Gerke</yago:hasName>
@@ -1147,6 +1190,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_von_Logau">
     <yago:hasName xml:lang="en">Friedrich von Logau</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F.D._Reeve">
+    <yago:hasName xml:lang="en">F. D. Reeve</yago:hasName>
+    <yago:hasName xml:lang="en">F.D. Reeve</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Landon">
     <yago:hasName xml:lang="en">Fred Landon</yago:hasName>
   </rdf:Description>
@@ -1167,6 +1214,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._K._Waechter">
     <yago:hasName xml:lang="en">F.K. Waechter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falaba_Issa_Traor%C3%A9">
+    <yago:hasName xml:lang="en">Falaba Issa Traore</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_de_Herrera">
     <yago:hasName xml:lang="en">Fernando De Herrera</yago:hasName>
@@ -1193,9 +1243,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois-Jean_de_Chastellux">
     <yago:hasName xml:lang="en">Francois Jean De Chastellux</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_O%27Hara">
-    <yago:hasName xml:lang="en">Frank Ohara</yago:hasName>
-    <yago:hasName xml:lang="en">Frank O'Hara</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falguni_Roy">
+    <yago:hasName xml:lang="en">Falguni Roy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Stroppel">
     <yago:hasName xml:lang="en">Fred Stroppel</yago:hasName>
@@ -1205,9 +1254,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felicity_Dowker">
     <yago:hasName xml:lang="en">Felicity Dowker</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fazle_Lohani">
-    <yago:hasName xml:lang="en">Fazle Lohani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Ponce_de_Le%C3%B3n">
     <yago:hasName xml:lang="en">Fernando Ponce de León</yago:hasName>
@@ -1228,15 +1274,8 @@
     <yago:hasName xml:lang="en">Federico García Lorca</yago:hasName>
     <yago:hasName xml:lang="en">Federico Garcia Lorca</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Ayala_%28novelist%29">
-    <yago:hasName xml:lang="en">Francisco Ayala</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Barreto">
     <yago:hasName xml:lang="en">Federico Barreto</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fitz_James_O%27Brien">
-    <yago:hasName xml:lang="en">Fitz James Obrien</yago:hasName>
-    <yago:hasName xml:lang="en">Fitz James O'Brien</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Flavio_Alves">
     <yago:hasName xml:lang="en">Flavio Alves</yago:hasName>
@@ -1256,9 +1295,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fairfax_Harrison">
     <yago:hasName xml:lang="en">Fairfax Harrison</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Hazlitt_Brennan">
-    <yago:hasName xml:lang="en">Frederick Hazlitt Brennan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Uruburu">
     <yago:hasName xml:lang="en">Federico Uruburu Fernandez</yago:hasName>
   </rdf:Description>
@@ -1270,9 +1306,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Hochw%C3%A4lder">
     <yago:hasName xml:lang="en">Fritz Hochwaelder</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Kelleghan">
-    <yago:hasName xml:lang="en">Fiona Kelleghan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Gerhard_Wegeler">
     <yago:hasName xml:lang="en">Franz Gerhard Wegeler</yago:hasName>
@@ -1301,6 +1334,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Gundolf">
     <yago:hasName xml:lang="en">Friedrich Gundolf</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Ortiz_Franco">
+    <yago:hasName xml:lang="en">Francisco Ortiz Franco</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_X._Alarc%C3%B3n">
     <yago:hasName xml:lang="en">Francisco X. Alarcon</yago:hasName>
   </rdf:Description>
@@ -1324,9 +1360,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Lathom">
     <yago:hasName xml:lang="en">Francis Lathom</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fei_Ye">
-    <yago:hasName xml:lang="en">Fei Ye</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Andre_Vltchek">
     <yago:hasName xml:lang="en">File:Vltchek.jpg</yago:hasName>
@@ -1377,6 +1410,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fadhil_Al_Azzawi">
     <yago:hasName xml:lang="en">Fadhil Al Azzawi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faiza_Ambah">
+    <yago:hasName xml:lang="en">Faiza Saleh Ambah</yago:hasName>
+    <yago:hasName xml:lang="en">Faiza Ambah</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frona_Eunice_Wait">
     <yago:hasName xml:lang="en">Frona Eunice Wait</yago:hasName>
     <yago:hasName xml:lang="en">Frona Eunice Wait Colburn</yago:hasName>
@@ -1402,18 +1439,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Cavalcanti_Pontes_de_Miranda">
     <yago:hasName xml:lang="en">Francisco Cavalcanti Pontes de Miranda</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%A9d%C3%A9rick_Tristan">
-    <yago:hasName xml:lang="en">Frederick Tristan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Manfred">
     <yago:hasName xml:lang="en">Frederick Manfred</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_D%27Aguiar">
-    <yago:hasName xml:lang="en">Fred D'Aguiar</yago:hasName>
-    <yago:hasName xml:lang="en">Fred Daguiar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Kent">
     <yago:hasName xml:lang="en">Frank Kent</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Manuel_Trigoso">
+    <yago:hasName xml:lang="en">Francisco Trigoso</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fumio_Niwa">
     <yago:hasName xml:lang="en">Fumio Niwa</yago:hasName>
@@ -1437,14 +1470,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Zaalberg">
     <yago:hasName xml:lang="en">Frans Hendrik Karel Zaalberg</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_S%C3%A1_de_Miranda">
+    <yago:hasName xml:lang="en">Francisco De Sa De Miranda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fay_Zwicky">
+    <yago:hasName xml:lang="en">Fay Zwicky</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Pelletier">
     <yago:hasName xml:lang="en">Frederic Pelletier</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinando_Camon">
     <yago:hasName xml:lang="en">Ferdinando Camon</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Franti%C5%A1ek_Flos">
-    <yago:hasName xml:lang="en">František Flos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Nakafumi">
     <yago:hasName xml:lang="en">Fujiwara no Nakafumi</yago:hasName>
@@ -1454,6 +1490,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Feroze_Gandhi">
     <yago:hasName xml:lang="en">Feroze Gandhi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franci%C5%A1ak_Alachnovi%C4%8D">
+    <yago:hasName xml:lang="en">Francisak Alachnovic</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Ross">
     <yago:hasName xml:lang="en">Fran Ross</yago:hasName>
@@ -1469,6 +1508,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fabr%C3%ADcio_Carpi_Nejar">
     <yago:hasName xml:lang="en">Fabricio Carpi Nejar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francois_Bachy">
+    <yago:hasName xml:lang="en">Francois Bachy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franzobel">
     <yago:hasName xml:lang="en">Franzobel</yago:hasName>
@@ -1491,6 +1533,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Masatada">
     <yago:hasName xml:lang="en">Fujiwara no Masatada</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Ortiz">
+    <yago:hasName xml:lang="en">Fernando Ortiz</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Faith_Fenton">
     <yago:hasName xml:lang="en">Faith Fenton</yago:hasName>
   </rdf:Description>
@@ -1505,6 +1550,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Owen_(author)">
     <yago:hasName xml:lang="en">Frank Owen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Simon">
+    <yago:hasName xml:lang="en">Francesca Simon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Key">
     <yago:hasName xml:lang="en">Frank Key</yago:hasName>
@@ -1537,13 +1585,9 @@
     <yago:hasName xml:lang="en">Frederick William Rolfe</yago:hasName>
     <yago:hasName xml:lang="en">Frederick Rolfe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fern%C3%A3o_Mendes_Pinto">
-    <yago:hasName xml:lang="en">Fernão Mendes Pinto</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Balagtas">
     <yago:hasName xml:lang="en">Francisco Balagtas</yago:hasName>
     <yago:hasName xml:lang="en">Francisco "Balagtas" Baltazar</yago:hasName>
-    <yago:hasName xml:lang="en">Francisco Baltazar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Schenk">
     <yago:hasName xml:lang="en">Fritz Schenk</yago:hasName>
@@ -1585,9 +1629,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Rielo">
     <yago:hasName xml:lang="en">Fernando Rielo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Lia_Block">
-    <yago:hasName xml:lang="en">Francesca Lia Block</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fletcher_Markle">
     <yago:hasName xml:lang="en">Fletcher Markle</yago:hasName>
@@ -1685,14 +1726,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Gerlich">
     <yago:hasName xml:lang="en">Fritz Gerlich</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Seebohm_%28historian%29">
-    <yago:hasName xml:lang="en">Frederic Seebohm</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faith_Erin_Hicks">
+    <yago:hasName xml:lang="en">Faith Erin Hicks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Florence_Parry_Heide">
     <yago:hasName xml:lang="en">Florence Parry Heide</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._M._Busby">
-    <yago:hasName xml:lang="en">F.M. Busby</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Kafka">
     <yago:hasName xml:lang="en">Franz Kafka</yago:hasName>
@@ -1701,7 +1739,7 @@
     <yago:hasName xml:lang="en">Francois Bondy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_McCourt">
-    <yago:hasName xml:lang="en">Frank McCourt</yago:hasName>
+    <yago:hasName xml:lang="en">Frank Maccourt</yago:hasName>
     <yago:hasName xml:lang="en">Francis "Frank" McCourt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrick_William_Holiday">
@@ -1716,7 +1754,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Maximilian_Klinger">
     <yago:hasName xml:lang="en">Friedrich Maximilian Klinger</yago:hasName>
-    <yago:hasName xml:lang="en">Friedrich von Klinger</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frid_Ingulstad">
     <yago:hasName xml:lang="en">Frid Ingulstad</yago:hasName>
@@ -1730,10 +1767,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Filip_Robar_Dorin">
     <yago:hasName xml:lang="en">Filip Robar Dorin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Khoshtinat">
-    <yago:hasName xml:lang="en">Farbod Khoshtinat</yago:hasName>
-    <yago:hasName xml:lang="en">Fred Khoshtinat</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Desprez">
     <yago:hasName xml:lang="en">Frank Desprez</yago:hasName>
   </rdf:Description>
@@ -1744,9 +1777,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Scoblete">
     <yago:hasName xml:lang="en">Frank Scoblete</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahadur_Shah_II">
-    <yago:hasName xml:lang="en">Fucker</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Gibson">
     <yago:hasName xml:lang="en">Francis Gibson</yago:hasName>
   </rdf:Description>
@@ -1756,11 +1786,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Neznansky">
     <yago:hasName xml:lang="en">Friedrich Neznansky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Hindes_Groome">
+    <yago:hasName xml:lang="en">Francis Hindes Groome</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Ridley_Havergal">
     <yago:hasName xml:lang="en">Frances Ridley Havergal</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabio_Barcellandi">
-    <yago:hasName xml:lang="en">Fabio Barcellandi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_X._Bushman">
     <yago:hasName xml:lang="en">Francis X. Bushman</yago:hasName>
@@ -1779,18 +1809,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Gottlieb_Klopstock">
     <yago:hasName xml:lang="en">Friedrich Gottlieb Klopstock</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Chodorov">
-    <yago:hasName xml:lang="en">Frank Chodorov</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faisal_Tehrani">
+    <yago:hasName xml:lang="en">Faisal Tehrani</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Viel%C3%A9-Griffin">
-    <yago:hasName xml:lang="en">Francis Viele-Griffin</yago:hasName>
-    <yago:hasName xml:lang="en">Francis Vielé-Griffin</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France_Daigle">
+    <yago:hasName xml:lang="en">France Daigle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Nyberg_(writer)">
     <yago:hasName xml:lang="en">Fredrik Nyberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Walker_(Australian_journalist)">
     <yago:hasName xml:lang="en">Frank Walker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Thomas_Bidlake">
+    <yago:hasName xml:lang="en">Frederick Thomas Bidlake</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_William_Maitland">
     <yago:hasName xml:lang="en">Frederic William Maitland</yago:hasName>
@@ -1803,9 +1835,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Flemming_Rose">
     <yago:hasName xml:lang="en">Flemming Rose</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Formit_de_Perpiny%C3%A0">
-    <yago:hasName xml:lang="en">Formit de Perpinyà</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Kaiser">
     <yago:hasName xml:lang="en">Friedrich Kaiser</yago:hasName>
@@ -1828,18 +1857,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Floyd_Abrams">
     <yago:hasName xml:lang="en">Floyd Abrams</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Payne_(author)">
-    <yago:hasName xml:lang="en">Francis Payne</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Bull">
     <yago:hasName xml:lang="en">Francis Bull</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Felicity_Landon">
-    <yago:hasName xml:lang="en">Felicity Landon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_W._Friendly">
     <yago:hasName xml:lang="en">Fred Friendly</yago:hasName>
     <yago:hasName xml:lang="en">Fred W. Friendly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felicity_Landon">
+    <yago:hasName xml:lang="en">Felicity Landon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fadwa_Touqan">
     <yago:hasName xml:lang="en">Fadwa Toukan</yago:hasName>
@@ -1925,14 +1951,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Seidel">
     <yago:hasName xml:lang="en">Frederick Seidel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bharat_Jangam">
-    <yago:hasName xml:lang="en">File:BHARAT JANGAM.jpg</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Spielhagen">
     <yago:hasName xml:lang="en">Friedrich Spielhagen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Johns">
     <yago:hasName xml:lang="en">Fred Johns</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Cimadevilla">
+    <yago:hasName xml:lang="en">Francisco Cimadevilla</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_de_Courcy">
     <yago:hasName xml:lang="en">Frederic De Courcy</yago:hasName>
@@ -1942,6 +1968,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Goddard_Tuckerman">
     <yago:hasName xml:lang="en">Frederick Goddard Tuckerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Burnand">
+    <yago:hasName xml:lang="en">Francis Burnand</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franziska_von_Reitzenstein">
     <yago:hasName xml:lang="en">Franziska Freifrau von Reitzenstein</yago:hasName>
@@ -1962,6 +1991,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Br%C3%A9da">
     <yago:hasName xml:lang="en">Francois Breda</yago:hasName>
     <yago:hasName xml:lang="en">François Bréda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_I._Cobb">
+    <yago:hasName xml:lang="en">Frank I. Cobb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Skavlan">
     <yago:hasName xml:lang="en">Fredrik Skavlan</yago:hasName>
@@ -2005,11 +2037,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Schuh_(writer)">
     <yago:hasName xml:lang="en">Franz Schuh</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Sabino">
-    <yago:hasName xml:lang="en">Fernando Sabino</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_M._Gibbons">
     <yago:hasName xml:lang="en">Francis M. Gibbons</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Russell-Powell">
+    <yago:hasName xml:lang="en">Fiona Russell Powell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_Mar%C3%ADa_de_Samaniego">
     <yago:hasName xml:lang="en">Felix Maria De Samaniego</yago:hasName>
@@ -2023,8 +2055,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Theodor_Kugler">
     <yago:hasName xml:lang="en">Franz Theodor Kugler</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_William_Fairholt">
-    <yago:hasName xml:lang="en">Frederick William Fairholt</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Yu">
+    <yago:hasName xml:lang="en">Family name: Hán 韓</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Zedde">
     <yago:hasName xml:lang="en">Fiona Zedde</yago:hasName>
@@ -2046,11 +2078,7 @@
     <yago:hasName xml:lang="en">Frank T. Schilling</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Father_Sebastiaan">
-    <yago:hasName xml:lang="en">Father Sebastiaan van Houten</yago:hasName>
     <yago:hasName xml:lang="en">Father Sebastiaan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_J._Webb">
-    <yago:hasName xml:lang="en">Frank J. Webb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_De_Roberto">
     <yago:hasName xml:lang="en">Federico De Roberto</yago:hasName>
@@ -2062,12 +2090,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Columbus">
     <yago:hasName xml:lang="en">Ferdinand Columbus</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Pacius">
-    <yago:hasName xml:lang="en">Fredrik Pacius</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Folco_de_Baroncelli-Javon">
+    <yago:hasName xml:lang="en">Folco de Baroncelli-Javon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederik_H._Kreuger">
     <yago:hasName xml:lang="en">Frederik H. Kreuger</yago:hasName>
     <yago:hasName xml:lang="en">Frederik Hendrik Kreuger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florencio_S%C3%A1nchez">
+    <yago:hasName xml:lang="en">Florencio Sánchez</yago:hasName>
+    <yago:hasName xml:lang="en">Florencio Sanchez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrice_Hadjadj">
     <yago:hasName xml:lang="en">Fabrice Hadjadj</yago:hasName>
@@ -2116,7 +2148,6 @@
     <yago:hasName xml:lang="en">Frithjof Saelen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_le_M%C3%A9tel_de_Boisrobert">
-    <yago:hasName xml:lang="en">François le Métel de Boisrobert</yago:hasName>
     <yago:hasName xml:lang="en">Francois Le Metel De Boisrobert</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredric_Brown">
@@ -2130,6 +2161,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francine_Rivers">
     <yago:hasName xml:lang="en">Francine Rivers</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiama_Hasse_Pais_Brand%C3%A3o">
+    <yago:hasName xml:lang="en">Fiama Hasse Pais Brandao</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Hopkinson_Smith">
     <yago:hasName xml:lang="en">Francis Hopkinson Smith</yago:hasName>
@@ -2181,6 +2215,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7oise_Xenakis">
     <yago:hasName xml:lang="en">Francoise Xenakis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franciszek_Ksawery_Dmochowski">
+    <yago:hasName xml:lang="en">Franciszek Ksawery Dmochowski</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_C._Kelly">
     <yago:hasName xml:lang="en">Fred C. Kelly</yago:hasName>
   </rdf:Description>
@@ -2203,21 +2240,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Albert-Buisson">
     <yago:hasName xml:lang="en">Francois Albert-Buisson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Bruneti%C3%A8re">
-    <yago:hasName xml:lang="en">Ferdinand Brunetiere</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Brett_Young">
+    <yago:hasName xml:lang="en">Francis Brett Young</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fleetwood_Sheppard">
     <yago:hasName xml:lang="en">Fleetwood Sheppard</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Frezzi">
-    <yago:hasName xml:lang="en">Federico Frezzi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Thompson">
     <yago:hasName xml:lang="en">Flora Jane Thompson</yago:hasName>
     <yago:hasName xml:lang="en">Flora Thompson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Alegr%C3%ADa">
-    <yago:hasName xml:lang="en">Fernando Alegría</yago:hasName>
     <yago:hasName xml:lang="en">Fernando Alegria</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_R%C3%BCckert">
@@ -2233,6 +2266,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Finn_Havrevold">
     <yago:hasName xml:lang="en">Finn Havrevold</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Conniff_(journalist)">
+    <yago:hasName xml:lang="en">Frank Conniff</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Max_Kircheisen">
     <yago:hasName xml:lang="en">Friedrich Max Kircheisen</yago:hasName>
   </rdf:Description>
@@ -2242,14 +2278,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fridrikh_Ermler">
     <yago:hasName xml:lang="en">Fridrikh Ermler</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Millar_Jr">
+    <yago:hasName xml:lang="en">Frank Millar</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Irby_Gwaltney">
     <yago:hasName xml:lang="en">Francis Irby Gwaltney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Burney">
     <yago:hasName xml:lang="en">Frances Burney</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Power_Cobbe">
-    <yago:hasName xml:lang="en">Frances Power Cobbe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferry_Piekart">
     <yago:hasName xml:lang="en">Ferry Piekart</yago:hasName>
@@ -2260,9 +2296,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_William_Bourdillon">
     <yago:hasName xml:lang="en">Francis William Bourdillon</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Faiza_Iftikhar">
-    <yago:hasName xml:lang="en">Faiza Iftikhar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Drimmer">
     <yago:hasName xml:lang="en">Frederick Drimmer</yago:hasName>
   </rdf:Description>
@@ -2272,8 +2305,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nainawaz">
     <yago:hasName xml:lang="en">Fazl Ahmad Khan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Ferrick">
+    <yago:hasName xml:lang="en">Ferrick, Tom, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franciszek_Nowicki">
     <yago:hasName xml:lang="en">Franciszek Nowicki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fakhr-al-Din_Iraqi">
+    <yago:hasName xml:lang="en">Fakhruddin Iraqi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7a_J%C3%BAnior">
     <yago:hasName xml:lang="en">França Júnior</yago:hasName>
@@ -2301,6 +2340,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fatos_Arapi">
     <yago:hasName xml:lang="en">Fatos Arapi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Dodds">
+    <yago:hasName xml:lang="en">Felix Dodds</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Florida_Scott-Maxwell">
     <yago:hasName xml:lang="en">Florida Scott-Maxwell</yago:hasName>
@@ -2346,18 +2388,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felipe_God%C3%ADnez">
     <yago:hasName xml:lang="en">Felipe Godinez</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Forshew">
-    <yago:hasName xml:lang="en">Francis "Frank" Forshew</yago:hasName>
-    <yago:hasName xml:lang="en">Francis Forshew</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._W._Harvey">
     <yago:hasName xml:lang="en">FW Harvey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Kuppner">
     <yago:hasName xml:lang="en">Frank Kuppner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Coppola">
-    <yago:hasName xml:lang="en">Francesco Coppola</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrizio_Gatti">
     <yago:hasName xml:lang="en">Fabrizio Gatti</yago:hasName>
@@ -2374,11 +2409,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Manning">
     <yago:hasName xml:lang="en">Frederic Manning</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Fox,_Jr.">
+    <yago:hasName xml:lang="en">Fox, John, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fleda_Brown">
     <yago:hasName xml:lang="en">Fleda Brown</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Florinda_Donner">
-    <yago:hasName xml:lang="en">Florinda Donner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Kowsky">
     <yago:hasName xml:lang="en">Francis R. Kowsky</yago:hasName>
@@ -2404,6 +2439,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fumi_Hirano">
     <yago:hasName xml:lang="en">Fumi Hirano</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fesshaye_Yohannes">
+    <yago:hasName xml:lang="en">Fesshaye Yohannes</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Baume">
     <yago:hasName xml:lang="en">Frederick Baume</yago:hasName>
   </rdf:Description>
@@ -2419,9 +2457,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Filip_Erceg">
     <yago:hasName xml:lang="en">Filip Erceg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Christoph_von_Saldern">
-    <yago:hasName xml:lang="en">Friedrich Christoph von Saldern</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Fitzpatrick_(Australian_author)">
     <yago:hasName xml:lang="en">Fitzpatrick Brian</yago:hasName>
@@ -2485,6 +2520,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Douskey">
     <yago:hasName xml:lang="en">Franz Douskey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_D%C3%ADaz-Silveira">
+    <yago:hasName xml:lang="en">Francisco Diaz-Silveira</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Dalby_Davison">
     <yago:hasName xml:lang="en">Frank Dalby Davison</yago:hasName>
   </rdf:Description>
@@ -2498,6 +2536,7 @@
     <yago:hasName xml:lang="en">Fannie Hurst</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Santos_Calder%C3%B3n">
+    <yago:hasName xml:lang="en">Francisco Santos</yago:hasName>
     <yago:hasName xml:lang="en">Francisco Santos Calderon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Palmer_(journalist)">
@@ -2524,9 +2563,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Gonz%C3%A1lez_Bocanegra">
     <yago:hasName xml:lang="en">Francisco Gonzalez Bocanegra</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Ilich">
-    <yago:hasName xml:lang="en">Fran Ilich</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_Paula_Ney">
     <yago:hasName xml:lang="en">Francisco de Paula Ney</yago:hasName>
   </rdf:Description>
@@ -2539,9 +2575,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Goosen">
     <yago:hasName xml:lang="en">Frank Goosen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Owen_%28author%29">
-    <yago:hasName xml:lang="en">Frank Owen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois-Xavier_Garneau">
     <yago:hasName xml:lang="en">Francois-Xavier Garneau</yago:hasName>
@@ -2587,9 +2620,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frieda_A._Murray">
     <yago:hasName xml:lang="en">Frieda A. Murray</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederica_Mathewes-Green">
-    <yago:hasName xml:lang="en">Frederica Mathewes-Green</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Pearce">
     <yago:hasName xml:lang="en">Fred Pearce</yago:hasName>
   </rdf:Description>
@@ -2626,9 +2656,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Allal_al-Fassi">
     <yago:hasName xml:lang="en">Fassi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Murray">
-    <yago:hasName xml:lang="en">Frances Murray</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Mount">
     <yago:hasName xml:lang="en">Ferdinand Mount</yago:hasName>
   </rdf:Description>
@@ -2644,6 +2671,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_William_Conway">
     <yago:hasName xml:lang="en">Frederick William Conway</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_E._Dec">
+    <yago:hasName xml:lang="en">Francis E. Dec</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Kidd">
     <yago:hasName xml:lang="en">Flora Kidd</yago:hasName>
   </rdf:Description>
@@ -2655,6 +2685,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Bachrach">
     <yago:hasName xml:lang="en">Fred Bachrach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisc_%C5%9Eirato">
+    <yago:hasName xml:lang="en">Francisc Sirato</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Crocker">
     <yago:hasName xml:lang="en">Frederick Crocker</yago:hasName>
@@ -2684,15 +2717,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Moher">
     <yago:hasName xml:lang="en">Frank Moher</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Khakan_Sajid">
-    <yago:hasName xml:lang="en">File:Khakan Sajid.jpg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Lindsay">
-    <yago:hasName xml:lang="en">Frederic Lindsay</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fani_Badayuni">
     <yago:hasName xml:lang="en">Fani Badayuni</yago:hasName>
-    <yago:hasName xml:lang="en">Fani badayuni</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Cottrell_Boyce">
     <yago:hasName xml:lang="en">Frank Cottrell Boyce</yago:hasName>
@@ -2766,14 +2792,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Gray_Patton">
     <yago:hasName xml:lang="en">Frances Gray Patton</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_O%27Connor">
-    <yago:hasName xml:lang="en">Frank O'Connor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frankie_Thomas">
     <yago:hasName xml:lang="en">Frankie Thomas</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Franti%C5%A1ek_%C5%A0kroup">
-    <yago:hasName xml:lang="en">Frantisek Skroup</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Floyd_Gibbons">
     <yago:hasName xml:lang="en">Floyd Gibbons</yago:hasName>
@@ -2793,21 +2813,13 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Gen%C3%A9e">
     <yago:hasName xml:lang="en">Franz Friedrich Richard Genée</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Cabrera_%28writer%29">
-    <yago:hasName xml:lang="en">Fernando Cabrera</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fidel_Villarroel">
     <yago:hasName xml:lang="en">Fidel Villarroel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fridolin_von_Senger_und_Etterlin">
-    <yago:hasName xml:lang="en">Fridolin von Senger und Etterlin</yago:hasName>
-    <yago:hasName xml:lang="en">Frido von Senger und Etterlin</yago:hasName>
+    <yago:hasName xml:lang="en">Fr. Fidel Villarroel, O.P.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Whishaw">
+    <yago:hasName xml:lang="en">Frederick James Whishaw</yago:hasName>
     <yago:hasName xml:lang="en">Fred Whishaw</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_D%27Arcy">
-    <yago:hasName xml:lang="en">Fr. Martin D'Arcy, S.J.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Charmes">
     <yago:hasName xml:lang="en">Francis Charmes</yago:hasName>
@@ -2822,6 +2834,9 @@
     <yago:hasName xml:lang="en">Frank Anthony Bruni</yago:hasName>
     <yago:hasName xml:lang="en">Frank Bruni</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Finkelstein">
+    <yago:hasName xml:lang="en">Finkelstein</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Negr%C3%B3n-Muntaner">
     <yago:hasName xml:lang="en">Frances Negron-Muntaner</yago:hasName>
     <yago:hasName xml:lang="en">Frances Negrón-Muntaner</yago:hasName>
@@ -2834,6 +2849,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Hewlett">
     <yago:hasName xml:lang="en">Frank Hewlett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Gillard">
+    <yago:hasName xml:lang="en">Frank Gillard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Alberoni">
     <yago:hasName xml:lang="en">Francesco Alberoni</yago:hasName>
@@ -2878,9 +2896,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Corps_Malade">
     <yago:hasName xml:lang="en">Fabien Marsaud</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Farah_Mendlesohn">
-    <yago:hasName xml:lang="en">Farah Mendlesohn</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Lovece">
     <yago:hasName xml:lang="en">Frank Lovece</yago:hasName>
   </rdf:Description>
@@ -2893,21 +2908,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_J._Broomfield">
     <yago:hasName xml:lang="en">Fred J. Broomfield</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Du_Faur,_Seigneur_de_Pibrac">
+    <yago:hasName xml:lang="en">Faur, Guy Du, Seigneur de Pibrac</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Cruz">
     <yago:hasName xml:lang="en">Francesca Cruz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Feridun_Zaimo%C4%9Flu">
     <yago:hasName xml:lang="en">Feridun Zaimoglu</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Maria_von_Senger_und_Etterlin">
-    <yago:hasName xml:lang="en">Ferdinand Maria von Senger und Etterlin</yago:hasName>
-    <yago:hasName xml:lang="en">Ferdinand Von Senger Und Etterlin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Farrukh_Dhondy">
     <yago:hasName xml:lang="en">Farrukh Dhondy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernand_Gregh">
-    <yago:hasName xml:lang="en">Fernand Gregh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fionn_MacColla">
     <yago:hasName xml:lang="en">Fionn Maccolla</yago:hasName>
@@ -2922,9 +2933,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Faltonia_Betitia_Proba">
     <yago:hasName xml:lang="en">Faltonia Betitia Proba</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fad%C4%B1l_%C3%96zt%C3%BCrk">
-    <yago:hasName xml:lang="en">Fadil Ozturk</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Achleitner">
     <yago:hasName xml:lang="en">Friedrich Achleitner</yago:hasName>
   </rdf:Description>
@@ -2934,22 +2942,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Hackforth-Jones">
     <yago:hasName xml:lang="en">Frank Gilbert Hackforth-Jones</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._A._Harper">
-    <yago:hasName xml:lang="en">Floyd Arthur "Baldy" Harper</yago:hasName>
-    <yago:hasName xml:lang="en">Floyd Harper</yago:hasName>
-    <yago:hasName xml:lang="en">F. A. Harper</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Kint%C5%8D">
     <yago:hasName xml:lang="en">Fujiwara no Kintō</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._R._Higgins">
     <yago:hasName xml:lang="en">F.R. Higgins</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Yates">
-    <yago:hasName xml:lang="en">Frances Yates</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrice_Colin">
-    <yago:hasName xml:lang="en">Fabrice Colin</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Hackett">
+    <yago:hasName xml:lang="en">Francis Hackett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Cabrera_(writer)">
     <yago:hasName xml:lang="en">Fernando Cabrera</yago:hasName>
@@ -2957,11 +2957,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franc_Contreras">
     <yago:hasName xml:lang="en">Franc Contreras</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Manoel_de_Nascimento">
+    <yago:hasName xml:lang="en">Francisco Manoel de Nascimento</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Saltus_Saltus">
     <yago:hasName xml:lang="en">Francis Saltus Saltus</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/F._William_Engdahl">
-    <yago:hasName xml:lang="en">F. William Engdahl</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fintan_O&apos;Toole">
     <yago:hasName xml:lang="en">Fintan Otoole</yago:hasName>
@@ -2975,8 +2975,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Frost">
     <yago:hasName xml:lang="en">Frances Frost</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Fern%C3%A1ndez_%28writer%29">
-    <yago:hasName xml:lang="en">Frank Fernández</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_LaGrotta">
+    <yago:hasName xml:lang="en">Frank LaGrotta</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Miles_Finch">
     <yago:hasName xml:lang="en">Francis Miles Finch</yago:hasName>
@@ -2987,9 +2987,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Waitzkin">
     <yago:hasName xml:lang="en">Fred Waitzkin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Singer">
-    <yago:hasName xml:lang="en">Fred Singer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiwara_no_Kanesuke">
     <yago:hasName xml:lang="en">Fujiwara no Kanesuke</yago:hasName>
@@ -3012,6 +3009,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Charles_Fripp">
     <yago:hasName xml:lang="en">Frederick Charles Fripp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Barbaro">
+    <yago:hasName xml:lang="en">Francesco Barbaro</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ge_Fei_(author)">
     <yago:hasName xml:lang="en">Fei Ge</yago:hasName>
@@ -3088,14 +3088,14 @@
     <yago:hasName xml:lang="en">Franjo Rački</yago:hasName>
     <yago:hasName xml:lang="en">Franjo Racki</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Douglass">
+    <yago:hasName xml:lang="en">Frederick Douglass</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Charles_Lawley">
     <yago:hasName xml:lang="en">Francis Charles Lawley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Kohner">
     <yago:hasName xml:lang="en">Frederick Kohner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_McLean_Andrews">
-    <yago:hasName xml:lang="en">File:Andrews.jpg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Facundo_Hurtado_Castell%C3%B3n">
     <yago:hasName xml:lang="en">Facundo Hurtado</yago:hasName>
@@ -3146,6 +3146,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Dunlop">
     <yago:hasName xml:lang="en">Frank Dunlop</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_X._Tolbert">
+    <yago:hasName xml:lang="en">Frank X Tolbert</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Gibney">
     <yago:hasName xml:lang="en">Frank Gibney</yago:hasName>
   </rdf:Description>
@@ -3154,12 +3157,19 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Str%C3%B6mberg">
     <yago:hasName xml:lang="en">Fredrik Stromberg</yago:hasName>
+    <yago:hasName xml:lang="en">Fredrik Strömberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fakhar_Zaman">
     <yago:hasName xml:lang="en">Fakhar Zaman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Wu">
     <yago:hasName xml:lang="en">Fan Wu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feofan_Prokopovich">
+    <yago:hasName xml:lang="en">Feofan Prokopovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Brovina">
+    <yago:hasName xml:lang="en">Flora Brovina</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Lebby_Stanton">
     <yago:hasName xml:lang="en">Frank Lebby Stanton</yago:hasName>
@@ -3170,9 +3180,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Calvert_(cartoonist)">
     <yago:hasName xml:lang="en">Frank Calvert</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Wilhelm_R%C3%BCstow">
-    <yago:hasName xml:lang="en">Friedrich Wilhelm Rustow</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Norris">
     <yago:hasName xml:lang="en">Frank Norris</yago:hasName>
   </rdf:Description>
@@ -3182,6 +3189,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_H._Maynard">
     <yago:hasName xml:lang="en">Francis Henry Maynard</yago:hasName>
     <yago:hasName xml:lang="en">Francis Henry "Frank" Maynard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_F%C3%A9val,_fils">
+    <yago:hasName xml:lang="en">Feval, Paul, fils</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%BCruzan">
     <yago:hasName xml:lang="en">Furuzan</yago:hasName>
@@ -3227,17 +3237,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Martins">
     <yago:hasName xml:lang="en">Franklin Martins</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Faranak_Margolese">
-    <yago:hasName xml:lang="en">Faranak Margolese</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Bohn_Fisher">
-    <yago:hasName xml:lang="en">Frederick Bohn Fisher</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fereidoon_Tavallali">
     <yago:hasName xml:lang="en">Fereidoon Tavallali</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Friederike_Roth">
     <yago:hasName xml:lang="en">Friederike Roth</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stasio">
+    <yago:hasName xml:lang="en">Frank Stasio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Holy_Roman_Emperor">
+    <yago:hasName xml:lang="en">Frederick II</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Anshi">
     <yago:hasName xml:lang="en">Family name: Wáng 王</yago:hasName>
@@ -3251,11 +3261,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Virtanen">
     <yago:hasName xml:lang="en">Fredrik Virtanen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Foch">
-    <yago:hasName xml:lang="en">Ferdinand Foch</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederik_Peeters">
     <yago:hasName xml:lang="en">Frederik Peeters</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Levstik">
+    <yago:hasName xml:lang="en">Fran Levstik</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Antonio_Zea">
     <yago:hasName xml:lang="en">Francisco Antonio Zea</yago:hasName>
@@ -3264,10 +3274,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Gait%C3%A1n">
     <yago:hasName xml:lang="en">Fernando Gaitan</yago:hasName>
     <yago:hasName xml:lang="en">Fernando Gaitán Salom</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Zhongyan">
-    <yago:hasName xml:lang="en">Family name: Fàn ()</yago:hasName>
-    <yago:hasName xml:lang="en">Fan Zhongyan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Lundberg">
     <yago:hasName xml:lang="en">Ferdinand Lundberg</yago:hasName>
@@ -3291,6 +3297,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Freda_Ahenakew">
     <yago:hasName xml:lang="en">Freda Ahenakew</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Houzhu">
+    <yago:hasName xml:lang="en">Family name: Li 李</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Folke_Ryd%C3%A9n">
     <yago:hasName xml:lang="en">Folke Ryden</yago:hasName>
   </rdf:Description>
@@ -3304,6 +3313,7 @@
     <yago:hasName xml:lang="en">Francis John Macconnell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Bloemhof">
+    <yago:hasName xml:lang="en">Francois Bloemhof</yago:hasName>
     <yago:hasName xml:lang="en">François Bloemhof</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Fane_(dramatist)">
@@ -3333,8 +3343,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Whiting_Halsey">
     <yago:hasName xml:lang="en">Francis Whiting Halsey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Gomes_de_Amorim">
+    <yago:hasName xml:lang="en">Francisco Gomes de Amorim</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Ebb">
     <yago:hasName xml:lang="en">Fred Ebb</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Gonz%C3%A1lez_Guin%C3%A1n">
+    <yago:hasName xml:lang="en">Francisco Gonzalez Guinan</yago:hasName>
+    <yago:hasName xml:lang="en">Francisco González Guinán</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Eberhard">
     <yago:hasName xml:lang="en">Fritz Eberhard</yago:hasName>
@@ -3428,13 +3445,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Faddey_Bulgarin">
     <yago:hasName xml:lang="en">Faddey Bulgarin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Hammond">
-    <yago:hasName xml:lang="en">Frank Hammond</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Just_Marie_Raynouard">
-    <yago:hasName xml:lang="en">François Just Marie Raynouard</yago:hasName>
-    <yago:hasName xml:lang="en">Francois Juste Marie Raynouard</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinando_Russo">
     <yago:hasName xml:lang="en">Ferdinando Russo</yago:hasName>
   </rdf:Description>
@@ -3471,9 +3481,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Franti%C5%A1ek_Gellner">
     <yago:hasName xml:lang="en">Frantisek Gellner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Chipasula">
-    <yago:hasName xml:lang="en">Frank Chipasula</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Maret">
     <yago:hasName xml:lang="en">François Maret</yago:hasName>
@@ -3529,17 +3536,26 @@
     <yago:hasName xml:lang="en">Ferenc Mate</yago:hasName>
     <yago:hasName xml:lang="en">Ferenc Máté</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_M%C3%A9ndez">
+    <yago:hasName xml:lang="en">Francisco Mendez</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Mankiewicz">
     <yago:hasName xml:lang="en">Frank Mankiewicz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Exley">
     <yago:hasName xml:lang="en">Frederick Exley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fearghal_McKinney">
+    <yago:hasName xml:lang="en">Fearghal Mackinney</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fletcher_Pratt">
     <yago:hasName xml:lang="en">Fletcher Pratt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Kurtz_(director)">
     <yago:hasName xml:lang="en">Frank Kurtz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiko_Nakajo">
+    <yago:hasName xml:lang="en">Fumiko Nakajo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fatima_Bhutto">
     <yago:hasName xml:lang="en">Fatima Bhutto</yago:hasName>
@@ -3557,18 +3573,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Marbury">
     <yago:hasName xml:lang="en">Francis Marbury</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Flaithem_Mac_Mael_Gaimrid">
-    <yago:hasName xml:lang="en">Flaithem Mac Mael Gaimrid</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Harper">
     <yago:hasName xml:lang="en">Frances Harper</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Simoes">
     <yago:hasName xml:lang="en">Frank Simoes</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Santos">
-    <yago:hasName xml:lang="en">Francisco José Ribeiro Lopes dos Santos</yago:hasName>
-    <yago:hasName xml:lang="en">Francisco Lopes Santos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_D&apos;Souza">
     <yago:hasName xml:lang="en">Francis Dsouza</yago:hasName>
@@ -3582,8 +3591,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fleur_Adcock">
     <yago:hasName xml:lang="en">Fleur Adcock</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Felipe_Aldana">
-    <yago:hasName xml:lang="en">Felipe Aldana</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferris_Greenslet">
+    <yago:hasName xml:lang="en">Ferris Greenslet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fletcher_Knebel">
     <yago:hasName xml:lang="en">Fletcher Knebel</yago:hasName>
@@ -3601,11 +3610,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Lewis">
     <yago:hasName xml:lang="en">Flora Lewis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Cathala">
-    <yago:hasName xml:lang="en">Frederic Cathala</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_H._Balfour">
     <yago:hasName xml:lang="en">Frederic Balfour</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_B._Loomis">
+    <yago:hasName xml:lang="en">Francis B. Loomis</yago:hasName>
+    <yago:hasName xml:lang="en">Francis Butler Loomis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Marien">
     <yago:hasName xml:lang="en">Frank Marien</yago:hasName>
@@ -3623,6 +3633,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A1bio_Barreto">
     <yago:hasName xml:lang="en">Fabio Barreto</yago:hasName>
     <yago:hasName xml:lang="en">Fábio Barreto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Mitchell_(presenter)">
+    <yago:hasName xml:lang="en">Frank Mitchell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Gaither">
     <yago:hasName xml:lang="en">Frances Gaither</yago:hasName>
@@ -3654,6 +3667,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fania_Bergstein">
     <yago:hasName xml:lang="en">Fania Bergstein</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Regnault">
+    <yago:hasName xml:lang="en">Francois Regnault</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Finn_Iunker">
     <yago:hasName xml:lang="en">Finn Iunker</yago:hasName>
   </rdf:Description>
@@ -3665,6 +3681,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fay_Kanin">
     <yago:hasName xml:lang="en">Fay Kanin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frits_Hansen">
+    <yago:hasName xml:lang="en">Frits Hansen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_J._Cook">
+    <yago:hasName xml:lang="en">Fred J. Cook</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fyodor_Tyutchev">
     <yago:hasName xml:lang="en">Fyodor Tyutchev</yago:hasName>
@@ -3678,6 +3700,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ferenc_Fejt%C5%91">
     <yago:hasName xml:lang="en">François Fejtő</yago:hasName>
     <yago:hasName xml:lang="en">Ferenc Fejtoe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fatou_Diome">
+    <yago:hasName xml:lang="en">Fatou Diome</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7ois_Giuliani">
     <yago:hasName xml:lang="en">Francois Giuliani</yago:hasName>
@@ -3697,6 +3722,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Giampietro">
     <yago:hasName xml:lang="en">Frank Giampietro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Beswick,_Baron_Beswick">
+    <yago:hasName xml:lang="en">Frank Beswick</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_Arnaudin">
     <yago:hasName xml:lang="en">Félix Arnaudin</yago:hasName>
@@ -3724,6 +3752,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frane_Mil%C4%8Dinski_%E2%80%93_Je%C5%BEek">
     <yago:hasName xml:lang="en">Frane Milcinski-Jezek</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Fengjia">
+    <yago:hasName xml:lang="en">Fengjia Qiu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_da_Mosto">
     <yago:hasName xml:lang="en">Francesco da Mosto</yago:hasName>
   </rdf:Description>
@@ -3738,6 +3769,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frantz_Fanon">
     <yago:hasName xml:lang="en">Frantz Fanon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Andr%C3%A9s_Escobar">
+    <yago:hasName xml:lang="en">Francisco Andres Escobar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Cradock">
     <yago:hasName xml:lang="en">Fanny Cradock</yago:hasName>
@@ -3773,6 +3807,7 @@
     <yago:hasName xml:lang="en">Fabre Deglantine</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Arriv%C3%AD">
+    <yago:hasName xml:lang="en">Francisco Arriví</yago:hasName>
     <yago:hasName xml:lang="en">Francisco Arrivi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fernand_Crommelynck">
@@ -3802,6 +3837,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Forrest_Gander">
     <yago:hasName xml:lang="en">Forrest Gander</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Ho">
+    <yago:hasName xml:lang="en">Fred Ho</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Zehnder">
     <yago:hasName xml:lang="en">Fred Zehnder</yago:hasName>
   </rdf:Description>
@@ -3810,6 +3848,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_William_Ward">
     <yago:hasName xml:lang="en">Frederick William Ward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fran%C3%A7oise_Sagan">
+    <yago:hasName xml:lang="en">Françoise Sagan</yago:hasName>
+    <yago:hasName xml:lang="en">Francoise Sagan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Femi_Fani-Kayode">
     <yago:hasName xml:lang="en">Femi Fani-Kayode</yago:hasName>
@@ -3833,9 +3875,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Wadsworth_Loring">
     <yago:hasName xml:lang="en">Frederick Wadsworth Loring</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferenc_Juh%C3%A1sz_%28poet%29">
-    <yago:hasName xml:lang="en">Ferenc Juhasz</yago:hasName>
-    <yago:hasName xml:lang="en">Ferenc Juhász</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fredrik_Ording">
+    <yago:hasName xml:lang="en">Fredrik Ording</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_de_Hoog">
+    <yago:hasName xml:lang="en">Frederik Hermanus de Hoog</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/F._Sionil_Jos%C3%A9">
     <yago:hasName xml:lang="en">Francisco Sionil Jose</yago:hasName>
@@ -3850,8 +3894,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fartein_D%C3%B8vle_Jonassen">
     <yago:hasName xml:lang="en">Fartein Doevle Jonassen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Townsend_Martin">
-    <yago:hasName xml:lang="en">Frederick Townsend Martin</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_W._Mayborn">
+    <yago:hasName xml:lang="en">Frank W. Mayborn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Gervasi">
     <yago:hasName xml:lang="en">Frank Gervasi</yago:hasName>
@@ -3886,14 +3930,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Fran_Krsto_Frankopan">
     <yago:hasName xml:lang="en">Fran Krsto Frankopan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Flannery_O%27Connor">
-    <yago:hasName xml:lang="en">Flannery O'Connor</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Locker-Lampson">
     <yago:hasName xml:lang="en">Frederick Locker-Lampson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Marie_de_F%C3%A9letz">
+    <yago:hasName xml:lang="en">Feletz</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Felipe_Pigna">
     <yago:hasName xml:lang="en">Felipe Pigna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Wheen">
+    <yago:hasName xml:lang="en">Francis Wheen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ladislas_Farago">
     <yago:hasName xml:lang="en">Faragó</yago:hasName>

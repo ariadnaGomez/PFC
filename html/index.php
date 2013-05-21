@@ -19,7 +19,7 @@
         <div class="wrapper col1">
             <div id="header" class="clear">
                 <div class="fl_left">
-                    <h1><a href="index.php">Bibliographic linked data</a></h1>
+                    <h1><a href="https://github.com/ariadnaGomez/PFC">Bibliographic linked data</a></h1>
                     <p>Ari Gomez</p>
 
                 </div>
