@@ -1,0 +1,6 @@
+;Configuration file
+
+downloader_path=http://localhost:8082/downloader/services/authors/
+data=/var/www/PFC/data/
+memcache_host=localhost
+memcache_port=11211

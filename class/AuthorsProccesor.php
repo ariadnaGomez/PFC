@@ -23,8 +23,10 @@ class AuthorsProccesor {
 
         $char = strtoupper($initial);
 
+        $conf = parse_ini_file ("../config");
+
         // Filename of the RDF document
-        $base = "/var/www/PFC/data/" . $char . ".rdf";
+        $base = $conf['data'] . $char . ".rdf";
 
         // Create a new MemModel
         $this->_model = ModelFactory::getDefaultModel();
@@ -33,7 +35,7 @@ class AuthorsProccesor {
         $this->_model->load($base);
         
         // Filename of the RDF document
-        $baseSurnames = "/var/www/PFC/data/s" . $char . ".rdf";
+        $baseSurnames = $conf['data'] . "s" . $char . ".rdf";
 
         // Create a new MemModel
         $this->_modelSurnames = ModelFactory::getDefaultModel();

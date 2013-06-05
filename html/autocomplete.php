@@ -4,7 +4,8 @@ include_once('../class/AuthorsProccesor.php');
 
 
 $memcache = new Memcache;
-if ($memcache->connect('localhost', 11211) && 
+$conf = parse_ini_file ("../config");
+if ($memcache->connect($conf['memcache_host'], (int)$conf['memcache_port']) && 
         $res = $memcache->get('authors' . $_GET['char'])) {   
         $authors = unserialize($res);
         $key = 0;
@@ -22,7 +23,7 @@ if ($memcache->connect('localhost', 11211) &&
         $cacheArray[$author['?name']->getLabel()] = $author['?person']->getLabel();
     }
     $cache = serialize($cacheArray);
-    if ($memcache->connect('localhost', 11211)) {
+    if ($memcache->connect($conf['memcache_host'], (int)$conf['memcache_port'])) {
         $memcache->set('authors' . $_GET['char'], $cache, false);
     }
 }
