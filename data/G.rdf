@@ -14,6 +14,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Brenan">
     <yago:hasName xml:lang="en">Gerald Brenan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Greenlees">
+    <yago:hasName xml:lang="en">Gavin Greenless</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guido_Gozzano">
     <yago:hasName xml:lang="en">Guido Gustavo Gozzano</yago:hasName>
     <yago:hasName xml:lang="en">Guido Gozzano</yago:hasName>
@@ -27,11 +30,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Peterson">
     <yago:hasName xml:lang="en">Gordon Peterson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldo_Rivera">
+    <yago:hasName xml:lang="en">Geraldo Rivera</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Perkin">
     <yago:hasName xml:lang="en">Graham Perkin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gillamaire_Ua_Conallta">
-    <yago:hasName xml:lang="en">Gillamaire Dall Ua Conallta</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaspar_Roca">
+    <yago:hasName xml:lang="en">Gaspar Roca</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guido_Morselli">
     <yago:hasName xml:lang="en">Guido Morselli</yago:hasName>
@@ -60,6 +66,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Russell">
     <yago:hasName xml:lang="en">George William Russell</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gar_Joseph">
+    <yago:hasName xml:lang="en">Gar Joseph</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_David_Gold">
     <yago:hasName xml:lang="en">Glen David Gold</yago:hasName>
   </rdf:Description>
@@ -76,23 +85,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_Friedberg">
     <yago:hasName xml:lang="en">Gertrude Tonkonogy Friedberg</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grattan_Kerans">
+    <yago:hasName xml:lang="en">Grattan Kerans</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Osborne">
     <yago:hasName xml:lang="en">Gary Osbourne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Barlow_(American_poet)">
     <yago:hasName xml:lang="en">George Barlow</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Lautaro_N%C3%BA%C3%B1ez_Atencio">
-    <yago:hasName xml:lang="en">Gabriel Núñez Atencio</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Squires">
     <yago:hasName xml:lang="en">Geoffrey Squires</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%A0an_Anton_Vassallo">
     <yago:hasName xml:lang="en">Gan Anton Vassallo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_C._Howard">
-    <yago:hasName xml:lang="en">George C. Howard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Freeman">
     <yago:hasName xml:lang="en">Greg Freeman</yago:hasName>
@@ -134,14 +140,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gretta_Chambers">
     <yago:hasName xml:lang="en">Gretta Chambers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Weiss">
+    <yago:hasName xml:lang="en">Gary Weiss</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gorman_Bechard">
     <yago:hasName xml:lang="en">Gorman Bechard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Sadoul">
     <yago:hasName xml:lang="en">Georges Sadoul</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giulio_Angioni">
-    <yago:hasName xml:lang="en">Giulio Angioni</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gy%C3%B6rgy_Konr%C3%A1d">
     <yago:hasName xml:lang="en">Gyorgy Konrad</yago:hasName>
@@ -149,11 +155,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Harding">
     <yago:hasName xml:lang="en">Gilbert Harding</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Ackerman">
+    <yago:hasName xml:lang="en">Gordon Ackerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerardo_Chiaromonte">
+    <yago:hasName xml:lang="en">Gerardo Chiaromonte</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Frym">
     <yago:hasName xml:lang="en">Gloria Frym</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gail_Parent">
-    <yago:hasName xml:lang="en">Gail Parent</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerrit_Paape">
     <yago:hasName xml:lang="en">Gerrit Paape</yago:hasName>
@@ -211,13 +220,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gonzalo_de_C%C3%A9spedes_y_Meneses">
     <yago:hasName xml:lang="en">Gonzalo Cespedes y Meneses</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwendoline_Butler">
-    <yago:hasName xml:lang="en">Gwendoline Butler</yago:hasName>
-    <yago:hasName xml:lang="en">Gwendoline Williams Butler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Ribemont-Dessaignes">
-    <yago:hasName xml:lang="en">Georges Ribemont-Dessaignes</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Glazner">
     <yago:hasName xml:lang="en">Greg Glazner</yago:hasName>
   </rdf:Description>
@@ -233,6 +235,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garnik_Addarian">
     <yago:hasName xml:lang="en">Garnik Addarian</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Roberge">
+    <yago:hasName xml:lang="en">Guy Roberge</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gen_Urobuchi">
     <yago:hasName xml:lang="en">Gen Urobuchi</yago:hasName>
   </rdf:Description>
@@ -242,11 +247,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gennady_Shpalikov">
     <yago:hasName xml:lang="en">Gennady Shpalikov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Salazar">
-    <yago:hasName xml:lang="en">Gabriel Salazar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Slater">
-    <yago:hasName xml:lang="en">Gilbert Slater</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Adami">
+    <yago:hasName xml:lang="en">Guy Adami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ghada_Karmi">
     <yago:hasName xml:lang="en">Ghada Karmi</yago:hasName>
@@ -283,6 +285,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gig_Ryan">
     <yago:hasName xml:lang="en">Gig Elizabeth Ryan</yago:hasName>
+    <yago:hasName xml:lang="en">Gig Ryan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Dufayel">
     <yago:hasName xml:lang="en">Georges Dufayel</yago:hasName>
@@ -291,13 +294,10 @@
     <yago:hasName xml:lang="en">Ghulam Ahmad Mahjoor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_McNamee">
-    <yago:hasName xml:lang="en">Graham McNamee</yago:hasName>
+    <yago:hasName xml:lang="en">Graham Macnamee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilla_na_Neamh_%C3%93_h-Uiginn">
     <yago:hasName xml:lang="en">Gilla Na Neamh O hUiginn</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Steinmetz">
-    <yago:hasName xml:lang="en">George Steinmetz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Meyer">
     <yago:hasName xml:lang="en">George A. Meyer</yago:hasName>
@@ -312,11 +312,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Bataille">
     <yago:hasName xml:lang="en">Georges Bataille</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Colin_Campbell">
+    <yago:hasName xml:lang="en">Georgia Arianna Campbell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gnaeus_Naevius">
     <yago:hasName xml:lang="en">Gnaeus Naevius</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._M._Felix">
     <yago:hasName xml:lang="en">G. M. Felix</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Bunker_Gilbreth,_Jr.">
+    <yago:hasName xml:lang="en">Gilbreth, Frank, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Moses_Horton">
     <yago:hasName xml:lang="en">George Moses Horton</yago:hasName>
@@ -333,6 +339,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geir_Pollen">
     <yago:hasName xml:lang="en">Geir Pollen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Nader">
+    <yago:hasName xml:lang="en">George Nader</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Charles_Brodrick">
     <yago:hasName xml:lang="en">George Charles Brodrick</yago:hasName>
@@ -414,14 +423,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gay_Courter">
     <yago:hasName xml:lang="en">Gay Courter</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_L._Fox_%28clown%29">
-    <yago:hasName xml:lang="en">George L. Fox</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9rald_Neveu">
     <yago:hasName xml:lang="en">Gerald Neveu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgina_Lewis">
     <yago:hasName xml:lang="en">Georgina Lewis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glyn_Parry_(author)">
+    <yago:hasName xml:lang="en">Glyn Parry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Unorthodox_Australian_Poet">
     <yago:hasName xml:lang="en">Garry W Gosney</yago:hasName>
@@ -441,9 +450,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Grigson">
     <yago:hasName xml:lang="en">Geoffrey Grigson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_d%27Annunzio">
-    <yago:hasName xml:lang="en">Gabriele D'Annunzio</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Goran_Ru%C5%A1inovi%C4%87">
     <yago:hasName xml:lang="en">Goran Rusinovic</yago:hasName>
@@ -477,9 +483,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Falke">
     <yago:hasName xml:lang="en">Gustav Falke</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_O%27Neill">
-    <yago:hasName xml:lang="en">Gene Oneill</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gila_Almagor">
     <yago:hasName xml:lang="en">Gila Almagor</yago:hasName>
   </rdf:Description>
@@ -499,7 +502,7 @@
     <yago:hasName xml:lang="en">Grace Andreacchi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Gordon_McCrae">
-    <yago:hasName xml:lang="en">George Gordon McCrae</yago:hasName>
+    <yago:hasName xml:lang="en">George Gordon Maccrae</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_O&apos;Hara">
     <yago:hasName xml:lang="en">Geoffrey O'Hara</yago:hasName>
@@ -522,12 +525,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Amendola">
     <yago:hasName xml:lang="en">Giovanni Amendola</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavyn_Davies">
+    <yago:hasName xml:lang="en">Gavyn Davies</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Turner_(writer)">
     <yago:hasName xml:lang="en">George Reginald Turner</yago:hasName>
     <yago:hasName xml:lang="en">George Turner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shivani">
-    <yago:hasName xml:lang="en">Gaura Pant (Shivani)</yago:hasName>
+    <yago:hasName xml:lang="en">Gaura Pant 'Shivani'</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geno_Washington">
     <yago:hasName xml:lang="en">Geno Washington</yago:hasName>
@@ -541,6 +547,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giannis_Skarimpas">
     <yago:hasName xml:lang="en">Giannis Skarimbas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Herbert_Stancer">
+    <yago:hasName xml:lang="en">George Herbert Stancer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Galaktion_Tabidze">
     <yago:hasName xml:lang="en">Galaktion Tabidze</yago:hasName>
@@ -559,7 +568,7 @@
     <yago:hasName xml:lang="en">George Campbell Hay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gill_Pyrah">
-    <yago:hasName xml:lang="en">Gill Pyrah</yago:hasName>
+    <yago:hasName xml:lang="en">Gill Pyra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Hewitt">
     <yago:hasName xml:lang="en">Gavin Hewitt</yago:hasName>
@@ -568,8 +577,8 @@
     <yago:hasName xml:lang="en">Gerald Glaskin</yago:hasName>
     <yago:hasName xml:lang="en">Gerald Marcus Glaskin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Blainey">
-    <yago:hasName xml:lang="en">Geoffrey Blainey</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigori_Machtet">
+    <yago:hasName xml:lang="en">Grigori Machtet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenda_Goertzen">
     <yago:hasName xml:lang="en">Glenda Goertzen</yago:hasName>
@@ -601,6 +610,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cabot_Lodge">
     <yago:hasName xml:lang="en">George Cabot Lodge</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amole_Gupte">
+    <yago:hasName xml:lang="en">Gupte</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Goodnow">
     <yago:hasName xml:lang="en">Goodnow</yago:hasName>
   </rdf:Description>
@@ -614,6 +626,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Oppen">
     <yago:hasName xml:lang="en">George Oppen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Onakkoor">
+    <yago:hasName xml:lang="en">George Onakkoor</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwen_Grant">
     <yago:hasName xml:lang="en">Gwen Grant</yago:hasName>
   </rdf:Description>
@@ -623,8 +638,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunvant_Shah">
     <yago:hasName xml:lang="en">Gunvant Shah</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/L._Martin_Griffin%2C_Jr.">
-    <yago:hasName xml:lang="en">Griffin, Loyal Martin, Jr.</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Melchior,_Baron_von_Grimm">
+    <yago:hasName xml:lang="en">Grimm, Friedrich Melchior, baron von</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Cox_(journalist)">
     <yago:hasName xml:lang="en">Geoffrey Cox</yago:hasName>
@@ -666,8 +681,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustin_Nash">
     <yago:hasName xml:lang="en">Gustin Nash</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Galal_Amer">
-    <yago:hasName xml:lang="en">Galal Amer</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._B._Guthrie,_Jr.">
+    <yago:hasName xml:lang="en">Guthrie, A. B., Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grammatica">
     <yago:hasName xml:lang="en">Grammatica</yago:hasName>
@@ -704,11 +719,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Lavergne">
     <yago:hasName xml:lang="en">Gary Lavergne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo_Bogza">
-    <yago:hasName xml:lang="en">Geo Bogza</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gayl_Jones">
     <yago:hasName xml:lang="en">Gayl Jones</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo_Bogza">
+    <yago:hasName xml:lang="en">Geo Bogza</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Cano_Isaza">
     <yago:hasName xml:lang="en">Guillermo Cano Isaza</yago:hasName>
@@ -716,17 +731,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavril_Stefanovi%C4%87_Venclovi%C4%87">
     <yago:hasName xml:lang="en">Gavrilo Stefanović Venclović</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabrielle_Harbowy">
-    <yago:hasName xml:lang="en">Gabrielle Harbowy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Genevi%C3%A8ve_Petau_de_Maulette">
-    <yago:hasName xml:lang="en">Genevieve Petau De Maulette</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Adams">
     <yago:hasName xml:lang="en">Guy Adams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Berchet">
     <yago:hasName xml:lang="en">Giovanni Berchet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Mart%C3%ADnez">
+    <yago:hasName xml:lang="en">Guillermo Martinez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustave_d&apos;Eichthal">
     <yago:hasName xml:lang="en">Gustave D' Eichthal</yago:hasName>
@@ -740,6 +752,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grigory_Baklanov">
     <yago:hasName xml:lang="en">Grigory Baklanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Tell_Villegas_Pulido">
+    <yago:hasName xml:lang="en">Guillermo Tell Villegas Pulido</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Ekel%C3%B6f">
     <yago:hasName xml:lang="en">Gunnar Ekelöf</yago:hasName>
@@ -783,9 +798,6 @@
     <yago:hasName xml:lang="en">George Gene Gustines</yago:hasName>
     <yago:hasName xml:lang="en">George Gustines</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Edwards">
-    <yago:hasName xml:lang="en">Gene Edwards</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Bat_Ye&apos;or">
     <yago:hasName xml:lang="en">Gisèle Littman</yago:hasName>
   </rdf:Description>
@@ -813,9 +825,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pope_Morris">
     <yago:hasName xml:lang="en">George Pope Morris</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Bounin">
-    <yago:hasName xml:lang="en">Gabriel Bounin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_Barroso">
     <yago:hasName xml:lang="en">Gustavo Barroso</yago:hasName>
   </rdf:Description>
@@ -828,20 +837,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Kolata">
     <yago:hasName xml:lang="en">Gina Kolata</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_Cr%C4%83ciun">
-    <yago:hasName xml:lang="en">Gheorghe Craciun</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gail_Jones">
     <yago:hasName xml:lang="en">Gail Jones</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grahame_Davies">
     <yago:hasName xml:lang="en">Grahame Davies</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Reid_(writer)">
+    <yago:hasName xml:lang="en">Graham Reid</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grigol_Orbeliani">
     <yago:hasName xml:lang="en">Grigol Orbeliani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_Bell">
     <yago:hasName xml:lang="en">Gustavo Bell</yago:hasName>
+    <yago:hasName xml:lang="en">Gustavo Adolfo Bell Lemus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Dance_(dramatist)">
     <yago:hasName xml:lang="en">George Dance</yago:hasName>
@@ -878,6 +888,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume_Musso">
     <yago:hasName xml:lang="en">Guillaume Musso</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Kreisler">
+    <yago:hasName xml:lang="en">Georg Franz Kreisler</yago:hasName>
+    <yago:hasName xml:lang="en">Georg Kreisler</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_W._Page">
     <yago:hasName xml:lang="en">Gerald W. Page</yago:hasName>
   </rdf:Description>
@@ -902,11 +916,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guilherme_de_Almeida">
     <yago:hasName xml:lang="en">Guilherme De Almeida</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G%CA%BBafur_G%CA%BBulom">
-    <yago:hasName xml:lang="en">Gʻafur Gʻulom</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gul_Ayaz">
+    <yago:hasName xml:lang="en">Gul Ayaz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwallter_Mechain">
     <yago:hasName xml:lang="en">Gwallter Mechain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Mera_Molisa">
+    <yago:hasName xml:lang="en">Grace Mera Molisa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriela_Mistral">
     <yago:hasName xml:lang="en">Gabriela Mistral</yago:hasName>
@@ -919,6 +936,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Vladimov">
     <yago:hasName xml:lang="en">Georgi Vladimov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Jos%C3%A9_Torres">
+    <yago:hasName xml:lang="en">Guillermo Jose Torres</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Anthan">
+    <yago:hasName xml:lang="en">George Anton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Davenport">
     <yago:hasName xml:lang="en">Guy Davenport</yago:hasName>
@@ -969,9 +992,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garrett_Fort">
     <yago:hasName xml:lang="en">Garrett Elsden Fort</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgette_de_Montenay">
-    <yago:hasName xml:lang="en">Georgette De Montenay</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._A._Henty">
     <yago:hasName xml:lang="en">George Alfred Henty</yago:hasName>
     <yago:hasName xml:lang="en">G. A. Henty</yago:hasName>
@@ -1007,6 +1027,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Kaus">
     <yago:hasName xml:lang="en">Gina Kaus</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigore_Vasiliu_Birlic">
+    <yago:hasName xml:lang="en">Grigore Vasiliu Birlic</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyn_Jones_(author)">
     <yago:hasName xml:lang="en">Gwyn Jones</yago:hasName>
   </rdf:Description>
@@ -1036,6 +1059,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Hall_(poet)">
     <yago:hasName xml:lang="en">Greg Hall</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Dawe">
+    <yago:hasName xml:lang="en">Gerald Dawe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ginn_Hale">
     <yago:hasName xml:lang="en">Ginn Hale</yago:hasName>
@@ -1077,10 +1103,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Harden">
     <yago:hasName xml:lang="en">Geoff Harden</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Turner_%28writer%29">
-    <yago:hasName xml:lang="en">George Reginald Turner</yago:hasName>
-    <yago:hasName xml:lang="en">George Turner</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_King_(author)">
     <yago:hasName xml:lang="en">Greg King</yago:hasName>
   </rdf:Description>
@@ -1116,6 +1138,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%BCnther_Stein">
     <yago:hasName xml:lang="en">Gunther Stein</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Roven">
+    <yago:hasName xml:lang="en">Glen Roven</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgios_Helakis">
     <yago:hasName xml:lang="en">Georgios Helakis</yago:hasName>
@@ -1173,6 +1198,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giles_Fletcher">
     <yago:hasName xml:lang="en">Giles Fletcher</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Witte">
+    <yago:hasName xml:lang="en">George Witte</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Rostrevor_Hamilton">
     <yago:hasName xml:lang="en">G.R. Hamilton</yago:hasName>
   </rdf:Description>
@@ -1200,6 +1228,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregorios_Xenopoulos">
     <yago:hasName xml:lang="en">Gregorios Xenopoulos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germ%C3%A1n_Espinosa">
+    <yago:hasName xml:lang="en">German Espinosa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gale_Wilhelm">
     <yago:hasName xml:lang="en">Gale Wilhelm</yago:hasName>
@@ -1241,6 +1272,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Eggleston">
     <yago:hasName xml:lang="en">Geoffrey Eggleston</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Preil">
+    <yago:hasName xml:lang="en">Gabriel Yehoshua Preil</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Pulevski">
     <yago:hasName xml:lang="en">Georgi Pulevski</yago:hasName>
   </rdf:Description>
@@ -1270,6 +1304,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavan_Naden">
     <yago:hasName xml:lang="en">Gavan Naden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgi_Leonidze">
+    <yago:hasName xml:lang="en">Giorgi Leonidze</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gin%C3%A9s_P%C3%A9rez_de_Hita">
     <yago:hasName xml:lang="en">Gines Perez De Hita</yago:hasName>
@@ -1368,6 +1405,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Garrett_(writer)">
     <yago:hasName xml:lang="en">Greg Garrett</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gor%C5%8D_Masaki">
+    <yago:hasName xml:lang="en">Goro Masaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Bird">
+    <yago:hasName xml:lang="en">Gloria Bird</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Dennison_Harris">
     <yago:hasName xml:lang="en">Gilbert Dennison Harris</yago:hasName>
   </rdf:Description>
@@ -1392,11 +1435,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Lobo_Lasso_de_la_Vega">
     <yago:hasName xml:lang="en">Gabriel Lasso de la Vega</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Traversari">
+    <yago:hasName xml:lang="en">Gabriel Traversari</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Base">
     <yago:hasName xml:lang="en">Graeme Base</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Blackwood_%28author%29">
-    <yago:hasName xml:lang="en">Gary Blackwood</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Galit_Hasan-Rokem">
     <yago:hasName xml:lang="en">Galit Hasan-Rokem</yago:hasName>
@@ -1409,9 +1452,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/GNU_Compiler_Collection">
     <yago:hasName xml:lang="en">GNU Compiler Collection</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_Corno">
-    <yago:hasName xml:lang="en">Gabriele Corno</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Goran_Vojnovi%C4%87">
     <yago:hasName xml:lang="en">Goran Vojnović</yago:hasName>
@@ -1441,9 +1481,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Whitney">
     <yago:hasName xml:lang="en">Geoffrey Whitney</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Aylward">
-    <yago:hasName xml:lang="en">Gordon Hillis Aylward</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilda_Gal%C3%A1n">
     <yago:hasName xml:lang="en">Gilda Galan</yago:hasName>
     <yago:hasName xml:lang="en">Gilda Galán</yago:hasName>
@@ -1454,6 +1491,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Bouras">
     <yago:hasName xml:lang="en">Gillian Bouras</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigorijs_%C5%85emcovs">
+    <yago:hasName xml:lang="en">Grigorijs Nemcovs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Baxter_(journalist)">
     <yago:hasName xml:lang="en">Glen Baxter</yago:hasName>
@@ -1483,7 +1523,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Loury">
     <yago:hasName xml:lang="en">Glenn C. Loury</yago:hasName>
-    <yago:hasName xml:lang="en">Glenn Loury</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Pinelli">
+    <yago:hasName xml:lang="en">German Pinelli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grazyna_Miller">
     <yago:hasName xml:lang="en">Grazyna Miller</yago:hasName>
@@ -1493,6 +1535,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Gui-ja">
     <yago:hasName xml:lang="en">Gui-Ja Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyneth_Glyn">
+    <yago:hasName xml:lang="en">Gwyneth Glyn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Philp">
     <yago:hasName xml:lang="en">Geoffrey Philp</yago:hasName>
@@ -1531,18 +1576,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ciprian">
     <yago:hasName xml:lang="en">George Ciprian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Deng_Guangming">
-    <yago:hasName xml:lang="en">Guangming Deng</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gren">
-    <yago:hasName xml:lang="en">Gren</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Weideman">
     <yago:hasName xml:lang="en">George Henry Weideman</yago:hasName>
     <yago:hasName xml:lang="en">George Weideman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gelu_Vla%C5%9Fin">
-    <yago:hasName xml:lang="en">Gelu Vlașin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Stovin_Venables">
     <yago:hasName xml:lang="en">George Stovin Venables</yago:hasName>
@@ -1570,6 +1606,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_J._Wigley">
     <yago:hasName xml:lang="en">George J. Wigley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Gaimar">
+    <yago:hasName xml:lang="en">Geoffrey Gaimar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Coniglio">
     <yago:hasName xml:lang="en">Giuseppe Coniglio</yago:hasName>
@@ -1604,9 +1643,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gert_Vlok_Nel">
     <yago:hasName xml:lang="en">Gert Vlok Nel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaw_Herling-Grudzi%C5%84ski">
-    <yago:hasName xml:lang="en">Gustaw Herling-Grudzinski</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Tontodonati">
     <yago:hasName xml:lang="en">Giuseppe Tontodonati</yago:hasName>
   </rdf:Description>
@@ -1634,6 +1670,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gu_Gong">
     <yago:hasName xml:lang="en">Gu Gong</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Berns">
+    <yago:hasName xml:lang="en">Gregory S Berns</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Helgesen_Fitch">
     <yago:hasName xml:lang="en">George Fitch</yago:hasName>
     <yago:hasName xml:lang="en">George Helgesen Fitch</yago:hasName>
@@ -1647,11 +1686,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Jordan">
     <yago:hasName xml:lang="en">Grace Jordan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghi%C5%A3%C4%83_Moscu">
+    <yago:hasName xml:lang="en">Gelber Moscovici</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_P%C3%A9ri">
     <yago:hasName xml:lang="en">Gabriel Peri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_McKeaney">
-    <yago:hasName xml:lang="en">Grace McKeaney</yago:hasName>
+    <yago:hasName xml:lang="en">Grace Mackeaney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Suster">
+    <yago:hasName xml:lang="en">Gerald Suster</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_de_Faye">
     <yago:hasName xml:lang="en">Guy de Faye</yago:hasName>
@@ -1667,9 +1712,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gayle_Forman">
     <yago:hasName xml:lang="en">Gayle Forman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gian_Paolo_Borghetti">
-    <yago:hasName xml:lang="en">Gian Paolo Borghetti</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gy%C3%B6rgy_Petri">
     <yago:hasName xml:lang="en">Gyorgy Petri</yago:hasName>
@@ -1691,6 +1733,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Farquhar">
     <yago:hasName xml:lang="en">George Farquhar</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gautam_Bhattacharya">
+    <yago:hasName xml:lang="en">Gautam Bhattacharya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Cavallaro">
+    <yago:hasName xml:lang="en">Gina Cavallaro</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_B%C3%BCchner">
     <yago:hasName xml:lang="en">Georg Büchner</yago:hasName>
   </rdf:Description>
@@ -1710,9 +1758,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Ohnet">
     <yago:hasName xml:lang="en">George Ohnet</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Warner_Brace">
-    <yago:hasName xml:lang="en">Gerald Warner Brace</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregg_Hurwitz">
     <yago:hasName xml:lang="en">Gregg Hurwitz</yago:hasName>
   </rdf:Description>
@@ -1727,15 +1772,16 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A1bor_G%C3%B6rgey">
     <yago:hasName xml:lang="en">Gabor Gorgey</yago:hasName>
+    <yago:hasName xml:lang="en">Gábor Görgey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Linnaeus_Banks">
     <yago:hasName xml:lang="en">George Linnaeus Banks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Clinton_Little">
-    <yago:hasName xml:lang="en">Geraldine Clinton Little</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavino_Ledda">
     <yago:hasName xml:lang="en">Gavino Ledda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Clinton_Little">
+    <yago:hasName xml:lang="en">Geraldine Clinton Little</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume-Alphonse_Nantel">
     <yago:hasName xml:lang="en">Guillaume-Alphonse Nantel</yago:hasName>
@@ -1745,6 +1791,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gulnazar_Keldi">
     <yago:hasName xml:lang="en">Gulnazar Keldi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_A._Birmingham">
+    <yago:hasName xml:lang="en">George A. Birmingham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gennady_Orlov">
     <yago:hasName xml:lang="en">Gennady Sergeyevich Orlov</yago:hasName>
@@ -1780,14 +1829,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Goran_Petrovi%C4%87">
     <yago:hasName xml:lang="en">Goran Petrovic</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Turner">
-    <yago:hasName xml:lang="en">Graeme Turner</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Bedell">
     <yago:hasName xml:lang="en">Geraldine Bedell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_(comics)">
-    <yago:hasName xml:lang="en">Greg</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Yu">
+    <yago:hasName xml:lang="en">Given name: Yù 愈</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gholamreza_Rouhani">
     <yago:hasName xml:lang="en">Gholamreza Rouhani</yago:hasName>
@@ -1810,18 +1856,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ballard">
     <yago:hasName xml:lang="en">George Ballard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_D._Schmidt">
-    <yago:hasName xml:lang="en">Gary Schmidt</yago:hasName>
-    <yago:hasName xml:lang="en">Gary D. Schmidt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gino_Cantarelli">
     <yago:hasName xml:lang="en">Gino Cantarelli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._H._Gibson">
+    <yago:hasName xml:lang="en">George Herbert Gibson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gireesh_Puthenchery">
     <yago:hasName xml:lang="en">Gireesh Puthenchery</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gulrukhsor_Safieva">
     <yago:hasName xml:lang="en">Golrokhsar Safi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Honeycombe">
+    <yago:hasName xml:lang="en">Gordon Honeycombe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pendle">
     <yago:hasName xml:lang="en">George Pendle</yago:hasName>
@@ -1880,9 +1928,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_Krone-Schmalz">
     <yago:hasName xml:lang="en">Gabriele Krone-Schmalz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Myers_%28writer%29">
-    <yago:hasName xml:lang="en">Gary Myers</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgie_Anne_Geyer">
     <yago:hasName xml:lang="en">Georgie Anne Geyer</yago:hasName>
   </rdf:Description>
@@ -1904,8 +1949,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gian_Carlo_Menotti">
     <yago:hasName xml:lang="en">Giancarlo Menotti</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Mogridge_(Old_Humphrey)">
-    <yago:hasName xml:lang="en">George Mogridge</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gintar%C4%97_Adomaityt%C4%97">
+    <yago:hasName xml:lang="en">Gintare Adomaityte</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Mabbot">
     <yago:hasName xml:lang="en">Gilbert Mabbot</yago:hasName>
@@ -1916,8 +1961,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9za_Gy%C3%B3ni">
     <yago:hasName xml:lang="en">Geza Gyoni</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_Pallicca">
-    <yago:hasName xml:lang="en">Gustavo Pallicca</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_E._Cojocaru">
+    <yago:hasName xml:lang="en">Gheorghe E. Cojocaru</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Young_(poet)">
     <yago:hasName xml:lang="en">Gary Young</yago:hasName>
@@ -1925,20 +1970,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Boyd_(playwright)">
     <yago:hasName xml:lang="en">George Boyd</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Skurzynski">
-    <yago:hasName xml:lang="en">Gloria Skurzynski</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Calmette">
     <yago:hasName xml:lang="en">Gaston Calmette</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Skurzynski">
+    <yago:hasName xml:lang="en">Gloria Skurzynski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Arpino">
     <yago:hasName xml:lang="en">Giovanni Arpino</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Austin_Gary">
     <yago:hasName xml:lang="en">Gary Austin Heyde</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_King_(Aetherius_Society)">
-    <yago:hasName xml:lang="en">George King</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavriil_Troyepolsky">
     <yago:hasName xml:lang="en">Gavriil Troyepolsky</yago:hasName>
@@ -1952,17 +1994,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Noll_Crowell">
     <yago:hasName xml:lang="en">Grace Noll Crowell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Germain_Nouveau">
-    <yago:hasName xml:lang="en">Germain Nouveau</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Edmands_Merrill">
-    <yago:hasName xml:lang="en">George Edmands Merrill</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giada_Trebeschi">
-    <yago:hasName xml:lang="en">Giada Trebeschi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_Cimini">
-    <yago:hasName xml:lang="en">Giacomo Cimini</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Karpeles">
+    <yago:hasName xml:lang="en">Gustav Karpeles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gy%C3%B6rgy_Moldova">
     <yago:hasName xml:lang="en">György Moldova</yago:hasName>
@@ -1979,9 +2012,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Taylor_(journalist)">
     <yago:hasName xml:lang="en">Gary Taylor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustave_Anjou">
-    <yago:hasName xml:lang="en">Gustave Anjou</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Girard">
     <yago:hasName xml:lang="en">Geoffrey Girard</yago:hasName>
@@ -2022,9 +2052,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Krilanovich">
     <yago:hasName xml:lang="en">Grace Krilanovich</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Snell">
-    <yago:hasName xml:lang="en">Gordon Snell</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgette_Heyer">
     <yago:hasName xml:lang="en">Georgette Heyer</yago:hasName>
   </rdf:Description>
@@ -2039,9 +2066,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Slovo">
     <yago:hasName xml:lang="en">Gillian Slovo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladys_Mitchell">
-    <yago:hasName xml:lang="en">Gladys Mitchell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_David_Roberts">
     <yago:hasName xml:lang="en">Gregory David Roberts</yago:hasName>
@@ -2080,14 +2104,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Douglas_Brown">
     <yago:hasName xml:lang="en">George Douglas Brown</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Beruldsen">
-    <yago:hasName xml:lang="en">Gordon Beruldsen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Khoury_(author)">
     <yago:hasName xml:lang="en">George Khoury</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garance_Franke-Ruta">
     <yago:hasName xml:lang="en">Garance Franke-Ruta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garen_Ewing">
+    <yago:hasName xml:lang="en">Garen Ewing</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_di_Lorenzo">
     <yago:hasName xml:lang="en">Giovanni Di Lorenzo</yago:hasName>
@@ -2125,11 +2149,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Carr_(cartoonist)">
     <yago:hasName xml:lang="en">Gerald Carr</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._M._Syed">
+    <yago:hasName xml:lang="en">G. M. Syed</yago:hasName>
+    <yago:hasName xml:lang="en">Ghulam Murtaza Shah Syed</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Philipp_Harsdorffer">
     <yago:hasName xml:lang="en">Georg Philipp Harsdorffer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gil_Reavill">
     <yago:hasName xml:lang="en">Gil Reavill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Hanley">
+    <yago:hasName xml:lang="en">Gerald Hanley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Lumsden">
     <yago:hasName xml:lang="en">Glenn Lumsden</yago:hasName>
@@ -2156,8 +2187,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Tomlinson">
     <yago:hasName xml:lang="en">Gerald Tomlinson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Rovani">
-    <yago:hasName xml:lang="en">Giuseppe Rovani</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunno_Dahlstierna">
+    <yago:hasName xml:lang="en">Gunno Dahlstierna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gayle_Reaves">
+    <yago:hasName xml:lang="en">Gayle Reaves</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Glazkov">
     <yago:hasName xml:lang="en">Glazkov</yago:hasName>
@@ -2233,6 +2267,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Genz%C5%8D_Murakami">
     <yago:hasName xml:lang="en">Genzō Murakami</yago:hasName>
+    <yago:hasName xml:lang="en">Genzo Murakami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Webb">
     <yago:hasName xml:lang="en">Gary Webb</yago:hasName>
@@ -2280,11 +2315,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Bertati">
     <yago:hasName xml:lang="en">Giovanni Bertati</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Bennett_(writer)">
-    <yago:hasName xml:lang="en">Greg Bennett</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume_Dasqui%C3%A9">
     <yago:hasName xml:lang="en">Guillaume Dasquie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Bennett_(writer)">
+    <yago:hasName xml:lang="en">Greg Bennett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Merrick">
     <yago:hasName xml:lang="en">Gordon Merrick</yago:hasName>
@@ -2295,11 +2330,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garcilaso_de_la_Vega">
     <yago:hasName xml:lang="en">Garcilaso De La Vega</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_Ott">
+    <yago:hasName xml:lang="en">Gustavo Ott</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Metalious">
     <yago:hasName xml:lang="en">Grace Metalious</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Garrett_%28writer%29">
-    <yago:hasName xml:lang="en">Greg Garrett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_S._Elrick">
     <yago:hasName xml:lang="en">George Seefurth Elrick</yago:hasName>
@@ -2309,6 +2344,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._D._Falksen">
     <yago:hasName xml:lang="en">G. D. Falksen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gershon_Agron">
+    <yago:hasName xml:lang="en">Gershon Agron</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Got%C5%8D_Ch%C5%ABgai">
     <yago:hasName xml:lang="en">Gotō Chūgai</yago:hasName>
@@ -2352,14 +2390,13 @@
     <yago:hasName xml:lang="en">Grigoriy Demidovtsev</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Barr_McCutcheon">
-    <yago:hasName xml:lang="en">George Barr McCutcheon</yago:hasName>
+    <yago:hasName xml:lang="en">George Barr Maccutcheon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Sturt">
     <yago:hasName xml:lang="en">George Sturt</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gopala_Mishra">
-    <yago:hasName xml:lang="en">Gopalacharana Dwija</yago:hasName>
-    <yago:hasName xml:lang="en">Gopala Mishra</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giles_Fletcher,_the_Elder">
+    <yago:hasName xml:lang="en">Giles Fletcher</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_James_Borg">
     <yago:hasName xml:lang="en">Gerard James Borg</yago:hasName>
@@ -2376,17 +2413,23 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Stern">
     <yago:hasName xml:lang="en">Gerald Stern</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Krantz">
-    <yago:hasName xml:lang="en">Gunnar Krantz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grania_Davis">
     <yago:hasName xml:lang="en">Grania Davis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liana_Kanelli">
+    <yago:hasName xml:lang="en">Garyfallia Kanelli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gershon_Legman">
     <yago:hasName xml:lang="en">Gershon Legman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltasar_Graci%C3%A1n">
+    <yago:hasName xml:lang="en">Gracian Y Morales</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_Badoaro">
     <yago:hasName xml:lang="en">Giacomo Badoaro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_of_Nazianzus">
+    <yago:hasName xml:lang="en">Gregory of Nazianzus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunilla_Bergstr%C3%B6m">
     <yago:hasName xml:lang="en">Gunilla Bergstrom</yago:hasName>
@@ -2422,9 +2465,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Delanty">
     <yago:hasName xml:lang="en">Greg Delanty</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Hall_%28poet%29">
-    <yago:hasName xml:lang="en">Greg Hall</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Montanelli">
     <yago:hasName xml:lang="en">Giuseppe Montanelli</yago:hasName>
   </rdf:Description>
@@ -2437,14 +2477,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grantland_Rice">
     <yago:hasName xml:lang="en">Grantland Rice</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Butler_%28poet%29">
-    <yago:hasName xml:lang="en">Guy Butler</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Pape">
     <yago:hasName xml:lang="en">Gordon Pape</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Corps_Malade">
     <yago:hasName xml:lang="en">Grand Corps Malade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Grant">
+    <yago:hasName xml:lang="en">Gavin Grant</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Augustus_Henry_Sala">
     <yago:hasName xml:lang="en">George Augustus Henry Sala</yago:hasName>
@@ -2474,9 +2514,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Genevi%C3%A8ve_Laporte">
     <yago:hasName xml:lang="en">Genevieve Laporte</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Genevieve_Foster">
-    <yago:hasName xml:lang="en">Genevieve Foster</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guus_Kuijer">
     <yago:hasName xml:lang="en">Guus Kuijer</yago:hasName>
   </rdf:Description>
@@ -2502,9 +2539,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Etherege">
     <yago:hasName xml:lang="en">George Etherege</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gyula_Pap">
-    <yago:hasName xml:lang="en">Gyula Pap</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Washington_Cullum">
     <yago:hasName xml:lang="en">George Washington Cullum</yago:hasName>
@@ -2542,14 +2576,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Bull_Gundersen">
     <yago:hasName xml:lang="en">Gunnar Bull Gundersen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladys_Carmagnola">
+    <yago:hasName xml:lang="en">Gladys Carmagnola de Medina</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Lorenzi">
     <yago:hasName xml:lang="en">Giovanni Battista Lorenzi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Maggi">
     <yago:hasName xml:lang="en">Girolamo Maggi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Wheeler_Hinman">
-    <yago:hasName xml:lang="en">George Wheeler Hinman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwen_Bristow">
     <yago:hasName xml:lang="en">Gwen Bristow</yago:hasName>
@@ -2592,9 +2626,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Marcel">
     <yago:hasName xml:lang="en">Gabriel Marcel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giulio_Salvadori">
-    <yago:hasName xml:lang="en">Giulio Salvadori</yago:hasName>
+    <yago:hasName xml:lang="en">Gabriel Honoré Marcel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_McLean">
     <yago:hasName xml:lang="en">Gareth Maclean</yago:hasName>
@@ -2615,7 +2647,6 @@
     <yago:hasName xml:lang="en">Geraint Bowen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Pascoli">
-    <yago:hasName xml:lang="en">Giovanni Pascolo</yago:hasName>
     <yago:hasName xml:lang="en">Giovanni Pascoli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gonzalo_Soltero">
@@ -2624,14 +2655,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Byrne">
     <yago:hasName xml:lang="en">Gabriel Byrne</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_A._Braunbeck">
-    <yago:hasName xml:lang="en">Gary A. Braunbeck</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Xingjian">
     <yago:hasName xml:lang="en">Gao Xingjian</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Limbour">
-    <yago:hasName xml:lang="en">Georges Limbour</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Griffin">
     <yago:hasName xml:lang="en">Gerald Griffin</yago:hasName>
@@ -2643,29 +2668,39 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gaius_Valerius_Flaccus">
     <yago:hasName xml:lang="en">Gaius Valerius Flaccus</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Perrault">
-    <yago:hasName xml:lang="en">Gilles Perrault</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gianrico_Carofiglio">
     <yago:hasName xml:lang="en">Gianrico Carofiglio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Perrault">
+    <yago:hasName xml:lang="en">Gilles Perrault</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gad_Shimron">
     <yago:hasName xml:lang="en">Gad Shimron</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Critser">
+    <yago:hasName xml:lang="en">Greg Critser</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gopi_Chand_Narang">
     <yago:hasName xml:lang="en">Gopi Chand Narang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabrielle_Stanton">
+    <yago:hasName xml:lang="en">Gabrielle Stanton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Ebers">
     <yago:hasName xml:lang="en">Georg Ebers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghazi_Abdul_Rahman_Algosaibi">
+    <yago:hasName xml:lang="en">Ghazi Abdul Rahman Algosaibi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glyn_Maxwell">
     <yago:hasName xml:lang="en">Glyn Maxwell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Kim">
-    <yago:hasName xml:lang="en">Gene Kim</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gro_M%C3%B8llerstad">
     <yago:hasName xml:lang="en">Gro Moellerstad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genoveva_Matute">
+    <yago:hasName xml:lang="en">Genoveva Edroza-Matute</yago:hasName>
+    <yago:hasName xml:lang="en">Genoveva Matute</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Hills_(historian)">
     <yago:hasName xml:lang="en">George Hills</yago:hasName>
@@ -2752,14 +2787,10 @@
     <yago:hasName xml:lang="en">Genaro Estrada</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Aka_Morchiladze">
-    <yago:hasName xml:lang="en">Giorgi Akhvlediani</yago:hasName>
     <yago:hasName xml:lang="en">George Akhvlediani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Blaikie">
     <yago:hasName xml:lang="en">George Blaikie</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_McCarthy_%28poet%29">
-    <yago:hasName xml:lang="en">Gerald McCarthy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerhard_Gran">
     <yago:hasName xml:lang="en">Gerhard Gran</yago:hasName>
@@ -2770,6 +2801,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Clarke">
     <yago:hasName xml:lang="en">Gillian Clarke</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gurbaksh_Singh_Preetlari">
+    <yago:hasName xml:lang="en">Gurbaksh Singh Preetlari</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Nyarota">
     <yago:hasName xml:lang="en">Geoffrey Nyarota</yago:hasName>
   </rdf:Description>
@@ -2778,7 +2812,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_de_Rada">
     <yago:hasName xml:lang="en">Girolamo de Rada</yago:hasName>
-    <yago:hasName xml:lang="en">Geronimo de Rada</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_W._Smith">
     <yago:hasName xml:lang="en">Glenn W. Smith</yago:hasName>
@@ -2804,17 +2837,29 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gennadiy_Aygi">
     <yago:hasName xml:lang="en">Gennady Aygi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Moorhouse">
+    <yago:hasName xml:lang="en">Geoffrey Moorhouse</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_Lesser">
     <yago:hasName xml:lang="en">Gabriele Alexandra Lesser</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Mitchell">
+    <yago:hasName xml:lang="en">Gary Mitchell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Steer">
     <yago:hasName xml:lang="en">George Steer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Chastellain">
+    <yago:hasName xml:lang="en">Georges Chastellain</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Forrester">
     <yago:hasName xml:lang="en">Gary Forrester</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Wither">
     <yago:hasName xml:lang="en">George Wither</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Jakob_Christoffel_von_Grimmelshausen">
+    <yago:hasName xml:lang="en">Grimmelshausen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Jones_(journalist)">
     <yago:hasName xml:lang="en">Gareth Richard Vaughan Jones</yago:hasName>
@@ -2824,16 +2869,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ghadam-Ali_Sarami">
     <yago:hasName xml:lang="en">Ghadam-Al Sarami</yago:hasName>
-    <yago:hasName xml:lang="en">Ghadam-Ali Sarami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Malbrunot">
     <yago:hasName xml:lang="en">Georges Malbrunot</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Svee">
     <yago:hasName xml:lang="en">Gary Svee</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_O%27Hara">
-    <yago:hasName xml:lang="en">Geoffrey O'Hara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lee_(journalist)">
     <yago:hasName xml:lang="en">George Lee</yago:hasName>
@@ -2844,6 +2885,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ade">
     <yago:hasName xml:lang="en">George Ade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Tate">
+    <yago:hasName xml:lang="en">Greg Tate</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gena_Showalter">
+    <yago:hasName xml:lang="en">Gena Showalter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Morrison">
     <yago:hasName xml:lang="en">Greg Morrison</yago:hasName>
@@ -2856,6 +2903,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerhard_Calitz">
     <yago:hasName xml:lang="en">Gerhard Calitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_%C5%9Eerban">
+    <yago:hasName xml:lang="en">Gheorghe Serban</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume_Massieu">
     <yago:hasName xml:lang="en">Guillaume Massieu</yago:hasName>
@@ -2910,6 +2960,10 @@
     <yago:hasName xml:lang="en">Günter Wilhelm Grass</yago:hasName>
     <yago:hasName xml:lang="en">Günter Grass</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gratien_G%C3%A9linas">
+    <yago:hasName xml:lang="en">Gratien Gelinas</yago:hasName>
+    <yago:hasName xml:lang="en">Gratien Gélinas</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gizzi_Erskine">
     <yago:hasName xml:lang="en">Gizzi Erskine</yago:hasName>
   </rdf:Description>
@@ -2920,16 +2974,17 @@
     <yago:hasName xml:lang="en">Garret John LoPorto</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregg_Olsen">
+    <yago:hasName xml:lang="en">Gregg Olson</yago:hasName>
     <yago:hasName xml:lang="en">Gregg Olsen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._R._Indugopan">
+    <yago:hasName xml:lang="en">G. R. Indugopan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Clement_Boase">
     <yago:hasName xml:lang="en">George Clement Boase</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Steiner">
     <yago:hasName xml:lang="en">George Steiner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Mills_%28writer%29">
-    <yago:hasName xml:lang="en">George Mills</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gakuto_Coda">
     <yago:hasName xml:lang="en">Gakuto Coda</yago:hasName>
@@ -2944,6 +2999,9 @@
     <yago:hasName xml:lang="en">Gordana Kuić</yago:hasName>
     <yago:hasName xml:lang="en">Gordana Kuic</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Cornish">
+    <yago:hasName xml:lang="en">Geoffrey Cornish</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Smith_(writer)">
     <yago:hasName xml:lang="en">Guy Smith</yago:hasName>
   </rdf:Description>
@@ -2953,9 +3011,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Youngblood">
     <yago:hasName xml:lang="en">Gene Youngblood</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerry_Murphy_%28poet%29">
-    <yago:hasName xml:lang="en">Gerry Murphy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gottlieb_Schuler">
     <yago:hasName xml:lang="en">Gottlieb Schuler</yago:hasName>
@@ -2991,6 +3046,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jennings_Carmichael">
     <yago:hasName xml:lang="en">Grace Elizabeth Jennings Carmichael</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Fino_Noriega">
+    <yago:hasName xml:lang="en">Gabriel Fino Noriega</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9rard_Deltell">
     <yago:hasName xml:lang="en">Gérard Deltell</yago:hasName>
   </rdf:Description>
@@ -3000,11 +3058,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Rashid_Yasemi">
     <yago:hasName xml:lang="en">Gholamreza Rashid Yasem</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Flynn">
-    <yago:hasName xml:lang="en">Greg Flynn</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Mazzara">
+    <yago:hasName xml:lang="en">Glen Mazzara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerasim_Pile%C5%A1">
     <yago:hasName xml:lang="en">Gerasim Pileš</yago:hasName>
+    <yago:hasName xml:lang="en">Gerasim Piles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerina_Dunwich">
     <yago:hasName xml:lang="en">Gerina Dunwich</yago:hasName>
@@ -3041,6 +3100,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Carpani">
     <yago:hasName xml:lang="en">Giuseppe Carpani</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Zinkhan">
+    <yago:hasName xml:lang="en">George Zinkhan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Cergol">
     <yago:hasName xml:lang="en">Greg Cergol</yago:hasName>
   </rdf:Description>
@@ -3076,6 +3138,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg%C3%B3rio_de_Mattos">
     <yago:hasName xml:lang="en">Gregório de Mattos</yago:hasName>
+    <yago:hasName xml:lang="en">Gregório de Mattos e Guerra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_of_Wales">
     <yago:hasName xml:lang="en">Gerald Of Wales</yago:hasName>
@@ -3096,20 +3159,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Zoppio">
     <yago:hasName xml:lang="en">Girolamo Zoppio</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Gavriel_Kay">
-    <yago:hasName xml:lang="en">Guy Gavriel Kay</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geert_R._A._Kliphuis">
-    <yago:hasName xml:lang="en">Geert R A Kliphuis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerhard_Herm">
     <yago:hasName xml:lang="en">Gerhard Herm</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Graziani">
     <yago:hasName xml:lang="en">Girolamo Graziani</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Barker_%28poet%29">
-    <yago:hasName xml:lang="en">George Barker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gul_Pacha_Ulfat">
     <yago:hasName xml:lang="en">Gul Pacha Ulfat</yago:hasName>
@@ -3207,6 +3261,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Massey">
     <yago:hasName xml:lang="en">Gerald Massey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwilym_Rhyfel">
+    <yago:hasName xml:lang="en">Gwilym Rhyfel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_Dourado">
     <yago:hasName xml:lang="en">Gustavo Dourado</yago:hasName>
   </rdf:Description>
@@ -3215,6 +3272,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garth_Turner">
     <yago:hasName xml:lang="en">Garth Turner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Thomson,_Baron_Thomson_of_Monifieth">
+    <yago:hasName xml:lang="en">George Thomson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Zhibin_Gu">
+    <yago:hasName xml:lang="en">George Gu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Tsimbidaros-Fteris">
     <yago:hasName xml:lang="en">George Tsimbidaros (Fteris)</yago:hasName>
@@ -3244,24 +3307,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Sandys">
     <yago:hasName xml:lang="en">George Sandys</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Kinder_%28author%29">
-    <yago:hasName xml:lang="en">Gary Kinder</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Owen_(playwright)">
     <yago:hasName xml:lang="en">Gary Owen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerhard_Eichelmann">
     <yago:hasName xml:lang="en">Gerhard Eichelmann</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gra%C5%BCyna_Wojcieszko">
-    <yago:hasName xml:lang="en">Grażyna Wojcieszko</yago:hasName>
-    <yago:hasName xml:lang="en">Grazyna Wojcieszko</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_L._Fox_(clown)">
     <yago:hasName xml:lang="en">George L. Fox</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Selden_%28author%29">
-    <yago:hasName xml:lang="en">George Selden</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Heiberg">
     <yago:hasName xml:lang="en">Gunnar Heiberg</yago:hasName>
@@ -3330,6 +3383,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Goodings">
     <yago:hasName xml:lang="en">Graeme Goodings</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_E._Anzald%C3%BAa">
+    <yago:hasName xml:lang="en">Gloria E. Anzaldua</yago:hasName>
+    <yago:hasName xml:lang="en">Gloria Evangelina Anzaldua</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriela_Zapolska">
     <yago:hasName xml:lang="en">Gabriela Zapolska</yago:hasName>
   </rdf:Description>
@@ -3361,6 +3418,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Wilkins">
     <yago:hasName xml:lang="en">George Wilkins</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriela_Cre%C5%A3u">
+    <yago:hasName xml:lang="en">Gabriela Cretu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Miller">
     <yago:hasName xml:lang="en">Gene Miller</yago:hasName>
   </rdf:Description>
@@ -3371,6 +3431,7 @@
     <yago:hasName xml:lang="en">Grant Heslov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_McNeill">
+    <yago:hasName xml:lang="en">Graham Macneill</yago:hasName>
     <yago:hasName xml:lang="en">Graham McNeill</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume_de_Lorris">
@@ -3393,9 +3454,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Godfrey_Mwakikagile">
     <yago:hasName xml:lang="en">Godfrey Mwakikagile</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginjer_Buchanan">
-    <yago:hasName xml:lang="en">Ginjer Buchanan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Faustini">
     <yago:hasName xml:lang="en">Giovanni Faustini</yago:hasName>
@@ -3436,6 +3494,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Lurani">
     <yago:hasName xml:lang="en">Giovanni Lurani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Fr%C3%B6ding">
+    <yago:hasName xml:lang="en">Gustaf Froding</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gigi_Levangie_Grazer">
     <yago:hasName xml:lang="en">Gigi Levangie Grazer</yago:hasName>
@@ -3493,10 +3554,14 @@
     <yago:hasName xml:lang="en">Giulio Cesare Croce</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%BCnter_Wallraff">
+    <yago:hasName xml:lang="en">Gunter Wallraff</yago:hasName>
     <yago:hasName xml:lang="en">Günter Wallraff</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gambit_(Scheme_implementation)">
     <yago:hasName xml:lang="en">Gambit</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Stotelmyer">
+    <yago:hasName xml:lang="en">Greg Stotelmyer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ga%C3%A9tan_Brulotte">
     <yago:hasName xml:lang="en">Gaetan Brulotte Brulotte</yago:hasName>
@@ -3513,11 +3578,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Seymour">
     <yago:hasName xml:lang="en">Gerald Seymour</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavo_P%C3%A9rez_Firmat">
+    <yago:hasName xml:lang="en">Gustavo Perez Firmat</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%BCnther_Schwarberg">
     <yago:hasName xml:lang="en">Gunther Schwarberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Bear">
     <yago:hasName xml:lang="en">Greg Bear</yago:hasName>
+    <yago:hasName xml:lang="en">Gregory Dale Bear</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_William_Barrax">
     <yago:hasName xml:lang="en">Gerald William Barrax</yago:hasName>
@@ -3529,14 +3598,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Reavey">
     <yago:hasName xml:lang="en">George Reavey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakkanadan">
+    <yago:hasName xml:lang="en">George Varghese Kakkanadan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghassan_Kanafani">
+    <yago:hasName xml:lang="en">Ghassan Kanafani</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Curtis">
     <yago:hasName xml:lang="en">George William Curtis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume-Hyacinthe_Bougeant">
     <yago:hasName xml:lang="en">Guillaume Hyacinthe Bougeant</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunjan_Bagla">
-    <yago:hasName xml:lang="en">Gunjan Bagla</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Orr_(poet)">
     <yago:hasName xml:lang="en">Gregory Orr</yago:hasName>
@@ -3546,6 +3618,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Luis_Centina_III">
     <yago:hasName xml:lang="en">Gilbert Luis Centina</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigore_Singurel">
+    <yago:hasName xml:lang="en">Grigore Singurel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_Ursu">
     <yago:hasName xml:lang="en">Gheorghe Ursu</yago:hasName>
@@ -3562,9 +3637,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garrett_Hardin">
     <yago:hasName xml:lang="en">Garrett Hardin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Germann">
-    <yago:hasName xml:lang="en">Geoffrey Germann</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guru_Thakur">
     <yago:hasName xml:lang="en">Guru Thakur</yago:hasName>
@@ -3587,14 +3659,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Laconsay">
     <yago:hasName xml:lang="en">Greg Laconsay</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Genie_Davis">
-    <yago:hasName xml:lang="en">Genie Davis</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giselda_Zani">
+    <yago:hasName xml:lang="en">Giselda Zani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Wolinetz">
     <yago:hasName xml:lang="en">Geoff Wolinetz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Goffredo_Mameli">
     <yago:hasName xml:lang="en">Goffredo Mameli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Imlach">
+    <yago:hasName xml:lang="en">Gary Imlach</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Dyke">
     <yago:hasName xml:lang="en">Greg Dyke</yago:hasName>
@@ -3626,9 +3701,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Suits">
     <yago:hasName xml:lang="en">Gustav Suits</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Guru_Gobind_Singh">
-    <yago:hasName xml:lang="en">Guru Gobind Singh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Rattray_Taylor">
     <yago:hasName xml:lang="en">Gordon Rattray Taylor</yago:hasName>
@@ -3693,6 +3765,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Payne_Rainsford_James">
     <yago:hasName xml:lang="en">George Payne Rainsford James</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Gilbert_Parker,_1st_Baronet">
+    <yago:hasName xml:lang="en">Gilbert Parker</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Marzorati">
     <yago:hasName xml:lang="en">Gerald Marzorati</yago:hasName>
   </rdf:Description>
@@ -3723,14 +3798,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Oltramare">
     <yago:hasName xml:lang="en">Georges Oltramare</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyneth_Jones_%28novelist%29">
-    <yago:hasName xml:lang="en">Gwyneth Jones</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilla_na_Naemh_Ua_Duinn">
     <yago:hasName xml:lang="en">Gilla Na Naemh Ua Duinn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_W._Moore">
     <yago:hasName xml:lang="en">Gary Moore</yago:hasName>
+    <yago:hasName xml:lang="en">Gary W. Moore</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerd_Heidemann">
     <yago:hasName xml:lang="en">Gerd Heidemann</yago:hasName>
@@ -3753,14 +3826,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Zevola">
     <yago:hasName xml:lang="en">Giuseppe Zevola</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladstone_%28humorist%29">
-    <yago:hasName xml:lang="en">Gladstone</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cavendish_(writer)">
     <yago:hasName xml:lang="en">George Cavendish</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwendolyn_B._Bennett">
-    <yago:hasName xml:lang="en">Gwendolyn B. Bennett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Jewsbury">
     <yago:hasName xml:lang="en">Geraldine Jewsbury</yago:hasName>
@@ -3800,9 +3867,6 @@
     <yago:hasName xml:lang="en">Gavin L. O'Keefe</yago:hasName>
     <yago:hasName xml:lang="en">Gavin Okeefe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Thomas">
-    <yago:hasName xml:lang="en">Gilles Thomas</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaw_Morcinek">
     <yago:hasName xml:lang="en">Gustaw Morcinek</yago:hasName>
   </rdf:Description>
@@ -3822,14 +3886,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greil_Marcus">
     <yago:hasName xml:lang="en">Greil Marcus</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Dawson_(author)">
-    <yago:hasName xml:lang="en">George Dawson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gervase_Markham">
     <yago:hasName xml:lang="en">Gervase Markham</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Mitton">
-    <yago:hasName xml:lang="en">Geraldine Mitton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_J._Gruen">
     <yago:hasName xml:lang="en">George J. Gruen</yago:hasName>
@@ -3856,6 +3914,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gy%C3%B6rgy_Schwajda">
     <yago:hasName xml:lang="en">Gyorgy Schwajda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Gumbel">
+    <yago:hasName xml:lang="en">Greg Gumbel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grevel_Lindop">
+    <yago:hasName xml:lang="en">Grevel Lindop</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Saunders">
     <yago:hasName xml:lang="en">George Saunders</yago:hasName>
@@ -3900,6 +3964,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillelma_de_Rosers">
     <yago:hasName xml:lang="en">Guillelma De Rosers</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Frederick_Shrady,_Sr.">
+    <yago:hasName xml:lang="en">George Frederick Shrady</yago:hasName>
+    <yago:hasName xml:lang="en">George Frederick Shrady, Sr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Walter_Thornbury">
     <yago:hasName xml:lang="en">George Walter Thornbury</yago:hasName>
   </rdf:Description>
@@ -3915,10 +3983,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Larson">
     <yago:hasName xml:lang="en">Gary Larson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Parker_%28author%29">
-    <yago:hasName xml:lang="en">Gordon (author) Parker</yago:hasName>
-    <yago:hasName xml:lang="en">Gordon Parker</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%BCnther_Nenning">
     <yago:hasName xml:lang="en">Gunther Nenning</yago:hasName>
   </rdf:Description>
@@ -3928,21 +3992,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garet_Garrett">
     <yago:hasName xml:lang="en">Garet Garret</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gola_Gong">
-    <yago:hasName xml:lang="en">Gola Gong</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Boker">
     <yago:hasName xml:lang="en">George Henry Boker</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Glasse">
-    <yago:hasName xml:lang="en">George Glasse</yago:hasName>
-    <yago:hasName xml:lang="en">George Henry Glasse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Swift">
     <yago:hasName xml:lang="en">Graham Swift</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giulio_Variboba">
     <yago:hasName xml:lang="en">Giulio Variboba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Fari%C3%B1as">
+    <yago:hasName xml:lang="en">Guillermo Fariñas</yago:hasName>
+    <yago:hasName xml:lang="en">Guillermo Farinas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grigoriy_Oster">
     <yago:hasName xml:lang="en">Grigoriy Oster</yago:hasName>
@@ -3952,9 +4013,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Hamerton">
     <yago:hasName xml:lang="en">Greg Hamerton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gail_Collins">
-    <yago:hasName xml:lang="en">Gail Collins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Malaclypse_the_Younger">
     <yago:hasName xml:lang="en">Gregory Hill</yago:hasName>
@@ -3971,12 +4029,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Hall_Gerould">
     <yago:hasName xml:lang="en">Gordon Hall Gerould</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gad_Saad">
-    <yago:hasName xml:lang="en">Gad Saad</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Vasilyev">
     <yago:hasName xml:lang="en">Georgi Vasilyev</yago:hasName>
     <yago:hasName xml:lang="en">Georgi Nikolaevich Vasilyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gad_Saad">
+    <yago:hasName xml:lang="en">Gad Saad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gourahari_Das">
     <yago:hasName xml:lang="en">Gourahari Das</yago:hasName>
@@ -4043,6 +4101,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Andrea_dell&apos;_Anguillara">
     <yago:hasName xml:lang="en">Giovanni Andrea DellAnguillara</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gautam_Malkani">
+    <yago:hasName xml:lang="en">Gautam Malkani</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gladstone_(humorist)">
     <yago:hasName xml:lang="en">Gladstone</yago:hasName>
   </rdf:Description>
@@ -4093,6 +4154,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Shipway">
     <yago:hasName xml:lang="en">George Shipway</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Henry">
+    <yago:hasName xml:lang="en">Gordon Henry</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Frumkin">
     <yago:hasName xml:lang="en">Gene Frumkin</yago:hasName>
   </rdf:Description>
@@ -4105,9 +4169,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Borrow">
     <yago:hasName xml:lang="en">George Borrow</yago:hasName>
     <yago:hasName xml:lang="en">George Henry Borrow</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gokulananda_Mohapatra">
-    <yago:hasName xml:lang="en">Gokulananda Mohapatra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gitau_wa_Njenga">
     <yago:hasName xml:lang="en">Gitau Wa Njenga</yago:hasName>
@@ -4130,9 +4191,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/GNU_Compiler_for_Java">
     <yago:hasName xml:lang="en">GNU Compiler for Java</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Cox_%28writer%29">
-    <yago:hasName xml:lang="en">Greg Cox</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gy%C3%B6rgy_Dragom%C3%A1n">
     <yago:hasName xml:lang="en">Gyorgy Dragoman</yago:hasName>
   </rdf:Description>
@@ -4142,6 +4200,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garth_Nix">
     <yago:hasName xml:lang="en">Garth Nix</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Zaring_Stone">
+    <yago:hasName xml:lang="en">Grace Zaring Stone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goran_Goci%C4%87">
+    <yago:hasName xml:lang="en">Goran Gocic</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_C%C4%83linescu">
     <yago:hasName xml:lang="en">George Calinescu</yago:hasName>
     <yago:hasName xml:lang="en">George Călinescu</yago:hasName>
@@ -4150,6 +4214,7 @@
     <yago:hasName xml:lang="en">Geo-Charles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ganira_Pashayeva">
+    <yago:hasName xml:lang="en">Ganira Pashayeva Elesger Qizi</yago:hasName>
     <yago:hasName xml:lang="en">Ganira Pashayeva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Targioni-Tozzetti">
@@ -4177,7 +4242,7 @@
     <yago:hasName xml:lang="en">Gina Silva</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gid%C5%8D_Sh%C5%ABshin">
-    <yago:hasName xml:lang="en">Gidō Shūshin</yago:hasName>
+    <yago:hasName xml:lang="en">Gido Shushin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giulio_Cesare_Cortese">
     <yago:hasName xml:lang="en">Giulio Cesare Cortese</yago:hasName>
@@ -4188,6 +4253,13 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerrit_Jan_van_Heuven_Goedhart">
     <yago:hasName xml:lang="en">Gerrit Jan Van Heuven Goedhart</yago:hasName>
     <yago:hasName xml:lang="en">Gerrit Jan van Heuven Goedhart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_de_Carteret">
+    <yago:hasName xml:lang="en">George William De Carteret</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gor%C5%8D_Matsui">
+    <yago:hasName xml:lang="en">Gorō Matsui</yago:hasName>
+    <yago:hasName xml:lang="en">Goro Matsui</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gidske_Anderson">
     <yago:hasName xml:lang="en">Gidske Anderson</yago:hasName>
@@ -4205,6 +4277,7 @@
     <yago:hasName xml:lang="en">Gwenlyn Parry</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Grossmith,_Jr.">
+    <yago:hasName xml:lang="en">Grossmith, George, Jr.</yago:hasName>
     <yago:hasName xml:lang="en">George Grossmith, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Gioachino_Belli">
@@ -4219,6 +4292,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giles_Blunt">
     <yago:hasName xml:lang="en">Giles Blunt</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Aronson">
+    <yago:hasName xml:lang="en">Geoffrey Aronson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_M%C3%A9tivier">
+    <yago:hasName xml:lang="en">George Metivier</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Genevi%C3%A8ve_Brisac">
     <yago:hasName xml:lang="en">Genevieve Brisac</yago:hasName>
     <yago:hasName xml:lang="en">Geneviève Brisac</yago:hasName>
@@ -4231,6 +4310,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Lynn">
     <yago:hasName xml:lang="en">Guy Lynn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Llewellyn">
+    <yago:hasName xml:lang="en">Grace Llewellyn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuliana_Rancic">
     <yago:hasName xml:lang="en">Giuliana Rancic</yago:hasName>
@@ -4265,9 +4347,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Colby">
     <yago:hasName xml:lang="en">Gerard Colby</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Torrelles">
-    <yago:hasName xml:lang="en">Gabriel Torrelles</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%BCl_Baba">
     <yago:hasName xml:lang="en">Guel Baba</yago:hasName>
   </rdf:Description>
@@ -4283,12 +4362,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Berriault">
     <yago:hasName xml:lang="en">Gina Berriault</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ioseb_Grishashvili">
+    <yago:hasName xml:lang="en">Grishashvili</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gretchen_Cryer">
     <yago:hasName xml:lang="en">Gretchen Cryer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giosu%C3%A8_Carducci">
     <yago:hasName xml:lang="en">Giosue Carducci</yago:hasName>
-    <yago:hasName xml:lang="en">Giosuè Alessandro Giuseppe Carducci</yago:hasName>
     <yago:hasName xml:lang="en">Giosuè Alessandro Michele Carducci</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geet_Chaturvedi">
@@ -4299,9 +4380,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Korman">
     <yago:hasName xml:lang="en">Gordon Korman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghassan_Hage">
-    <yago:hasName xml:lang="en">Ghassan Hage</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bassman">
     <yago:hasName xml:lang="en">George Bassman</yago:hasName>
@@ -4329,9 +4407,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guilhem_Ademar">
     <yago:hasName xml:lang="en">Guilhem Ademar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Khevenh%C3%BCller">
-    <yago:hasName xml:lang="en">George Khevenhuller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Morris_(game_designer)">
     <yago:hasName xml:lang="en">Graeme Morris</yago:hasName>
@@ -4366,6 +4441,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gert_Nyg%C3%A5rdshaug">
     <yago:hasName xml:lang="en">Gert Nygaardshaug</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ganesh_Shankar_Vidyarthi">
+    <yago:hasName xml:lang="en">Ganesh Shankar Vidyarthi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gjek%C3%AB_Marinaj">
     <yago:hasName xml:lang="en">Gjekë Marinaj</yago:hasName>
   </rdf:Description>
@@ -4387,9 +4465,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Casti">
     <yago:hasName xml:lang="en">Giovanni Casti</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaziul_Haque">
-    <yago:hasName xml:lang="en">Gaziul Haque</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Washington_Parke_Custis">
     <yago:hasName xml:lang="en">George Washington Parke Custis</yago:hasName>
   </rdf:Description>
@@ -4405,6 +4480,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunasena_Galappatty">
     <yago:hasName xml:lang="en">Gunasena Galappaty</yago:hasName>
     <yago:hasName xml:lang="en">Gunasena Galappatty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunvor_Hofmo">
+    <yago:hasName xml:lang="en">Gunvor Hofmo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gintaras_Beresnevi%C4%8Dius">
+    <yago:hasName xml:lang="en">Gintaras Beresnevicius</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenda_Adams">
     <yago:hasName xml:lang="en">Glenda Adams</yago:hasName>
@@ -4457,9 +4538,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gayla_Reid">
     <yago:hasName xml:lang="en">Gayla Reid</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladys-Marie_Fry">
-    <yago:hasName xml:lang="en">Gladys-Marie Fry</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Egan">
     <yago:hasName xml:lang="en">Greg Egan</yago:hasName>
   </rdf:Description>
@@ -4483,6 +4561,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Gibson">
     <yago:hasName xml:lang="en">Graeme Gibson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyn_Thomas_(poet)">
+    <yago:hasName xml:lang="en">Gwyn Thomas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gellu_Naum">
     <yago:hasName xml:lang="en">Gellu Naum</yago:hasName>
@@ -4585,9 +4666,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Weiss">
     <yago:hasName xml:lang="en">George Henry Weiss</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyn_Thomas_%28novelist%29">
-    <yago:hasName xml:lang="en">Gwyn Thomas</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Brunelli">
     <yago:hasName xml:lang="en">Giuseppe Antonio Brunelli</yago:hasName>
   </rdf:Description>
@@ -4633,9 +4711,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Guowei">
     <yago:hasName xml:lang="en">Guowei Wang</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gail_Carson_Levine">
-    <yago:hasName xml:lang="en">Gail Carson Levine</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gideon_Rachman">
     <yago:hasName xml:lang="en">Gideon Rachman</yago:hasName>
@@ -4710,6 +4785,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwendoline_Riley">
     <yago:hasName xml:lang="en">Gwendoline Riley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Pell%C3%B3n">
+    <yago:hasName xml:lang="en">Gina Pellon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_A._Marden">
+    <yago:hasName xml:lang="en">George Augustus Marden</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Giusti">
     <yago:hasName xml:lang="en">Girolamo Giusti</yago:hasName>
   </rdf:Description>
@@ -4742,9 +4823,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Dyer_(poet)">
     <yago:hasName xml:lang="en">George Dyer</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Brooks_%28writer%29">
-    <yago:hasName xml:lang="en">Geraldine Brooks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Reid_(Scottish_politician)">
     <yago:hasName xml:lang="en">George Reid</yago:hasName>
@@ -4792,14 +4870,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Sheridan">
     <yago:hasName xml:lang="en">Greg Sheridan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pawlaczyk">
+    <yago:hasName xml:lang="en">George Pawlaczyk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kang_Kyeong-ae">
+    <yago:hasName xml:lang="en">Gyeong-Ae Kang</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_H%C3%A1mundarson">
     <yago:hasName xml:lang="en">Gunnar Hamundarson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ged_Maybury">
     <yago:hasName xml:lang="en">Ged Maybury</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gino_Wickman">
-    <yago:hasName xml:lang="en">Gino Wickman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Prieto">
     <yago:hasName xml:lang="en">Guillermo Prieto</yago:hasName>
@@ -4813,9 +4894,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_O&apos;Neil">
     <yago:hasName xml:lang="en">George Oneil</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerbrand_Bakker_%28novelist%29">
-    <yago:hasName xml:lang="en">Gerbrand Bakker</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Iles">
     <yago:hasName xml:lang="en">Greg Iles</yago:hasName>
   </rdf:Description>
@@ -4825,11 +4903,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Staalesen">
     <yago:hasName xml:lang="en">Gunnar Staalesen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_De_Piero">
+    <yago:hasName xml:lang="en">Gloria De Piero</yago:hasName>
+    <yago:hasName xml:lang="en">Gloria de Piero</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_van_Straten">
     <yago:hasName xml:lang="en">Giorgio van Straten</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Allnutt">
     <yago:hasName xml:lang="en">Gillian Allnutt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Hanot">
+    <yago:hasName xml:lang="en">Gabriel Hanot</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lauren_Gunderson">
     <yago:hasName xml:lang="en">Gunderson Gunderson</yago:hasName>
@@ -4839,9 +4924,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gopi_Kottoor">
     <yago:hasName xml:lang="en">Gopi Kottoor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Brown_%28author%29">
-    <yago:hasName xml:lang="en">Gordon Brown</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gangadhar_V._Chittal">
     <yago:hasName xml:lang="en">Gangadhar V. Chittal</yago:hasName>
@@ -4866,8 +4948,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Fielding">
     <yago:hasName xml:lang="en">Gabriel Fielding</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Delisle">
+    <yago:hasName xml:lang="en">Guy Delisle</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gail_Godwin">
     <yago:hasName xml:lang="en">Gail Godwin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grits_Gresham">
+    <yago:hasName xml:lang="en">Grits Gresham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillebr%C3%ADghde_Albanach">
     <yago:hasName xml:lang="en">Gillebrighde Albanach</yago:hasName>
@@ -4875,15 +4963,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gaspara_Stampa">
     <yago:hasName xml:lang="en">Gaspara Stampa</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bat_Ye%27or">
-    <yago:hasName xml:lang="en">Gisèle Littman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_R._Stewart">
     <yago:hasName xml:lang="en">George Rippey Stewart</yago:hasName>
     <yago:hasName xml:lang="en">George R. Stewart</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghulam_Mustafa_Tabassum">
-    <yago:hasName xml:lang="en">Ghulam Mustafa Tabassum</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Phillips">
+    <yago:hasName xml:lang="en">Glen Phillips</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giacinto_Andrea_Cicognini">
     <yago:hasName xml:lang="en">Giacinto Andrea Cicognini</yago:hasName>
@@ -4922,6 +5007,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gulab_Khandelwal">
     <yago:hasName xml:lang="en">Gulab Khandelwal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Little">
+    <yago:hasName xml:lang="en">Graham Little</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Barton">
     <yago:hasName xml:lang="en">Geoff Barton</yago:hasName>
   </rdf:Description>
@@ -4944,20 +5032,22 @@
     <yago:hasName xml:lang="en">Guido Rodriguez Alcalá</yago:hasName>
     <yago:hasName xml:lang="en">Guido Rodriguez Alcala</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gon%C3%A7alves_de_Magalh%C3%A3es,_Viscount_of_Araguaia">
+    <yago:hasName xml:lang="en">Gonçalves de Magalhães</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Johnson_(medical_journalist)">
+    <yago:hasName xml:lang="en">G. Timothy Johnson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giles_Andreae">
     <yago:hasName xml:lang="en">Giles Andreae</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Heo_Gyun">
-    <yago:hasName xml:lang="en">Gyun Heo</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._N._Ratanpuri">
-    <yago:hasName xml:lang="en">Ghulam Nabi . Ratanpuri</yago:hasName>
+    <yago:hasName xml:lang="en">G.N. Ratanpuri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_McMahon_(assassin)">
     <yago:hasName xml:lang="en">George Macmahon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gokulanada_Gitiswami">
-    <yago:hasName xml:lang="en">Gokulanada Gitiswami</yago:hasName>
     <yago:hasName xml:lang="en">Gakulananda Gitiswami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Rodkey">
@@ -4985,12 +5075,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Wolf_(journalist)">
     <yago:hasName xml:lang="en">Gary Wolf</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Thomson_Omond">
-    <yago:hasName xml:lang="en">George William Thomson Omond</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg%C3%B3rio_de_Matos">
-    <yago:hasName xml:lang="en">Gregório de Matos e Guerra</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ella_Lyon">
     <yago:hasName xml:lang="en">George Ella Lyon</yago:hasName>
   </rdf:Description>
@@ -4999,10 +5083,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gurpreet_Kaur">
     <yago:hasName xml:lang="en">Guurpreet Kaur</yago:hasName>
-    <yago:hasName xml:lang="en">Gurpreet Kaur</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Grant_Ginder">
-    <yago:hasName xml:lang="en">Grant Ginder</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giraut_de_Bornelh">
     <yago:hasName xml:lang="en">Giraut De Bornelh</yago:hasName>
@@ -5021,6 +5101,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Prouteau">
     <yago:hasName xml:lang="en">Gilbert Prouteau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_A._Landis">
+    <yago:hasName xml:lang="en">Geoffrey A. Landis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A1sp%C3%A1r_Nagy">
     <yago:hasName xml:lang="en">Gaspar Nagy</yago:hasName>
@@ -5042,6 +5125,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bilgere">
     <yago:hasName xml:lang="en">George Bilgere</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_McLarnon">
+    <yago:hasName xml:lang="en">Gerard Maclarnon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gamble_Rogers">
     <yago:hasName xml:lang="en">Gamble Rogers</yago:hasName>
@@ -5081,9 +5167,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Robert_Sims">
     <yago:hasName xml:lang="en">George Robert Sims</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giolla_na_Naomh_%C3%93_hUidhr%C3%ADn">
-    <yago:hasName xml:lang="en">Giolla Na Naomh O Huidhrin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A1draig_J._Daly">
     <yago:hasName xml:lang="en">Greg Delanty</yago:hasName>
   </rdf:Description>
@@ -5099,9 +5182,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gyula_Juh%C3%A1sz">
     <yago:hasName xml:lang="en">Gyula Juhasz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gadzhi_Abashilov">
-    <yago:hasName xml:lang="en">Gadzhi Akhmedovich Abashilov</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Nedungatt">
     <yago:hasName xml:lang="en">George Nedungatt</yago:hasName>
   </rdf:Description>
@@ -5110,9 +5190,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Van_Gelder">
     <yago:hasName xml:lang="en">Gordon Van Gelder</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_G._Watson">
-    <yago:hasName xml:lang="en">George G. Waston</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_de_Porto-Riche">
     <yago:hasName xml:lang="en">Georges de Porto-Riche</yago:hasName>
@@ -5132,18 +5209,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Hook">
     <yago:hasName xml:lang="en">George Hook</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenna_Maynard">
-    <yago:hasName xml:lang="en">Glenna Maynard</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guru_Ganesha_Singh_Khalsa">
     <yago:hasName xml:lang="en">Guru Ganesha Singh Khalsa</yago:hasName>
     <yago:hasName xml:lang="en">GuruGanesha Singh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bagby_(author)">
     <yago:hasName xml:lang="en">George Bagby</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Paish">
-    <yago:hasName xml:lang="en">George Paish</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Cook_(poet)">
     <yago:hasName xml:lang="en">Geoffrey Cook</yago:hasName>
@@ -5160,11 +5231,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Washington_Cable">
     <yago:hasName xml:lang="en">George Washington Cable</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G._Willow_Wilson">
-    <yago:hasName xml:lang="en">G. Willow Wilson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Landsborough">
     <yago:hasName xml:lang="en">Gordon Landsborough</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._Willow_Wilson">
+    <yago:hasName xml:lang="en">G. Willow Wilson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Gale_(journalist)">
     <yago:hasName xml:lang="en">George Gale</yago:hasName>
@@ -5174,6 +5245,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Monroe">
     <yago:hasName xml:lang="en">Grace Monroe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Davis_(game_designer)">
+    <yago:hasName xml:lang="en">Graeme Davis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Golda_Fried">
     <yago:hasName xml:lang="en">Golda Fried</yago:hasName>
@@ -5221,9 +5295,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Watsky">
     <yago:hasName xml:lang="en">George Watsky</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Faletti">
-    <yago:hasName xml:lang="en">Giorgio Faletti</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gay_Talese">
     <yago:hasName xml:lang="en">Gay Talese</yago:hasName>
   </rdf:Description>
@@ -5241,6 +5312,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Kennedy">
     <yago:hasName xml:lang="en">Grace Kennedy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Rosales">
+    <yago:hasName xml:lang="en">Guillermo Rosales</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Conoley">
     <yago:hasName xml:lang="en">Gillian Conoley</yago:hasName>
@@ -5270,9 +5344,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._Wayne_Miller">
     <yago:hasName xml:lang="en">G. Wayne Miller</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Amendola">
-    <yago:hasName xml:lang="en">Giorgio Amendola</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Bachelard">
     <yago:hasName xml:lang="en">Gaston Bachelard</yago:hasName>
   </rdf:Description>
@@ -5287,9 +5358,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_S%C3%A9nac_de_Meilhan">
     <yago:hasName xml:lang="en">Gabriel Senac De Meilhan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gideon_Raff">
-    <yago:hasName xml:lang="en">Gidi Raff</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Albert_Alexandre_Glatigny">
     <yago:hasName xml:lang="en">Glatigny</yago:hasName>
@@ -5312,6 +5380,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G._H._Mair">
     <yago:hasName xml:lang="en">G. H. Mair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwilym_Tew">
+    <yago:hasName xml:lang="en">Gwilym Tew</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grizel_Baillie">
     <yago:hasName xml:lang="en">Grizel Baillie</yago:hasName>
@@ -5359,10 +5430,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Guidiccioni">
     <yago:hasName xml:lang="en">Guidiccioni</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_G._Blackburn">
-    <yago:hasName xml:lang="en">George Blackburn</yago:hasName>
-    <yago:hasName xml:lang="en">George Blackburn, CM, MC</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Gilfillan">
     <yago:hasName xml:lang="en">George Gilfillan</yago:hasName>
   </rdf:Description>
@@ -5387,9 +5454,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Heym">
     <yago:hasName xml:lang="en">Georg Heym</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Jenkin">
-    <yago:hasName xml:lang="en">Graham Jenkin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georgina_Lightning">
     <yago:hasName xml:lang="en">Georgina Lightning</yago:hasName>
   </rdf:Description>
@@ -5408,8 +5472,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Economou">
     <yago:hasName xml:lang="en">George Economou</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Glyn_Jones_%28Welsh_writer%29">
-    <yago:hasName xml:lang="en">Glyn Jones</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_A._Crawford">
+    <yago:hasName xml:lang="en">George A. Crawford</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glori_Simmons">
     <yago:hasName xml:lang="en">Glori Simmons</yago:hasName>
@@ -5426,14 +5490,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_West">
     <yago:hasName xml:lang="en">Gilbert West</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gutun_Owain">
+    <yago:hasName xml:lang="en">Gutun Owain</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Benivieni">
     <yago:hasName xml:lang="en">Girolamo Benivieni</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garth_Stein">
     <yago:hasName xml:lang="en">Garth Stein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghalib">
-    <yago:hasName xml:lang="en">Ghalib</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Friedrich_Treitschke">
+    <yago:hasName xml:lang="en">Georg Treitschke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_McCoy">
+    <yago:hasName xml:lang="en">Gavin McCoy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Radwanski">
     <yago:hasName xml:lang="en">George Radwanski</yago:hasName>
@@ -5447,15 +5517,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Genrich_Altshuller">
     <yago:hasName xml:lang="en">Genrich Altshuller</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Deleuze">
-    <yago:hasName xml:lang="en">Gilles Deleuze</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Antonio_Borgese">
     <yago:hasName xml:lang="en">Giuseppe Antonio Borgese</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Messadi%C3%A9">
-    <yago:hasName xml:lang="en">Gerald Messadié</yago:hasName>
-    <yago:hasName xml:lang="en">Gerald Messadie</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel-Marie_Legouv%C3%A9">
     <yago:hasName xml:lang="en">Gabriel-Marie Legouve</yago:hasName>
@@ -5499,7 +5562,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_A._Larson">
     <yago:hasName xml:lang="en">Glen A. Larson</yago:hasName>
-    <yago:hasName xml:lang="en">Glen Albert Larson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Orfalea">
     <yago:hasName xml:lang="en">Gregory Orfalea</yago:hasName>
@@ -5532,6 +5594,9 @@
     <yago:hasName xml:lang="en">Gilberto Owen</yago:hasName>
     <yago:hasName xml:lang="en">Gilberto Owen Estrada</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Gibson">
+    <yago:hasName xml:lang="en">Gary Gibson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_B._Seitz">
     <yago:hasName xml:lang="en">George B. Seitz</yago:hasName>
   </rdf:Description>
@@ -5551,6 +5616,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Herbert_Palmer">
     <yago:hasName xml:lang="en">George Herbert Palmer</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Gaffney">
+    <yago:hasName xml:lang="en">Gaffney</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Robb">
     <yago:hasName xml:lang="en">Graham Robb</yago:hasName>
   </rdf:Description>
@@ -5559,6 +5627,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_Brandt">
     <yago:hasName xml:lang="en">Gerard Brandt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Sarris">
+    <yago:hasName xml:lang="en">Greg Sarris</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Wooller">
     <yago:hasName xml:lang="en">Geraldine Wooller</yago:hasName>
@@ -5590,14 +5661,19 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Paulsen">
     <yago:hasName xml:lang="en">Gary james Paulsen</yago:hasName>
-    <yago:hasName xml:lang="en">Gary James PaulsenBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig textBig text--208.64.128.35 (talk) 17:16, 23 April 2013 (UTC)</yago:hasName>
     <yago:hasName xml:lang="en">Gary Paulsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Cheng">
-    <yago:hasName xml:lang="en">Gordon Fr. Cheng</yago:hasName>
+    <yago:hasName xml:lang="en">Gordon Cheng</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Maxwell">
     <yago:hasName xml:lang="en">Gilbert Maxwell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pelecanos">
+    <yago:hasName xml:lang="en">George Pelecanos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyn_Morgan_(writer)">
+    <yago:hasName xml:lang="en">Gwyn Morgan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Garth_Christian">
     <yago:hasName xml:lang="en">Garth Christian</yago:hasName>
@@ -5614,8 +5690,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Howells_Broadhurst">
     <yago:hasName xml:lang="en">George Howells Broadhurst</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Emlen_Hare">
-    <yago:hasName xml:lang="en">George Emlen Hare</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerri_Willis">
+    <yago:hasName xml:lang="en">Gerri Willis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Waterhouse">
     <yago:hasName xml:lang="en">Gilbert Waterhouse</yago:hasName>
@@ -5626,17 +5702,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Garc%C3%ADa_M%C3%A1rquez">
     <yago:hasName xml:lang="en">Gabriel García Márquez</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Stamatov">
-    <yago:hasName xml:lang="en">Georgi Stamatov</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Thym">
     <yago:hasName xml:lang="en">Georg Thym</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Gould">
     <yago:hasName xml:lang="en">Gerald Gould</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gorazd_Kocjan%C4%8Di%C4%8D">
-    <yago:hasName xml:lang="en">Gorazd Kocjančič</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geraldine_Monk">
     <yago:hasName xml:lang="en">Geraldine Monk</yago:hasName>
@@ -5649,6 +5719,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Marchildon">
     <yago:hasName xml:lang="en">Gilles Marchildon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_D_Lloyd">
+    <yago:hasName xml:lang="en">Geoffrey D. Lloyd</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Hill">
     <yago:hasName xml:lang="en">Geoffrey Hill</yago:hasName>
@@ -5674,8 +5747,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gretchen_Osgood_Warren">
     <yago:hasName xml:lang="en">Gretchenosgood Warren</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giulio_Cogni">
-    <yago:hasName xml:lang="en">Giulio Cogni</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernand_Gregh">
+    <yago:hasName xml:lang="en">Gregh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_F._Gifune">
     <yago:hasName xml:lang="en">Greg F. Gifune</yago:hasName>
@@ -5719,12 +5792,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Hergenhahn">
     <yago:hasName xml:lang="en">Glenn Hergenhahn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Edgers">
-    <yago:hasName xml:lang="en">Geoff Edgers</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gon%C3%A7alves_de_Magalh%C3%A3es%2C_Viscount_of_Araguaia">
-    <yago:hasName xml:lang="en">Gonçalves de Magalhães</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gojko_%C4%90ogo">
     <yago:hasName xml:lang="en">Gojko Djogo</yago:hasName>
   </rdf:Description>
@@ -5734,11 +5801,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Stepney">
     <yago:hasName xml:lang="en">George Stepney</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavril_Kamenev">
-    <yago:hasName xml:lang="en">Gavril Kamenev</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Josipovici">
     <yago:hasName xml:lang="en">Gabriel Josipovici</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Kurtz">
+    <yago:hasName xml:lang="en">Glenn Kurtz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Leroux">
     <yago:hasName xml:lang="en">Gaston Leroux</yago:hasName>
@@ -5770,6 +5837,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_Himmelfarb">
     <yago:hasName xml:lang="en">Gertrude Himmelfarb</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Testori">
+    <yago:hasName xml:lang="en">Giovanni Testori</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_McWhirter">
     <yago:hasName xml:lang="en">George McWhirter</yago:hasName>
     <yago:hasName xml:lang="en">George Macwhirter</yago:hasName>
@@ -5788,9 +5858,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Govind_Sakharam_Sardesai">
     <yago:hasName xml:lang="en">Govind Sakharam Sardesai</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gus_Williams_%28vaudeville%29">
-    <yago:hasName xml:lang="en">Gus Williams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gus_Ferguson">
     <yago:hasName xml:lang="en">Gus Ferguson</yago:hasName>
@@ -5833,6 +5900,9 @@
     <yago:hasName xml:lang="en">Georges Bernanos</yago:hasName>
     <yago:hasName xml:lang="en">George Bernanos</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Gillespie_(presenter)">
+    <yago:hasName xml:lang="en">Gary Gillespie</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Nichols">
     <yago:hasName xml:lang="en">Grace Nichols</yago:hasName>
   </rdf:Description>
@@ -5847,6 +5917,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Godfrey_Winn">
     <yago:hasName xml:lang="en">Godfrey Winn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Philip_Creutz">
+    <yago:hasName xml:lang="en">Gustaf Philip Creutz</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Robertson_(author)">
     <yago:hasName xml:lang="en">Gary Robertson</yago:hasName>
@@ -5876,9 +5949,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ghislaine_Alexander">
     <yago:hasName xml:lang="en">Ghislaine Alexander</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Galsan_Tschinag">
-    <yago:hasName xml:lang="en">Galsan Tschinag</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Gutfeld">
     <yago:hasName xml:lang="en">Greg Gutfeld</yago:hasName>
   </rdf:Description>
@@ -5887,6 +5957,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ghulam_Ali_Allana">
     <yago:hasName xml:lang="en">Ghulam Ali Allana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Mor%C3%B3n">
+    <yago:hasName xml:lang="en">Guillermo Morón</yago:hasName>
+    <yago:hasName xml:lang="en">Guillermo Moron</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Clark_(journalist)">
     <yago:hasName xml:lang="en">Geoff Clark</yago:hasName>
@@ -5897,11 +5971,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Sinou%C3%A9">
     <yago:hasName xml:lang="en">Gilbert Sinoue</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Howard_Earle,_Jr.">
-    <yago:hasName xml:lang="en">George Howard Earle, Jr.</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ghada_al-Samman">
-    <yago:hasName xml:lang="en">Ghada Al-Sammanغادة السمّان</yago:hasName>
+    <yago:hasName xml:lang="en">Ghada al-Sammanغادة السمّان</yago:hasName>
     <yago:hasName xml:lang="en">Ghada Al-Samman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Gascoigne">
@@ -5915,6 +5986,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Giusti">
     <yago:hasName xml:lang="en">Giuseppe Giusti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwenan_Edwards">
+    <yago:hasName xml:lang="en">Gwenan Edwards</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Govind_Nihalani">
     <yago:hasName xml:lang="en">Govind Nihalani</yago:hasName>
@@ -5934,20 +6008,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwen_Shamblin">
     <yago:hasName xml:lang="en">Gwen Shamblin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Zhongyan">
-    <yago:hasName xml:lang="en">Given name: Zhòngyān ()</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ashby_(poet)">
     <yago:hasName xml:lang="en">George Ashby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Houzhu">
+    <yago:hasName xml:lang="en">Given name: Congjia 從嘉, later Yu 煜</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Pini">
     <yago:hasName xml:lang="en">Giorgio Pini</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Sutherland_Fraser">
     <yago:hasName xml:lang="en">G.S. Fraser</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Beacham_Freeman">
-    <yago:hasName xml:lang="en">Grace Freeman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Solomos">
     <yago:hasName xml:lang="en">George Solomos</yago:hasName>
@@ -5971,11 +6042,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Johnson_(writer)">
     <yago:hasName xml:lang="en">George Johnson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Alan_Williams">
+    <yago:hasName xml:lang="en">Gregory Alan Williams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gra%C5%BEina_Sviderskyt%C4%97">
+    <yago:hasName xml:lang="en">Grazina Sviderskyte</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgi_Ugulava">
     <yago:hasName xml:lang="en">Gigi Ugulava</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Lumpkin">
     <yago:hasName xml:lang="en">Grace Lumpkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Chaucer">
+    <yago:hasName xml:lang="en">Geoffrey Chaucer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pearson_(filmmaker)">
     <yago:hasName xml:lang="en">George Pearson</yago:hasName>
@@ -5992,9 +6072,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Blundell">
     <yago:hasName xml:lang="en">Graeme Blundell</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Davis_%28editor%29">
-    <yago:hasName xml:lang="en">George Davis</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwen_Lister">
     <yago:hasName xml:lang="en">Gwen Lister</yago:hasName>
   </rdf:Description>
@@ -6010,11 +6087,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Garrett_(poet)">
     <yago:hasName xml:lang="en">George Garrett</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goronwy_Foel">
+    <yago:hasName xml:lang="en">Goronwy Foel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Burnett_Barton">
     <yago:hasName xml:lang="en">George Burnett Barton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Nadali">
-    <yago:hasName xml:lang="en">Giorgio Nadali</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerd_Brantenberg">
     <yago:hasName xml:lang="en">Gerd Brantenberg</yago:hasName>
@@ -6022,12 +6099,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Aguilar">
     <yago:hasName xml:lang="en">Grace Aguilar</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Moore_%28novelist%29">
-    <yago:hasName xml:lang="en">George Moore</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Brinton_McClellan_Harvey">
     <yago:hasName xml:lang="en">George Brinton McClellan Harvey</yago:hasName>
     <yago:hasName xml:lang="en">George Harvey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Burns">
+    <yago:hasName xml:lang="en">Gordon Burns</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Ungaretti">
     <yago:hasName xml:lang="en">Giuseppe Ungaretti</yago:hasName>
@@ -6038,9 +6115,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Taylor_(author)">
     <yago:hasName xml:lang="en">Graham Taylor</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Hurley">
-    <yago:hasName xml:lang="en">Graham Hurley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_W._Crane">
     <yago:hasName xml:lang="en">George W. Crane</yago:hasName>
@@ -6057,6 +6131,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gu_Xingqing">
     <yago:hasName xml:lang="en">GU Xingqing 顾杏卿</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Belverio">
+    <yago:hasName xml:lang="en">Glenn Belverio</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gauhar_Raza">
     <yago:hasName xml:lang="en">Gauhar Raza</yago:hasName>
   </rdf:Description>
@@ -6067,11 +6144,14 @@
     <yago:hasName xml:lang="en">Gerald L. Early</yago:hasName>
     <yago:hasName xml:lang="en">Gerald Early</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Indiana">
+    <yago:hasName xml:lang="en">Gary Indiana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9o_Lef%C3%A8vre">
+    <yago:hasName xml:lang="en">Geo Lefevre</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Hernandez">
     <yago:hasName xml:lang="en">Gilberto Hernández</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Gopala_Chandra_Praharaj">
-    <yago:hasName xml:lang="en">Gopala Chandra Praharaj</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9d%C3%A9on_Tallemant_des_R%C3%A9aux">
     <yago:hasName xml:lang="en">Gedeon Tallemant des Reaux</yago:hasName>
@@ -6096,6 +6176,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graciano_L%C3%B3pez_Jaena">
     <yago:hasName xml:lang="en">Graciano Lopez Jaena</yago:hasName>
+    <yago:hasName xml:lang="en">Graciano López Jaena</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%B6tz_Aly">
     <yago:hasName xml:lang="en">Gotz Aly</yago:hasName>
@@ -6105,9 +6186,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Richards_(clergyman)">
     <yago:hasName xml:lang="en">George Richards</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bemis_(lawyer)">
-    <yago:hasName xml:lang="en">George Bemis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrudis_G%C3%B3mez_de_Avellaneda">
     <yago:hasName xml:lang="en">Gertrudis Gomez De Avellaneda</yago:hasName>
@@ -6128,6 +6206,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Hill">
     <yago:hasName xml:lang="en">Geoff Hill</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Faber">
+    <yago:hasName xml:lang="en">Geoffrey Faber</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Whelan">
     <yago:hasName xml:lang="en">Gloria Whelen</yago:hasName>
   </rdf:Description>
@@ -6137,9 +6218,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwyn_Thomas_(novelist)">
     <yago:hasName xml:lang="en">Gwyn Thomas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graef_Crystal">
-    <yago:hasName xml:lang="en">Graef Crystal</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillermo_Mar%C3%ADn_Ruiz">
     <yago:hasName xml:lang="en">Guillermo Marin Ruiz</yago:hasName>
   </rdf:Description>
@@ -6148,6 +6226,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Blume">
     <yago:hasName xml:lang="en">Georg Blume</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guilherme_de_Melo">
+    <yago:hasName xml:lang="en">Guilherme Melo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gina_Marissa_Tagasa-Gil">
+    <yago:hasName xml:lang="en">Gina Marissa Tagasa-Gil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Guillem_Balagu%C3%A9">
     <yago:hasName xml:lang="en">Guillem Balague</yago:hasName>
@@ -6192,6 +6276,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Arney_(journalist)">
     <yago:hasName xml:lang="en">George Arney</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Frazier">
+    <yago:hasName xml:lang="en">George Francis Jr. Frazier</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gwilym_Tilsley">
     <yago:hasName xml:lang="en">Gwilym Tilsley</yago:hasName>
   </rdf:Description>
@@ -6214,7 +6301,7 @@
     <yago:hasName xml:lang="en">Geoff Chapple</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gregorio_Mart%C3%ADnez_Sierra">
-    <yago:hasName xml:lang="en">Gregorio Martínez Sierra</yago:hasName>
+    <yago:hasName xml:lang="en">Gregorio Martinez Sierra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_O&apos;Brien">
     <yago:hasName xml:lang="en">Geoffrey Obrien</yago:hasName>
@@ -6224,10 +6311,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gideon_Joubert">
     <yago:hasName xml:lang="en">Gideon Joubert</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/G%C3%A9rard_de_S%C3%A8de">
-    <yago:hasName xml:lang="en">Gerard de Sede</yago:hasName>
-    <yago:hasName xml:lang="en">Gérard de Sède</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Walter_Prothero">
     <yago:hasName xml:lang="en">George Walter Prothero</yago:hasName>
@@ -6241,8 +6324,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Baddeley">
     <yago:hasName xml:lang="en">Gavin Baddeley</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grete_Gulbransson">
+    <yago:hasName xml:lang="en">Grete Gulbransson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_McQueen">
     <yago:hasName xml:lang="en">Geoff McQueen</yago:hasName>
+    <yago:hasName xml:lang="en">Geoff Macqueen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Glenville_Lovell">
     <yago:hasName xml:lang="en">Glenville Lovell</yago:hasName>
@@ -6269,6 +6356,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Papini">
     <yago:hasName xml:lang="en">Giovanni Papini</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gert_Jonke">
+    <yago:hasName xml:lang="en">Gert Jonke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goreti_Venkanna">
+    <yago:hasName xml:lang="en">Goreti Venkanna</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gunnar_Stavseth">
     <yago:hasName xml:lang="en">Gunnar Stavseth</yago:hasName>
   </rdf:Description>
@@ -6278,15 +6371,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gerdina_Hendrika_Kurtz">
     <yago:hasName xml:lang="en">Gerda H. Kurtz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Graeme_Simsion">
-    <yago:hasName xml:lang="en">Graeme C Simsion</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_MacDonald">
     <yago:hasName xml:lang="en">George MacDonald</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Hardy">
-    <yago:hasName xml:lang="en">Gladiator</yago:hasName>
-    <yago:hasName xml:lang="en">Galaxion</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Fraser">
     <yago:hasName xml:lang="en">Graham Fraser</yago:hasName>
@@ -6297,6 +6383,15 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Catalano">
     <yago:hasName xml:lang="en">Gary Catalano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Clarke">
+    <yago:hasName xml:lang="en">Gerald Clarke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GLBasic">
+    <yago:hasName xml:lang="en">GLBasic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Reece">
+    <yago:hasName xml:lang="en">Gordon Reece</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_af_Geijerstam">
     <yago:hasName xml:lang="en">Gustaf af Geijerstam</yago:hasName>
@@ -6309,8 +6404,8 @@
     <yago:hasName xml:lang="en">Gabriel Aresti Segurola</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Genevieve_Woo">
-    <yago:hasName xml:lang="en">Genevieve Woo Marn Huong</yago:hasName>
     <yago:hasName xml:lang="en">Genevieve Woo</yago:hasName>
+    <yago:hasName xml:lang="en">Genevieve Woo Marn Huong (胡曼虹)</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Stanley_(poet)">
     <yago:hasName xml:lang="en">George Stanley</yago:hasName>
@@ -6375,6 +6470,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gilla_na_Naemh_Ua_Dunabhra">
     <yago:hasName xml:lang="en">Gilla Na Naemh Ua Dunabhra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Uspensky">
+    <yago:hasName xml:lang="en">Gleb Uspensky</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/George_Barlow_(poet)">
     <yago:hasName xml:lang="en">George Barlow</yago:hasName>

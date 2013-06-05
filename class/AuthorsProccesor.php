@@ -15,6 +15,7 @@ class AuthorsProccesor {
     const PREFIX_YAGO = 'http://dbpedia.org/class/yago/';
 
     protected $_model;
+    protected $_modelSurnames;
 
     public function __construct($initial) {
         define("RDFAPI_INCLUDE_DIR", '../lib/rdfapi-php/api/');
@@ -22,14 +23,25 @@ class AuthorsProccesor {
 
         $char = strtoupper($initial);
 
+        $conf = parse_ini_file ("../config");
+
         // Filename of the RDF document
-        $base = "/var/www/PFC/data/" . $char . ".rdf";
+        $base = $conf['data'] . $char . ".rdf";
 
         // Create a new MemModel
         $this->_model = ModelFactory::getDefaultModel();
 
         // Load and parse document
         $this->_model->load($base);
+        
+        // Filename of the RDF document
+        $baseSurnames = $conf['data'] . "s" . $char . ".rdf";
+
+        // Create a new MemModel
+        $this->_modelSurnames = ModelFactory::getDefaultModel();
+
+        // Load and parse document
+        $this->_modelSurnames->load($baseSurnames);
     }
 
     public function getAllAuthors() {
@@ -40,7 +52,9 @@ class AuthorsProccesor {
             ORDER BY ?name
             ';
         $result = $this->_model->sparqlQuery($query);
-        return $result;
+        $surnames = $this->_modelSurnames->sparqlQuery($query);
+        $authors = array_merge($result, $surnames);
+        return $authors;
     }
     
         public function getAuthorID($authorName) {

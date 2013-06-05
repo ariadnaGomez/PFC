@@ -7,7 +7,8 @@ include_once '../class/BNBSearcher.php';
 include_once('../class/AuthorsProccesor.php');
 $memcache = new Memcache;
 $initial = strtolower($_GET['authorName'][0]);
-if ($memcache->connect('localhost', 11211) &&
+$conf = parse_ini_file ("../config");
+if ($memcache->connect($conf['memcache_host'], (int)$conf['memcache_port']) && 
         $res = $memcache->get('authors' . $initial)) {
     $authors = unserialize($res);
     $authorID = $authors[$_GET['authorName']];

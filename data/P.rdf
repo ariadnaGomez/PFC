@@ -20,9 +20,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._J._Cowan">
     <yago:hasName xml:lang="en">P. J. Cowan</yago:hasName>
+    <yago:hasName xml:lang="en">Pricilla Jean Cowan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phelps_Putnam">
     <yago:hasName xml:lang="en">Phelps Putnam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Palmer">
+    <yago:hasName xml:lang="en">Pamela Palmer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Child">
     <yago:hasName xml:lang="en">Philip Albert Child</yago:hasName>
@@ -80,6 +84,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paola_Buonadonna">
     <yago:hasName xml:lang="en">Paola Buonadonna</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Frilingos">
+    <yago:hasName xml:lang="en">Peter Frilingos</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Gravett">
     <yago:hasName xml:lang="en">Paul Gravett</yago:hasName>
   </rdf:Description>
@@ -106,10 +113,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Howard_(journalist)">
     <yago:hasName xml:lang="en">Peter Howard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_Jaff%C3%A9">
-    <yago:hasName xml:lang="en">Philipp Jaffe</yago:hasName>
-    <yago:hasName xml:lang="en">Philipp Jaffé</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Manalo">
     <yago:hasName xml:lang="en">Paolo Manalo</yago:hasName>
   </rdf:Description>
@@ -129,9 +132,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Kilkerry">
     <yago:hasName xml:lang="en">Pedro Kilkerry</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peire_Bremon_Ricas_Novas">
-    <yago:hasName xml:lang="en">Peire Bremon Ricas Novas</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Berling">
     <yago:hasName xml:lang="en">Peter Berling</yago:hasName>
   </rdf:Description>
@@ -150,6 +150,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phoebe_Hesketh">
     <yago:hasName xml:lang="en">Phoebe Hesketh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Maher,_Jr.">
+    <yago:hasName xml:lang="en">Paul Maher, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_O&apos;Kelly">
     <yago:hasName xml:lang="en">Patrick O'Kelly</yago:hasName>
@@ -175,6 +178,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_French">
     <yago:hasName xml:lang="en">Patrick French</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pu_Songling">
+    <yago:hasName xml:lang="en">Pu Songling</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_O&apos;Reilly">
     <yago:hasName xml:lang="en">Paddy Oreilly</yago:hasName>
   </rdf:Description>
@@ -184,9 +190,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_H%C3%B8eg">
     <yago:hasName xml:lang="en">Peter Høeg</yago:hasName>
     <yago:hasName xml:lang="en">Peter Hoeg</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Summers_%28poet%29">
-    <yago:hasName xml:lang="en">Paul Summers</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Germain-Fran%C3%A7ois_Poullain_de_Saint-Foix">
     <yago:hasName xml:lang="en">Poullain</yago:hasName>
@@ -212,6 +215,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Winkler_(director)">
     <yago:hasName xml:lang="en">Paul Winkler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Purnendu_Patri">
+    <yago:hasName xml:lang="en">Purnendu Patri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_K._O&apos;Donnell">
     <yago:hasName xml:lang="en">Patrick K. O'Donnell</yago:hasName>
@@ -264,15 +270,14 @@
     <yago:hasName xml:lang="en">Petro Ivanovych Franko</yago:hasName>
     <yago:hasName xml:lang="en">Petro Franko</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Bowen">
+    <yago:hasName xml:lang="en">Phil Bowen</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Grandbois">
     <yago:hasName xml:lang="en">Peter Grandbois</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._K._Balakrishnan">
     <yago:hasName xml:lang="en">P. K. Balakrishnan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_O%27Connor">
-    <yago:hasName xml:lang="en">Philip Oconnor</yago:hasName>
-    <yago:hasName xml:lang="en">Philip O'Connor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A1draic_%C3%93_Conaire">
     <yago:hasName xml:lang="en">Pádraic Ó Conaire</yago:hasName>
@@ -291,7 +296,7 @@
     <yago:hasName xml:lang="en">Piers Morgan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Joseph_McCall">
-    <yago:hasName xml:lang="en">Patrick Joseph McCall</yago:hasName>
+    <yago:hasName xml:lang="en">Patrick Joseph Maccall</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Abbott">
     <yago:hasName xml:lang="en">Paul Abbott</yago:hasName>
@@ -308,9 +313,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Brickhill">
     <yago:hasName xml:lang="en">Paul Brickhill</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Goble">
+    <yago:hasName xml:lang="en">Paul Goble</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Preradovi%C4%87">
     <yago:hasName xml:lang="en">Petar Preradovic</yago:hasName>
     <yago:hasName xml:lang="en">Petar Preradović</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_DeCoursey">
+    <yago:hasName xml:lang="en">Peter L. DeCoursey</yago:hasName>
+    <yago:hasName xml:lang="en">Pete Decoursey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prannoy_Roy">
     <yago:hasName xml:lang="en">Prannoy Roy</yago:hasName>
@@ -346,14 +358,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gould_(writer)">
     <yago:hasName xml:lang="en">Peter Gould</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_McGill">
+    <yago:hasName xml:lang="en">Paddy Macgill</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Wingfield">
     <yago:hasName xml:lang="en">Pete Wingfield</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Jullian">
     <yago:hasName xml:lang="en">Philippe Jullian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C4%83storel_Teodoreanu">
-    <yago:hasName xml:lang="en">Păstorel Teodoreanu</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paco_Gonz%C3%A1lez">
+    <yago:hasName xml:lang="en">Paco Gonzalez</yago:hasName>
+    <yago:hasName xml:lang="en">Paco González</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peretz_Markish">
+    <yago:hasName xml:lang="en">Peretz Markish</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Cook_(American_anchor)">
     <yago:hasName xml:lang="en">Peter Cook</yago:hasName>
@@ -361,11 +380,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Gori">
     <yago:hasName xml:lang="en">Pietro Gori</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peire_de_Maensac">
-    <yago:hasName xml:lang="en">Peire de Maensac</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_S._Morton">
     <yago:hasName xml:lang="en">Paul S. Morton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Vesala">
+    <yago:hasName xml:lang="en">Paula Vesala</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Legrain">
     <yago:hasName xml:lang="en">Philippe Legrain</yago:hasName>
@@ -398,6 +417,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_de_Nesson">
     <yago:hasName xml:lang="en">Pierre de Nesson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Arg%C3%BCelles_Mor%C3%A1n">
+    <yago:hasName xml:lang="en">Pedro Arguelles Moran</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petro_Marko">
     <yago:hasName xml:lang="en">Petro Marko</yago:hasName>
   </rdf:Description>
@@ -412,6 +434,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gill_(playwright)">
     <yago:hasName xml:lang="en">Peter Gill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Barker">
+    <yago:hasName xml:lang="en">Phil Barker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Smith_(Irish_writer)">
     <yago:hasName xml:lang="en">Paul Smith</yago:hasName>
@@ -430,9 +455,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bieri_(author)">
     <yago:hasName xml:lang="en">Peter Bieri</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Turner">
-    <yago:hasName xml:lang="en">Patricia A. Turner</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Nourse">
     <yago:hasName xml:lang="en">Pat Nourse</yago:hasName>
@@ -468,9 +490,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Sanger">
     <yago:hasName xml:lang="en">Peter Sanger</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Hocken">
-    <yago:hasName xml:lang="en">Peter Hocken</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Robeson,_Jr.">
     <yago:hasName xml:lang="en">Paul Robeson, Jr.</yago:hasName>
   </rdf:Description>
@@ -482,9 +501,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Dynan">
     <yago:hasName xml:lang="en">Phil Dynan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Harvey_(writer)">
-    <yago:hasName xml:lang="en">Peter Harvey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Pullman">
     <yago:hasName xml:lang="en">Philip Pullman</yago:hasName>
@@ -498,7 +514,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Priscila_Uppal">
     <yago:hasName xml:lang="en">Priscila Uppal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_%C5%98ezn%C3%AD%C4%8Dek">
+    <yago:hasName xml:lang="en">Pavel Řezníček</yago:hasName>
+    <yago:hasName xml:lang="en">Pavel Reznicek</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Francis_Nowlan">
+    <yago:hasName xml:lang="en">Philip Francis Nowlan</yago:hasName>
     <yago:hasName xml:lang="en">Philp Francis Nolan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Fort">
@@ -516,9 +537,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Avil%C3%A9s">
     <yago:hasName xml:lang="en">Pedro Aviles</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Granger">
-    <yago:hasName xml:lang="en">Patricia Anne Granger</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Salinas">
     <yago:hasName xml:lang="en">Pedro Salinas</yago:hasName>
   </rdf:Description>
@@ -535,8 +553,8 @@
     <yago:hasName xml:lang="en">Pyotr Chardynin</yago:hasName>
     <yago:hasName xml:lang="en">Pyotr Ivanovich Chardynin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Campbell_%28writer%29">
-    <yago:hasName xml:lang="en">Phil Campbell</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Rosa_Nales">
+    <yago:hasName xml:lang="en">Pedro Rosa Nales</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._Devakumaran">
     <yago:hasName xml:lang="en">P. Devakumaran</yago:hasName>
@@ -652,17 +670,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pero_L%C3%B3pez_de_Ayala">
     <yago:hasName xml:lang="en">Pero Lopez De Ayala</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Robbins_%28British_author%29">
-    <yago:hasName xml:lang="en">Peter Robbins</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Partap_Sharma">
     <yago:hasName xml:lang="en">Partap Sharma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_O&apos;Hare">
+    <yago:hasName xml:lang="en">Paddy Ohare</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prabhu_Guptara">
     <yago:hasName xml:lang="en">Prabhu Guptara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Shaw">
     <yago:hasName xml:lang="en">Pete Shaw</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Armando_Fern%C3%A1ndez">
+    <yago:hasName xml:lang="en">Pablo Armando Fernandez</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paulette_Bourgeois">
     <yago:hasName xml:lang="en">Paulette Bourgeois</yago:hasName>
@@ -671,8 +692,8 @@
     <yago:hasName xml:lang="en">Paul T.C. Kempeneers</yago:hasName>
     <yago:hasName xml:lang="en">Paul Kempeneers</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_W._Galbraith">
-    <yago:hasName xml:lang="en">Peter W. Galbraith</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Thomas_Hay">
+    <yago:hasName xml:lang="en">Peter Hay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Sivle">
     <yago:hasName xml:lang="en">Per Sivle</yago:hasName>
@@ -696,6 +717,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Kan_Gotanda">
     <yago:hasName xml:lang="en">Philip Kan Gotanda</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pindar">
+    <yago:hasName xml:lang="en">Pindar</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uladzimyer_Prakulevich">
     <yago:hasName xml:lang="en">Prakulevich</yago:hasName>
   </rdf:Description>
@@ -707,6 +731,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jia_Pingwa">
     <yago:hasName xml:lang="en">Pingwa Jia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pan_Halippa">
+    <yago:hasName xml:lang="en">Pan Halippa</yago:hasName>
+    <yago:hasName xml:lang="en">Pantelimon Halippa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petru_Dugulescu">
     <yago:hasName xml:lang="en">Petru Dugulescu</yago:hasName>
@@ -748,14 +776,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Voermans">
     <yago:hasName xml:lang="en">Paul Voermans</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parnell_Hall_%28writer%29">
-    <yago:hasName xml:lang="en">Parnell Hall</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Predrag_Dragi%C4%87">
     <yago:hasName xml:lang="en">Predrag Dragic</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jenkins_%28poet%29">
-    <yago:hasName xml:lang="en">Paul Jenkins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pontus_de_Tyard">
     <yago:hasName xml:lang="en">Pontus De Tyard</yago:hasName>
@@ -784,8 +806,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peretz_Hirschbein">
     <yago:hasName xml:lang="en">Peretz Hirshbein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phakirappa_Gurubasappa_Halakatti">
-    <yago:hasName xml:lang="en">Phakirappa Gurubasappa Halakatti</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poppy_Z._Brite">
+    <yago:hasName xml:lang="en">Poppy Z. Brite</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Noug%C3%A9">
     <yago:hasName xml:lang="en">Paul Nouge</yago:hasName>
@@ -816,6 +838,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piero_Marrazzo">
     <yago:hasName xml:lang="en">Piero Marrazzo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieretta_Dawn">
+    <yago:hasName xml:lang="en">Pieretta Dawn</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A1draig_de_Br%C3%BAn">
     <yago:hasName xml:lang="en">Padraig de Brun</yago:hasName>
   </rdf:Description>
@@ -827,11 +852,7 @@
     <yago:hasName xml:lang="en">Petar Petrovic-Njegos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bourget">
-    <yago:hasName xml:lang="en">Paul Charles Joseph Bourget</yago:hasName>
     <yago:hasName xml:lang="en">Paul Bourget</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Berg">
-    <yago:hasName xml:lang="en">Philip Berg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Shaw_(novelist)">
     <yago:hasName xml:lang="en">Patricia Shaw</yago:hasName>
@@ -857,9 +878,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Alexander_(poet)">
     <yago:hasName xml:lang="en">Patrick Alexander</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wells_%28filmmaker%29">
-    <yago:hasName xml:lang="en">Peter Wells</yago:hasName>
-    <yago:hasName xml:lang="en">Peter Wells MNZM</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peredur_Lynch">
+    <yago:hasName xml:lang="en">Peredur Lynch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Praful_Bidwai">
     <yago:hasName xml:lang="en">Praful Bidwai</yago:hasName>
@@ -876,14 +896,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Taylor_(author)">
     <yago:hasName xml:lang="en">Patrick James Taylor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Wilde">
-    <yago:hasName xml:lang="en">Patrick Wilde</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kennedy_(host)">
     <yago:hasName xml:lang="en">Paul Kennedy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Wilde">
+    <yago:hasName xml:lang="en">Patrick Wilde</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gilliver">
     <yago:hasName xml:lang="en">Peter Gilliver</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Goldsmith">
+    <yago:hasName xml:lang="en">Pauline Goldsmith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philemon_(poet)">
     <yago:hasName xml:lang="en">Philemon</yago:hasName>
@@ -918,6 +941,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Smith_(journalist)">
     <yago:hasName xml:lang="en">Patrick Smith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_I_Esterh%C3%A1zy_of_Gal%C3%A1ntha">
+    <yago:hasName xml:lang="en">Paul I</yago:hasName>
+    <yago:hasName xml:lang="en">Prince Paul 01 Esterhazy Of Galantha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Earley">
     <yago:hasName xml:lang="en">Pete Earley</yago:hasName>
@@ -1030,7 +1057,7 @@
     <yago:hasName xml:lang="en">Paul Vallely</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_McGerr">
-    <yago:hasName xml:lang="en">Patricia McGerr</yago:hasName>
+    <yago:hasName xml:lang="en">Patricia Macgerr</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philoth%C3%A9e_O&apos;Neddy">
     <yago:hasName xml:lang="en">Philothee Oneddy</yago:hasName>
@@ -1049,10 +1076,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pentland_Hick">
     <yago:hasName xml:lang="en">Pentland Hick</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pervez_Hoodbhoy">
-    <yago:hasName xml:lang="en">Pervez Amirali Hoodbhoy</yago:hasName>
-    <yago:hasName xml:lang="en">Pervez Hoodbhoy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penelope_Fletcher">
     <yago:hasName xml:lang="en">Penelope Fletcher</yago:hasName>
@@ -1089,8 +1112,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Porter_Shreve">
     <yago:hasName xml:lang="en">Porter Shreve</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Collins_%28fantasy_writer%29">
-    <yago:hasName xml:lang="en">Paul Collins</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Daniel_Amadeus_Atterbom">
+    <yago:hasName xml:lang="en">Per Daniel Amadeus Atterbom</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Adolphe_Marie_Prosper_Granier_de_Cassagnac">
     <yago:hasName xml:lang="en">Paul Adolphe Marie Prosper Granier De Cassagnac</yago:hasName>
@@ -1107,11 +1130,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_de_Marivaux">
     <yago:hasName xml:lang="en">Pierre de Marivaux</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_E._Tetlock">
-    <yago:hasName xml:lang="en">Philip E. Tetlock</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Boborykin">
     <yago:hasName xml:lang="en">Pyotr Boborykin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Geoffroy_Rivas">
+    <yago:hasName xml:lang="en">Pedro Geoffroy Rivas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wallenstein">
+    <yago:hasName xml:lang="en">Peter Wallenstein</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Dagomari_di_Prato">
     <yago:hasName xml:lang="en">Paolo Dagomari Di Prato</yago:hasName>
@@ -1122,15 +1148,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Kleinman">
     <yago:hasName xml:lang="en">Pablo Kleinman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Carey_%28novelist%29">
-    <yago:hasName xml:lang="en">Peter Philip Carey AO</yago:hasName>
-    <yago:hasName xml:lang="en">Peter Philip Carey</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pai_Hsien-yung">
     <yago:hasName xml:lang="en">Pai Hsien-yung</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parviz_Varjavand">
-    <yago:hasName xml:lang="en">Parviz Varjavand</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Eisenstein">
     <yago:hasName xml:lang="en">Phyllis Eisenstein</yago:hasName>
@@ -1146,6 +1165,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Calvo_Asensio">
     <yago:hasName xml:lang="en">Pedro Calvo Asensio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pap_Dean">
+    <yago:hasName xml:lang="en">Preston Allen "Pap" Dean, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Trower">
     <yago:hasName xml:lang="en">Peter Trower</yago:hasName>
@@ -1181,7 +1203,6 @@
     <yago:hasName xml:lang="en">Paolo Lanfranchi Da Pistoia</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Ko%C4%8Di%C4%87">
-    <yago:hasName xml:lang="en">Petar Kocic</yago:hasName>
     <yago:hasName xml:lang="en">Petar Kočić</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Golia">
@@ -1194,7 +1215,6 @@
     <yago:hasName xml:lang="en">Peter Mitchell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Purandara_Dasa">
-    <yago:hasName xml:lang="en">Purandara Dasaru</yago:hasName>
     <yago:hasName xml:lang="en">Purandara Dasa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peadar_Toner_Mac_Fhionnlaoich">
@@ -1239,6 +1259,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Nichols">
     <yago:hasName xml:lang="en">Peter Nichols</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sukumar_Azhikode">
+    <yago:hasName xml:lang="en">Prof. Sukumar Azhikode</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_B%C3%A9arn">
     <yago:hasName xml:lang="en">Pierre Bearn</yago:hasName>
     <yago:hasName xml:lang="en">Pierre Béarn</yago:hasName>
@@ -1257,6 +1280,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Fericano">
     <yago:hasName xml:lang="en">Paul Fericano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parmenides">
+    <yago:hasName xml:lang="en">Parmenides</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Giordano">
     <yago:hasName xml:lang="en">Paolo Giordano</yago:hasName>
@@ -1279,11 +1305,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Purser">
     <yago:hasName xml:lang="en">Philip Purser</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petru_Bogatu">
+    <yago:hasName xml:lang="en">Petru Bogatu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Milliet">
     <yago:hasName xml:lang="en">Paul Milliet</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chandramauli_Upadhyay">
-    <yago:hasName xml:lang="en">Prof. Chandramauli Upadhyay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Vail">
     <yago:hasName xml:lang="en">Pyotr Vail</yago:hasName>
@@ -1296,6 +1322,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Kemp">
     <yago:hasName xml:lang="en">Pierre Kemp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Conneally">
+    <yago:hasName xml:lang="en">Paul Conneally</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._M._Pasinetti">
     <yago:hasName xml:lang="en">P. M. Pasinetti</yago:hasName>
@@ -1318,11 +1347,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrice_Nganang">
     <yago:hasName xml:lang="en">Patrice Nganang</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Palani_bharathi">
-    <yago:hasName xml:lang="en">Palani Bharathi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kater">
-    <yago:hasName xml:lang="en">Paul Kater</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pino_Rauti">
+    <yago:hasName xml:lang="en">Pino Rauti</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Holm">
     <yago:hasName xml:lang="en">Pamela Holm</yago:hasName>
@@ -1339,9 +1365,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Bourke_Marston">
     <yago:hasName xml:lang="en">Philip Bourke Marston</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bishop">
-    <yago:hasName xml:lang="en">Paul Bishop</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Booth">
     <yago:hasName xml:lang="en">Philip Edmund Booth</yago:hasName>
   </rdf:Description>
@@ -1350,9 +1373,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pippin_Parker">
     <yago:hasName xml:lang="en">Pippin Parker</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavol_Strauss">
-    <yago:hasName xml:lang="en">Pavol Strauss</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pinky_Webb">
     <yago:hasName xml:lang="en">Pinky Webb</yago:hasName>
@@ -1386,9 +1406,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Yves_Barr%C3%A9">
     <yago:hasName xml:lang="en">Pierre-Yves Barre</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Anand_%28writer%29">
-    <yago:hasName xml:lang="en">P. Sachidanandan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Wu">
     <yago:hasName xml:lang="en">Pamela Wu</yago:hasName>
@@ -1469,6 +1486,9 @@
     <yago:hasName xml:lang="en">Pattukkottai Prabakar</yago:hasName>
     <yago:hasName xml:lang="en">Pattukottai Prabakar</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Doyle_(journalist)">
+    <yago:hasName xml:lang="en">Paul Doyle</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Sherrard">
     <yago:hasName xml:lang="en">Philip Sherrard</yago:hasName>
   </rdf:Description>
@@ -1521,6 +1541,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Carey_(novelist)">
     <yago:hasName xml:lang="en">Peter Philip Carey</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_III_of_Aragon">
+    <yago:hasName xml:lang="en">Peter III</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pam_Evans">
     <yago:hasName xml:lang="en">Pam Evans</yago:hasName>
   </rdf:Description>
@@ -1566,19 +1589,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prem_Nath_Dar">
     <yago:hasName xml:lang="en">Prem Nath Dar (Dhar)</yago:hasName>
-    <yago:hasName xml:lang="en">Prem Nath Dar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Monette">
     <yago:hasName xml:lang="en">Paul Monette</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Parviz_Shahbazi">
     <yago:hasName xml:lang="en">Parviz Shahbazi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyun_Hye-young">
-    <yago:hasName xml:lang="en">Pyun Hye-Young</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Edgar">
-    <yago:hasName xml:lang="en">Patricia Edgar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Ritchie_Calder">
     <yago:hasName xml:lang="en">Peter Ritchie Calder</yago:hasName>
@@ -1628,14 +1644,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Balakian">
     <yago:hasName xml:lang="en">Peter Balakian</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Goldsworthy">
+    <yago:hasName xml:lang="en">Peter Goldsworthy</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Pietri">
     <yago:hasName xml:lang="en">Pedro Pietri</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Beaussant">
     <yago:hasName xml:lang="en">Philippe Beaussant</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Plunkett%2C_18th_Baron_of_Dunsany">
-    <yago:hasName xml:lang="en">Plunkett, Edward John Moreton Drax, 18th Baron of Dunsany</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._J._Kavanagh">
     <yago:hasName xml:lang="en">P. J. Kavanagh</yago:hasName>
@@ -1665,9 +1681,6 @@
     <yago:hasName xml:lang="en">Pamela Dean Dyer-Bennet</yago:hasName>
     <yago:hasName xml:lang="en">Pamela Dean</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillip_W._Simpson">
-    <yago:hasName xml:lang="en">Phillip W. Simpson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Alfred_Kleinert">
     <yago:hasName xml:lang="en">Paul Alfred Kleinert</yago:hasName>
   </rdf:Description>
@@ -1676,9 +1689,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_Langendijk">
     <yago:hasName xml:lang="en">Pieter Langendijk</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Robinson_%28novelist%29">
-    <yago:hasName xml:lang="en">Peter Robinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Hoggart">
     <yago:hasName xml:lang="en">Paul Hoggart</yago:hasName>
@@ -1704,8 +1714,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peyo_Yavorov">
     <yago:hasName xml:lang="en">Peyo Yavorov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernardo_Pi%C3%B1ol,_Jr.">
+    <yago:hasName xml:lang="en">Pinol, Bernardo, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lafcadio_Hearn">
     <yago:hasName xml:lang="en">Patrick Lafcadio Hearn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Schweizer">
+    <yago:hasName xml:lang="en">Peter Schweizer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_H%C3%A4rtling">
     <yago:hasName xml:lang="en">Peter Hartling</yago:hasName>
@@ -1737,18 +1753,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Janus">
     <yago:hasName xml:lang="en">Patricia Janus</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pravithanam_PM_Devasia">
+    <yago:hasName xml:lang="en">Pravithanam Pm Devasia</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_H._Adkins">
     <yago:hasName xml:lang="en">Patrick H. Adkins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paramjit_Kaur_Sirhind">
     <yago:hasName xml:lang="en">Paramjit Kaur Sirhind</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Wilson">
+    <yago:hasName xml:lang="en">Pat Wilson</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Johnston_(negotiator)">
     <yago:hasName xml:lang="en">Peter Doyle Johnston</yago:hasName>
     <yago:hasName xml:lang="en">Peter Johnston</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Wilson">
-    <yago:hasName xml:lang="en">Pat Wilson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pegah_Ahmadi">
     <yago:hasName xml:lang="en">Pegah Ahmadi</yago:hasName>
@@ -1774,18 +1793,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Jukes">
     <yago:hasName xml:lang="en">Peter Jukes</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Harder">
-    <yago:hasName xml:lang="en">Peter Harder</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phill_Feltham">
     <yago:hasName xml:lang="en">Phill Feltham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panagiotis_Soutsos">
     <yago:hasName xml:lang="en">Panagiotis Soutsos</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pratibha_Satpathy">
-    <yago:hasName xml:lang="en">Pratibha Satpathy</yago:hasName>
-    <yago:hasName xml:lang="en">Pratibha Satapathy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/PathScale">
     <yago:hasName xml:lang="en">PathScale EKO Compiler</yago:hasName>
@@ -1801,24 +1813,22 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Brogan">
     <yago:hasName xml:lang="en">Phil Brogan</yago:hasName>
+    <yago:hasName xml:lang="en">Philip F. Brogan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Glantz">
     <yago:hasName xml:lang="en">Peter Glantz</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Preston">
+    <yago:hasName xml:lang="en">Peter Preston</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Akilan">
-    <yago:hasName xml:lang="en">P.V. Akilan</yago:hasName>
+    <yago:hasName xml:lang="en">P.V. AKILAN</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Hacks">
     <yago:hasName xml:lang="en">Peter Hacks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Wrede">
     <yago:hasName xml:lang="en">Patricia C. Wrede</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Printers%27_International_Specimen_Exchange">
-    <yago:hasName xml:lang="en">Printers International Specimen Exchange</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bikle">
-    <yago:hasName xml:lang="en">Paul Bikle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Auster">
     <yago:hasName xml:lang="en">Paul Auster</yago:hasName>
@@ -1837,9 +1847,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Whalen">
     <yago:hasName xml:lang="en">Philip Glenn Whalen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jacobs_%28Flemish_writer%29">
-    <yago:hasName xml:lang="en">Paul Jacobs</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Sabroe">
     <yago:hasName xml:lang="en">Peter Sabroe</yago:hasName>
@@ -1874,6 +1881,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Shapiro_(journalist)">
     <yago:hasName xml:lang="en">Peter Shapiro</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Athans">
+    <yago:hasName xml:lang="en">Philip Athans</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Tansey">
     <yago:hasName xml:lang="en">Paul Tansey</yago:hasName>
   </rdf:Description>
@@ -1897,20 +1907,20 @@
     <yago:hasName xml:lang="en">Paul Walter Franks</yago:hasName>
     <yago:hasName xml:lang="en">Paul W. Franks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Padraig_Rooney">
-    <yago:hasName xml:lang="en">Padraig Rooney</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Guimard">
     <yago:hasName xml:lang="en">Paul Guimard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sieveking">
-    <yago:hasName xml:lang="en">Paul Sieveking</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Padraig_Rooney">
+    <yago:hasName xml:lang="en">Padraig Rooney</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Pinto">
+    <yago:hasName xml:lang="en">Pedro Pinto</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kloeppel">
     <yago:hasName xml:lang="en">Peter Kloeppel</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/John_L._Parker%2C_Jr.">
-    <yago:hasName xml:lang="en">Parker, John L., Jr.</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulus_Svendsen">
+    <yago:hasName xml:lang="en">Paulus Svendsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Jones_(journalist)">
     <yago:hasName xml:lang="en">Phil Jones</yago:hasName>
@@ -1947,6 +1957,7 @@
     <yago:hasName xml:lang="en">Pamela Cytrynbaum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_de_Carolis">
+    <yago:hasName xml:lang="en">Patrick De Carolis</yago:hasName>
     <yago:hasName xml:lang="en">Patrick de Carolis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pentti_Saarikoski">
@@ -1987,15 +1998,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patience_Worth">
     <yago:hasName xml:lang="en">Patience Worth</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Dami%C3%A1n">
-    <yago:hasName xml:lang="en">Pedro Damián</yago:hasName>
-    <yago:hasName xml:lang="en">Pedro Damian</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Gardner_%28journalist%29">
-    <yago:hasName xml:lang="en">Paul Gardner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sculfor">
-    <yago:hasName xml:lang="en">Paul Sculfor</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Stanford">
+    <yago:hasName xml:lang="en">Phil Stanford</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_J._Ram%C3%ADrez">
     <yago:hasName xml:lang="en">Pedro José Ramírez</yago:hasName>
@@ -2062,8 +2066,8 @@
     <yago:hasName xml:lang="en">Peter Johnson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_A._McKillip">
+    <yago:hasName xml:lang="en">Patricia A. Mackillip</yago:hasName>
     <yago:hasName xml:lang="en">Patricia Anne McKillip</yago:hasName>
-    <yago:hasName xml:lang="en">Patricia A. McKillip</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Parviz_Nouri">
     <yago:hasName xml:lang="en">Parviz Nouri</yago:hasName>
@@ -2085,7 +2089,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Palkuriki_Somanatha">
     <yago:hasName xml:lang="en">Palkurthy Somanatha</yago:hasName>
-    <yago:hasName xml:lang="en">Palkuriki Somanatha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_de_Saint-Exup%C3%A9ry">
     <yago:hasName xml:lang="en">Patrick De Saint-Exupery</yago:hasName>
@@ -2107,6 +2110,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_K._Dick">
     <yago:hasName xml:lang="en">Philip Kindred Dick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Coleman">
+    <yago:hasName xml:lang="en">Peter Coleman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Trippi">
     <yago:hasName xml:lang="en">Peter Trippi</yago:hasName>
@@ -2135,6 +2141,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Tennant">
     <yago:hasName xml:lang="en">Peter Tennant</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pallathu_Raman">
+    <yago:hasName xml:lang="en">Pallathu Raman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kingsnorth">
     <yago:hasName xml:lang="en">Paul Kingsnorth</yago:hasName>
@@ -2183,9 +2192,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Burford">
     <yago:hasName xml:lang="en">Pamela Burford</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Penny_Wilson">
-    <yago:hasName xml:lang="en">Penny Wilson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Souvestre">
     <yago:hasName xml:lang="en">Pierre Souvestre</yago:hasName>
   </rdf:Description>
@@ -2197,6 +2203,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Mansfield_(historian)">
     <yago:hasName xml:lang="en">Peter Mansfield</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ptolemy">
+    <yago:hasName xml:lang="en">Ptolemy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._C._Hodgell">
     <yago:hasName xml:lang="en">P. C. Hodgell</yago:hasName>
@@ -2216,9 +2225,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pitof">
     <yago:hasName xml:lang="en">Pitof</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Millar_%28journalist%29">
-    <yago:hasName xml:lang="en">Peter Millar</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ewald_Stefan_Pollok">
     <yago:hasName xml:lang="en">Pollok</yago:hasName>
   </rdf:Description>
@@ -2237,14 +2243,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Moore_(author)">
     <yago:hasName xml:lang="en">Pamela Moore</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Ford_%28writer%29">
-    <yago:hasName xml:lang="en">Phil Ford</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_L._Parker,_Jr.">
+    <yago:hasName xml:lang="en">Parker, John L., Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_Crick">
     <yago:hasName xml:lang="en">Paddy Crick</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A5l_Johan_Karlsen">
-    <yago:hasName xml:lang="en">Pål Johan Karlsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Doyen_Bridel">
     <yago:hasName xml:lang="en">Philippe Bridel</yago:hasName>
@@ -2258,9 +2261,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Purushottama_Lal">
     <yago:hasName xml:lang="en">Purushottama Lal</yago:hasName>
     <yago:hasName xml:lang="en">P. Lal</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Preston_Keat">
-    <yago:hasName xml:lang="en">Preston Keat</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_de_O%C3%B1a">
     <yago:hasName xml:lang="en">Pedro de Ona</yago:hasName>
@@ -2335,19 +2335,12 @@
     <yago:hasName xml:lang="en">Patrick Poivre D'arvor</yago:hasName>
     <yago:hasName xml:lang="en">Patrick Poivre d'Arvor</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parvati_Prasad_Baruva">
-    <yago:hasName xml:lang="en">Parvati Prasad Baruva</yago:hasName>
-    <yago:hasName xml:lang="en">Parvati Prasad Baruwa</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._K._Gopi">
     <yago:hasName xml:lang="en">P. K. Gopi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Wahl%C3%B6%C3%B6">
     <yago:hasName xml:lang="en">Per Fredrik Wahlöö</yago:hasName>
     <yago:hasName xml:lang="en">Per Wahloo</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pira_Sudham">
-    <yago:hasName xml:lang="en">Pira Sudham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Willis">
     <yago:hasName xml:lang="en">Patricia Willis</yago:hasName>
@@ -2401,12 +2394,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Orullian">
     <yago:hasName xml:lang="en">Peter Orullian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Blake_Morrison">
-    <yago:hasName xml:lang="en">Philip Blake Morrison</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parvez_Dewan">
-    <yago:hasName xml:lang="en">Parvez Dewan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Bronken">
     <yago:hasName xml:lang="en">Per Bronken</yago:hasName>
   </rdf:Description>
@@ -2438,14 +2425,20 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Perry_Moore">
     <yago:hasName xml:lang="en">Perry Moore</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Bourgault">
+    <yago:hasName xml:lang="en">Pierre Bourgault</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Vermeersch">
     <yago:hasName xml:lang="en">Paul Vermeersch</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_M%27Pel%C3%A9">
-    <yago:hasName xml:lang="en">Pierre M'Pelé</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._Inman">
+    <yago:hasName xml:lang="en">P. Inman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Dutton">
     <yago:hasName xml:lang="en">Paul Dutton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Klossowski">
+    <yago:hasName xml:lang="en">Pierre Klossowski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Fleming_(poet)">
     <yago:hasName xml:lang="en">Paul Fleming</yago:hasName>
@@ -2455,9 +2448,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Demant">
     <yago:hasName xml:lang="en">Peter Demant</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Diderichsen">
-    <yago:hasName xml:lang="en">Paul Diderichsen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patty_Dann">
     <yago:hasName xml:lang="en">Patty Dann</yago:hasName>
@@ -2501,6 +2491,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jiang_Pinchao">
     <yago:hasName xml:lang="en">Pinchao Jiang</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kien">
+    <yago:hasName xml:lang="en">Peter Kien</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penny_Daniels">
     <yago:hasName xml:lang="en">Penny Daniels</yago:hasName>
   </rdf:Description>
@@ -2531,9 +2524,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Legendre">
     <yago:hasName xml:lang="en">Pierre Legendre</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Hamilton_%28writer%29">
-    <yago:hasName xml:lang="en">Patrick Hamilton</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Wan-suh">
     <yago:hasName xml:lang="en">Park Wan-suh</yago:hasName>
   </rdf:Description>
@@ -2555,9 +2545,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Ustinov">
     <yago:hasName xml:lang="en">Peter Ustinov</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McDonald_%28critic%29">
-    <yago:hasName xml:lang="en">Peter McDonald</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Sissons">
     <yago:hasName xml:lang="en">Peter Sissons</yago:hasName>
@@ -2590,17 +2577,14 @@
     <yago:hasName xml:lang="en">Péng Hàoxiáng</yago:hasName>
     <yago:hasName xml:lang="en">Pang Ho-Cheung</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Keating">
-    <yago:hasName xml:lang="en">Phil Keating</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Franklin_White">
     <yago:hasName xml:lang="en">Patrick Franklin White</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Keating">
+    <yago:hasName xml:lang="en">Phil Keating</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Doyle_(writer)">
     <yago:hasName xml:lang="en">Peter Doyle</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Joseph_Bourcet">
-    <yago:hasName xml:lang="en">Pierre-Joseph Bourcet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Gardner_(journalist)">
     <yago:hasName xml:lang="en">Paul Gardner</yago:hasName>
@@ -2611,6 +2595,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Perdita_Huston">
     <yago:hasName xml:lang="en">Perdita Huston</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Solis_Nery">
+    <yago:hasName xml:lang="en">Peter Nery</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Grasso">
     <yago:hasName xml:lang="en">Patricia H. Grasso</yago:hasName>
     <yago:hasName xml:lang="en">Patricia Grasso</yago:hasName>
@@ -2619,8 +2606,12 @@
     <yago:hasName xml:lang="en">Pierre Schaeffer bibliography</yago:hasName>
     <yago:hasName xml:lang="en">Pierre Schaeffer</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierrette_Fleutiaux">
+    <yago:hasName xml:lang="en">Pierrette Fleutiaux</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Padraic_McGuinness">
     <yago:hasName xml:lang="en">Padraic McGuinness</yago:hasName>
+    <yago:hasName xml:lang="en">Padraic Macguinness</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panait_Cerna">
     <yago:hasName xml:lang="en">Panayot Stanchov</yago:hasName>
@@ -2664,10 +2655,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pulamaipithan">
     <yago:hasName xml:lang="en">Pulavar Pulamaipithan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A8ire_Godolin">
-    <yago:hasName xml:lang="en">Peire Godolin</yago:hasName>
-    <yago:hasName xml:lang="en">Pèire Godolin</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Luis_Mart%C3%ADnez_Larriba">
     <yago:hasName xml:lang="en">Pedro Luis Martinez Larriba</yago:hasName>
   </rdf:Description>
@@ -2688,9 +2675,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._Bhaskaran">
     <yago:hasName xml:lang="en">P. Bhaskaran</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_McLain">
-    <yago:hasName xml:lang="en">Paula McLain</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_LaFarge">
     <yago:hasName xml:lang="en">Paul Lafarge</yago:hasName>
@@ -2713,6 +2697,13 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Krassner">
     <yago:hasName xml:lang="en">Paul Krassner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plato">
+    <yago:hasName xml:lang="en">Plato</yago:hasName>
+    <yago:hasName xml:lang="en">Plato (Πλάτων)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Pegg,_Jr.">
+    <yago:hasName xml:lang="en">Pegg, Ed, Jr.</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Rassinier">
     <yago:hasName xml:lang="en">Paul Rassinier</yago:hasName>
   </rdf:Description>
@@ -2730,9 +2721,6 @@
     <yago:hasName xml:lang="en">Phyllis Ruth Blakeley</yago:hasName>
     <yago:hasName xml:lang="en">Phyllis Blakeley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jennings_%28Australian_author%29">
-    <yago:hasName xml:lang="en">Paul Jennings</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippa_Thomas">
     <yago:hasName xml:lang="en">Philippa Thomas</yago:hasName>
   </rdf:Description>
@@ -2743,11 +2731,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Morley">
     <yago:hasName xml:lang="en">Paul Morley</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Dale_%28poet%29">
-    <yago:hasName xml:lang="en">Peter Dale</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Brown">
     <yago:hasName xml:lang="en">Pete Brown</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pru_Goward">
+    <yago:hasName xml:lang="en">Pru Goward</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Farrelly">
+    <yago:hasName xml:lang="en">Paul Farrelly</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Ella_Juico">
     <yago:hasName xml:lang="en">Philip Ella Juico</yago:hasName>
@@ -2755,31 +2746,21 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Gille">
     <yago:hasName xml:lang="en">Philippe Gille</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Vansittart">
-    <yago:hasName xml:lang="en">Peter Vansittart</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lin_Huiyin">
     <yago:hasName xml:lang="en">Phyllis Lin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Vansittart">
+    <yago:hasName xml:lang="en">Peter Vansittart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_S%C3%BCskind">
     <yago:hasName xml:lang="en">Patrick Süskind</yago:hasName>
     <yago:hasName xml:lang="en">Patrick Suskind</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Palmater">
-    <yago:hasName xml:lang="en">Pamela Palmater</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Padraic_Fallon">
     <yago:hasName xml:lang="en">Padraic Fallon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Thorne_(reporter)">
     <yago:hasName xml:lang="en">Peter Thorne</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_C._Doherty">
-    <yago:hasName xml:lang="en">Paul C Doherty</yago:hasName>
-    <yago:hasName xml:lang="en">P. C. Doherty</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Connolly_%28journalist%29">
-    <yago:hasName xml:lang="en">Paul Connolly</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pvts">
     <yago:hasName xml:lang="en">Pvts</yago:hasName>
@@ -2790,6 +2771,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Cadigan">
     <yago:hasName xml:lang="en">Patricia Oren Kearney Cadigan</yago:hasName>
     <yago:hasName xml:lang="en">Pat Cadigan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Bum-shin">
+    <yago:hasName xml:lang="en">Park Beom-shin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Roberts">
     <yago:hasName xml:lang="en">Pat Roberts</yago:hasName>
@@ -2806,14 +2790,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Pol-Roux">
     <yago:hasName xml:lang="en">Paul-Pierre Roux</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Correia_Gar%C3%A7%C3%A3o">
+    <yago:hasName xml:lang="en">Pedro Correia Garcao</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Hunt_(literary_critic)">
     <yago:hasName xml:lang="en">Peter Hunt</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Weiss">
     <yago:hasName xml:lang="en">Peter Weiss</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dwarka_Prasad_Mishra">
-    <yago:hasName xml:lang="en">Pt. Dwarka Prasad Mishra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Battle">
     <yago:hasName xml:lang="en">Pat Battle</yago:hasName>
@@ -2822,17 +2806,14 @@
     <yago:hasName xml:lang="en">Pedro Antonio de Alarcón</yago:hasName>
     <yago:hasName xml:lang="en">Pedro Antonio de Alarcon</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%AAr-Jakez_Helias">
+    <yago:hasName xml:lang="en">Pêr-Jakez Helias</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Premendra_Mitra">
     <yago:hasName xml:lang="en">Premendra Mitra</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Hetherington_Fitzgerald">
     <yago:hasName xml:lang="en">Percy Hetherington Fitzgerald</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bieri_%28author%29">
-    <yago:hasName xml:lang="en">Peter Bieri</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Heeney">
-    <yago:hasName xml:lang="en">Patrick Heeney</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Bloch">
     <yago:hasName xml:lang="en">Pedro Bloch</yago:hasName>
@@ -2867,8 +2848,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patience_Agbabi">
     <yago:hasName xml:lang="en">Patience Agbabi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pattie_Mallette">
-    <yago:hasName xml:lang="en">Pattie Mallette</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Carrabr%C3%A9">
+    <yago:hasName xml:lang="en">Pat Carrabré</yago:hasName>
+    <yago:hasName xml:lang="en">Pat Carrabre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Urban">
+    <yago:hasName xml:lang="en">Peter Urban</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pinki_Virani">
     <yago:hasName xml:lang="en">Pinki Virani</yago:hasName>
@@ -2879,14 +2864,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Lamantia">
     <yago:hasName xml:lang="en">Philip Lamantia</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A5l_johan_karlsen">
-    <yago:hasName xml:lang="en">Pål Johan Karlsen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Beno%C3%AEt_(novelist)">
     <yago:hasName xml:lang="en">Pierre Benoit</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pola_Gojawiczy%C5%84ska">
     <yago:hasName xml:lang="en">Pola Gojawiczyńska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Gould">
+    <yago:hasName xml:lang="en">Philip Ronald Gould</yago:hasName>
+    <yago:hasName xml:lang="en">Phil Gould</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Cossa">
     <yago:hasName xml:lang="en">Pietro Cossa</yago:hasName>
@@ -2896,10 +2882,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._K._Warrier">
     <yago:hasName xml:lang="en">Panniyampilly Krishna Warrier</yago:hasName>
-    <yago:hasName xml:lang="en">P. K. Warrier</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Bogdan">
-    <yago:hasName xml:lang="en">Petar Bogdan</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Plunkett,_18th_Baron_of_Dunsany">
+    <yago:hasName xml:lang="en">Plunkett, Edward John Moreton Drax, 18th Baron of Dunsany</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavao_%C5%A0toos">
     <yago:hasName xml:lang="en">Pavao Stoos</yago:hasName>
@@ -2923,6 +2908,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Valli%C3%A8res">
     <yago:hasName xml:lang="en">Pierre Vallières</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Swindall">
+    <yago:hasName xml:lang="en">Pat Swindall</yago:hasName>
+    <yago:hasName xml:lang="en">Patrick Swindall</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Guihard">
     <yago:hasName xml:lang="en">Paul Guihard</yago:hasName>
   </rdf:Description>
@@ -2940,9 +2929,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Henriot">
     <yago:hasName xml:lang="en">Philippe Henriot</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Young_%28writer%29">
-    <yago:hasName xml:lang="en">Phil Young</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Morgan">
     <yago:hasName xml:lang="en">Peter Morgan</yago:hasName>
@@ -2968,8 +2954,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_Chayefsky">
     <yago:hasName xml:lang="en">Paddy Chayefsky</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Rabwin">
-    <yago:hasName xml:lang="en">Paul Rabwin</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peire_Cardenal">
+    <yago:hasName xml:lang="en">Peire Cardenal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_MacGill">
     <yago:hasName xml:lang="en">Patrick Macgill</yago:hasName>
@@ -2988,6 +2974,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_L._Maier">
     <yago:hasName xml:lang="en">Paul Maier</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Hobsbaum">
+    <yago:hasName xml:lang="en">Philip Hobsbaum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_G._Engelman">
     <yago:hasName xml:lang="en">Peter G. Engelman</yago:hasName>
@@ -3024,11 +3013,11 @@
     <yago:hasName xml:lang="en">Patrick Obrian</yago:hasName>
     <yago:hasName xml:lang="en">Patrick O'Brian</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Prapanchan">
-    <yago:hasName xml:lang="en">Prapanchan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piotr_Bikont">
     <yago:hasName xml:lang="en">Piotr Bikont</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Levinson">
+    <yago:hasName xml:lang="en">Peter Levinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petras_Cvirka">
     <yago:hasName xml:lang="en">Petras Cvirka</yago:hasName>
@@ -3054,6 +3043,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Beard">
     <yago:hasName xml:lang="en">Philip Beard</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pere_March">
+    <yago:hasName xml:lang="en">Pere March</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Haythornthwaite">
     <yago:hasName xml:lang="en">Philip Haythornthwaite</yago:hasName>
     <yago:hasName xml:lang="en">Philip Haythorntwaite</yago:hasName>
@@ -3070,6 +3062,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%ADo_Moa">
     <yago:hasName xml:lang="en">Pío Moa</yago:hasName>
     <yago:hasName xml:lang="en">Pio Moa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Praxilla">
+    <yago:hasName xml:lang="en">Praxilla of Sikyon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bacon_Hales">
     <yago:hasName xml:lang="en">Peter Bacon Hales</yago:hasName>
@@ -3092,6 +3087,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Overton">
     <yago:hasName xml:lang="en">Peter Overton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Posy_Simmonds">
+    <yago:hasName xml:lang="en">Posy Simmonds</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pagan_Kennedy">
     <yago:hasName xml:lang="en">Pagan Kennedy</yago:hasName>
@@ -3134,9 +3132,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Ryan_(author)">
     <yago:hasName xml:lang="en">Patricia Burford Ryan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Andrew_Phoenix">
-    <yago:hasName xml:lang="en">Phoenix</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pannalal_Patel">
     <yago:hasName xml:lang="en">Pannalal Nanalal Patel</yago:hasName>
     <yago:hasName xml:lang="en">Pannalal Patel</yago:hasName>
@@ -3158,6 +3153,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pria_Viswalingam">
     <yago:hasName xml:lang="en">Pria Viswalingam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petre_%C5%A2u%C5%A3ea">
+    <yago:hasName xml:lang="en">Petre Tutea</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Kogan_(poet)">
     <yago:hasName xml:lang="en">Pavel Kogan</yago:hasName>
@@ -3187,6 +3185,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Jones_Griffiths">
     <yago:hasName xml:lang="en">Philip Jones Griffiths</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Dubois_(author)">
+    <yago:hasName xml:lang="en">Pierre Dubois</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jacobs_(Flemish_writer)">
     <yago:hasName xml:lang="en">Paul Jacobs</yago:hasName>
   </rdf:Description>
@@ -3197,7 +3198,6 @@
     <yago:hasName xml:lang="en">Professor James Miller</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Lou%C3%BFs">
-    <yago:hasName xml:lang="en">Pierre Louÿs</yago:hasName>
     <yago:hasName xml:lang="en">Pierre Louys</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Potter">
@@ -3205,9 +3205,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pia_Conde">
     <yago:hasName xml:lang="en">Pia Conde</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parijat_%28writer%29">
-    <yago:hasName xml:lang="en">Parijat</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._R._Stephensen">
     <yago:hasName xml:lang="en">Percy Reginald Stephenson</yago:hasName>
@@ -3235,6 +3232,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pinckney_Benedict">
     <yago:hasName xml:lang="en">Pinckney Benedict</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillip_Longman">
+    <yago:hasName xml:lang="en">Phillip Longman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Cheremushkin">
     <yago:hasName xml:lang="en">Peter Cheremushkin</yago:hasName>
@@ -3308,12 +3308,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Fischl">
     <yago:hasName xml:lang="en">Peter Fischl</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Goodman_%28writer%29">
-    <yago:hasName xml:lang="en">Paul Goodman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Graham_%28writer%29">
-    <yago:hasName xml:lang="en">Philip Graham</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Hoare_(younger)">
     <yago:hasName xml:lang="en">Prince Hoare</yago:hasName>
   </rdf:Description>
@@ -3329,18 +3323,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Mooney_(writer)">
     <yago:hasName xml:lang="en">Paul Mooney</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Sargent">
-    <yago:hasName xml:lang="en">Pamela Sargent</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gent">
     <yago:hasName xml:lang="en">Peter Gent</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Fry_%28professor%29">
-    <yago:hasName xml:lang="en">Paul H. Fry</yago:hasName>
-    <yago:hasName xml:lang="en">Paul Fry</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Jacques">
     <yago:hasName xml:lang="en">Paula Jacques</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kangas">
+    <yago:hasName xml:lang="en">Paul Kangas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_%C3%89luard">
     <yago:hasName xml:lang="en">Paul Eluard</yago:hasName>
@@ -3358,14 +3348,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kenna">
     <yago:hasName xml:lang="en">Peter Joseph Kenna</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Ryan_%28author%29">
-    <yago:hasName xml:lang="en">Patricia Burford Ryan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peadar_O&apos;Donnell">
     <yago:hasName xml:lang="en">Peadar Odonnell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Alexander_(American_writer)">
     <yago:hasName xml:lang="en">Paul Alexander</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Sollett">
+    <yago:hasName xml:lang="en">Peter Sollett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pushpa_Thangadorai">
     <yago:hasName xml:lang="en">Pushpa Thangadorai</yago:hasName>
@@ -3408,9 +3398,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prasanna">
     <yago:hasName xml:lang="en">Prasanna</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paschal_Grousset">
-    <yago:hasName xml:lang="en">Paschal Grousset</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Popi_Tsapanidou">
     <yago:hasName xml:lang="en">Popi Tsapanidou</yago:hasName>
   </rdf:Description>
@@ -3441,18 +3428,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pam_Seatle">
     <yago:hasName xml:lang="en">Pam Seatle</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P._S._Harrison">
-    <yago:hasName xml:lang="en">P.S. Harrison</yago:hasName>
-    <yago:hasName xml:lang="en">P. S. Harrison</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Cunningham_(journalist)">
     <yago:hasName xml:lang="en">Paul Cunningham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Scupham">
     <yago:hasName xml:lang="en">Peter Scupham</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peng_Yiping">
-    <yago:hasName xml:lang="en">Peng Yiping</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Barlow">
+    <yago:hasName xml:lang="en">Patrick Barlow</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pico_Iyer">
     <yago:hasName xml:lang="en">Pico Iyer</yago:hasName>
@@ -3460,15 +3443,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Bonifacio_Palacios">
     <yago:hasName xml:lang="en">Pedro Bonifacio Palacios</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Holland">
-    <yago:hasName xml:lang="en">Patrick Holland</yago:hasName>
-    <yago:hasName xml:lang="en">Patrick Gordon Holland</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamulaparthi_Sadasiva_Rao">
     <yago:hasName xml:lang="en">Pamulaparthi Sadasiva Rao</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pertch_Proshian">
     <yago:hasName xml:lang="en">Pertch Proshian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Skene_Catling">
+    <yago:hasName xml:lang="en">Patrick Skene Catling</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Laporte">
     <yago:hasName xml:lang="en">Pierre Laporte</yago:hasName>
@@ -3498,12 +3480,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Page_Smith">
     <yago:hasName xml:lang="en">Page Smith</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phanishwar_Nath_%27Renu%27">
-    <yago:hasName xml:lang="en">Phanishwar Nath Renu</yago:hasName>
-    <yago:hasName xml:lang="en">Phanishwar Nath 'Renu'</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Trottier">
+    <yago:hasName xml:lang="en">Pierre Trottier</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Doyle_%28writer%29">
-    <yago:hasName xml:lang="en">Peter Doyle</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Luis_Boitel">
+    <yago:hasName xml:lang="en">Pedro Luis Boitel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Heaton-Jones">
     <yago:hasName xml:lang="en">Peter Heaton-Jones</yago:hasName>
@@ -3542,6 +3523,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Reynolds_(RT%C3%89_journalist)">
     <yago:hasName xml:lang="en">Paul Reynolds</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phylip_Brydydd">
+    <yago:hasName xml:lang="en">Phylip Brydydd</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petr_Mad%C4%9Bra">
     <yago:hasName xml:lang="en">Petr Madera</yago:hasName>
   </rdf:Description>
@@ -3565,21 +3549,14 @@
     <yago:hasName xml:lang="en">Paul Howe Shepard, Jr.</yago:hasName>
     <yago:hasName xml:lang="en">Paul Shepard</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bal%C3%A1%C5%BE_%28esperantist%29">
-    <yago:hasName xml:lang="en">Peter Balaz</yago:hasName>
-    <yago:hasName xml:lang="en">Peter Baláž</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pagal_Adilabadi">
     <yago:hasName xml:lang="en">Pagal Adilabadi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wilby">
+    <yago:hasName xml:lang="en">Peter Wilby</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pam_Gems">
     <yago:hasName xml:lang="en">Pam Gems</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Maher%2C_Jr.">
-    <yago:hasName xml:lang="en">Paul Maher, Jr.</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bins%2C_comte_de_Saint-Victor">
-    <yago:hasName xml:lang="en">Paul de Saint-Victor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_von_Zahn">
     <yago:hasName xml:lang="en">Peter Von Zahn</yago:hasName>
@@ -3638,9 +3615,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Didsbury">
     <yago:hasName xml:lang="en">Peter Didsbury</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Dub%C3%A9">
-    <yago:hasName xml:lang="en">Peter Dube</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prokop_Franti%C5%A1ek_%C5%A0ediv%C3%BD">
     <yago:hasName xml:lang="en">Prokop Sedivy</yago:hasName>
   </rdf:Description>
@@ -3648,11 +3622,11 @@
     <yago:hasName xml:lang="en">Pedro Agerre</yago:hasName>
     <yago:hasName xml:lang="en">Pedro Agerre Azpilkueta</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Clammer">
-    <yago:hasName xml:lang="en">Paul Clammer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Meloy">
     <yago:hasName xml:lang="en">Paul Meloy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Chirakkarode">
+    <yago:hasName xml:lang="en">Paul Chirakkarode</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Moran_(photojournalist)">
     <yago:hasName xml:lang="en">Paul Moran</yago:hasName>
@@ -3678,6 +3652,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Snoek">
     <yago:hasName xml:lang="en">Paul Snoek</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pennar_Davies">
+    <yago:hasName xml:lang="en">Pennar Davies</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Petersen">
     <yago:hasName xml:lang="en">Paul Petersen</yago:hasName>
   </rdf:Description>
@@ -3694,6 +3671,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Antokolsky">
     <yago:hasName xml:lang="en">Pavel Antokolsky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_S._Kemp">
+    <yago:hasName xml:lang="en">Paul S. Kemp</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_O&apos;Donnell">
     <yago:hasName xml:lang="en">Peter Odonnell</yago:hasName>
   </rdf:Description>
@@ -3709,6 +3689,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Britton_(author)">
     <yago:hasName xml:lang="en">Pamela Britton</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Padmarajan">
+    <yago:hasName xml:lang="en">Padmarajan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Raybon">
     <yago:hasName xml:lang="en">Patricia Raybon</yago:hasName>
   </rdf:Description>
@@ -3716,14 +3699,18 @@
     <yago:hasName xml:lang="en">Philippe de Beaumanoir</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pratibha_Ray">
-    <yago:hasName xml:lang="en">Padmashree Dr. Pratibha Ray</yago:hasName>
     <yago:hasName xml:lang="en">Pratibha Ray</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Coates">
     <yago:hasName xml:lang="en">Paul Coates</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pius_Njaw%C3%A9">
+    <yago:hasName xml:lang="en">Pius Njawé</yago:hasName>
+    <yago:hasName xml:lang="en">Pius Njawe</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Doherty">
     <yago:hasName xml:lang="en">Pete Doherty</yago:hasName>
+    <yago:hasName xml:lang="en">Peter Doherty</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paal_Brekke">
     <yago:hasName xml:lang="en">Paal Brekke</yago:hasName>
@@ -3741,14 +3728,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gennadiy_Prashkevich">
     <yago:hasName xml:lang="en">Prashkevich</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tacitus">
+    <yago:hasName xml:lang="en">Publius (or Gaius) Cornelius Tacitus</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Ortiz_Davila">
     <yago:hasName xml:lang="en">Pedro Ortiz Davila</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Michel_Gabriel_L%C3%A9vy">
     <yago:hasName xml:lang="en">Paul Michel Gabriel Levy</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_C._Paquet">
-    <yago:hasName xml:lang="en">Paul C. Paquet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petya_Dubarova">
     <yago:hasName xml:lang="en">Petya Dubarova</yago:hasName>
@@ -3759,11 +3746,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Yee">
     <yago:hasName xml:lang="en">Paul Yee</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Joseph-Justin_Bernard">
+    <yago:hasName xml:lang="en">Pierre-Joseph-Justin Bernard</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Guzm%C3%A1n">
     <yago:hasName xml:lang="en">Pablo Guzmán</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piedad_Bonnett">
-    <yago:hasName xml:lang="en">Piedad Bonnett Vélez</yago:hasName>
+    <yago:hasName xml:lang="en">Piedad Bonnet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Johnson_(writer)">
     <yago:hasName xml:lang="en">Paul Johnson</yago:hasName>
@@ -3773,10 +3763,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Bembo">
     <yago:hasName xml:lang="en">Pietro Bembo</yago:hasName>
-    <yago:hasName xml:lang="en">Pietro Bembo, O.S.I.H.</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Dale_Smith_%28writer%29">
-    <yago:hasName xml:lang="en">Paul Dale Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piers_Akerman">
     <yago:hasName xml:lang="en">Piers Akerman</yago:hasName>
@@ -3790,11 +3776,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Hammial">
     <yago:hasName xml:lang="en">Philip Hammial</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Carell">
-    <yago:hasName xml:lang="en">Paul Carell</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Alexander">
     <yago:hasName xml:lang="en">Pamela Alexandria</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priya_David">
+    <yago:hasName xml:lang="en">Priya David Clemens</yago:hasName>
+    <yago:hasName xml:lang="en">Priya David</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Gotlieb">
     <yago:hasName xml:lang="en">Phyllis Gotlieb</yago:hasName>
@@ -3805,11 +3792,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bowers_(Australian_journalist)">
     <yago:hasName xml:lang="en">Peter Bowers</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Porter_%28poet%29">
-    <yago:hasName xml:lang="en">Peter Porter</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Leonard">
     <yago:hasName xml:lang="en">Patrick Leonard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parvati_Prasad_Baruwa">
+    <yago:hasName xml:lang="en">Parvati Prasad Baruwa</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Gnedich">
     <yago:hasName xml:lang="en">Pyotr Gnedich</yago:hasName>
@@ -3830,6 +3817,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Godwin_(writer)">
     <yago:hasName xml:lang="en">Peter Godwin</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Dansken_Ross">
+    <yago:hasName xml:lang="en">Philip Dansken Ross</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peggy_Webb">
     <yago:hasName xml:lang="en">Peggy Elaine Hussey Webb</yago:hasName>
     <yago:hasName xml:lang="en">Peggy Webb</yago:hasName>
@@ -3839,9 +3829,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Knobel">
     <yago:hasName xml:lang="en">Paul Knobel</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Putu_Oka_Sukanta">
-    <yago:hasName xml:lang="en">Putu Oka Sukanta</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Bernard">
     <yago:hasName xml:lang="en">Patricia Bernard</yago:hasName>
@@ -3856,6 +3843,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kolosimo">
     <yago:hasName xml:lang="en">Peter Kolosimo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Arthur_Pearson,_1st_Baronet">
+    <yago:hasName xml:lang="en">Pearson, Sir Arthur, 1st Baronet</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ostap_Vyshnya">
     <yago:hasName xml:lang="en">Pavlo Hubenko</yago:hasName>
   </rdf:Description>
@@ -3865,11 +3855,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piero_Valeriano_Bolzani">
     <yago:hasName xml:lang="en">Piero Valeriano Bolzani</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_McGuinness">
-    <yago:hasName xml:lang="en">Patrick McGuinness</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Murphy_(Australian_journalist)">
     <yago:hasName xml:lang="en">Paul Murphy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_M._Parker,_Jr.">
+    <yago:hasName xml:lang="en">Parker, Robert M., Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poesy_Liang">
+    <yago:hasName xml:lang="en">Poesy Liang</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Mairet">
     <yago:hasName xml:lang="en">Philip Mairet</yago:hasName>
@@ -3886,11 +3879,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Adam_(French_novelist)">
     <yago:hasName xml:lang="en">Paul Adam</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Watts_%28author%29">
-    <yago:hasName xml:lang="en">Peter Watts</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Hullah">
     <yago:hasName xml:lang="en">Paul Hullah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Meadows_Taylor">
+    <yago:hasName xml:lang="en">Philip Meadows Taylor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Hamill">
     <yago:hasName xml:lang="en">Pete Hamill</yago:hasName>
@@ -3910,14 +3903,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Petit_(scholar)">
     <yago:hasName xml:lang="en">Pierre Petit</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Riri_Fitri_Sari">
-    <yago:hasName xml:lang="en">Prof. Dr. Ir. Riri Fitri Sari MM MSc, SMIEEE, ACG</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Ar%C3%A8ne">
     <yago:hasName xml:lang="en">Paul Arene</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Dunne_(writer)">
-    <yago:hasName xml:lang="en">Philip Dunne</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pannisseri_Nanu_Pillai">
+    <yago:hasName xml:lang="en">Pannisseri Nanu Pillai</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pender_Hodge_Cudlip">
     <yago:hasName xml:lang="en">Pender Hodge Cudlip</yago:hasName>
@@ -3925,9 +3915,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Andr%C3%A9_Taguieff">
     <yago:hasName xml:lang="en">Pierre-André Taguieff</yago:hasName>
     <yago:hasName xml:lang="en">Pierre-Andre Taguieff</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Primrose_Cumming">
-    <yago:hasName xml:lang="en">Primrose Cumming</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Allen">
     <yago:hasName xml:lang="en">Pamela Allen</yago:hasName>
@@ -3942,7 +3929,6 @@
     <yago:hasName xml:lang="en">Philip Gross</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prem_Panicker">
-    <yago:hasName xml:lang="en">Prem Panicker</yago:hasName>
     <yago:hasName xml:lang="en">Panicker</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Erdman">
@@ -3966,9 +3952,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Hardy_(journalist)">
     <yago:hasName xml:lang="en">Phil Hardy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Forest">
-    <yago:hasName xml:lang="en">Philippe Forest</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Galanes">
     <yago:hasName xml:lang="en">Philip Galanes</yago:hasName>
   </rdf:Description>
@@ -3983,6 +3966,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_B._Germano">
     <yago:hasName xml:lang="en">Peter B. Germano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Roscoe">
+    <yago:hasName xml:lang="en">Patrick Roscoe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Poul_Graae">
     <yago:hasName xml:lang="en">Poul Graae</yago:hasName>
@@ -4002,8 +3988,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Wanis">
     <yago:hasName xml:lang="en">Patrick Wanis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Rosenfeld">
+    <yago:hasName xml:lang="en">Paul Rosenfeld</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paule_Constant">
     <yago:hasName xml:lang="en">Paule Constant</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Lord">
+    <yago:hasName xml:lang="en">Peter Lord</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moralia">
+    <yago:hasName xml:lang="en">Plutarch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pye_Chamberlayne">
     <yago:hasName xml:lang="en">Pye Chamberlayne</yago:hasName>
@@ -4013,6 +4008,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petr_Nikolayevich_Toburokov">
     <yago:hasName xml:lang="en">Petr Toburokov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nisar_Ahmed_Faruqi">
+    <yago:hasName xml:lang="en">Professor Nisar Ahmed Faruqi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_A._W._Wallace">
     <yago:hasName xml:lang="en">Paul Wallace</yago:hasName>
@@ -4047,12 +4045,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prasoon_Joshi">
     <yago:hasName xml:lang="en">Prasoon Joshi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_W._Chung">
+    <yago:hasName xml:lang="en">Philip W. Chung</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kearney">
+    <yago:hasName xml:lang="en">Paul Kearney</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phillip_Margolin">
     <yago:hasName xml:lang="en">Phillip Margolin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Harvey">
     <yago:hasName xml:lang="en">Peter Harvey</yago:hasName>
-    <yago:hasName xml:lang="en">Peter Michael St Clair Harvey</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Abraham">
     <yago:hasName xml:lang="en">Pierre Abraham</yago:hasName>
@@ -4100,17 +4103,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Hak">
     <yago:hasName xml:lang="en">Pavel Hak</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrinal_Chatterjee">
-    <yago:hasName xml:lang="en">Prof. Dr. Mrinal Chatterjee</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Jaccottet">
     <yago:hasName xml:lang="en">Philippe Jaccottet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phocylides">
     <yago:hasName xml:lang="en">Phocylides</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Haines_%28fiction_writer%29">
-    <yago:hasName xml:lang="en">Paul Haines</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Green_(musician)">
     <yago:hasName xml:lang="en">Paul Green</yago:hasName>
@@ -4139,6 +4136,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petr_Bezru%C4%8D">
     <yago:hasName xml:lang="en">Petr Bezruč</yago:hasName>
     <yago:hasName xml:lang="en">Petr Bezruc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panos_Koutrouboussis">
+    <yago:hasName xml:lang="en">Panos Koutrouboussis</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Conradi">
     <yago:hasName xml:lang="en">Peter Conradi</yago:hasName>
@@ -4186,9 +4186,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Stephan_Jungk">
     <yago:hasName xml:lang="en">Peter Stephan Jungk</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Bellemare">
-    <yago:hasName xml:lang="en">Pierre Bellemare</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Primo%C5%BE_%C4%8Cu%C4%8Dnik">
     <yago:hasName xml:lang="en">Primoz Cucnik</yago:hasName>
     <yago:hasName xml:lang="en">Primož Čučnik</yago:hasName>
@@ -4196,9 +4193,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Hopkins">
     <yago:hasName xml:lang="en">Pauline Hopkins</yago:hasName>
     <yago:hasName xml:lang="en">Pauline Elizabeth Hopkins</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Deville">
-    <yago:hasName xml:lang="en">Patrick Deville</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Anthony">
     <yago:hasName xml:lang="en">Patricia Anthony</yago:hasName>
@@ -4226,9 +4220,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Halter">
     <yago:hasName xml:lang="en">Paul Halter</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Delitala">
-    <yago:hasName xml:lang="en">Pietro Delitala</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Berton">
     <yago:hasName xml:lang="en">Pierre Berton</yago:hasName>
     <yago:hasName xml:lang="en">Pierre Francis Berton</yago:hasName>
@@ -4236,14 +4227,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Andreas_Papagiannakopoulos">
     <yago:hasName xml:lang="en">Papagiannakopoulos Andreas</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pija_Lindenbaum">
-    <yago:hasName xml:lang="en">Pija Lindenbaum</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prideaux_John_Selby">
     <yago:hasName xml:lang="en">Prideaux John Selby</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_F._McManus">
     <yago:hasName xml:lang="en">Patrick F. McManus</yago:hasName>
+    <yago:hasName xml:lang="en">Patrick F. Macmanus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jordan_(artist)">
     <yago:hasName xml:lang="en">Paul Jordan</yago:hasName>
@@ -4262,7 +4251,6 @@
     <yago:hasName xml:lang="en">PJ Haarsma</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Fr%C3%ADas_Allende">
-    <yago:hasName xml:lang="en">Paula Frias Allende</yago:hasName>
     <yago:hasName xml:lang="en">Paula Frías Allende</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piero_Jahier">
@@ -4295,14 +4283,14 @@
     <yago:hasName xml:lang="en">Philip Wylie</yago:hasName>
     <yago:hasName xml:lang="en">Philip Gordon Wylie</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Bowler">
+    <yago:hasName xml:lang="en">Peter Bowler</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Melville">
     <yago:hasName xml:lang="en">Pauline Melville</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Delerm">
     <yago:hasName xml:lang="en">Philippe Delerm</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Nicholls_(writer)">
-    <yago:hasName xml:lang="en">Peter Nicholls</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Ann_Karr">
     <yago:hasName xml:lang="en">Phyllis Ann Karr</yago:hasName>
@@ -4315,6 +4303,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Hurd">
     <yago:hasName xml:lang="en">Percy A Hurd</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peya_Mushelenga">
+    <yago:hasName xml:lang="en">Peya Mushelenga</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Lisicky">
     <yago:hasName xml:lang="en">Paul Lisicky</yago:hasName>
@@ -4355,23 +4346,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Victor_Pr%C3%A9vot,_vicomte_d&apos;Arlincourt">
     <yago:hasName xml:lang="en">Prevot, Charles Victor, vicomte d'Arlincourt</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pervaiz_Kaleem">
-    <yago:hasName xml:lang="en">Pervaiz Kaleem</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Lane">
     <yago:hasName xml:lang="en">Patrick Lane</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Berman">
-    <yago:hasName xml:lang="en">Paul Berman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Prem_Kishore_Patakha">
-    <yago:hasName xml:lang="en">Prem Kishore 'Patakha'</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paola_Barbato">
-    <yago:hasName xml:lang="en">Paola Barbato</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Pegg%2C_Jr.">
-    <yago:hasName xml:lang="en">Pegg, Ed, Jr.</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pratap_Chatterjee">
+    <yago:hasName xml:lang="en">Pratap Chatterjee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McDougall">
     <yago:hasName xml:lang="en">Peter McDougall</yago:hasName>
@@ -4385,11 +4364,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Joffroy">
     <yago:hasName xml:lang="en">Pierre Joffroy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Povilas_Vi%C5%A1inskis">
+    <yago:hasName xml:lang="en">Povilas Visinskis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Street_(journalist)">
     <yago:hasName xml:lang="en">Paul Street</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Lemebel">
     <yago:hasName xml:lang="en">Pedro Lemebel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phelan_Beale,_Jr.">
+    <yago:hasName xml:lang="en">Phelan 02 Beale</yago:hasName>
+    <yago:hasName xml:lang="en">Phelan Beale, Jr.</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peta_Murray">
     <yago:hasName xml:lang="en">Peta Murray</yago:hasName>
@@ -4400,12 +4386,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Billon">
     <yago:hasName xml:lang="en">Pierre Billon</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panyassis">
+    <yago:hasName xml:lang="en">Panyassis</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Rea">
     <yago:hasName xml:lang="en">Paul Rea</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pura_Belpr%C3%A9">
     <yago:hasName xml:lang="en">Pura Belpré</yago:hasName>
     <yago:hasName xml:lang="en">Pura Belpre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philomene_Long">
+    <yago:hasName xml:lang="en">Philomene Long</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Moon">
     <yago:hasName xml:lang="en">Paul Moon</yago:hasName>
@@ -4421,9 +4413,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_Cornelis_Boutens">
     <yago:hasName xml:lang="en">Pieter Cornelis Boutens</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Combescot">
-    <yago:hasName xml:lang="en">Pierre Combescot</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Zorani%C4%87">
     <yago:hasName xml:lang="en">Petar Zoranic</yago:hasName>
@@ -4442,9 +4431,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Nyman">
     <yago:hasName xml:lang="en">Peter Nyman</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Padmanath_Gohainbaruah">
-    <yago:hasName xml:lang="en">Padmanath Gohainbaruah</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Prior-Pitt">
     <yago:hasName xml:lang="en">Pauline Prior-Pitt</yago:hasName>
@@ -4504,6 +4490,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Barb%C4%83_Neagr%C4%83">
     <yago:hasName xml:lang="en">Paul Barba Neagra</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perumbadavam_Sreedharan">
+    <yago:hasName xml:lang="en">Perumbadavam Sreedharan</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Petko_Slaveykov">
     <yago:hasName xml:lang="en">Petko Slaveykov</yago:hasName>
   </rdf:Description>
@@ -4522,8 +4511,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paco_Ahlgren">
     <yago:hasName xml:lang="en">Paco Ahlgren</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_McCarthy">
-    <yago:hasName xml:lang="en">Pete McCarthy</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrizius_Wittman">
+    <yago:hasName xml:lang="en">Patrizius Wittman</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Polly_Dunbar">
     <yago:hasName xml:lang="en">Polly Dunbar</yago:hasName>
@@ -4549,9 +4538,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Bolland">
     <yago:hasName xml:lang="en">Pat Bolland</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Perry_%28author%29">
-    <yago:hasName xml:lang="en">Paul Perry</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_White">
     <yago:hasName xml:lang="en">Patrick White</yago:hasName>
   </rdf:Description>
@@ -4560,6 +4546,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/PowerBASIC">
     <yago:hasName xml:lang="en">PowerBASIC</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Wasley">
+    <yago:hasName xml:lang="en">Patricia Wasley</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Ingoldsby">
     <yago:hasName xml:lang="en">Pat Ingoldsby</yago:hasName>
@@ -4570,12 +4559,19 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_H._Fogtdal">
     <yago:hasName xml:lang="en">Peter Fogtdal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_Mainl%C3%A4nder">
+    <yago:hasName xml:lang="en">Philipp Mainlander</yago:hasName>
+    <yago:hasName xml:lang="en">Philipp Mainländer</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Rock_(novelist)">
     <yago:hasName xml:lang="en">Peter Rock</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_di_Donato">
     <yago:hasName xml:lang="en">Pietro di Donato</yago:hasName>
     <yago:hasName xml:lang="en">Pietro Di Donato</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pol_Greisch">
+    <yago:hasName xml:lang="en">Pol Greisch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Smyth_(poet)">
     <yago:hasName xml:lang="en">Paul Smyth</yago:hasName>
@@ -4593,11 +4589,20 @@
     <yago:hasName xml:lang="en">Prvoslav Vujcic</yago:hasName>
     <yago:hasName xml:lang="en">Prvoslav Vujčić</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phoebe_Gilman">
+    <yago:hasName xml:lang="en">Phoebe Gilman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Pakenham,_Countess_of_Longford">
+    <yago:hasName xml:lang="en">Pakenham, Elizabeth, Countess of Longford</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Sollers">
     <yago:hasName xml:lang="en">Philippe Sollers</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Chavchavadze">
     <yago:hasName xml:lang="en">Prince Alexander Chavchavadze</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Chany">
+    <yago:hasName xml:lang="en">Pierre Chany</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kuo_Pao_Kun">
     <yago:hasName xml:lang="en">Pao Kun Kuo</yago:hasName>
@@ -4630,6 +4635,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_McGeough">
     <yago:hasName xml:lang="en">Paul McGeough</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pothana">
+    <yago:hasName xml:lang="en">Pothana</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_de_Rothschild">
     <yago:hasName xml:lang="en">Philippe de Rothschild</yago:hasName>
@@ -4681,13 +4689,16 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._G._Wodehouse">
     <yago:hasName xml:lang="en">P. G. Wodehouse</yago:hasName>
+    <yago:hasName xml:lang="en">Pelham Grenville Wodehouse</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Porter">
-    <yago:hasName xml:lang="en">Pamela Paige Porter</yago:hasName>
     <yago:hasName xml:lang="en">Pamela Porter</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Giblin">
     <yago:hasName xml:lang="en">Paul Giblin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaikkath_Pachu_Moothathu">
+    <yago:hasName xml:lang="en">Parameswaran Moothathu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Parag_Kumar_Das">
     <yago:hasName xml:lang="en">Parag Kumar Das</yago:hasName>
@@ -4706,9 +4717,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Perdigon">
     <yago:hasName xml:lang="en">Perdigon</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Penty">
-    <yago:hasName xml:lang="en">Penty AJ</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Seaton">
     <yago:hasName xml:lang="en">Peter Seaton</yago:hasName>
@@ -4746,6 +4754,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Reilly">
     <yago:hasName xml:lang="en">Peter Reilly</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piotra_Sych">
+    <yago:hasName xml:lang="en">Piotra Sych</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Mikhaylovich_Yershov">
     <yago:hasName xml:lang="en">Pyotr Mikhaylovich Yershov</yago:hasName>
   </rdf:Description>
@@ -4765,20 +4776,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pearse_Hutchinson">
     <yago:hasName xml:lang="en">Pearse Hutchinson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillip_Bradley">
-    <yago:hasName xml:lang="en">Phillip Bradley</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paio_Soares_de_Taveir%C3%B3s">
     <yago:hasName xml:lang="en">Paio Soares De Taveiros</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_of_Eboli">
-    <yago:hasName xml:lang="en">Peter of Eboli</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_von_Zesen">
     <yago:hasName xml:lang="en">Philipp von Zesen</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Project_Itoh">
-    <yago:hasName xml:lang="en">Project Itoh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Lheureux">
     <yago:hasName xml:lang="en">Philippe Lheureux</yago:hasName>
@@ -4792,17 +4794,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Marber">
     <yago:hasName xml:lang="en">Patrick Marber</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wild">
-    <yago:hasName xml:lang="en">Peter Wild</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Cole">
     <yago:hasName xml:lang="en">Peter Cole</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pola_Oloixarac">
     <yago:hasName xml:lang="en">Pola Oloixarac</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Parker_Thomas_Moon">
-    <yago:hasName xml:lang="en">Parker Thomas Moon</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pamman">
     <yago:hasName xml:lang="en">Pamman</yago:hasName>
@@ -4831,8 +4827,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Skrzynecki">
     <yago:hasName xml:lang="en">Peter Skrzynecki</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paz_Latorena">
-    <yago:hasName xml:lang="en">Paz Latorena</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Arkle">
+    <yago:hasName xml:lang="en">Phyllis Arkle</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Jacobson_(poet)">
     <yago:hasName xml:lang="en">Peter Jacobson</yago:hasName>
@@ -4867,17 +4863,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippa_Tomson">
     <yago:hasName xml:lang="en">Philippa Tomson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Maher_%28writer%29">
-    <yago:hasName xml:lang="en">Patrick Maher</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_May_(writer)">
     <yago:hasName xml:lang="en">Peter May</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pran_Nevile">
     <yago:hasName xml:lang="en">Pran Nevile</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Robinson_%28author%29">
-    <yago:hasName xml:lang="en">Patrick Robinson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Garson">
     <yago:hasName xml:lang="en">Paul Garson</yago:hasName>
@@ -4895,10 +4885,6 @@
     <yago:hasName xml:lang="en">Paul Van Ostaijen</yago:hasName>
     <yago:hasName xml:lang="en">Paul van Ostaijen</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%A9ter_Zsoldos">
-    <yago:hasName xml:lang="en">Peter Zsoldos</yago:hasName>
-    <yago:hasName xml:lang="en">Péter Zsoldos</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Howard_(journalist)">
     <yago:hasName xml:lang="en">Paul Howard</yago:hasName>
   </rdf:Description>
@@ -4910,6 +4896,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patty_Lin">
     <yago:hasName xml:lang="en">Patty Lin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punathil_Kunjabdulla">
+    <yago:hasName xml:lang="en">Punathil Kunjabdulla</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Makhanlal_Chaturvedi">
     <yago:hasName xml:lang="en">Pandit Makhanlal Chaturvedi</yago:hasName>
@@ -4923,9 +4912,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Cullinan">
     <yago:hasName xml:lang="en">Patrick Cullinan</yago:hasName>
     <yago:hasName xml:lang="en">Patrick Roland Cullinan</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Veinberg">
-    <yago:hasName xml:lang="en">Pyotr Isaevich Weinberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penni_Russon">
     <yago:hasName xml:lang="en">Penni Russon</yago:hasName>
@@ -4942,6 +4928,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Telep">
     <yago:hasName xml:lang="en">Peter Telep</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Blinov">
+    <yago:hasName xml:lang="en">Pyotr Blinov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prem_Shankar_Jha">
     <yago:hasName xml:lang="en">Prem Shankar Jha</yago:hasName>
@@ -4961,6 +4950,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Constantine">
     <yago:hasName xml:lang="en">Peter Constantine</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Stephan_P%C3%BCtter">
+    <yago:hasName xml:lang="en">Putter</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pauline_Johnson">
     <yago:hasName xml:lang="en">Pauline Johnson</yago:hasName>
   </rdf:Description>
@@ -4979,18 +4971,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Orner">
     <yago:hasName xml:lang="en">Peter Orner</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Ballantine">
+    <yago:hasName xml:lang="en">Pamela Ballantine</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Percival_Everett">
     <yago:hasName xml:lang="en">Percival Everett</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Jeyaretnam">
-    <yago:hasName xml:lang="en">Philip Jeyaretnam</yago:hasName>
-    <yago:hasName xml:lang="en">Philip Antony Jeyaretnam</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Blackburn_(U.S._poet)">
     <yago:hasName xml:lang="en">Paul Blackburn</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Carr_%28writer%29">
-    <yago:hasName xml:lang="en">Paul Carr</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_A._Haigh">
     <yago:hasName xml:lang="en">Philip Haigh</yago:hasName>
@@ -5013,12 +5001,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Abdul_Shakoor_Rashad">
     <yago:hasName xml:lang="en">Professor Abdul Shakoor Rashad</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/V.P.Gupta">
-    <yago:hasName xml:lang="en">Prof.V.P.Gupta</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_de_Merelim">
-    <yago:hasName xml:lang="en">Pedro de Merelim</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_B%C3%A9nard">
     <yago:hasName xml:lang="en">Pierre Benard</yago:hasName>
   </rdf:Description>
@@ -5037,14 +5019,26 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pic_Micro_Pascal">
     <yago:hasName xml:lang="en">Pic Micro Pascal</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Muldoon">
+    <yago:hasName xml:lang="en">Paul Muldoon</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Byrne">
     <yago:hasName xml:lang="en">Paula Byrne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Phillips_(songwriter/singer)">
     <yago:hasName xml:lang="en">Paul Phillips</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ovid">
+    <yago:hasName xml:lang="en">Publius Ovidius Naso (Ovid)</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Romanuk">
     <yago:hasName xml:lang="en">Paul Romanuk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jay">
+    <yago:hasName xml:lang="en">Paul Jay</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sherwen">
+    <yago:hasName xml:lang="en">Paul Sherwen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Fenimore_Cooper">
     <yago:hasName xml:lang="en">Paul Fenimore Cooper</yago:hasName>
@@ -5067,8 +5061,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Cave">
     <yago:hasName xml:lang="en">Peter Cave</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Kuusberg">
+    <yago:hasName xml:lang="en">Paul Kuusberg</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Lapeyre">
     <yago:hasName xml:lang="en">Patrick Lapeyre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_McCorduck">
+    <yago:hasName xml:lang="en">Pamela McCorduck</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Marie_de_Premonville">
     <yago:hasName xml:lang="en">Premonville</yago:hasName>
@@ -5093,9 +5093,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gizzi">
     <yago:hasName xml:lang="en">Peter Gizzi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Priya_Basil">
-    <yago:hasName xml:lang="en">Priya Basil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pinchas_Hacohen_Peli">
     <yago:hasName xml:lang="en">Pinchas Hacohen Peli</yago:hasName>
@@ -5129,6 +5126,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Medina_Avenda%C3%B1o">
     <yago:hasName xml:lang="en">Pedro Medina Avendaño</yago:hasName>
+    <yago:hasName xml:lang="en">Pedro Medina Avendano</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Dobler">
     <yago:hasName xml:lang="en">Patricia Dobler</yago:hasName>
@@ -5148,6 +5146,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penny_Dale_(writer)">
     <yago:hasName xml:lang="en">Penny Dale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Guzzanti">
+    <yago:hasName xml:lang="en">Paolo Guzzanti</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pia_Tafdrup">
     <yago:hasName xml:lang="en">Pia Tafdrup</yago:hasName>
@@ -5170,17 +5171,15 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Jackson">
     <yago:hasName xml:lang="en">Peter Jackson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Priscilla_Shirer">
-    <yago:hasName xml:lang="en">Priscilla Shirer</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Nobile">
     <yago:hasName xml:lang="en">Philip Nobile</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Preah_Botumthera_Som">
-    <yago:hasName xml:lang="en">Preah Botumthera Som</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pericle_Martinescu">
     <yago:hasName xml:lang="en">Pericle Martinescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philodemus">
+    <yago:hasName xml:lang="en">Philodemus</yago:hasName>
+    <yago:hasName xml:lang="en">Philodēmos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pippa_Wetzell">
     <yago:hasName xml:lang="en">Pippa Wetzell</yago:hasName>
@@ -5188,17 +5187,26 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Harverson">
     <yago:hasName xml:lang="en">Patrick Harverson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Zairi">
+    <yago:hasName xml:lang="en">Professor Mohamed Zairi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piyush_Jha">
     <yago:hasName xml:lang="en">Piyush Jha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Francine_Pelletier_(journalist)">
     <yago:hasName xml:lang="en">Pelletier</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Boldt">
+    <yago:hasName xml:lang="en">Paul Boldt</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Handke">
     <yago:hasName xml:lang="en">Peter Handke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Henderson_(journalist)">
     <yago:hasName xml:lang="en">Paul Henderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter-Adrian_Cohen">
+    <yago:hasName xml:lang="en">Peter-Adrian Cohen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Polly_Stenham">
     <yago:hasName xml:lang="en">Polly Stenham</yago:hasName>
@@ -5209,17 +5217,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peire_d&apos;Alvernhe">
     <yago:hasName xml:lang="en">Peire dAlvernhe</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_M._Parker%2C_Jr.">
-    <yago:hasName xml:lang="en">Parker, Robert M., Jr.</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Bial">
     <yago:hasName xml:lang="en">Pedro Bial</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Steinfels">
     <yago:hasName xml:lang="en">Peter Steinfels</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patsy_Adam-Smith">
-    <yago:hasName xml:lang="en">Patsy Adam-Smith</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Webb">
     <yago:hasName xml:lang="en">Phyllis Webb</yago:hasName>
@@ -5229,6 +5231,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Palagummi_Padmaraju">
     <yago:hasName xml:lang="en">Palagummi Padmaraju</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_de_Almada_Pereira">
+    <yago:hasName xml:lang="en">Pedro de Almada Pereira</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Whelan">
     <yago:hasName xml:lang="en">Peter Whelan</yago:hasName>
@@ -5242,6 +5247,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peggy_Olmi">
     <yago:hasName xml:lang="en">Peggy Olmi</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pearl_Cleage">
+    <yago:hasName xml:lang="en">Pearl Cleage</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_J._Labarthe">
+    <yago:hasName xml:lang="en">Pedro J. Labarthe</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Poul_Martin_M%C3%B8ller">
     <yago:hasName xml:lang="en">Poul Martin Møller</yago:hasName>
   </rdf:Description>
@@ -5254,17 +5265,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Prachya_Pinkaew">
     <yago:hasName xml:lang="en">Prachya Pinkaew</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Genesse">
+    <yago:hasName xml:lang="en">Paul Genesse</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penney_Kome">
     <yago:hasName xml:lang="en">Penney Kome</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Evagoras_Pallikarides">
     <yago:hasName xml:lang="en">Pallikarides</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Stewart_%28writer%29">
-    <yago:hasName xml:lang="en">Paul Stewart</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Watkins_%28novelist%29">
-    <yago:hasName xml:lang="en">Paul Watkins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Praveen_Swami">
     <yago:hasName xml:lang="en">Praveen Swami</yago:hasName>
@@ -5311,9 +5319,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Borthwick">
     <yago:hasName xml:lang="en">Peter Borthwick</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Spiegelman">
-    <yago:hasName xml:lang="en">Peter Spiegelman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Jesus_T._Peralta">
     <yago:hasName xml:lang="en">Peralta</yago:hasName>
   </rdf:Description>
@@ -5325,9 +5330,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Panin">
     <yago:hasName xml:lang="en">Panin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Acevedo_Hern%C3%A1ndez">
-    <yago:hasName xml:lang="en">Pedro Antonio Acevedo Hernández</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Ayckbourn">
     <yago:hasName xml:lang="en">Philip Ayckbourn</yago:hasName>
@@ -5413,6 +5415,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Ruber">
     <yago:hasName xml:lang="en">Peter Ruber</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Froelich">
+    <yago:hasName xml:lang="en">Paula Froelich</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pernette_Du_Guillet">
     <yago:hasName xml:lang="en">Pernette Du Guillet</yago:hasName>
   </rdf:Description>
@@ -5425,21 +5430,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panait_Istrati">
     <yago:hasName xml:lang="en">Panait Istrati</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P.F.Dahler">
-    <yago:hasName xml:lang="en">P. F. Dahler</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Miller_%28academic%29">
-    <yago:hasName xml:lang="en">Professor James Miller</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Prown">
     <yago:hasName xml:lang="en">Pete Prown</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Grosskurth">
     <yago:hasName xml:lang="en">Phyllis Grosskurth</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_J._J._Valentini">
-    <yago:hasName xml:lang="en">Philipp Johann Josef Valentini</yago:hasName>
-    <yago:hasName xml:lang="en">Philipp J. J. Valentini</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patty_Hou">
+    <yago:hasName xml:lang="en">Patty Hou</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P._Schuyler_Miller">
     <yago:hasName xml:lang="en">Peter Schuyler Miller</yago:hasName>
@@ -5460,6 +5458,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Man%C5%93uvre">
     <yago:hasName xml:lang="en">Philippe Manoeuvre</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Windsor">
+    <yago:hasName xml:lang="en">Peter Windsor</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pawel_Maciag">
     <yago:hasName xml:lang="en">Pawel Maciag</yago:hasName>
   </rdf:Description>
@@ -5478,6 +5479,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_McIntosh">
     <yago:hasName xml:lang="en">Pat McIntosh</yago:hasName>
+    <yago:hasName xml:lang="en">Pat Macintosh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Beinart">
     <yago:hasName xml:lang="en">Peter Beinart</yago:hasName>
@@ -5521,8 +5523,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peggy_Orenstein">
     <yago:hasName xml:lang="en">Peggy Orenstein</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/P%C4%B1nar_Selek">
-    <yago:hasName xml:lang="en">Pinar Selek</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ameena_Begum">
+    <yago:hasName xml:lang="en">Pirani Ameena Begum</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Condell">
     <yago:hasName xml:lang="en">Pat Condell</yago:hasName>
@@ -5566,8 +5568,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Yorke">
     <yago:hasName xml:lang="en">Philip Yorke</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Mayne">
-    <yago:hasName xml:lang="en">Peter Mayne</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_de_la_Torriente_Brau">
+    <yago:hasName xml:lang="en">Pablo de la Torriente Brau</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Warren_(radio)">
     <yago:hasName xml:lang="en">Peter Warren</yago:hasName>
@@ -5577,9 +5579,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_O._Williams">
     <yago:hasName xml:lang="en">Paul O. Williams</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Zaleski">
-    <yago:hasName xml:lang="en">Philip Zaleski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Buhle">
     <yago:hasName xml:lang="en">Paul Buhle</yago:hasName>
@@ -5593,11 +5592,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Ferriz_de_Con">
     <yago:hasName xml:lang="en">Pedro Ferriz De Con</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Campbell,_3rd_Baron_Glenavy">
+    <yago:hasName xml:lang="en">Patrick Gordon Campbell</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Hamilton_(poet)">
     <yago:hasName xml:lang="en">Patrick Hamilton</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Mora">
     <yago:hasName xml:lang="en">Pat Mora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrice_Evans">
+    <yago:hasName xml:lang="en">Patrice Evans</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Francis_Webster">
     <yago:hasName xml:lang="en">Paul Francis Webster</yago:hasName>
@@ -5653,9 +5658,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Fromm">
     <yago:hasName xml:lang="en">Pete Fromm</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pere_Calders">
-    <yago:hasName xml:lang="en">Pere Calders</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pule_Lechesa">
     <yago:hasName xml:lang="en">Pule Lechesa</yago:hasName>
   </rdf:Description>
@@ -5698,6 +5700,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Fran%C3%A7ois_Tissot">
     <yago:hasName xml:lang="en">Pierre Francois Tissot</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prema_Karanth">
+    <yago:hasName xml:lang="en">Prema Karanth</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_James_(writer)">
     <yago:hasName xml:lang="en">Peter James</yago:hasName>
   </rdf:Description>
@@ -5738,6 +5743,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Gounis">
     <yago:hasName xml:lang="en">Philip Gounis</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Barnes_(journalist)">
+    <yago:hasName xml:lang="en">Peter Barnes</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Beer">
     <yago:hasName xml:lang="en">Patricia Beer</yago:hasName>
   </rdf:Description>
@@ -5753,9 +5761,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pinchas_Sadeh">
     <yago:hasName xml:lang="en">Pinchas Sadeh</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Stillman_(academic)">
-    <yago:hasName xml:lang="en">Peter Stillman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Giglio">
     <yago:hasName xml:lang="en">Peter Giglio</yago:hasName>
   </rdf:Description>
@@ -5770,7 +5775,7 @@
     <yago:hasName xml:lang="en">Patrick Chamoiseau</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McGehee">
-    <yago:hasName xml:lang="en">Peter McGehee</yago:hasName>
+    <yago:hasName xml:lang="en">Peter Macgehee</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Krushevan">
     <yago:hasName xml:lang="en">Pavel Krushevan</yago:hasName>
@@ -5805,9 +5810,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Plutarch">
     <yago:hasName xml:lang="en">Plutarch</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_May_%28writer%29">
-    <yago:hasName xml:lang="en">Peter May</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Riley">
     <yago:hasName xml:lang="en">Peter Riley</yago:hasName>
   </rdf:Description>
@@ -5828,14 +5830,10 @@
     <yago:hasName xml:lang="en">Pierre Beaumarchais</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Leigh_Fermor">
-    <yago:hasName xml:lang="en">Patrick Michael Leigh Fermor</yago:hasName>
+    <yago:hasName xml:lang="en">Paddy Leigh Fermor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Pearson">
     <yago:hasName xml:lang="en">Patricia Pearson</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_K._O%27Donnell">
-    <yago:hasName xml:lang="en">Patrick K. O'Donnell</yago:hasName>
-    <yago:hasName xml:lang="en">Patrick Odonnell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Haddal">
     <yago:hasName xml:lang="en">Per Haddal</yago:hasName>
@@ -5847,9 +5845,6 @@
     <yago:hasName xml:lang="en">Phoebe Conn</yago:hasName>
     <yago:hasName xml:lang="en">Phoebe Jane Conn</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Bammera_Potana">
-    <yago:hasName xml:lang="en">Pothana</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Todd">
     <yago:hasName xml:lang="en">Paula Todd</yago:hasName>
   </rdf:Description>
@@ -5858,10 +5853,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panna_Rittikrai">
     <yago:hasName xml:lang="en">Panna Rittikrai</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Arg%C3%BCello">
-    <yago:hasName xml:lang="en">Patrick Argüello</yago:hasName>
-    <yago:hasName xml:lang="en">Patrick Arguello</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_della_Vigna">
     <yago:hasName xml:lang="en">Pietro Della Vigna</yago:hasName>
@@ -5893,8 +5884,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Slier">
     <yago:hasName xml:lang="en">Paula Slier</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Priya_Balachandran">
-    <yago:hasName xml:lang="en">Priya Balachandran</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pranas_Mork%C5%ABnas">
+    <yago:hasName xml:lang="en">Pranas Morkunas</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penelope_Shuttle">
     <yago:hasName xml:lang="en">Penelope Shuttle</yago:hasName>
@@ -5912,8 +5903,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/John_Henry_Patterson_(author)">
     <yago:hasName xml:lang="en">Patterson</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_L._King">
-    <yago:hasName xml:lang="en">Peter Masterson</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Pacheco_Avila">
+    <yago:hasName xml:lang="en">Pablo Pacheco Avila</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Walton">
     <yago:hasName xml:lang="en">Paul Walton</yago:hasName>
@@ -5921,8 +5912,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul-Louis_Rossi">
     <yago:hasName xml:lang="en">Paul-Louis Rossi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Broadwell">
-    <yago:hasName xml:lang="en">Paula Broadwell</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Y._Anderson">
+    <yago:hasName xml:lang="en">Paul Y. Anderson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Frame">
     <yago:hasName xml:lang="en">Pete Frame</yago:hasName>
@@ -5938,6 +5929,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Alfredo_Co">
     <yago:hasName xml:lang="en">Prof. Dr. Alfredo P. Co, Ph.D.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peisander">
+    <yago:hasName xml:lang="en">Peisander</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Storace">
     <yago:hasName xml:lang="en">Patricia Storace</yago:hasName>
@@ -5960,14 +5954,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_F._Gura">
     <yago:hasName xml:lang="en">Philip F. Gura</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peyo">
-    <yago:hasName xml:lang="en">Peyo</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Manson">
+    <yago:hasName xml:lang="en">Peter Manson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_DesRuisseaux">
     <yago:hasName xml:lang="en">Pierre Desruisseaux</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Manson">
-    <yago:hasName xml:lang="en">Peter Manson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bratt">
     <yago:hasName xml:lang="en">Peter Bratt</yago:hasName>
@@ -5981,14 +5972,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panio_Gianopoulos">
     <yago:hasName xml:lang="en">Panio Gianopoulos</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Alexander_%28comics%29">
-    <yago:hasName xml:lang="en">Patrick Alexander</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paulinus_of_Pella">
     <yago:hasName xml:lang="en">Paulinus of Pella</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Hyams">
     <yago:hasName xml:lang="en">Peter Hyams</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anil_Panachooran">
+    <yago:hasName xml:lang="en">Panachooran Anil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Briggs">
     <yago:hasName xml:lang="en">Patricia Briggs</yago:hasName>
@@ -5999,12 +5990,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Piers_Anthony">
     <yago:hasName xml:lang="en">Piers Anthony</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Murray_%28author%29">
-    <yago:hasName xml:lang="en">Paul Murray</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_S._L._Johnson">
-    <yago:hasName xml:lang="en">Paul S. L. Johnson</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pimm_Fox">
     <yago:hasName xml:lang="en">Pimm Fox</yago:hasName>
   </rdf:Description>
@@ -6013,9 +5998,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavlo_Zahrebelnyi">
     <yago:hasName xml:lang="en">Pavlo Zahrebelnyi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Zhongyan">
-    <yago:hasName xml:lang="en">Posthumous name: Wénzhèng ()</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kreeft">
     <yago:hasName xml:lang="en">Peter Kreeft</yago:hasName>
@@ -6056,11 +6038,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Jimenez">
     <yago:hasName xml:lang="en">Phil Jimenez</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Sotillo">
+    <yago:hasName xml:lang="en">Pedro Sotillo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Jaro%C5%A1">
+    <yago:hasName xml:lang="en">Peter Jaros</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Hamilton_(writer)">
     <yago:hasName xml:lang="en">Patrick Hamilton</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Allen_%28music_educator%29">
-    <yago:hasName xml:lang="en">Patrick Allen</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Penne_Hackforth-Jones">
     <yago:hasName xml:lang="en">Penne Hackforth-Jones</yago:hasName>
@@ -6086,9 +6071,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Carroll">
     <yago:hasName xml:lang="en">Paul Carroll</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Ryan_%28author%29">
-    <yago:hasName xml:lang="en">Patrick Ryan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Nizan">
     <yago:hasName xml:lang="en">Paul Nizan</yago:hasName>
   </rdf:Description>
@@ -6097,6 +6079,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Shyre">
     <yago:hasName xml:lang="en">Paul Shyre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_G._Neumann">
+    <yago:hasName xml:lang="en">Peter G. Neumann</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Hill_(journalist)">
     <yago:hasName xml:lang="en">Peter Hill</yago:hasName>
@@ -6122,15 +6107,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ramon_Gomez_Portillo">
     <yago:hasName xml:lang="en">Portillo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_G._Bens,_Jr.">
+    <yago:hasName xml:lang="en">Paul G. Bens</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Collins_(fantasy_writer)">
     <yago:hasName xml:lang="en">Paul Collins</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Rosenthal">
     <yago:hasName xml:lang="en">Phil Rosenthal</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Labonte">
-    <yago:hasName xml:lang="en">Paul Labonte</yago:hasName>
-    <yago:hasName xml:lang="en">Paul Labonté</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wells_(filmmaker)">
     <yago:hasName xml:lang="en">Peter Wells</yago:hasName>
@@ -6145,9 +6129,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Panas_Myrny">
     <yago:hasName xml:lang="en">Panas Myrny</yago:hasName>
     <yago:hasName xml:lang="en">Panas Rudchenko</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Blackburn_%28U.S._poet%29">
-    <yago:hasName xml:lang="en">Paul Blackburn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Shao_Piaoping">
     <yago:hasName xml:lang="en">Piaoping Shao</yago:hasName>
@@ -6174,11 +6155,7 @@
     <yago:hasName xml:lang="en">Pakhal Tirumal Reddy</yago:hasName>
     <yago:hasName xml:lang="en">P T Reddy</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyabelo_Chaold_Kouly">
-    <yago:hasName xml:lang="en">Pyabelo Chaold Kouly</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Liggett">
-    <yago:hasName xml:lang="en">Philip Alexander Liggett</yago:hasName>
     <yago:hasName xml:lang="en">Phil Liggett</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Roche">
@@ -6208,10 +6185,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Eldridge">
     <yago:hasName xml:lang="en">Paul Eldridge</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Haupt">
-    <yago:hasName xml:lang="en">Paul Haupt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pavel_Shumil">
+    <yago:hasName xml:lang="en">Pavel Robertovitch Shumilov</yago:hasName>
     <yago:hasName xml:lang="en">Pavel Shumil</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pandit_Narendra_Sharma">
@@ -6241,6 +6216,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Blanshard">
     <yago:hasName xml:lang="en">Paul Blanshard</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_P%C3%A9vel">
+    <yago:hasName xml:lang="en">Pierre Pevel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paulin_%C5%9Awi%C4%99cicki">
     <yago:hasName xml:lang="en">Paulin Swiecicki</yago:hasName>
   </rdf:Description>
@@ -6253,9 +6231,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pradnya_Daya_Pawar">
     <yago:hasName xml:lang="en">Pradnya Daya Pawar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Uschuk">
-    <yago:hasName xml:lang="en">Pamela Uschuk</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Antoine_Guillaume_Pigault-Lebrun">
     <yago:hasName xml:lang="en">Pigault-Lebrun</yago:hasName>
@@ -6280,6 +6255,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paulo_Mendes_Campos">
     <yago:hasName xml:lang="en">Paulo Mendes Campos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentti_Linkola">
+    <yago:hasName xml:lang="en">Pentti Linkola</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Lhande">
     <yago:hasName xml:lang="en">Pierre Lhande Heguy</yago:hasName>
@@ -6318,15 +6296,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Janiot">
     <yago:hasName xml:lang="en">Patricia Janiot</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrea_Smallacombe">
-    <yago:hasName xml:lang="en">Patrea Smallacombe</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Abrahams">
+    <yago:hasName xml:lang="en">Peter Abrahams</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peregrine_Worsthorne">
     <yago:hasName xml:lang="en">Peregrine Worsthorne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Abelard">
     <yago:hasName xml:lang="en">Peter Abelard</yago:hasName>
-    <yago:hasName xml:lang="en">Pierre Abelard</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kinder">
     <yago:hasName xml:lang="en">Peter Kinder</yago:hasName>
@@ -6350,6 +6327,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Per_Olov_Enquist">
     <yago:hasName xml:lang="en">Per Olov Enquist</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Sherwood">
+    <yago:hasName xml:lang="en">Peter Sherwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Fenjves">
+    <yago:hasName xml:lang="en">Pablo Fenjves</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pita_Amor">
     <yago:hasName xml:lang="en">Pita Amor</yago:hasName>
   </rdf:Description>
@@ -6360,12 +6343,11 @@
     <yago:hasName xml:lang="en">Paul de Vivie</yago:hasName>
     <yago:hasName xml:lang="en">Paul De Vivie</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Engle">
+    <yago:hasName xml:lang="en">Paul Engle</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_P%C4%83un">
     <yago:hasName xml:lang="en">Paul Paun</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Petre_M._Andreevski">
-    <yago:hasName xml:lang="en">Petre M. Andreevski</yago:hasName>
-    <yago:hasName xml:lang="en">Petre Mito Andreevski</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_W._Klein">
     <yago:hasName xml:lang="en">Peter W. Klein</yago:hasName>
@@ -6399,6 +6381,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paule_Marshall">
     <yago:hasName xml:lang="en">Paule Marshall</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Wherrett">
+    <yago:hasName xml:lang="en">Peter Wherrett</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patric_Verrone">
     <yago:hasName xml:lang="en">Patric Verrone</yago:hasName>
   </rdf:Description>
@@ -6407,6 +6392,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Patsy_Moore">
     <yago:hasName xml:lang="en">Patsy Moore</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Coke">
+    <yago:hasName xml:lang="en">Peter Coke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Pramoedya_Ananta_Toer">
     <yago:hasName xml:lang="en">Pramoedya Ananta Toer</yago:hasName>
@@ -6434,6 +6422,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Parnall">
     <yago:hasName xml:lang="en">Peter Parnall</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palladas">
+    <yago:hasName xml:lang="en">Palladas</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Zindel">
     <yago:hasName xml:lang="en">Paul Zindel</yago:hasName>
   </rdf:Description>
@@ -6442,10 +6433,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Verdier">
     <yago:hasName xml:lang="en">Paul Verdier</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacho_O%27Donnell">
-    <yago:hasName xml:lang="en">Pacho Odonnell</yago:hasName>
-    <yago:hasName xml:lang="en">Pacho O'Donnell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/P%C3%ADo_Baroja">
     <yago:hasName xml:lang="en">Pío Baroja</yago:hasName>
@@ -6484,11 +6471,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Cooper_(journalist)">
     <yago:hasName xml:lang="en">Peter Cooper</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamela_Brooks">
-    <yago:hasName xml:lang="en">Pamela Brooks</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paulinus_II_of_Aquileia">
     <yago:hasName xml:lang="en">Paulinus 02 Of Aquileia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Clark_(presenter)">
+    <yago:hasName xml:lang="en">Paul Clark</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Clamp">
     <yago:hasName xml:lang="en">Paula Clamp</yago:hasName>

@@ -2,9 +2,6 @@
     xmlns:yago="http://dbpedia.org/class/yago/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Qaisra_Shahraz">
-    <yago:hasName xml:lang="en">Qaisra Shahraz</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qadaryar">
     <yago:hasName xml:lang="en">Qadaryar</yago:hasName>
   </rdf:Description>
@@ -28,6 +25,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Qingzhao">
     <yago:hasName xml:lang="en">Qingzhao Li</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_You">
+    <yago:hasName xml:lang="en">Qu You</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quirinus_Kuhlmann">
     <yago:hasName xml:lang="en">Quirinus Kuhlmann</yago:hasName>
   </rdf:Description>
@@ -39,9 +39,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qaem_Amrohvi">
     <yago:hasName xml:lang="en">Qaem Amrohvi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Qovsi_Tabrizi">
-    <yago:hasName xml:lang="en">Qovsi Tabrizi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qamar_Jalalabadi">
     <yago:hasName xml:lang="en">Qamar Jalalabadi</yago:hasName>
@@ -61,12 +58,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gai_Qi">
     <yago:hasName xml:lang="en">Qi Gai</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Esther_%28artist%29">
-    <yago:hasName xml:lang="en">Queen Esther</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qurratulain_Hyder">
-    <yago:hasName xml:lang="en">Qurratulain Hyder.</yago:hasName>
     <yago:hasName xml:lang="en">Qurratulain Hyder</yago:hasName>
+    <yago:hasName xml:lang="en">Qurratul Ain Hyder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiao_Ji">
+    <yago:hasName xml:lang="en">Qu Yuan</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qanate_Kurdo">
     <yago:hasName xml:lang="en">Qanate Kurdo</yago:hasName>
@@ -90,23 +87,16 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Xiaolong">
     <yago:hasName xml:lang="en">Qiu Xiaolong</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Quintus_Smyrnaeus">
-    <yago:hasName xml:lang="en">Quintus Smyrnaeus</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_Bo_%28novelist%29">
-    <yago:hasName xml:lang="en">Qu Bo</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quin_Hillyer">
     <yago:hasName xml:lang="en">Quin Hillyer</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Qedr%C3%AEcan">
-    <yago:hasName xml:lang="en">Qedrican</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quincy_Howe">
     <yago:hasName xml:lang="en">Quincy Howe</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qedr%C3%AEcan">
+    <yago:hasName xml:lang="en">Qedrican</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quim_Monz%C3%B3">
-    <yago:hasName xml:lang="en">Quim Monzó</yago:hasName>
     <yago:hasName xml:lang="en">Quim Monzo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Qatran_Tabrizi">
@@ -117,6 +107,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quincy_Troupe">
     <yago:hasName xml:lang="en">Quincy Troupe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qenan_Al-Ghamdi">
+    <yago:hasName xml:lang="en">Qenan Al-Ghamdi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quest_Couch">
     <yago:hasName xml:lang="en">Quest Couch</yago:hasName>
@@ -154,6 +147,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Quintin_Jardine">
     <yago:hasName xml:lang="en">Quintin Jardine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/QuickC">
+    <yago:hasName xml:lang="en">QuickC</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Quigley,_Jr.">
     <yago:hasName xml:lang="en">Quigley, Martin, Jr.</yago:hasName>
