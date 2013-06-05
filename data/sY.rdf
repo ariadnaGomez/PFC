@@ -1,0 +1,1326 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ariwara_no_Yukihira">
+    <yago:hasName xml:lang="en">Ariwara no Yukihira</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jake_Adam_York">
+    <yago:hasName xml:lang="en">Jake Adam York</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakako_Yamauchi">
+    <yago:hasName xml:lang="en">Wakako Yamauchi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Gil_y_Z%C3%A1rate">
+    <yago:hasName xml:lang="en">Antonio Gil Y Zarate</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Zhongtian">
+    <yago:hasName xml:lang="en">Zhongtian Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yessengaly_Raushanov">
+    <yago:hasName xml:lang="en">Raushanov Yessengaly</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venedikt_Yerofeyev">
+    <yago:hasName xml:lang="en">Venedikt Yerofeyev</yago:hasName>
+    <yago:hasName xml:lang="en">Venedict Yerofeyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Nikolayev">
+    <yago:hasName xml:lang="en">Igor Yuryevich Nikolayev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Farrokhi_Yazdi">
+    <yago:hasName xml:lang="en">Mirza Mohammad Farrokhi Yazdi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sherman_Yellen">
+    <yago:hasName xml:lang="en">Sherman Yellen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marguerite_Yourcenar">
+    <yago:hasName xml:lang="en">Marguerite Yourcenar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Yupp">
+    <yago:hasName xml:lang="en">Mikhail Yupp</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Shu">
+    <yago:hasName xml:lang="en">Shu Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victorino_Abente_y_Lago">
+    <yago:hasName xml:lang="en">Victorino Abente Y Lago</yago:hasName>
+    <yago:hasName xml:lang="en">Victorino Abente y Lago</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Blair_Young">
+    <yago:hasName xml:lang="en">Margaret Blair Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Shenjeer">
+    <yago:hasName xml:lang="en">Shenjeer Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tekkan_Yosano">
+    <yago:hasName xml:lang="en">Tekkan Yosano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulqawi_Yusuf">
+    <yago:hasName xml:lang="en">Abdulqawi Yusuf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ba_Jin">
+    <yago:hasName xml:lang="en">Li Yaotang 李堯棠</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Yu">
+    <yago:hasName xml:lang="en">Charles Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._W._Yrj%C3%A4n%C3%A4">
+    <yago:hasName xml:lang="en">A. W. Yrjana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Javier_de_Burgos_y_Sarragoiti">
+    <yago:hasName xml:lang="en">Francisco Javier de Burgos y Sarragoiti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Yeldham">
+    <yago:hasName xml:lang="en">Peter Yeldham</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Yardley">
+    <yago:hasName xml:lang="en">Jonathan Yardley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ying_Chen_(writer)">
+    <yago:hasName xml:lang="en">Chen Ying</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sitaram_Yechury">
+    <yago:hasName xml:lang="en">Sitaram Yechury</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mushtaq_Ahmad_Yusufi">
+    <yago:hasName xml:lang="en">Mushtaq Ahmad Yusufi</yago:hasName>
+    <yago:hasName xml:lang="en">Mushtaq Ahmed Yusufi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Valera_y_Alcal%C3%A1-Galiano">
+    <yago:hasName xml:lang="en">Juan Valera y Alcala Galiano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Boc%C3%A1ngel">
+    <yago:hasName xml:lang="en">Gabriel Bocangel y Unzueta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peyo_Yavorov">
+    <yago:hasName xml:lang="en">Peyo Yavorov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lafcadio_Hearn">
+    <yago:hasName xml:lang="en">Koizumi Yakumo (小泉八雲)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shmuel_Yosef_Agnon">
+    <yago:hasName xml:lang="en">Shmuel Yosef Agnon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cale_Young_Rice">
+    <yago:hasName xml:lang="en">Cale Young Rice</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Yates_(novelist)">
+    <yago:hasName xml:lang="en">Richard Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morgan_Yasbincek">
+    <yago:hasName xml:lang="en">Morgan Yasbincek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perry_Deane_Young">
+    <yago:hasName xml:lang="en">Perry Deane Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marina_Boroditskaya">
+    <yago:hasName xml:lang="en">Marina Yakovlevna Boroditskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Yang_(director)">
+    <yago:hasName xml:lang="en">Zhāng Yáng</yago:hasName>
+    <yago:hasName xml:lang="en">Zhang Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inuhiko_Yomota">
+    <yago:hasName xml:lang="en">Inuhiko Yomota</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerry_Yulsman">
+    <yago:hasName xml:lang="en">Jerry Yulsman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Hua_(author)">
+    <yago:hasName xml:lang="en">Hua Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alissa_York">
+    <yago:hasName xml:lang="en">Alissa York</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Yu">
+    <yago:hasName xml:lang="en">Given name: Yù 愈</yago:hasName>
+    <yago:hasName xml:lang="en">Hán Yù</yago:hasName>
+    <yago:hasName xml:lang="en">Han Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Milla_y_Vidaurre">
+    <yago:hasName xml:lang="en">Jose Milla y Vidaurre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toby_Young">
+    <yago:hasName xml:lang="en">Toby Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Zorrilla">
+    <yago:hasName xml:lang="en">Jose Zorrilla Y Moral</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaho_Kitabatake">
+    <yago:hasName xml:lang="en">Kitabatake Yaho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murdo_Young_McLean">
+    <yago:hasName xml:lang="en">Murdo Young Maclean</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ambrose_King">
+    <yago:hasName xml:lang="en">Ambrose Y.C. King</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Pavlovich_Yershov">
+    <yago:hasName xml:lang="en">Pyotr Pavlovich Yershov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Santayana">
+    <yago:hasName xml:lang="en">Jorge Agustín Nicolás Ruiz de Santayana y Borrás</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Yerby">
+    <yago:hasName xml:lang="en">Frank Yerby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._Garcia_y_Robertson">
+    <yago:hasName xml:lang="en">R. Garcia Y Robertson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenio_Mar%C3%ADa_de_Hostos">
+    <yago:hasName xml:lang="en">Eugenio María de Hostos y de Bonilla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Banana_Yoshimoto">
+    <yago:hasName xml:lang="en">Banana Yoshimoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Yamada">
+    <yago:hasName xml:lang="en">Masaki Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_You">
+    <yago:hasName xml:lang="en">Qu You</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mehmet_Emin_Yurdakul">
+    <yago:hasName xml:lang="en">Mehmet Emin Yurdakul</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eliodoro_Y%C3%A1%C3%B1ez">
+    <yago:hasName xml:lang="en">Eliodoro Yáñez</yago:hasName>
+    <yago:hasName xml:lang="en">Eliodoro Yanez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dornford_Yates">
+    <yago:hasName xml:lang="en">Dornford Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Su-Lin_Young">
+    <yago:hasName xml:lang="en">Su-Lin Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alastair_Yates">
+    <yago:hasName xml:lang="en">Alastair Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Colman_the_Younger">
+    <yago:hasName xml:lang="en">Colman, George, the Younger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alejandro_Tapia_y_Rivera">
+    <yago:hasName xml:lang="en">Tapia y Rivera</yago:hasName>
+    <yago:hasName xml:lang="en">Alejandro Tapia y Rivera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Yammine">
+    <yago:hasName xml:lang="en">George Yammine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonzalo_de_C%C3%A9spedes_y_Meneses">
+    <yago:hasName xml:lang="en">Gonzalo Cespedes y Meneses</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Young_McLean">
+    <yago:hasName xml:lang="en">Andrew Young Maclean</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yevgeny_Yevtushenko">
+    <yago:hasName xml:lang="en">Yevgeny Yevtushenko</yago:hasName>
+    <yago:hasName xml:lang="en">Yevgeny Aleksandrovich Yevtushenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Mary_Yonge">
+    <yago:hasName xml:lang="en">Charlotte Mary Yonge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Young_(poet)">
+    <yago:hasName xml:lang="en">Gary Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avoth_Yeshurun">
+    <yago:hasName xml:lang="en">Avoth Yeshurun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Francis_Shura">
+    <yago:hasName xml:lang="en">Mary Francis Young Shura Craig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_de_G%C3%B3ngora">
+    <yago:hasName xml:lang="en">Luis De Gongora Y Argote</yago:hasName>
+    <yago:hasName xml:lang="en">Luis de Góngora y Argote</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Yoshimura">
+    <yago:hasName xml:lang="en">James Yoshimura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Brett_Young">
+    <yago:hasName xml:lang="en">Francis Brett Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun&apos;ichi_Yoda">
+    <yago:hasName xml:lang="en">Jun'ichi Yoda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Yazbek">
+    <yago:hasName xml:lang="en">David Yazbek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eunice_Yoon">
+    <yago:hasName xml:lang="en">Eunice Yoon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robyn_Young">
+    <yago:hasName xml:lang="en">Robyn Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Yelland_(journalist)">
+    <yago:hasName xml:lang="en">David Yelland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prabda_Yoon">
+    <yago:hasName xml:lang="en">Prabda Yoon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiang_Yan">
+    <yago:hasName xml:lang="en">Jiang Yan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiung_Yao">
+    <yago:hasName xml:lang="en">Chiung Yao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_P%C3%A9rez_y_Curis">
+    <yago:hasName xml:lang="en">Manuel Perez y Curis</yago:hasName>
+    <yago:hasName xml:lang="en">Manuel Pérez y Curis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._Lanier_Yeates">
+    <yago:hasName xml:lang="en">J. Lanier Yeates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Yuzna">
+    <yago:hasName xml:lang="en">Susan Yuzna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Young-ha">
+    <yago:hasName xml:lang="en">Kim Young-ha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ting-Xing_Ye">
+    <yago:hasName xml:lang="en">Ting-Xing Ye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F%C3%A9lix_Tanco">
+    <yago:hasName xml:lang="en">Félix Tanco y Bosmeniel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marly_Youmans">
+    <yago:hasName xml:lang="en">Marly Youmans</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Yearwood">
+    <yago:hasName xml:lang="en">Kathleen Yearwood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chelsea_Quinn_Yarbro">
+    <yago:hasName xml:lang="en">Chelsea Quinn Yarbro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rida_Johnson_Young">
+    <yago:hasName xml:lang="en">Rida Johnson Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Dun">
+    <yago:hasName xml:lang="en">Shen Yanbing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_de_Sol%C3%ADs_y_Ribadeneyra">
+    <yago:hasName xml:lang="en">Antonio De Solis Y Ribadeneyra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_Yuan">
+    <yago:hasName xml:lang="en">Qu Yuan (屈原)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Mar%C3%ADa_Mart%C3%ADnez">
+    <yago:hasName xml:lang="en">Luis Maria Martinez Y Rodriguez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Yasuda">
+    <yago:hasName xml:lang="en">Kenneth Yasuda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Yalden">
+    <yago:hasName xml:lang="en">Thomas Yalden</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizu_Yaichi">
+    <yago:hasName xml:lang="en">Aizu Yaichi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Clark_Young">
+    <yago:hasName xml:lang="en">Robert Clark Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ram%C3%B3n_de_Campoamor_y_Campoosorio">
+    <yago:hasName xml:lang="en">Ramon de Campoamor y Campoosorio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sh%C5%ABgor%C5%8D_Yamamoto">
+    <yago:hasName xml:lang="en">Shugoro Yamamoto</yago:hasName>
+    <yago:hasName xml:lang="en">Shūgorō Yamamoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keisuke_Yoshida">
+    <yago:hasName xml:lang="en">Keisuke Yoshida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anselmo_Su%C3%A1rez_y_Romero">
+    <yago:hasName xml:lang="en">Anselmo Suárez y Romero</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricardo_Lancaster-Jones_y_Verea">
+    <yago:hasName xml:lang="en">Ricardo Lancaster-Jones y Verea, MA BE KHS</yago:hasName>
+    <yago:hasName xml:lang="en">Ricardo Lancaster-Jones y Verea</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Yee">
+    <yago:hasName xml:lang="en">Paul Yee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Yardley_(cricketer)">
+    <yago:hasName xml:lang="en">Willam Yardley</yago:hasName>
+    <yago:hasName xml:lang="en">William Yardley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natan_Yonatan">
+    <yago:hasName xml:lang="en">Natan Yonatan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eriko_Yamatani">
+    <yago:hasName xml:lang="en">Eriko Yamatani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilson_Yip">
+    <yago:hasName xml:lang="en">Wilson Yip</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lynn_Yaeger">
+    <yago:hasName xml:lang="en">Lynn Yaeger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Yun">
+    <yago:hasName xml:lang="en">Fan Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romina_Yan">
+    <yago:hasName xml:lang="en">Romina Yan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Saek">
+    <yago:hasName xml:lang="en">Saek Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Yallop">
+    <yago:hasName xml:lang="en">David Yallop</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Yorkey">
+    <yago:hasName xml:lang="en">Brian Yorkey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom%C3%A1s_de_Iriarte_y_Oropesa">
+    <yago:hasName xml:lang="en">Iriarte y Oropesa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fesshaye_Yohannes">
+    <yago:hasName xml:lang="en">Fesshaye Yohannes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baku_Yumemakura">
+    <yago:hasName xml:lang="en">Baku Yumemakura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunao_Yoshida">
+    <yago:hasName xml:lang="en">Sunao Yoshida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Young_(news_anchor)">
+    <yago:hasName xml:lang="en">Bob Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kateb_Yacine">
+    <yago:hasName xml:lang="en">Kateb Yacine</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nima_Yooshij">
+    <yago:hasName xml:lang="en">Nimā Yushij</yago:hasName>
+    <yago:hasName xml:lang="en">Nima Yooshij</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoo_Jae-yong">
+    <yago:hasName xml:lang="en">Jae-yong Yoo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Ytzhak_Braithwaite">
+    <yago:hasName xml:lang="en">Lawrence Christopher Patrick (aka Ytzhak) Braithwaite</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Dale_Young">
+    <yago:hasName xml:lang="en">C. Dale Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Young_(poet)">
+    <yago:hasName xml:lang="en">Dean Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_Yasir">
+    <yago:hasName xml:lang="en">Ali Yasir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Yates_(author)">
+    <yago:hasName xml:lang="en">Elizabeth Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futaro_Yamada">
+    <yago:hasName xml:lang="en">Futaro Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom%C3%A1s_Yankelevich">
+    <yago:hasName xml:lang="en">Tomas Yankelevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colville_Young">
+    <yago:hasName xml:lang="en">Colville Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Yardley">
+    <yago:hasName xml:lang="en">Herbert Yardley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Yosef">
+    <yago:hasName xml:lang="en">Adam Yosef</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humberto_L%C3%B3pez_y_Guerra">
+    <yago:hasName xml:lang="en">Humberto López y Guerra</yago:hasName>
+    <yago:hasName xml:lang="en">Humberto Lopez Y Guerra</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seneca_the_Younger">
+    <yago:hasName xml:lang="en">Seneca the Younger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yao_Sui">
+    <yago:hasName xml:lang="en">Sui Yao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._B._Yehoshua">
+    <yago:hasName xml:lang="en">A. B. Yehoshua</yago:hasName>
+    <yago:hasName xml:lang="en">Abraham B. Yehoshua</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Dafu">
+    <yago:hasName xml:lang="en">Dafu Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Andino_y_Amezquita">
+    <yago:hasName xml:lang="en">Jose Andino y Amezquita</yago:hasName>
+    <yago:hasName xml:lang="en">José Andino y Amezquita</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Yi_Fan">
+    <yago:hasName xml:lang="en">Nancy Yi Fan</yago:hasName>
+    <yago:hasName xml:lang="en">Nancy Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takaaki_Yoshimoto">
+    <yago:hasName xml:lang="en">Takaaki Yoshimoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinibaldo_de_Mas">
+    <yago:hasName xml:lang="en">Sinibaldo de Mas y Sanz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sh%C5%8Dtar%C5%8D_Yasuoka">
+    <yago:hasName xml:lang="en">Shōtarō Yasuoka</yago:hasName>
+    <yago:hasName xml:lang="en">Shotaro Yasuoka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Yau">
+    <yago:hasName xml:lang="en">John Yau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hussein_Ye">
+    <yago:hasName xml:lang="en">Hussain Yee</yago:hasName>
+    <yago:hasName xml:lang="en">Hussein Ye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Comfort_Mitchell_Young">
+    <yago:hasName xml:lang="en">Ruth Comfort Mitchell Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_Lachlan_Young">
+    <yago:hasName xml:lang="en">Murray Lachlan Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shaul_Yahalom">
+    <yago:hasName xml:lang="en">Shaul Yahalom</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell_Young">
+    <yago:hasName xml:lang="en">John Russell Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Yushimito">
+    <yago:hasName xml:lang="en">Carlos Yushimito del Valle</yago:hasName>
+    <yago:hasName xml:lang="en">Carlos Yushimito</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Young_Simpson_(scientist)">
+    <yago:hasName xml:lang="en">James Young Simpson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Ali_Yousfi">
+    <yago:hasName xml:lang="en">Mohamed Ali Yousfi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Seondo">
+    <yago:hasName xml:lang="en">Seondo Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yevgeny_Dodolev">
+    <yago:hasName xml:lang="en">Yevgeniy Yuriyevich Dodolyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamazaki_H%C5%8Ddai">
+    <yago:hasName xml:lang="en">Hodai Yamazaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Yemtsev">
+    <yago:hasName xml:lang="en">Mikhail Tikhonovich Yemtsev</yago:hasName>
+    <yago:hasName xml:lang="en">Mikhail Yemtsev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansha_Yaad">
+    <yago:hasName xml:lang="en">Mansha, Yaad, Muhammad</yago:hasName>
+    <yago:hasName xml:lang="en">Mohammad Mansha Yaad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaky_Yosha">
+    <yago:hasName xml:lang="en">Yaky Yosha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Guangzhong">
+    <yago:hasName xml:lang="en">Guangzhong Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_Yngrid">
+    <yago:hasName xml:lang="en">Heart Yngrid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Yorke">
+    <yago:hasName xml:lang="en">Philip Yorke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elena_Yoncheva">
+    <yago:hasName xml:lang="en">Elena Yoncheva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yew_Kam_Keong">
+    <yago:hasName xml:lang="en">Dr. Yew Kam Keong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Young">
+    <yago:hasName xml:lang="en">Waldemar Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lily_Yulianti_Farid">
+    <yago:hasName xml:lang="en">Lly Yulianti Farid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khoja_Akhmet_Yassawi">
+    <yago:hasName xml:lang="en">Khwaja Ahemad Yasavi</yago:hasName>
+    <yago:hasName xml:lang="en">Khoja Akhmet Yassawi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usun_Yoon">
+    <yago:hasName xml:lang="en">Usun Yoon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Young_(Canadian_playwright)">
+    <yago:hasName xml:lang="en">David Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._Y._Lee_(author)">
+    <yago:hasName xml:lang="en">C. Y. Lee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaclypse_the_Younger">
+    <yago:hasName xml:lang="en">Malaclypse the Younger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fun&apos;ya_no_Yasuhide">
+    <yago:hasName xml:lang="en">Fun'ya no Yasuhide</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Young">
+    <yago:hasName xml:lang="en">Patricia Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sachin_Yardi">
+    <yago:hasName xml:lang="en">Sachin Yardi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Byron_York">
+    <yago:hasName xml:lang="en">Byron York</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agust%C3%ADn_de_Montiano_y_Luyando">
+    <yago:hasName xml:lang="en">Agustin De Montiano Y Luyando</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben-Dror_Yemini">
+    <yago:hasName xml:lang="en">Ben Dror Yemini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ritchie_Yorke">
+    <yago:hasName xml:lang="en">Ritchie Yorke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benito_Jer%C3%B3nimo_Feij%C3%B3o_y_Montenegro">
+    <yago:hasName xml:lang="en">Benito Jerónimo Feijoo y Montenegro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Lord_Tennyson">
+    <yago:hasName xml:lang="en">Tennyson, Alfred, 1st bardo yo Tennyson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Yorke">
+    <yago:hasName xml:lang="en">Matthew Yorke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Yale_Harrison">
+    <yago:hasName xml:lang="en">Charles Yale Harrison</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anzia_Yezierska">
+    <yago:hasName xml:lang="en">Anzia Yezierska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ram%C3%B3n_Emeterio_Betances">
+    <yago:hasName xml:lang="en">Ramón Emeterio Betances y Alacán</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Young_(writer)">
+    <yago:hasName xml:lang="en">Scott Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Yardley">
+    <yago:hasName xml:lang="en">Jane Yardley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Cardoza_y_Arag%C3%B3n">
+    <yago:hasName xml:lang="en">Luis Cardoza y Aragon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Jie">
+    <yago:hasName xml:lang="en">Jie Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rick_Yancey">
+    <yago:hasName xml:lang="en">Rick Yancey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Yankevich">
+    <yago:hasName xml:lang="en">Leo Yankevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokoi_Yay%C5%AB">
+    <yago:hasName xml:lang="en">Yokoi Yayū (横井 也有)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yishan_Yining">
+    <yago:hasName xml:lang="en">Yishan Yining</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Munyol">
+    <yago:hasName xml:lang="en">Munyol Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bart_Yates">
+    <yago:hasName xml:lang="en">Bart Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Young">
+    <yago:hasName xml:lang="en">Hugo Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chay_Yew">
+    <yago:hasName xml:lang="en">Chay Yew</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltasar_Graci%C3%A1n">
+    <yago:hasName xml:lang="en">Gracian Y Morales</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideo_Yoshino">
+    <yago:hasName xml:lang="en">Hideo Yoshino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Yeoh">
+    <yago:hasName xml:lang="en">Benjamin Yeoh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amado_Yuzon">
+    <yago:hasName xml:lang="en">Amado Magcalas Yuzon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zelimkhan_Yandarbiyev">
+    <yago:hasName xml:lang="en">Zelimkhan Yandarbiyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taichi_Yamada">
+    <yago:hasName xml:lang="en">Taichi Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joel_Yanofsky">
+    <yago:hasName xml:lang="en">Joel Yanofsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alba_de_C%C3%A9spedes_y_Bertini">
+    <yago:hasName xml:lang="en">Alba de Céspedes y Bertini</yago:hasName>
+    <yago:hasName xml:lang="en">Alba De Cespedes Y Bertini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Jiang">
+    <yago:hasName xml:lang="en">Jiang Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Yglesias">
+    <yago:hasName xml:lang="en">Rafael Yglesias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olexiy_Yurin">
+    <yago:hasName xml:lang="en">Olexiy Yurin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Yalan-Shteklis">
+    <yago:hasName xml:lang="en">Miriam Yalan-Shteklis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken&apos;ichi_Yoshida_(literary_scholar)">
+    <yago:hasName xml:lang="en">Ken'ichi Yoshida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khin_Hnin_Yu">
+    <yago:hasName xml:lang="en">Khin Hnin Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Hu-myong">
+    <yago:hasName xml:lang="en">Hu-myong Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Yut">
+    <yago:hasName xml:lang="en">Nikolai Yout</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ho_Fuk_Yan">
+    <yago:hasName xml:lang="en">Fuk Yan Ho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Epifanio_de_los_Santos">
+    <yago:hasName xml:lang="en">Epifanio de los Santos y Cristobal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Young_(classicist)">
+    <yago:hasName xml:lang="en">Douglas Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monica_Youn">
+    <yago:hasName xml:lang="en">Monica Youn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waka_Yamada">
+    <yago:hasName xml:lang="en">Waka Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magomed_Yevloyev">
+    <yago:hasName xml:lang="en">Magomed Yevloyev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Mar%C3%ADa_Gabriel_y_Gal%C3%A1n">
+    <yago:hasName xml:lang="en">Jose Maria Gabriel Y Galan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitri_Yemets">
+    <yago:hasName xml:lang="en">Dmitri Yemets</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lois-Ann_Yamanaka">
+    <yago:hasName xml:lang="en">Lois-Ann Yamanaka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Yoho">
+    <yago:hasName xml:lang="en">Max Yoho</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanna_Yablonska">
+    <yago:hasName xml:lang="en">Anna Yablonskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamo_no_Yasunori_no_musume">
+    <yago:hasName xml:lang="en">Kamo No Yasunori No Musume</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessica_York">
+    <yago:hasName xml:lang="en">Jessica York</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Chi-hwan">
+    <yago:hasName xml:lang="en">Chi Hwan Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nir_Yaniv">
+    <yago:hasName xml:lang="en">Nir Yaniv</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Kwang-su">
+    <yago:hasName xml:lang="en">Kwang-su Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oh_Young-su">
+    <yago:hasName xml:lang="en">Oh Yong-su</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juana_In%C3%A9s_de_la_Cruz">
+    <yago:hasName xml:lang="en">Juana Ines de Asbaje y Ramírez de Santillana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Younis_Butt">
+    <yago:hasName xml:lang="en">Dr Muhammad Younis Butt</yago:hasName>
+    <yago:hasName xml:lang="en">Dr. Muhammad Younis Butt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bat_Ye&apos;or">
+    <yago:hasName xml:lang="en">Bat Ye'or</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M._H._de_Young">
+    <yago:hasName xml:lang="en">Michael Harry De Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiao_Ji">
+    <yago:hasName xml:lang="en">Qu Yuan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Yutkevich">
+    <yago:hasName xml:lang="en">Sergei Yutkevich</yago:hasName>
+    <yago:hasName xml:lang="en">Sergei Iosifovich Yutkevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zabel_Yesayan">
+    <yago:hasName xml:lang="en">Zabel Yesayan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Yabuki">
+    <yago:hasName xml:lang="en">Kentaro Yabuki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Bonif%C3%A1cio_the_Young">
+    <yago:hasName xml:lang="en">José Bonifácio the Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Yanes">
+    <yago:hasName xml:lang="en">Oscar Yanes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Yeongdo">
+    <yago:hasName xml:lang="en">Lee, Yeongdo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinori_Yagi">
+    <yago:hasName xml:lang="en">Yoshinori Yagi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Yardley">
+    <yago:hasName xml:lang="en">Jim Yardley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ella_Young">
+    <yago:hasName xml:lang="en">Ella Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Art_Young">
+    <yago:hasName xml:lang="en">Art Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Yursky">
+    <yago:hasName xml:lang="en">Sergei Yursky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blaine_Yorgason">
+    <yago:hasName xml:lang="en">Blaine Yorgason</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuasa_Yoshiko">
+    <yago:hasName xml:lang="en">Yuasa Yoshiko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liu_Yichang">
+    <yago:hasName xml:lang="en">Lau Yee-cheung</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmadun_Yosi_Herfanda">
+    <yago:hasName xml:lang="en">Ahmadun Yosi Herfanda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%8Ctomo_no_Yakamochi">
+    <yago:hasName xml:lang="en">Ōtomo no Yakamochi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boch%C5%8D_Yamamura">
+    <yago:hasName xml:lang="en">Bocho Yamamura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stark_Young">
+    <yago:hasName xml:lang="en">Stark Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Law_(film_director)">
+    <yago:hasName xml:lang="en">lo4 sau2 yiu6</yago:hasName>
+    <yago:hasName xml:lang="en">luo2 shou3 yao4</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Yakich">
+    <yago:hasName xml:lang="en">Mark Yakich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Yongchen">
+    <yago:hasName xml:lang="en">Wang Yongchen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E._H._Young">
+    <yago:hasName xml:lang="en">E. H. Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Calcagno">
+    <yago:hasName xml:lang="en">Eric Calcagno y Maillmann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Wan">
+    <yago:hasName xml:lang="en">Wan Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elisha_Yaffe">
+    <yago:hasName xml:lang="en">Elisha Yaffe</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zvi_Yair">
+    <yago:hasName xml:lang="en">Zvi Yair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luisa_Carvajal_y_Mendoza">
+    <yago:hasName xml:lang="en">Luisa Carvajal Y Mendoza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sesson_Y%C5%ABbai">
+    <yago:hasName xml:lang="en">Sesson Yubai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Y._Anderson">
+    <yago:hasName xml:lang="en">Paul Y. Anderson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seishi_Yokomizo">
+    <yago:hasName xml:lang="en">Seishi Yokomizo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rod_Young">
+    <yago:hasName xml:lang="en">Rod Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Shou">
+    <yago:hasName xml:lang="en">Shou Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Young_Pelton">
+    <yago:hasName xml:lang="en">Robert Young Pelton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ambroise_Yxemerry">
+    <yago:hasName xml:lang="en">Ambroise Yxemerry</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus_Young">
+    <yago:hasName xml:lang="en">Augustus Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yegor_Yakovlev">
+    <yago:hasName xml:lang="en">Yegor Yakovlev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Yakovlevich_Pavlovsky">
+    <yago:hasName xml:lang="en">Isaac Yakovlevich Pavlovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Young_(psychologist)">
+    <yago:hasName xml:lang="en">Jonathan Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasir_Pirzada">
+    <yago:hasName xml:lang="en">Muhammad Yasir Pirzada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyoko_Yamasaki">
+    <yago:hasName xml:lang="en">Toyoko Yamasaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Shulpyakov">
+    <yago:hasName xml:lang="en">Gleb Yuryevich Shulpyakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Yamamoto">
+    <yago:hasName xml:lang="en">Jane Yamamoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Franko">
+    <yago:hasName xml:lang="en">Ivan Yakovych Franko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guill%C3%A9n_de_Castro_y_Bellvis">
+    <yago:hasName xml:lang="en">Guillen de Castro y Bellvis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Wanli">
+    <yago:hasName xml:lang="en">Wanli Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Yoon">
+    <yago:hasName xml:lang="en">Jean Yoon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Young_Bear">
+    <yago:hasName xml:lang="en">Ray Young Bear</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasan_%C3%82li_Y%C3%BCcel">
+    <yago:hasName xml:lang="en">Hasan Ali Yucel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Y%C5%ABki">
+    <yago:hasName xml:lang="en">Mitsuru Yuki</yago:hasName>
+    <yago:hasName xml:lang="en">Mitsuru Yūki  結城光流</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yannis_Yfantis">
+    <yago:hasName xml:lang="en">Yannis Yfantis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yelizaveta_Tarakhovskaya">
+    <yago:hasName xml:lang="en">Yelizaveta Yakovlevna Tarakhovskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leopoldo_Alas">
+    <yago:hasName xml:lang="en">Leopoldo García-Alas y Ureña</yago:hasName>
+    <yago:hasName xml:lang="en">Leopoldo Alas Y Urena</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ai_Yazawa">
+    <yago:hasName xml:lang="en">Ai Yazawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Houzhu">
+    <yago:hasName xml:lang="en">Given name: Congjia 從嘉, later Yu 煜</yago:hasName>
+    <yago:hasName xml:lang="en">Li Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Can_Y%C3%BCcel">
+    <yago:hasName xml:lang="en">Can Yucel</yago:hasName>
+    <yago:hasName xml:lang="en">Can Yücel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Mar%C3%ADa_Heredia_y_Heredia">
+    <yago:hasName xml:lang="en">Heredia y Campuzano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Young_(poet)">
+    <yago:hasName xml:lang="en">Kevin Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregorio_L%C3%B3pez_(writer)">
+    <yago:hasName xml:lang="en">Gregorio Lopez Y Fuentes</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Yakubovich">
+    <yago:hasName xml:lang="en">Pyotr Yakubovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_Yung_Shin">
+    <yago:hasName xml:lang="en">Sun Ying Shin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agust%C3%ADn_Moreto_y_Cavana">
+    <yago:hasName xml:lang="en">Agustin Moreto Y Cavana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmet_Yal%C3%A7%C4%B1nkaya">
+    <yago:hasName xml:lang="en">Ahmet Yalcinkaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihiro_Yonezawa">
+    <yago:hasName xml:lang="en">Yoshihiro Yonezawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Maslin_Yeates">
+    <yago:hasName xml:lang="en">Vic Yeates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nedyalko_Yordanov">
+    <yago:hasName xml:lang="en">Nedyalko Yordanov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Young_(broadcaster)">
+    <yago:hasName xml:lang="en">Eric Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miri_Yu">
+    <yago:hasName xml:lang="en">Miri Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessica_Yellin">
+    <yago:hasName xml:lang="en">Jessica Yellin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xabib_Yunich">
+    <yago:hasName xml:lang="en">Xabib Yunic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_Borja_y_Arag%C3%B3n">
+    <yago:hasName xml:lang="en">Francisco Borja y Aragon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_P._Young">
+    <yago:hasName xml:lang="en">William P. Young</yago:hasName>
+    <yago:hasName xml:lang="en">William Paul Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heydar_Yaghma">
+    <yago:hasName xml:lang="en">Heydar Yaghma</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Heaon-jong">
+    <yago:hasName xml:lang="en">Heaonjong Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamoto_no_Yorimasa">
+    <yago:hasName xml:lang="en">Minamoto no Yorimasa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Young">
+    <yago:hasName xml:lang="en">Edward Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Young_(poet)">
+    <yago:hasName xml:lang="en">Andrew Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Yee">
+    <yago:hasName xml:lang="en">Lisa Yee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Yglesias">
+    <yago:hasName xml:lang="en">Helen Yglesias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Begziin_Yavuukhulan">
+    <yago:hasName xml:lang="en">Begziin Yavuukhulan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiji_Yoshikawa">
+    <yago:hasName xml:lang="en">Eiji Yoshikawa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olena_Prytula">
+    <yago:hasName xml:lang="en">Olena Yuriivna Prytula</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alcuin">
+    <yago:hasName xml:lang="en">Alcuin of York</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Yaniv">
+    <yago:hasName xml:lang="en">Volodymyr Yaniv</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xi_Xi">
+    <yago:hasName xml:lang="en">Zhang Yan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ye_Shengtao">
+    <yago:hasName xml:lang="en">Shengtao Ye</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurence_Yep">
+    <yago:hasName xml:lang="en">Laurence  Yep</yago:hasName>
+    <yago:hasName xml:lang="en">Laurence Yep</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Yates">
+    <yago:hasName xml:lang="en">Edmund Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D&apos;bi_Young">
+    <yago:hasName xml:lang="en">Dbi Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misho_Yuzmeski">
+    <yago:hasName xml:lang="en">Misho Yuzmeski</yago:hasName>
+    <yago:hasName xml:lang="en">Мisho Yuzmeski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Yarborough">
+    <yago:hasName xml:lang="en">Richard Yarborough</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Preil">
+    <yago:hasName xml:lang="en">Gabriel Yehoshua Preil</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Yap">
+    <yago:hasName xml:lang="en">Arthur Yap (叶纬雄)</yago:hasName>
+    <yago:hasName xml:lang="en">Arthur Yap</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Younge">
+    <yago:hasName xml:lang="en">Gary Younge</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Yang_(journalist)">
+    <yago:hasName xml:lang="en">John Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geling_Yan">
+    <yago:hasName xml:lang="en">Geling Yan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junnosuke_Yoshiyuki">
+    <yago:hasName xml:lang="en">Junnosuke Yoshiyuki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linda_Yellin">
+    <yago:hasName xml:lang="en">Linda Yellin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mai_Yamani">
+    <yago:hasName xml:lang="en">Mai Yamani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amy_Yamada">
+    <yago:hasName xml:lang="en">Amy Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welly_Yang">
+    <yago:hasName xml:lang="en">Welly Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toni_Yates">
+    <yago:hasName xml:lang="en">Toni Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Youngblood">
+    <yago:hasName xml:lang="en">Gene Youngblood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Yoneda">
+    <yago:hasName xml:lang="en">Karl Yoneda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kausar_Yazdani">
+    <yago:hasName xml:lang="en">Kausar Yazdani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brenton_G._Yorgason">
+    <yago:hasName xml:lang="en">Brenton G. Yorgason</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jared_Y._Sanders,_Sr.">
+    <yago:hasName xml:lang="en">Sanders, Jared Y., Sr.</yago:hasName>
+    <yago:hasName xml:lang="en">Jared Y. Sanders, Sr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julio_Herrera_y_Reissig">
+    <yago:hasName xml:lang="en">Julio Herrera y Reissig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Yergeau">
+    <yago:hasName xml:lang="en">Pierre Yergeau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Yeo">
+    <yago:hasName xml:lang="en">Robert Yeo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shan_Sa">
+    <yago:hasName xml:lang="en">Ni Yan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaeko_Nogami">
+    <yago:hasName xml:lang="en">Nogami Yaeko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamar_Yellin">
+    <yago:hasName xml:lang="en">Tamar Yellin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rashid_Yasemi">
+    <yago:hasName xml:lang="en">Gholamreza Rashid Yasem</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuko_Yoshiya">
+    <yago:hasName xml:lang="en">Nobuko Yoshiya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volodymyr_Yavorivsky">
+    <yago:hasName xml:lang="en">Volodymyr Yavorivsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleksandr_Konysky">
+    <yago:hasName xml:lang="en">Oleksandr Yakovych Konysky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Young">
+    <yago:hasName xml:lang="en">Leroy Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonid_Yuzefovich">
+    <yago:hasName xml:lang="en">Leonid Yuzefovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Parker_Yockey">
+    <yago:hasName xml:lang="en">Francis Parker Yockey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Yevin">
+    <yago:hasName xml:lang="en">Jonathan Yevin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanoch_Yelon">
+    <yago:hasName xml:lang="en">Hanoch Yelon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Borun">
+    <yago:hasName xml:lang="en">Borun Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricardo_Nazario_y_Col%C3%B3n">
+    <yago:hasName xml:lang="en">Ricardo Nazario y Colón</yago:hasName>
+    <yago:hasName xml:lang="en">Ricardo Nazario y Colon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zvi_Yehezkeli">
+    <yago:hasName xml:lang="en">Zvi Yehezkeli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Yoshino">
+    <yago:hasName xml:lang="en">Kenji Yoshino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rie_Yasumi">
+    <yago:hasName xml:lang="en">Rie Yasumi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeh_Ming-shun">
+    <yago:hasName xml:lang="en">Ming Shun Yeh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuye_Yamada">
+    <yago:hasName xml:lang="en">Mitsuye Yamada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Young_(writer)">
+    <yago:hasName xml:lang="en">Phil Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Tei_Yamashita">
+    <yago:hasName xml:lang="en">Karen Tei Yamashita</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linda_Yu">
+    <yago:hasName xml:lang="en">Linda Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Heung-gil">
+    <yago:hasName xml:lang="en">Heung-gil Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Yesenin">
+    <yago:hasName xml:lang="en">Sergei Yesenin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_Burman_the_Younger">
+    <yago:hasName xml:lang="en">Pieter Burmann the Younger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morrie_Yohai">
+    <yago:hasName xml:lang="en">Morrie Yohai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mykhailo_Yalovy">
+    <yago:hasName xml:lang="en">Mykhailo Yalovy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Yam">
+    <yago:hasName xml:lang="en">Mike Yam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouyang_Yu">
+    <yago:hasName xml:lang="en">Ouyang Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Yearsley">
+    <yago:hasName xml:lang="en">Ann Yearsley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Yolen">
+    <yago:hasName xml:lang="en">Jane Yolen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Shen">
+    <yago:hasName xml:lang="en">Shen Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Yamin">
+    <yago:hasName xml:lang="en">Muhammad Yamin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Echegaray">
+    <yago:hasName xml:lang="en">Jose Echegaray y Eizaguirre</yago:hasName>
+    <yago:hasName xml:lang="en">José Echegaray y Eizaguirre</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S._Yizhar">
+    <yago:hasName xml:lang="en">S. Yizhar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Yazykov">
+    <yago:hasName xml:lang="en">Nikolay Yazykov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Yezzi">
+    <yago:hasName xml:lang="en">David Yezzi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Yefremov">
+    <yago:hasName xml:lang="en">Ivan Antonovich Yefremov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gu_Long">
+    <yago:hasName xml:lang="en">Xiong Yaohua</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_de_Castro_y_Orozco">
+    <yago:hasName xml:lang="en">Jose De Castro Y Orozco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Yumashev">
+    <yago:hasName xml:lang="en">Valentin Yumashev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valery_Tarsis">
+    <yago:hasName xml:lang="en">Valery Yakovlevich Tarsis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Dong-ju">
+    <yago:hasName xml:lang="en">Dong-ju Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doselle_Young">
+    <yago:hasName xml:lang="en">Doselle Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Louis_(journalist)">
+    <yago:hasName xml:lang="en">Victor Yevgenyevich Louis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Gui-ja">
+    <yago:hasName xml:lang="en">Gui-Ja Yang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sha_Yexin">
+    <yago:hasName xml:lang="en">Sha Yexin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagayo_Yoshir%C5%8D">
+    <yago:hasName xml:lang="en">Nagayo Yoshirō</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Mikhaylovich_Yershov">
+    <yago:hasName xml:lang="en">Pyotr Mikhaylovich Yershov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdul_Ameer_Yousef_Habeeb">
+    <yago:hasName xml:lang="en">Abdul Ameer Yousef Habeeb</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Yeuwain">
+    <yago:hasName xml:lang="en">Jean Yeuwain</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mennan_Yapo">
+    <yago:hasName xml:lang="en">Mennan Yapo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lev_Yilmaz">
+    <yago:hasName xml:lang="en">Lev Yilmaz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisaye_Yamamoto">
+    <yago:hasName xml:lang="en">Hisaye Yamamoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._Michael_Yates">
+    <yago:hasName xml:lang="en">J. Michael Yates</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Yashin">
+    <yago:hasName xml:lang="en">Alexander Yakovlevich Yashin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shen_Yin-mo">
+    <yago:hasName xml:lang="en">Shen Yin-Mo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Sempill_the_younger">
+    <yago:hasName xml:lang="en">Sempill, Robert, The Younger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Tso-lin">
+    <yago:hasName xml:lang="en">Tso-Lin Yi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Youren">
+    <yago:hasName xml:lang="en">Yu Youren</yago:hasName>
+    <yago:hasName xml:lang="en">Youren Yu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Clavijo_y_Fajardo">
+    <yago:hasName xml:lang="en">Jose Clavijo Y Fajardo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_de_Sig%C3%BCenza_y_G%C3%B3ngora">
+    <yago:hasName xml:lang="en">Carlos de Siguenza y Gongora</yago:hasName>
+    <yago:hasName xml:lang="en">Carlos de Sigüenza y Góngora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiko_Yosano">
+    <yago:hasName xml:lang="en">Akiko Yosano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilona_Yusuf">
+    <yago:hasName xml:lang="en">Ilona Yusuf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Dae-nyeong">
+    <yago:hasName xml:lang="en">Dae-nyeong Yun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuichi_Yoshida">
+    <yago:hasName xml:lang="en">Shuichi Yoshida</yago:hasName>
+    <yago:hasName xml:lang="en">Shūichi Yoshida</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiko_Yamamoto">
+    <yago:hasName xml:lang="en">Michiko Yamamoto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leland_B._Yeager">
+    <yago:hasName xml:lang="en">Leland B. Yeager</yago:hasName>
+    <yago:hasName xml:lang="en">Leland Yeager</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ne%C5%9Fe_Ya%C5%9F%C4%B1n">
+    <yago:hasName xml:lang="en">Neşe Yaşın</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Yanow">
+    <yago:hasName xml:lang="en">Scott Yanow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Yoo">
+    <yago:hasName xml:lang="en">David Yoo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Young">
+    <yago:hasName xml:lang="en">Al Young</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Yon">
+    <yago:hasName xml:lang="en">Michael Yon</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_Parnok">
+    <yago:hasName xml:lang="en">Sophia Yakovlevna Parnok</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Felipe_Ram%C3%B3n_y_Rivera">
+    <yago:hasName xml:lang="en">Luis Felipe Ramon y Rivera</yago:hasName>
+    <yago:hasName xml:lang="en">Luis Felipe Ramón y Rivera</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajendra_Yadav">
+    <yago:hasName xml:lang="en">Rajendra Yadav</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elwy_Yost">
+    <yago:hasName xml:lang="en">Elwy Macmurran Yost</yago:hasName>
+    <yago:hasName xml:lang="en">Elwy Yost</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Yriarte">
+    <yago:hasName xml:lang="en">Charles Yriarte</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larissa_Behrendt">
+    <yago:hasName xml:lang="en">Larissa Yasmin Behrendt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmet_Yakut">
+    <yago:hasName xml:lang="en">Ahmet Yakut</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chao_Yuen_Ren">
+    <yago:hasName xml:lang="en">Chao Yuen Ren</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

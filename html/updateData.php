@@ -1,5 +1,5 @@
 <?php
-
-$response = file_get_contents('http://localhost:8082/downloader2/services/authors/');
+$conf = parse_ini_file ("../config");
+$response = file_get_contents($conf['downloader_path']);
 echo $response;
 ?>

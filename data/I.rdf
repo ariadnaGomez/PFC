@@ -28,6 +28,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_Jonker">
     <yago:hasName xml:lang="en">Ingrid Jonker</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Baqi">
+    <yago:hasName xml:lang="en">Ibn Baqi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivor_Gurney">
+    <yago:hasName xml:lang="en">Ivor Gurney</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ioane_Shavteli">
     <yago:hasName xml:lang="en">Ioane Shavteli</yago:hasName>
   </rdf:Description>
@@ -76,6 +82,7 @@
     <yago:hasName xml:lang="en">Ippolito Pindemonte</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Bickerstaffe">
+    <yago:hasName xml:lang="en">Isaac John Bickerstaffe</yago:hasName>
     <yago:hasName xml:lang="en">Isaac Bickerstaffe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabelle_Sandy">
@@ -133,11 +140,17 @@
     <yago:hasName xml:lang="en">Ivan Klíma</yago:hasName>
     <yago:hasName xml:lang="en">Ivan Klima</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_&apos;Ali_Salman">
+    <yago:hasName xml:lang="en">Ibrahim Ali Salman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iraj_Mirza">
     <yago:hasName xml:lang="en">Iraj Mirza</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ille_Toktash">
     <yago:hasName xml:lang="en">Ille Toktash</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cha_In-Pyo">
+    <yago:hasName xml:lang="en">In-Pyo Cha</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irving_Stone">
     <yago:hasName xml:lang="en">Irving Stone</yago:hasName>
@@ -166,28 +179,32 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Paterson">
     <yago:hasName xml:lang="en">Isabel Paterson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Edginton">
+    <yago:hasName xml:lang="en">Ian Edginton</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Orenstein">
     <yago:hasName xml:lang="en">Israel Orenstein</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ioanna_Ku%C3%A7uradi">
-    <yago:hasName xml:lang="en">Ioanna Kuçuradi</yago:hasName>
-    <yago:hasName xml:lang="en">Ioanna Kucuradi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ignatiy_Vishnevetsky">
     <yago:hasName xml:lang="en">Ignatiy Vishnevetsky</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ikky%C5%AB">
     <yago:hasName xml:lang="en">Ikkyu</yago:hasName>
-    <yago:hasName xml:lang="en">Ikkyū</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Trnski">
     <yago:hasName xml:lang="en">Ivan Trnski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iskandar_Khatloni">
+    <yago:hasName xml:lang="en">Iskandar Khatloni</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iakob_Gogebashvili">
     <yago:hasName xml:lang="en">Iakob Gogebashvili</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivy_Compton-Burnett">
     <yago:hasName xml:lang="en">Ivy Compton-Burnett</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Cassini">
+    <yago:hasName xml:lang="en">Igor Cassini</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inga_Arvad">
     <yago:hasName xml:lang="en">Inga Arvad</yago:hasName>
@@ -204,12 +221,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iztok_Osojnik">
     <yago:hasName xml:lang="en">Iztok Osojnik</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intel_Fortran_Compiler">
+    <yago:hasName xml:lang="en">Intel Fortran Compiler</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ifigenija_Zagori%C4%8Dnik_Simonovi%C4%87">
     <yago:hasName xml:lang="en">Ifigenija Simonovic</yago:hasName>
     <yago:hasName xml:lang="en">Ifigenija Zagoričnik Simonović</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irena_Scott">
     <yago:hasName xml:lang="en">Irena Scott</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Gilmour,_Baron_Gilmour_of_Craigmillar">
+    <yago:hasName xml:lang="en">Ian Gilmour</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Quzman">
     <yago:hasName xml:lang="en">Ibn Quzman</yago:hasName>
@@ -222,6 +245,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivane_Machabeli">
     <yago:hasName xml:lang="en">Ivane Machabeli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akilan">
+    <yago:hasName xml:lang="en">Image:AKILAN.jpg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Izzat_Husrieh">
     <yago:hasName xml:lang="en">Izzat Husrieh</yago:hasName>
@@ -240,6 +266,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Wallach_(writer)">
     <yago:hasName xml:lang="en">Ira Wallach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Vitale">
+    <yago:hasName xml:lang="en">Ida Vitale</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_de_Benserade">
     <yago:hasName xml:lang="en">Isaac de Benserade</yago:hasName>
@@ -273,6 +302,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingeman_Arbnor">
     <yago:hasName xml:lang="en">Ingeman Arbnor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iurie_Ro%C5%9Fca">
+    <yago:hasName xml:lang="en">Iurie Roşca</yago:hasName>
+    <yago:hasName xml:lang="en">Iurie Rosca</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_da_Costa">
     <yago:hasName xml:lang="en">Isaac da Costa</yago:hasName>
@@ -310,9 +343,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ib_Melchior">
     <yago:hasName xml:lang="en">Ib Melchior</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Said_al-Maghribi">
-    <yago:hasName xml:lang="en">Ibn Said al-Maghribi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Bogushevskaya">
     <yago:hasName xml:lang="en">Irina Bogushevskaya</yago:hasName>
   </rdf:Description>
@@ -328,9 +358,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_I">
     <yago:hasName xml:lang="en">Ismail I</yago:hasName>
+    <yago:hasName xml:lang="en">Ismail 01</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Ross_%28playwright%29">
-    <yago:hasName xml:lang="en">Ian Ross</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Wishart">
+    <yago:hasName xml:lang="en">Ian Wishart</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Cohen">
     <yago:hasName xml:lang="en">Ira Cohen</yago:hasName>
@@ -356,9 +387,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Dov_Berkowitz">
     <yago:hasName xml:lang="en">Isaac Dov Berkowitz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Isidora_Bjelica">
-    <yago:hasName xml:lang="en">Isidora Bjelica</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Jenbach">
     <yago:hasName xml:lang="en">Ida Jenbach</yago:hasName>
   </rdf:Description>
@@ -367,6 +395,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Khalidi_(writer)">
     <yago:hasName xml:lang="en">Ismail Khalidi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imran_Aslam">
+    <yago:hasName xml:lang="en">Imran Aslam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ioan_Gyuri_Pascu">
     <yago:hasName xml:lang="en">Ioan Gyuri Pascu</yago:hasName>
@@ -379,6 +410,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Ah%C4%8Din">
     <yago:hasName xml:lang="en">Ivan Ahcin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Little">
+    <yago:hasName xml:lang="en">Ivan Little</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Creang%C4%83">
     <yago:hasName xml:lang="en">Ion Creanga</yago:hasName>
@@ -401,6 +435,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irv_Weinstein">
     <yago:hasName xml:lang="en">Irv Weinstein</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Colvin">
+    <yago:hasName xml:lang="en">Ian Colvin</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Bradley">
     <yago:hasName xml:lang="en">Ian Bradley</yago:hasName>
   </rdf:Description>
@@ -408,11 +445,11 @@
     <yago:hasName xml:lang="en">Igor Štiks</yago:hasName>
     <yago:hasName xml:lang="en">Igor Stiks</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Gammel">
-    <yago:hasName xml:lang="en">Irene Gammel</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Vianu">
     <yago:hasName xml:lang="en">Ion Vianu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Gammel">
+    <yago:hasName xml:lang="en">Irene Gammel</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Bratko_(publisher)">
     <yago:hasName xml:lang="en">Ivan Bratko</yago:hasName>
@@ -422,9 +459,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Panner">
     <yago:hasName xml:lang="en">Israel Panner</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Minatti">
-    <yago:hasName xml:lang="en">Ivan Minatti</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/I._J._Parker">
     <yago:hasName xml:lang="en">I. J. Parker</yago:hasName>
@@ -478,6 +512,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Ben_Kargbo">
     <yago:hasName xml:lang="en">Ibrahim Kargbo</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_ben_Joseph_Halevi_Caslari">
+    <yago:hasName xml:lang="en">Israel ben Joseph Halevi Caslari</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ihor_Pavlyuk">
     <yago:hasName xml:lang="en">Ihor Pavlyuk</yago:hasName>
   </rdf:Description>
@@ -492,6 +529,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabella_Thoburn">
     <yago:hasName xml:lang="en">Isabella Thoburn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italo_Pizzolante">
+    <yago:hasName xml:lang="en">Italo Pizzolante</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ike_Pappas">
     <yago:hasName xml:lang="en">Ike Pappas</yago:hasName>
@@ -533,6 +573,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Filotti_Cantacuzino">
     <yago:hasName xml:lang="en">Ion Cantacuzino</yago:hasName>
     <yago:hasName xml:lang="en">Ion Filotti Cantacuzino</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Parks">
+    <yago:hasName xml:lang="en">Ian Parks</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iris_Origo">
     <yago:hasName xml:lang="en">Iris Origo</yago:hasName>
@@ -586,14 +629,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irwin_Silber">
     <yago:hasName xml:lang="en">Irwin Silber</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Al-Hsawi">
+    <yago:hasName xml:lang="en">Ibrahim Al-Hsawi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Imants_Ziedonis">
     <yago:hasName xml:lang="en">Imants Ziedonis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Beck">
-    <yago:hasName xml:lang="en">Ian Beck</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Pregelj">
     <yago:hasName xml:lang="en">Ivan Pregelj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibycus">
+    <yago:hasName xml:lang="en">Ibycus</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Utkin">
     <yago:hasName xml:lang="en">Iosif Utkin</yago:hasName>
@@ -607,8 +653,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Satanow">
     <yago:hasName xml:lang="en">Isaac Satanow</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hughie_Cannon">
+    <yago:hasName xml:lang="en">Img                 =</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ihara_Saikaku">
     <yago:hasName xml:lang="en">Ihara Saikaku</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Gharsiya">
+    <yago:hasName xml:lang="en">Ibn Gharsiya</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_al-Khabbaza">
     <yago:hasName xml:lang="en">Ibn Khabbaza</yago:hasName>
@@ -618,9 +670,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iakovos_Kambanelis">
     <yago:hasName xml:lang="en">Iakovos Kampanellis</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Mossop">
-    <yago:hasName xml:lang="en">Irene Maude Mossop Swatridge</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Mavrodi">
     <yago:hasName xml:lang="en">Ivan Mavrodi</yago:hasName>
@@ -658,6 +707,7 @@
     <yago:hasName xml:lang="en">Irena Zerjal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Gunduli%C4%87">
+    <yago:hasName xml:lang="en">Ivan Dživo Gundulić</yago:hasName>
     <yago:hasName xml:lang="en">Ivan Gundulic</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ignacio_Ramonet">
@@ -688,10 +738,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Khalidi">
     <yago:hasName xml:lang="en">Ismail Khalidi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignas_Sta%C5%A1kevi%C4%8Dius">
-    <yago:hasName xml:lang="en">Ignas Staskevicius</yago:hasName>
-    <yago:hasName xml:lang="en">Ignas Staškevičius</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Johnson_(cricketer)">
     <yago:hasName xml:lang="en">Ian William Geddes Johnson</yago:hasName>
     <yago:hasName xml:lang="en">Ian Johnson</yago:hasName>
@@ -702,17 +748,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Trivedi">
     <yago:hasName xml:lang="en">Ira Trivedi</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Imdad_Hussaini">
-    <yago:hasName xml:lang="en">Imdad Hussaini</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Eisenstein">
-    <yago:hasName xml:lang="en">Ira Eisenstein</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ioan_Baba">
     <yago:hasName xml:lang="en">Ioan Baba</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilian_Djevelekov">
-    <yago:hasName xml:lang="en">Ilian Djevelekov</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilkka_Remes">
     <yago:hasName xml:lang="en">Ilkka Remes</yago:hasName>
@@ -720,11 +757,7 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Vaganov">
     <yago:hasName xml:lang="en">Igor Vaganov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilya_Oleynikov">
-    <yago:hasName xml:lang="en">Ilya Oleynikov</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ishmael_Reed">
-    <yago:hasName xml:lang="en">Ismael Reed</yago:hasName>
     <yago:hasName xml:lang="en">Ishmael Reed</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ib_Michael">
@@ -738,12 +771,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Rankin">
     <yago:hasName xml:lang="en">Ian Rankin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Mecchi">
-    <yago:hasName xml:lang="en">Irene Mecchi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Petra%C8%99">
-    <yago:hasName xml:lang="en">Irina Petraş</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Oyarz%C3%A1bal_Smith">
     <yago:hasName xml:lang="en">Isabel Oyarzabal Smith</yago:hasName>
@@ -768,9 +795,6 @@
     <yago:hasName xml:lang="en">Ilhan Berk</yago:hasName>
     <yago:hasName xml:lang="en">İlhan Berk</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ieronim_Yasinsky">
-    <yago:hasName xml:lang="en">Ieronim Yasinsky</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Imekanu">
     <yago:hasName xml:lang="en">Imekanu</yago:hasName>
   </rdf:Description>
@@ -783,6 +807,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilona_Heged%C5%B1s">
     <yago:hasName xml:lang="en">Ilona Hegedus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ien%C4%83chi%C5%A3%C4%83_V%C4%83c%C4%83rescu">
+    <yago:hasName xml:lang="en">Ienachita Vacarescu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilse_Weber">
     <yago:hasName xml:lang="en">Ilse Weber</yago:hasName>
@@ -803,9 +830,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Immanuel_the_Roman">
     <yago:hasName xml:lang="en">Immanuel the Roman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Saburova">
-    <yago:hasName xml:lang="en">Irina Saburova</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibragim-Bek_Sarakaev">
     <yago:hasName xml:lang="en">Ibragim-Bek Sarakaev</yago:hasName>
   </rdf:Description>
@@ -818,15 +842,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isidore_Isou">
     <yago:hasName xml:lang="en">Isidore Isou</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Tarbell">
-    <yago:hasName xml:lang="en">Ida Tarbell</yago:hasName>
-    <yago:hasName xml:lang="en">Ida M. Tarbell</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahima_Moctar_Sarr">
+    <yago:hasName xml:lang="en">Ibrahima Moctar Sarr</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilan_Stavans">
     <yago:hasName xml:lang="en">Ilan Stavans</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Immacul%C3%A9e_Ilibagiza">
-    <yago:hasName xml:lang="en">Immaculee Ilibagiza</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iljaz_Prokshi">
+    <yago:hasName xml:lang="en">Iljaz Prokshi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Mousawi">
     <yago:hasName xml:lang="en">Ibrahim Mousawi</yago:hasName>
@@ -837,6 +860,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Juzayy">
     <yago:hasName xml:lang="en">Ibn Juzayy</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikbal_Kuttipuram">
+    <yago:hasName xml:lang="en">Ikbal Kuttipuram</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Gerhardt">
     <yago:hasName xml:lang="en">Ida Gerhardt</yago:hasName>
   </rdf:Description>
@@ -846,14 +872,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilja_Leonard_Pfeijffer">
     <yago:hasName xml:lang="en">Ilja Leonard Pfeijffer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irakli_Charkviani">
-    <yago:hasName xml:lang="en">Irakli Charkviani</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Baldwin">
     <yago:hasName xml:lang="en">Ira L. Baldwin</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Bratko_%28publisher%29">
-    <yago:hasName xml:lang="en">Ivan Bratko</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irakli_Charkviani">
+    <yago:hasName xml:lang="en">Irakli Charkviani</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Rosenfeld">
     <yago:hasName xml:lang="en">Isaac Rosenfeld</yago:hasName>
@@ -876,6 +899,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Gyula_Illy%C3%A9s">
     <yago:hasName xml:lang="en">Illyés Gyula</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Eskeland">
+    <yago:hasName xml:lang="en">Ivar Eskeland</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Axton">
     <yago:hasName xml:lang="en">Ian Axton</yago:hasName>
   </rdf:Description>
@@ -896,7 +922,6 @@
     <yago:hasName xml:lang="en">Itamar Moses</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabelo_de_los_Reyes">
-    <yago:hasName xml:lang="en">Isabelo de los Reyes Sr. y Florentino</yago:hasName>
     <yago:hasName xml:lang="en">Isabelo de los Reyes Sr.y Florentino</yago:hasName>
     <yago:hasName xml:lang="en">Isabelo De Los Reyes</yago:hasName>
   </rdf:Description>
@@ -923,6 +948,9 @@
     <yago:hasName xml:lang="en">Indira Peterson</yago:hasName>
     <yago:hasName xml:lang="en">Indira Viswanathan Peterson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izzeddin_Hasanoglu">
+    <yago:hasName xml:lang="en">Izzeddin Hasanoglu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Italo_Alighiero_Chiusano">
     <yago:hasName xml:lang="en">Italo Alighiero Chiusano</yago:hasName>
   </rdf:Description>
@@ -935,6 +963,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Sloan">
     <yago:hasName xml:lang="en">Irene Sloan</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikezawa_Natsuki">
+    <yago:hasName xml:lang="en">Ikezawa Natsuki</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_Bach%C3%A9r">
     <yago:hasName xml:lang="en">Ingrid Bacher</yago:hasName>
   </rdf:Description>
@@ -943,9 +974,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Surikov">
     <yago:hasName xml:lang="en">Ivan Surikov</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Ishikawa_%28author%29">
-    <yago:hasName xml:lang="en">Ishikawa Jun</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabella_Russell-Ides">
     <yago:hasName xml:lang="en">Isabella Russell-Ides</yago:hasName>
@@ -958,6 +986,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irwin_Chusid">
     <yago:hasName xml:lang="en">Irwin Chusid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indr%C4%97_Valantinait%C4%97">
+    <yago:hasName xml:lang="en">Indre Valantinaite</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irena_Bobowska">
     <yago:hasName xml:lang="en">Irena Bobowska</yago:hasName>
@@ -987,6 +1018,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inoslav_Be%C5%A1ker">
     <yago:hasName xml:lang="en">Inoslav Besker</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Cochrane_(novelist)">
+    <yago:hasName xml:lang="en">Ian Cochrane</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Siromahov">
     <yago:hasName xml:lang="en">Ivo Siromahov</yago:hasName>
   </rdf:Description>
@@ -1003,6 +1037,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_N._Arnold">
     <yago:hasName xml:lang="en">Isaac N. Arnold</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ileana_Espinel">
+    <yago:hasName xml:lang="en">Ileana Espinel</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ishigaki_Rin">
     <yago:hasName xml:lang="en">Ishigaki Rin</yago:hasName>
   </rdf:Description>
@@ -1014,6 +1051,12 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/I._H._Sangam_Dev">
     <yago:hasName xml:lang="en">I. H. Sangam Dev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izumi_Sakai">
+    <yago:hasName xml:lang="en">Izumi Sakai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Burchell">
+    <yago:hasName xml:lang="en">Ida Cook</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Lo-Johansson">
     <yago:hasName xml:lang="en">Ivar Lo-Johansson</yago:hasName>
@@ -1055,17 +1098,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Vazov">
     <yago:hasName xml:lang="en">Ivan Vazov</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iqbal_Kuttippuram">
-    <yago:hasName xml:lang="en">Ikbal Kuttipuram</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Izya_Shlosberg">
     <yago:hasName xml:lang="en">Izya Shlosberg</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Latham">
     <yago:hasName xml:lang="en">Irene Latham</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Idris_Azad">
-    <yago:hasName xml:lang="en">Idris Azad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inger_Elisabeth_Hansen">
     <yago:hasName xml:lang="en">Inger Elisabeth Hansen</yago:hasName>
@@ -1080,17 +1117,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isobel_Gowdie">
     <yago:hasName xml:lang="en">Isobel Gowdie</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishrat_Afreen">
-    <yago:hasName xml:lang="en">Ishrat Afreen</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Izaguirre">
     <yago:hasName xml:lang="en">Izaguirre</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignazio_Cerio">
+    <yago:hasName xml:lang="en">Ignazio Cerio</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Innokenty_Annensky">
     <yago:hasName xml:lang="en">Innokenty Annensky</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilana_Mercer">
-    <yago:hasName xml:lang="en">Ilana Mercer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%B0smail_Cem_%C4%B0pek%C3%A7i">
     <yago:hasName xml:lang="en">Ismail Cem Ipekci</yago:hasName>
@@ -1112,6 +1146,9 @@
     <yago:hasName xml:lang="en">Igor Krajchev</yago:hasName>
     <yago:hasName xml:lang="en">Igor Krajčev</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adamou_Id%C3%A9">
+    <yago:hasName xml:lang="en">Ide Adamou</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Sealy">
     <yago:hasName xml:lang="en">Irwin Allan Sealy</yago:hasName>
   </rdf:Description>
@@ -1120,9 +1157,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_Rimland">
     <yago:hasName xml:lang="en">Ingrid Rimland</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Hamidi">
-    <yago:hasName xml:lang="en">Ibrahim Hamidi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Cankar">
     <yago:hasName xml:lang="en">Ivan Cankar</yago:hasName>
@@ -1145,7 +1179,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_In-ho">
     <yago:hasName xml:lang="en">In-Ho Choi</yago:hasName>
-    <yago:hasName xml:lang="en">In-Ho Ch'oe</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_O&apos;Doherty">
     <yago:hasName xml:lang="en">Ian Odoherty</yago:hasName>
@@ -1177,9 +1210,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iva_Pek%C3%A1rkov%C3%A1">
     <yago:hasName xml:lang="en">Iva Pekarkova</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irna_Phillips">
-    <yago:hasName xml:lang="en">Irna Phillips</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Goncharov">
     <yago:hasName xml:lang="en">Ivan Goncharov</yago:hasName>
   </rdf:Description>
@@ -1200,6 +1230,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingar_Solty">
     <yago:hasName xml:lang="en">Ingar Solty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_ibn_al-Mahdi">
+    <yago:hasName xml:lang="en">Ibrahim ibn al-Mahdi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iris_Johansen">
     <yago:hasName xml:lang="en">Iris Johansen</yago:hasName>
@@ -1226,6 +1259,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_ben_Saul_Chmelniker_Candia">
     <yago:hasName xml:lang="en">Isaac Ben Saul Chmelniker Candia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isa_Meireles">
+    <yago:hasName xml:lang="en">Isa Meireles</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Bogorov">
     <yago:hasName xml:lang="en">Ivan Bogorov</yago:hasName>
@@ -1254,6 +1290,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilia_Chavchavadze">
     <yago:hasName xml:lang="en">Ilia Chavchavadze</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Luca_Caragiale">
+    <yago:hasName xml:lang="en">Ion Luca Caragiale</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Black_(journalist)">
+    <yago:hasName xml:lang="en">Ian Black</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Crichton_Smith">
     <yago:hasName xml:lang="en">Iain Crichton Smith</yago:hasName>
   </rdf:Description>
@@ -1262,9 +1304,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Imre_Vallyon">
     <yago:hasName xml:lang="en">Imre Vallyon</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishtiaq_Ahmad_%28fiction_writer%29">
-    <yago:hasName xml:lang="en">Ishtiaq Ahmad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel-Clara_Sim%C3%B3">
     <yago:hasName xml:lang="en">Isabel Clara Simo</yago:hasName>
@@ -1281,17 +1320,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Bone_(author)">
     <yago:hasName xml:lang="en">Ian Bone</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Daglish">
-    <yago:hasName xml:lang="en">Ian Daglish</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Pagan">
     <yago:hasName xml:lang="en">Isabel Pagan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Daglish">
+    <yago:hasName xml:lang="en">Ian Daglish</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Widlak">
     <yago:hasName xml:lang="en">Ivo Widlak</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Tyrrell">
-    <yago:hasName xml:lang="en">Ivan Tyrrell</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iv%C3%A1n_Carvajal">
+    <yago:hasName xml:lang="en">Ivan Carvajal</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irving_Phillips">
     <yago:hasName xml:lang="en">Irving Phillips</yago:hasName>
@@ -1336,6 +1375,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Safronov">
     <yago:hasName xml:lang="en">Ivan Ivanovich Safronov</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Costin">
+    <yago:hasName xml:lang="en">Ion T. Costin</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Irvine">
     <yago:hasName xml:lang="en">Ian Irvine</yago:hasName>
   </rdf:Description>
@@ -1351,11 +1393,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Brown_(journalist)">
     <yago:hasName xml:lang="en">Ian Brown</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignace_Nau">
+    <yago:hasName xml:lang="en">Ignace Nau</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_ben_Moses_Najara">
     <yago:hasName xml:lang="en">Israel ben Moses Najara</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Losada">
     <yago:hasName xml:lang="en">Isabel Losada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Spencer">
+    <yago:hasName xml:lang="en">Irene Spencer</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Pray">
     <yago:hasName xml:lang="en">Isaac Pray</yago:hasName>
@@ -1366,9 +1414,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Indu_Sundaresan">
     <yago:hasName xml:lang="en">Indu Sundaresan</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Michiels">
-    <yago:hasName xml:lang="en">Ivo Michiels</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Newerly">
     <yago:hasName xml:lang="en">Igor Newerly</yago:hasName>
   </rdf:Description>
@@ -1377,9 +1422,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inez_Haynes_Irwin">
     <yago:hasName xml:lang="en">Inez Haynes Irwin</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ioseb_Grishashvili">
-    <yago:hasName xml:lang="en">Ioseb Grishashvili</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ihar_Hermianchuk">
     <yago:hasName xml:lang="en">Ihar Hermianchuk</yago:hasName>
@@ -1404,6 +1446,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Duhig">
     <yago:hasName xml:lang="en">Ian Duhig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Bassam">
+    <yago:hasName xml:lang="en">Ibn Bassam</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Sharp">
     <yago:hasName xml:lang="en">Iain Sharp</yago:hasName>
@@ -1459,7 +1504,6 @@
     <yago:hasName xml:lang="en">Ishmael Jones</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Nisio_Isin">
-    <yago:hasName xml:lang="en">Ishin Nisio</yago:hasName>
     <yago:hasName xml:lang="en">Ishin Nishio</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Timofeevich_Kokorev">
@@ -1467,9 +1511,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibi_Kaslik">
     <yago:hasName xml:lang="en">Ibi Kaslik</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Shamir">
-    <yago:hasName xml:lang="en">Israel Shamir</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%B0brahim_Halil_Baran">
     <yago:hasName xml:lang="en">Ibrahim Halil Baran</yago:hasName>
@@ -1498,9 +1539,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Gemio">
     <yago:hasName xml:lang="en">Isabel Gemio</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Imran_Shah_%28writer%29">
-    <yago:hasName xml:lang="en">Imran Shah</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iophon">
     <yago:hasName xml:lang="en">Iophon</yago:hasName>
   </rdf:Description>
@@ -1514,6 +1552,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Balkhi">
     <yago:hasName xml:lang="en">Ismail Balkhi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Munteanu">
+    <yago:hasName xml:lang="en">Igor Munteanu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Noble">
     <yago:hasName xml:lang="en">Ivan Noble</yago:hasName>
@@ -1530,6 +1571,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iqbal_Athas">
     <yago:hasName xml:lang="en">Iqbal Athas</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iurie_Reni%C5%A3%C4%83">
+    <yago:hasName xml:lang="en">Iurie Reniţă</yago:hasName>
+    <yago:hasName xml:lang="en">Iurie Renita</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iordan_Chimet">
     <yago:hasName xml:lang="en">Iordan Chimet</yago:hasName>
   </rdf:Description>
@@ -1545,23 +1590,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Ivask">
     <yago:hasName xml:lang="en">Ivar Ivask</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwan_Simatupang">
-    <yago:hasName xml:lang="en">Iwan Simatupang</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_Chavez">
+    <yago:hasName xml:lang="en">Ingrid Chavez</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_al-Rumi">
-    <yago:hasName xml:lang="en">Ibn Al-Rumi</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Mortimer_%28historian%29">
-    <yago:hasName xml:lang="en">Ian Mortimer</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kir_Bulychev">
+    <yago:hasName xml:lang="en">Igor Vsevolodovich Mojeiko</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Issam_Eid">
     <yago:hasName xml:lang="en">Issam Eid</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Blatn%C3%BD">
     <yago:hasName xml:lang="en">Ivan Blatny</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Gibson_%28author%29">
-    <yago:hasName xml:lang="en">Ian Gibson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Stoll">
     <yago:hasName xml:lang="en">Ira Stoll</yago:hasName>
@@ -1578,6 +1617,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Kushchevsky">
     <yago:hasName xml:lang="en">Ivan Kushchevsky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Odoyevtseva">
+    <yago:hasName xml:lang="en">Irina Odoyevtseva</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Jaffa_Condeh">
     <yago:hasName xml:lang="en">Ibrahim Jaffa Condeh</yago:hasName>
   </rdf:Description>
@@ -1588,11 +1630,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iraj_Janatie_Ataie">
     <yago:hasName xml:lang="en">Iraj Janatie Ataie</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivor_Brown">
+    <yago:hasName xml:lang="en">Ivor Brown</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Nagi">
     <yago:hasName xml:lang="en">Ibrahim Nagi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inbakavi">
     <yago:hasName xml:lang="en">Inbakavi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilyas_Gadit">
+    <yago:hasName xml:lang="en">Ilyas Gadit</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iztok_Geister">
     <yago:hasName xml:lang="en">Iztok Geister</yago:hasName>
@@ -1619,14 +1667,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Illana_Katz">
     <yago:hasName xml:lang="en">Illana Katz</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Penman">
-    <yago:hasName xml:lang="en">Ian Penman</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irakli_Tsereteli">
     <yago:hasName xml:lang="en">Irakli Tseretli</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Inturi_Venkateswara_Rao">
     <yago:hasName xml:lang="en">Inturi Venkateswara Rao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismael_Cerna">
+    <yago:hasName xml:lang="en">Ismael Cerna</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilir_Kadia">
     <yago:hasName xml:lang="en">Ilir Kadia</yago:hasName>
@@ -1637,11 +1685,17 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Yulia_Zhadovskaya">
     <yago:hasName xml:lang="en">Iuliya Valerianovna Zhadovskaya</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Khafaja">
+    <yago:hasName xml:lang="en">Ibn Khafaja</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Krasko">
     <yago:hasName xml:lang="en">Ivan Krasko</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ina_Coolbrith">
     <yago:hasName xml:lang="en">Ina Coolbrith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inger_Frimansson">
+    <yago:hasName xml:lang="en">Inger Frimansson</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Morris">
     <yago:hasName xml:lang="en">Iain Kevan Morris</yago:hasName>
@@ -1662,6 +1716,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivor_Forbes_Guest">
     <yago:hasName xml:lang="en">Ivor Forbes Guest</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Negoi%C5%A3escu">
+    <yago:hasName xml:lang="en">Ion Negoitescu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Indrek_Tarand">
     <yago:hasName xml:lang="en">Indrek Tarand</yago:hasName>
@@ -1709,11 +1766,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Hamdis">
     <yago:hasName xml:lang="en">Ibn Hamdis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Idriss_ibn_al-Hassan_al-Alami">
-    <yago:hasName xml:lang="en">Idriss Ibn al-Hassan al-Alami</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Ionescu_de_la_Brad">
     <yago:hasName xml:lang="en">Ion Ionescu de la Brad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idriss_ibn_al-Hassan_al-Alami">
+    <yago:hasName xml:lang="en">Idriss Ibn al-Hassan al-Alami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irving_Howe">
     <yago:hasName xml:lang="en">Irving Howe</yago:hasName>
@@ -1765,16 +1822,17 @@
     <yago:hasName xml:lang="en">Iseult Gonne</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/I._F._Stone">
+    <yago:hasName xml:lang="en">I.F. Stone</yago:hasName>
     <yago:hasName xml:lang="en">I. F. Stone</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ishmael_Beah">
     <yago:hasName xml:lang="en">Ishmael Beah</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Vyshenskyi">
-    <yago:hasName xml:lang="en">Ivan Vyshenskyi</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ioan_Maniu">
     <yago:hasName xml:lang="en">Ioan Maniu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Baker-Finch">
+    <yago:hasName xml:lang="en">Ian Michael Baker-Finch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibrahim_Hassan_Addou">
     <yago:hasName xml:lang="en">Ibrahim Hassan Addow</yago:hasName>
@@ -1791,7 +1849,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn-e-Safi">
     <yago:hasName xml:lang="en">Ibn-E-Safi</yago:hasName>
-    <yago:hasName xml:lang="en">Ibn-e-Safi</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irving_Wallace">
     <yago:hasName xml:lang="en">Irving Wallace</yago:hasName>
@@ -1811,20 +1868,22 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Osgood">
     <yago:hasName xml:lang="en">Irene Osgood</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Idriess">
-    <yago:hasName xml:lang="en">Ion Idriess</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Jeanne_Ion">
     <yago:hasName xml:lang="en">Ion</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Ise">
     <yago:hasName xml:lang="en">Ise</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Had%C3%A2rc%C4%83">
+    <yago:hasName xml:lang="en">Ion Hadarca</yago:hasName>
+    <yago:hasName xml:lang="en">Ion Hadârcă</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ioanna_Kucuradi">
+    <yago:hasName xml:lang="en">Ioanna Kuçuradi</yago:hasName>
+    <yago:hasName xml:lang="en">Ioanna Kucuradi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Imma_von_Bodmershof">
     <yago:hasName xml:lang="en">Imma Bodmershof Von</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivy_Page">
-    <yago:hasName xml:lang="en">Ivy Page</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Gale">
     <yago:hasName xml:lang="en">Iain Gale</yago:hasName>
@@ -1835,11 +1894,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Gasman">
     <yago:hasName xml:lang="en">Ira Gasman</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ifeoma_Onyefulu">
+    <yago:hasName xml:lang="en">Ifeoma Onyefulu</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iryna_Zhylenko">
     <yago:hasName xml:lang="en">Iryna Volodymyrivna Zhylenko</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Finlay">
-    <yago:hasName xml:lang="en">Iain Finlay</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabella_Valancy_Crawford">
     <yago:hasName xml:lang="en">Isabella Valancy Crawford</yago:hasName>
@@ -1854,15 +1913,10 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Mortimer_(historian)">
     <yago:hasName xml:lang="en">Ian Mortimer</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Isabelle_Eberhardt">
-    <yago:hasName xml:lang="en">Isabelle Eberhart</yago:hasName>
-    <yago:hasName xml:lang="en">Isabelle Eberhardt</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_ben_Chayyim_Cansino">
     <yago:hasName xml:lang="en">Isaac ben Chayyim Cansino</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Andri%C4%87">
-    <yago:hasName xml:lang="en">Ivo Andric</yago:hasName>
     <yago:hasName xml:lang="en">Ivo Andrić</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isa%C3%ADas_D&apos;Oleo_Ochoa">
@@ -1870,6 +1924,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Sadoff">
     <yago:hasName xml:lang="en">Ira Sadoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Pisano">
+    <yago:hasName xml:lang="en">Isabel Pisano</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Johansen_(journalist)">
     <yago:hasName xml:lang="en">Ivar Johansen</yago:hasName>
@@ -1879,9 +1936,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ky%C5%8Dka_Izumi">
     <yago:hasName xml:lang="en">Izumi Kyōka</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_Stabb">
-    <yago:hasName xml:lang="en">Ingrid Stabb</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Izabella_Trojanowska">
     <yago:hasName xml:lang="en">Izabella Trojanowska</yago:hasName>
@@ -1904,14 +1958,21 @@
     <yago:hasName xml:lang="en">Ivica Đikić</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Stojanovi%C4%87">
+    <yago:hasName xml:lang="en">Ivan Stojanovic</yago:hasName>
     <yago:hasName xml:lang="en">Ivan Stojanović</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Prut">
     <yago:hasName xml:lang="en">Iosif Prut</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irmtraud_Morgner">
+    <yago:hasName xml:lang="en">Irmtraud Morgner</yago:hasName>
+    <yago:hasName xml:lang="en">Irmtraud Elfriede Morgner</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/I._M._R._A._Iriyagolla">
-    <yago:hasName xml:lang="en">I.M.R.A Iriyagolle</yago:hasName>
     <yago:hasName xml:lang="en">I. M. R. A. Iriyagolla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Maxtone-Graham">
+    <yago:hasName xml:lang="en">Ian Maxtone-Graham</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Sinclair">
     <yago:hasName xml:lang="en">Iain Sinclair</yago:hasName>
@@ -1938,14 +1999,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_Allende">
     <yago:hasName xml:lang="en">Isabel Allende</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Halippa">
+    <yago:hasName xml:lang="en">Ion Halippa</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isabel_de_Josa">
     <yago:hasName xml:lang="en">Isabel De Josa</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Mitroff">
-    <yago:hasName xml:lang="en">Ian Mitroff</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibtihaj_Muhammad">
-    <yago:hasName xml:lang="en">Ibtihaj Muhammad</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Caprino">
     <yago:hasName xml:lang="en">Ivo Caprino</yago:hasName>
@@ -1956,14 +2014,26 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Olbracht">
     <yago:hasName xml:lang="en">Ivan Olbracht</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brad_Cain">
+    <yago:hasName xml:lang="en">Idol</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ilya_Tolstoy">
     <yago:hasName xml:lang="en">Ilya Tolstoy</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Nechuy-Levytsky">
     <yago:hasName xml:lang="en">Ivan Nechuy-Levytsky</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Zamrak">
+    <yago:hasName xml:lang="en">Ibn Zamrak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Arabi">
+    <yago:hasName xml:lang="en">Ibn Arabi</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isobelle_Carmody">
     <yago:hasName xml:lang="en">Isobelle Carmody</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Reyn">
+    <yago:hasName xml:lang="en">Irina Reyn</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_McEwan">
     <yago:hasName xml:lang="en">Ian McEwan</yago:hasName>
@@ -1998,8 +2068,11 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingram_Crockett">
     <yago:hasName xml:lang="en">Ingram Crockett</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Khalidi_%28writer%29">
-    <yago:hasName xml:lang="en">Ismail Khalidi</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikram_Antaki">
+    <yago:hasName xml:lang="en">Ikram Antaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iolo_Goch">
+    <yago:hasName xml:lang="en">Iolo Goch</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Indran_Amirthanayagam">
     <yago:hasName xml:lang="en">Indran Amirthanayagam</yago:hasName>
@@ -2008,14 +2081,16 @@
     <yago:hasName xml:lang="en">Isabella Fyvie Mayo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ishwar_Chandra_Vidyasagar">
-    <yago:hasName xml:lang="en">Ishwar Chutia Vidyasagar</yago:hasName>
-    <yago:hasName xml:lang="en">Ishwar Chandra VidyaSagar</yago:hasName>
+    <yago:hasName xml:lang="en">Ishwar Chandra Vidyasagar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Istv%C3%A1n_Cs._Bartos">
     <yago:hasName xml:lang="en">István Cs. Bartos</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Barbu">
     <yago:hasName xml:lang="en">Ion Barbu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Major">
+    <yago:hasName xml:lang="en">Ian Major</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iker_Jim%C3%A9nez">
     <yago:hasName xml:lang="en">Iker Jimenez</yago:hasName>
@@ -2045,6 +2120,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Idov_Cohen">
     <yago:hasName xml:lang="en">Idov Cohen</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Miller_(illustrator)">
+    <yago:hasName xml:lang="en">Ian Miller</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_In-suk">
     <yago:hasName xml:lang="en">In-suk Kim</yago:hasName>
   </rdf:Description>
@@ -2070,13 +2148,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Gindis">
     <yago:hasName xml:lang="en">Igor Markovich Gindis</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilarion_%28Ohienko%29">
-    <yago:hasName xml:lang="en">Ivan Ohienko</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Iha_Fuy%C5%AB">
-    <yago:hasName xml:lang="en">Iha Fuyu</yago:hasName>
-    <yago:hasName xml:lang="en">Iha Fuyū</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Im_Sang-soo">
     <yago:hasName xml:lang="en">Im Sang-soo</yago:hasName>
   </rdf:Description>
@@ -2085,6 +2156,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ignaz_Vincenz_Zingerle">
     <yago:hasName xml:lang="en">Ignaz Vincenz Zingerle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_M._Tarbell">
+    <yago:hasName xml:lang="en">Ida M. Tarbell</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Brennan_(writer)">
     <yago:hasName xml:lang="en">Ian Brennan</yago:hasName>
@@ -2149,6 +2223,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Walker_(playwright)">
     <yago:hasName xml:lang="en">Ian Walker</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilona_Yusuf">
+    <yago:hasName xml:lang="en">Ilona Yusuf</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Vladislavic">
     <yago:hasName xml:lang="en">Ivan Vladislavic</yago:hasName>
   </rdf:Description>
@@ -2176,9 +2253,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Iqbal">
     <yago:hasName xml:lang="en">Iqbal, Muhammad, Sir</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingelore_Ebberfeld">
-    <yago:hasName xml:lang="en">Ingelore Ebberfeld</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ikuma_Arishima">
     <yago:hasName xml:lang="en">Ikuma Arishima</yago:hasName>
   </rdf:Description>
@@ -2201,6 +2275,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Gitler">
     <yago:hasName xml:lang="en">Ira Gitler</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imad_Rahman">
+    <yago:hasName xml:lang="en">Imad Rahman</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ingibj%C3%B6rg_Haraldsd%C3%B3ttir">
     <yago:hasName xml:lang="en">Ingibjorg Haraldsdottir</yago:hasName>
   </rdf:Description>
@@ -2222,10 +2299,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Isa_Bowman">
     <yago:hasName xml:lang="en">Isa Bowman</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Irshad_Alasr_Jafri">
-    <yago:hasName xml:lang="en">Irshad Alsr Jafri</yago:hasName>
-    <yago:hasName xml:lang="en">Irshad Alasr Jafri</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ishar_Singh_(poet)">
     <yago:hasName xml:lang="en">Ishar Singh</yago:hasName>
   </rdf:Description>
@@ -2238,6 +2311,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Robin_Hyde">
     <yago:hasName xml:lang="en">Iris Guiver Wilkinson</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Lee">
+    <yago:hasName xml:lang="en">Ida Lee</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ismail_Kadare">
     <yago:hasName xml:lang="en">Ismail Kadare</yago:hasName>
   </rdf:Description>
@@ -2246,7 +2322,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iginio_Ugo_Tarchetti">
     <yago:hasName xml:lang="en">Iginio Ugo Tarchetti</yago:hasName>
-    <yago:hasName xml:lang="en">Iginio Tarchetti</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Vidmar">
     <yago:hasName xml:lang="en">Igor Vidmar</yago:hasName>
@@ -2273,6 +2348,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Iosif_Constantin_Dr%C4%83gan">
     <yago:hasName xml:lang="en">Iosif Constantin Dragan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Torkar">
+    <yago:hasName xml:lang="en">Igor Torkar</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Albert_Horowitz">
     <yago:hasName xml:lang="en">IA Horowitz</yago:hasName>

@@ -1,0 +1,1397 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Zavatsky">
+    <yago:hasName xml:lang="en">Bill Zavatsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenia_Zukerman">
+    <yago:hasName xml:lang="en">Eugenia Zukerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dane_Zajc">
+    <yago:hasName xml:lang="en">Dane Zajc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vivibear">
+    <yago:hasName xml:lang="en">Weiwei Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Xinxin">
+    <yago:hasName xml:lang="en">Xinxin Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Zaytsev_(writer)">
+    <yago:hasName xml:lang="en">Boris Konstantinovich Zaytsev</yago:hasName>
+    <yago:hasName xml:lang="en">Boris Zaytsev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Hashem_Zamani">
+    <yago:hasName xml:lang="en">Mohammad Hashem Zamani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriela_Zapolska">
+    <yago:hasName xml:lang="en">Gabriela Zapolska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franciszek_Zab%C5%82ocki">
+    <yago:hasName xml:lang="en">Franciszek Zablocki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Gil_y_Z%C3%A1rate">
+    <yago:hasName xml:lang="en">Antonio Gil Y Zarate</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Henshui">
+    <yago:hasName xml:lang="en">Henshui Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Zhongtian">
+    <yago:hasName xml:lang="en">Yi Zhongtian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Zeffer">
+    <yago:hasName xml:lang="en">Andy Zeffer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zygmunt_Zaleski">
+    <yago:hasName xml:lang="en">Zygmunt Lubicz Zaleski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aaron_Zeitlin">
+    <yago:hasName xml:lang="en">Aaron Zeitlin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trent_Zelazny">
+    <yago:hasName xml:lang="en">Trent Zelazny</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zuzka_Zguri%C5%A1ka">
+    <yago:hasName xml:lang="en">Zuzka Zguriška</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_Ziade">
+    <yago:hasName xml:lang="en">May Ziade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uro%C5%A1_Zupan">
+    <yago:hasName xml:lang="en">Uros Zupan</yago:hasName>
+    <yago:hasName xml:lang="en">Uroš Zupan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Said_Zahari">
+    <yago:hasName xml:lang="en">Said Zahari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cizia_Zyk%C3%AB">
+    <yago:hasName xml:lang="en">Cizia Zyke</yago:hasName>
+    <yago:hasName xml:lang="en">Cizia Zykë</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melchiorre_Zoppio">
+    <yago:hasName xml:lang="en">Melchior Zoppio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Zable">
+    <yago:hasName xml:lang="en">Arnold Zable</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksander_Zorn">
+    <yago:hasName xml:lang="en">Aleksander Zorn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Zabel">
+    <yago:hasName xml:lang="en">Igor Zabel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimierz_Zalewski">
+    <yago:hasName xml:lang="en">Kazimierz Zalewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Zacharia">
+    <yago:hasName xml:lang="en">Paul Zacharia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stepan_Zoryan">
+    <yago:hasName xml:lang="en">Stepan Zoryan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abed_Elrahim_Abu_Zakrra">
+    <yago:hasName xml:lang="en">Abed Elrahim Abu Zakrra</yago:hasName>
+    <yago:hasName xml:lang="en">Abed Elrahim Abu Zikreea</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sofka_Zinovieff">
+    <yago:hasName xml:lang="en">Sofka Zinovieff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cahit_Zarifo%C4%9Flu">
+    <yago:hasName xml:lang="en">Cahit Zarifoğlu</yago:hasName>
+    <yago:hasName xml:lang="en">Cahit Zarifoglu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helmut_Zilk">
+    <yago:hasName xml:lang="en">Helmut Zilk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bryce_Zabel">
+    <yago:hasName xml:lang="en">Bryce Zabel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Zahorska">
+    <yago:hasName xml:lang="en">Anna Zahorska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhuo_Wenjun">
+    <yago:hasName xml:lang="en">Wenjun Zhuo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Yang_(director)">
+    <yago:hasName xml:lang="en">Yang Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Zenkevich">
+    <yago:hasName xml:lang="en">Mikhail Alexandrovich Zenkevich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Zweig">
+    <yago:hasName xml:lang="en">Arnold Zweig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernie_Zerenner">
+    <yago:hasName xml:lang="en">Ernie Zerenner</yago:hasName>
+    <yago:hasName xml:lang="en">Ernest Zerenner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Zenker">
+    <yago:hasName xml:lang="en">Arnold Zenker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lydia_Zinovieva-Annibal">
+    <yago:hasName xml:lang="en">Lydia Dmitrievna Zinovieva-Annibal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiona_Zedde">
+    <yago:hasName xml:lang="en">Fiona Zedde</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zheng_Min">
+    <yago:hasName xml:lang="en">Min Zheng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ifigenija_Zagori%C4%8Dnik_Simonovi%C4%87">
+    <yago:hasName xml:lang="en">Ifigenija Zagoričnik Simonović</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Zwi">
+    <yago:hasName xml:lang="en">Rose Zwi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Zorrilla">
+    <yago:hasName xml:lang="en">Jose Zorrilla Y Moral</yago:hasName>
+    <yago:hasName xml:lang="en">José Zorrilla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Zohari">
+    <yago:hasName xml:lang="en">Mohammad Zohari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Zinga">
+    <yago:hasName xml:lang="en">Andrea Zinga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Zettel">
+    <yago:hasName xml:lang="en">Sarah Zettel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Zetter">
+    <yago:hasName xml:lang="en">Kim Zetter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abolfazl_Attar">
+    <yago:hasName xml:lang="en">M.Abolfazl Attar. Z</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexi_Zentner">
+    <yago:hasName xml:lang="en">Alexi Zentner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Zakharov">
+    <yago:hasName xml:lang="en">Mark Zakharov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lode_Zielens">
+    <yago:hasName xml:lang="en">Lode Zielens</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Zobel">
+    <yago:hasName xml:lang="en">Joseph Zobel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wac%C5%82aw_Micha%C5%82_Zaleski">
+    <yago:hasName xml:lang="en">Wacław Michał Zaleski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Witold_Zalewski">
+    <yago:hasName xml:lang="en">Witold Zalewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammed_Zafar_Iqbal">
+    <yago:hasName xml:lang="en">Muhammed Zafar Iqbal</yago:hasName>
+    <yago:hasName xml:lang="en">Muhammad Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leane_Zugsmith">
+    <yago:hasName xml:lang="en">Leane Zugsmith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawfiq_Ziad">
+    <yago:hasName xml:lang="en">Tawfiq Ziad</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasan_bey_Zardabi">
+    <yago:hasName xml:lang="en">Hasan bey Zardabi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Junxiang">
+    <yago:hasName xml:lang="en">Junxiang Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Zairi">
+    <yago:hasName xml:lang="en">Mohamed Professor Zairi</yago:hasName>
+    <yago:hasName xml:lang="en">Professor Mohamed Zairi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubayd_Zakani">
+    <yago:hasName xml:lang="en">Ubayd Zakani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Ziping">
+    <yago:hasName xml:lang="en">Ziping Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markos_Moulitsas">
+    <yago:hasName xml:lang="en">Markos Moulitsas Zúniga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polina_Zherebtsova">
+    <yago:hasName xml:lang="en">Polina Zherebtsova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_von_Zahn">
+    <yago:hasName xml:lang="en">Peter Von Zahn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Ziegler">
+    <yago:hasName xml:lang="en">Philip Ziegler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumait_Ibn_Zaid">
+    <yago:hasName xml:lang="en">Kumait Ibn Zaid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Xu_(calligrapher)">
+    <yago:hasName xml:lang="en">Xu Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Zhukovsky">
+    <yago:hasName xml:lang="en">Vasily Zhukovsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_Zeller">
+    <yago:hasName xml:lang="en">Eva Zeller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rachel_Zolf">
+    <yago:hasName xml:lang="en">Rachel Zolf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Temur_Zulfiqorov">
+    <yago:hasName xml:lang="en">Temur Zulfiqorov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fareed_Zakaria">
+    <yago:hasName xml:lang="en">Fareed Zakaria</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/He_Zhizhang">
+    <yago:hasName xml:lang="en">He Zhizhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Zia">
+    <yago:hasName xml:lang="en">Helen Zia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giselda_Zani">
+    <yago:hasName xml:lang="en">Giselda Zani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmet_Zappa">
+    <yago:hasName xml:lang="en">Ahmet Emuukha Rodan Zappa</yago:hasName>
+    <yago:hasName xml:lang="en">Ahmet Zappa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Yingtai">
+    <yago:hasName xml:lang="en">Yingtai Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ezatullah_Zawab">
+    <yago:hasName xml:lang="en">Ezatullah Zawab</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W%C5%82odzimierz_Zag%C3%B3rski_(writer)">
+    <yago:hasName xml:lang="en">Włodzimierz Zagórski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliusz_%C5%BBu%C5%82awski">
+    <yago:hasName xml:lang="en">Juliusz Zulawski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rachel_Zadok">
+    <yago:hasName xml:lang="en">Rachel Zadok</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Zwerling">
+    <yago:hasName xml:lang="en">Lisa Zwerling</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cvijeta_Zuzori%C4%87">
+    <yago:hasName xml:lang="en">Cvijeta Zuzorić (Flora Zuzori)</yago:hasName>
+    <yago:hasName xml:lang="en">Cvijeta Zuzoric</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Zabka">
+    <yago:hasName xml:lang="en">William Zabka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Zarev">
+    <yago:hasName xml:lang="en">Vladimir Zarev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Kumayt_ibn_Zayd_al-Asadi">
+    <yago:hasName xml:lang="en">Al-Kumayt Ibn Zayd Al-Asadi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihal_Zallari">
+    <yago:hasName xml:lang="en">Mihal Zallari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Zach">
+    <yago:hasName xml:lang="en">Nathan Zach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barrie_Zwicker">
+    <yago:hasName xml:lang="en">Barrie Wallace Zwicker</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Z._Williamson">
+    <yago:hasName xml:lang="en">Michael Z. Williamson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Zitwer">
+    <yago:hasName xml:lang="en">Barbara Zitwer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Ibrahim_Zauq">
+    <yago:hasName xml:lang="en">Muhammad Ibrahim Zauq</yago:hasName>
+    <yago:hasName xml:lang="en">Sheikh Muhammad Ibrahim Zauq</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Z._Danielewski">
+    <yago:hasName xml:lang="en">Mark Z. Danielewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Zelazny">
+    <yago:hasName xml:lang="en">Roger Zelazny</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sajjad_Zaheer">
+    <yago:hasName xml:lang="en">Sajjad Zaheer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhou_Lianggong">
+    <yago:hasName xml:lang="en">Lianggong Zhou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jovan_Zivlak">
+    <yago:hasName xml:lang="en">Jovan Zivlak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dim_Zupan">
+    <yago:hasName xml:lang="en">Dim Zupan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Zane">
+    <yago:hasName xml:lang="en">Carolyn Zane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Zangwill">
+    <yago:hasName xml:lang="en">Israel Zangwill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Zukav">
+    <yago:hasName xml:lang="en">Gary Zukav</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sara_Zarr">
+    <yago:hasName xml:lang="en">Sara Zarr</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Zaydan">
+    <yago:hasName xml:lang="en">Ibn Zaydan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Junzhao">
+    <yago:hasName xml:lang="en">Junzhao Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Zimmerman">
+    <yago:hasName xml:lang="en">Thomas C. Zimmerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ehsan_Ilahi_Zahir">
+    <yago:hasName xml:lang="en">Ehsaan Elahi Zaheer</yago:hasName>
+    <yago:hasName xml:lang="en">Ehsan Illahi Zahir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Z%C3%A9ro">
+    <yago:hasName xml:lang="en">Karl Zero</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zyranna_Zateli">
+    <yago:hasName xml:lang="en">Zyranna Zateli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugeniusz_%C5%BBytomirski">
+    <yago:hasName xml:lang="en">Eugeniusz Zytomirski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Zeidabadi">
+    <yago:hasName xml:lang="en">Admad Zeidabadi</yago:hasName>
+    <yago:hasName xml:lang="en">Ahmad Zeidabadi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imants_Ziedonis">
+    <yago:hasName xml:lang="en">Imants Ziedonis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecily_von_Ziegesar">
+    <yago:hasName xml:lang="en">Cecily  von Ziegesar</yago:hasName>
+    <yago:hasName xml:lang="en">Cecily Von Ziegesar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Z%C3%B6ller">
+    <yago:hasName xml:lang="en">Hugo Zoller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moshe_Zilberg">
+    <yago:hasName xml:lang="en">Moshe Zilberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maciej_Zembaty">
+    <yago:hasName xml:lang="en">Maciej Zembaty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Chao">
+    <yago:hasName xml:lang="en">Chao Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffrey_Lau">
+    <yago:hasName xml:lang="en">Lau4 zan3 wai5</yago:hasName>
+    <yago:hasName xml:lang="en">Liú Zhènwěi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Borisovich_Zheleznyakov">
+    <yago:hasName xml:lang="en">Aleksandr Borisovich Zheleznyakov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ra%C3%BAl_Zurita">
+    <yago:hasName xml:lang="en">Raul Zurita</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markus_Zusak">
+    <yago:hasName xml:lang="en">Markus Zusak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aksel_Zachariassen">
+    <yago:hasName xml:lang="en">Aksel Zachariassen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Zevola">
+    <yago:hasName xml:lang="en">Giuseppe Zevola</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Lam">
+    <yago:hasName xml:lang="en">lam4 zan3 koeng4</yago:hasName>
+    <yago:hasName xml:lang="en">lin2 zhen4 qiang2</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_F._Zorzi">
+    <yago:hasName xml:lang="en">William F Zorzi</yago:hasName>
+    <yago:hasName xml:lang="en">William F. Zorzi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noe_Zhordania">
+    <yago:hasName xml:lang="en">Noe Zhordania</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Zinovieff">
+    <yago:hasName xml:lang="en">Peter Zinovieff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Zahm">
+    <yago:hasName xml:lang="en">Olivier Zahm</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhai_Yongming">
+    <yago:hasName xml:lang="en">Yongming Zhai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariana_van_Zeller">
+    <yago:hasName xml:lang="en">Mariana Van Zeller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irena_%C5%BDerjal">
+    <yago:hasName xml:lang="en">Irena Zerjal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florian_Zeller">
+    <yago:hasName xml:lang="en">Florian Zeller</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Zanzotto">
+    <yago:hasName xml:lang="en">Andrea Zanzotto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Julia_Zaleska">
+    <yago:hasName xml:lang="en">Maria Julia Zaleska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Zweibel">
+    <yago:hasName xml:lang="en">Alan Zweibel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Randall_Zisk">
+    <yago:hasName xml:lang="en">Randall Zisk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Z._Hobson">
+    <yago:hasName xml:lang="en">Laura Z. Hobson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Zippel">
+    <yago:hasName xml:lang="en">David Zippel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Z._Hernandez">
+    <yago:hasName xml:lang="en">Tim Z. Hernandez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zheng_Zhenduo">
+    <yago:hasName xml:lang="en">Zhenduo Zheng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susanna_Elizabeth_Zeidler">
+    <yago:hasName xml:lang="en">Susanna Elizabeth Zeidler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Zbro%C5%BCyna">
+    <yago:hasName xml:lang="en">Barbara Zbrozyna</yago:hasName>
+    <yago:hasName xml:lang="en">Barbara Zbrożyna</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmos_Zu-Bolton">
+    <yago:hasName xml:lang="en">Ahmos Zu-Bolton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Haijie">
+    <yago:hasName xml:lang="en">Haijie Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Zoshchenko">
+    <yago:hasName xml:lang="en">Mikhail Zoshchenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stoyan_Zagorchinov">
+    <yago:hasName xml:lang="en">Stoyan Zagorchinov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Zeyer">
+    <yago:hasName xml:lang="en">Julius Zeyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonas_Zdanys">
+    <yago:hasName xml:lang="en">Jonas Zdanys</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrzej_Zbylitowski">
+    <yago:hasName xml:lang="en">Andrzej Zbylitowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrija_Zmajevi%C4%87">
+    <yago:hasName xml:lang="en">Andrija Zmajevic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefan_%C5%BBeromski">
+    <yago:hasName xml:lang="en">Stefan Zeromski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shen_Zhihua">
+    <yago:hasName xml:lang="en">Shen Zhihua</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koren_Zailckas">
+    <yago:hasName xml:lang="en">Koren Zailckas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halit_Ziya_U%C5%9Fakl%C4%B1gil">
+    <yago:hasName xml:lang="en">Halit Ziya Uşaklıgil</yago:hasName>
+    <yago:hasName xml:lang="en">Halit Ziya Usakligil</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Ziade">
+    <yago:hasName xml:lang="en">Philippe Ziade</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Ziprin">
+    <yago:hasName xml:lang="en">Lionel Ziprin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Zalygin">
+    <yago:hasName xml:lang="en">Sergey Pavlovich Zalygin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrzej_Zakrzewski">
+    <yago:hasName xml:lang="en">Andrzej Jerzy Zakrzewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%A9on_Zitrone">
+    <yago:hasName xml:lang="en">Leon Zitrone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gul_Mohamad_Zhowandai">
+    <yago:hasName xml:lang="en">Gul M. Zhowandai</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Zukofsky">
+    <yago:hasName xml:lang="en">Louis Zukofsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia_Zaharieva">
+    <yago:hasName xml:lang="en">Virginia Zaharieva</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Leopold_zu_Stolberg-Stolberg">
+    <yago:hasName xml:lang="en">Friedrich Leopold zu Stolberg-Stolberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bogdan_%C5%BDi%C5%BEi%C4%87">
+    <yago:hasName xml:lang="en">Bogdan Zizic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C4%A3eris_Zari%C5%86%C5%A1">
+    <yago:hasName xml:lang="en">Marģeris Zariņš</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mustafa_Ziyalan">
+    <yago:hasName xml:lang="en">Mustafa Ziyalan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komninos_Zervos">
+    <yago:hasName xml:lang="en">Komninos Zervos</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksey_Zhemchuzhnikov">
+    <yago:hasName xml:lang="en">Aleksey Zhemchuzhnikov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhao_Jingshen">
+    <yago:hasName xml:lang="en">Jingshen Zhao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rashid_Al_Zlami">
+    <yago:hasName xml:lang="en">Rashid Al Zlami رشيد الزلامي</yago:hasName>
+    <yago:hasName xml:lang="en">Rashid Al Zlami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Z._Leonard">
+    <yago:hasName xml:lang="en">Robert Z. Leonard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Zevaco">
+    <yago:hasName xml:lang="en">Michel Zevaco</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_Ruiz_Zaf%C3%B3n">
+    <yago:hasName xml:lang="en">Carlos Ruiz Zafon</yago:hasName>
+    <yago:hasName xml:lang="en">Carlos Ruiz Zafón</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanveer_Zaidi">
+    <yago:hasName xml:lang="en">Tanveer Zaidi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Zurbo">
+    <yago:hasName xml:lang="en">Matt Zurbo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazi_Zainul_Abedin">
+    <yago:hasName xml:lang="en">Kazi Zainul Abedin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taya_Zinkin">
+    <yago:hasName xml:lang="en">Taya Zinkin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Leo_Zagat">
+    <yago:hasName xml:lang="en">Arthur Leo Zagat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Zweig">
+    <yago:hasName xml:lang="en">Martha Zweig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C5%BDelimir_%C5%BDilnik">
+    <yago:hasName xml:lang="en">Zelimir Zilnik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maciej_Zaremba">
+    <yago:hasName xml:lang="en">Maciej Zaremba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Zimmer_(poet)">
+    <yago:hasName xml:lang="en">Paul Zimmer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Zwicky">
+    <yago:hasName xml:lang="en">Jan Zwicky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Zakhoder">
+    <yago:hasName xml:lang="en">Boris Zakhoder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beno_Zupan%C4%8Di%C4%8D">
+    <yago:hasName xml:lang="en">Beno Zupančič</yago:hasName>
+    <yago:hasName xml:lang="en">Beno Zupancic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zuo_Si">
+    <yago:hasName xml:lang="en">Si Zuo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marya_Zaturenska">
+    <yago:hasName xml:lang="en">Marya Zaturenska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%89mile_Zola">
+    <yago:hasName xml:lang="en">Emile Zola</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Brust">
+    <yago:hasName xml:lang="en">Steven Karl Zoltán Brust</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._Zamora_Linmark">
+    <yago:hasName xml:lang="en">R. Zamora Linmark</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Zlatovratsky">
+    <yago:hasName xml:lang="en">Nikolai Nikolayevich Zlatovratsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_de_Zoysa">
+    <yago:hasName xml:lang="en">Richard de Zoysa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ismail_Zabeeh">
+    <yago:hasName xml:lang="en">Muhammad Ismail Zabeeh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zmicier_Zhylunovich">
+    <yago:hasName xml:lang="en">Zmicier Zhylunovich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Dachun">
+    <yago:hasName xml:lang="en">Dachun Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gasim_bey_Zakir">
+    <yago:hasName xml:lang="en">Gasim bey Zakir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eliakum_Zunser">
+    <yago:hasName xml:lang="en">Eliakum Zunser</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonya_Zavasta">
+    <yago:hasName xml:lang="en">Tonya Zavasta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivo_Zorman">
+    <yago:hasName xml:lang="en">Ivo Zorman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Ziegfeld_Stephenson">
+    <yago:hasName xml:lang="en">Patricia Ziegfeld Stephenson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Zi&apos;ang">
+    <yago:hasName xml:lang="en">Chen Ziang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reinmar_von_Zweter">
+    <yago:hasName xml:lang="en">Reinmar von Zweter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juli_Zeh">
+    <yago:hasName xml:lang="en">Juli Zeh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H%C3%A9ctor_Zumbado">
+    <yago:hasName xml:lang="en">Héctor Zumbado Argueta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baha&apos;_al-din_Zuhair">
+    <yago:hasName xml:lang="en">Baha Al-Din Zuhair</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jose_Antonio_Zapata_Cabral">
+    <yago:hasName xml:lang="en">Jose Antonio Zapata</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimierz_Zdziechowski">
+    <yago:hasName xml:lang="en">Kazimierz Zdziechowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giselle_Zado_Wasfie">
+    <yago:hasName xml:lang="en">Giselle Zado Wasfie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Zadan">
+    <yago:hasName xml:lang="en">Craig Zadan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jens_Zetlitz">
+    <yago:hasName xml:lang="en">Jens Zetlitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_Rojas_Zorrilla">
+    <yago:hasName xml:lang="en">Francisco De Rojas Zorrilla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oton_%C5%BDupan%C4%8Di%C4%8D">
+    <yago:hasName xml:lang="en">Oton Zupancic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisy_Zamora">
+    <yago:hasName xml:lang="en">Daisy Zamora</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Z._Papanikolas">
+    <yago:hasName xml:lang="en">Helen Z. Papanikolas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poppy_Z._Brite">
+    <yago:hasName xml:lang="en">Poppy Z. Brite</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Zollo">
+    <yago:hasName xml:lang="en">Paul Zollo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elena_Zamura">
+    <yago:hasName xml:lang="en">Elena Zamura</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Zagajewski">
+    <yago:hasName xml:lang="en">Adam Zagajewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wim_Zaal">
+    <yago:hasName xml:lang="en">Wim Zaal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Zawacki">
+    <yago:hasName xml:lang="en">Andrew Zawacki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katarzyna_Ewa_Zdanowicz-Cyganiak">
+    <yago:hasName xml:lang="en">Katarzyna Ewa Zdanowicz-Cyganiak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feridun_Zaimo%C4%9Flu">
+    <yago:hasName xml:lang="en">Feridun Zaimoglu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhao_Luorui">
+    <yago:hasName xml:lang="en">Luorui Zhao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Heng">
+    <yago:hasName xml:lang="en">Heng Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Zotti">
+    <yago:hasName xml:lang="en">Ed Zotti</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhao_Shuli">
+    <yago:hasName xml:lang="en">Shuli Zhao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Zelman">
+    <yago:hasName xml:lang="en">Daniel Zelman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shahidul_Zahir">
+    <yago:hasName xml:lang="en">Shahidul Zahir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hillel_Zeitlin">
+    <yago:hasName xml:lang="en">Hillel Zeitlin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil_Zegad%C5%82owicz">
+    <yago:hasName xml:lang="en">Emil Zegadłowicz</yago:hasName>
+    <yago:hasName xml:lang="en">Emil Zegadlowicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Zarin">
+    <yago:hasName xml:lang="en">Cynthia Zarin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tukufu_Zuberi">
+    <yago:hasName xml:lang="en">Tukufu Zuberi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Zedong">
+    <yago:hasName xml:lang="en">Mao Zedong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%A9opold_Zborowski">
+    <yago:hasName xml:lang="en">Leopold Zborowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Zugsmith">
+    <yago:hasName xml:lang="en">Albert Zugsmith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adir_Zik">
+    <yago:hasName xml:lang="en">Adir Zik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Zaring_Stone">
+    <yago:hasName xml:lang="en">Grace Zaring Stone</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Zhukov">
+    <yago:hasName xml:lang="en">Yuri Zhukov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Peter_Zenger">
+    <yago:hasName xml:lang="en">John Peter Zenger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zohra_Begum_Kazi">
+    <yago:hasName xml:lang="en">Dr. Zohra Begum Kazi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Zussman">
+    <yago:hasName xml:lang="en">Richard Zussman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Zephaniah">
+    <yago:hasName xml:lang="en">Benjamin Zephaniah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syed_Ali_Ausat_Zaidi">
+    <yago:hasName xml:lang="en">Syed Ali Ausat Zaidi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_zu_Putlitz">
+    <yago:hasName xml:lang="en">Gustav zu Putlitz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michele_Zackheim">
+    <yago:hasName xml:lang="en">Michele Zackheim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nairi_Zarian">
+    <yago:hasName xml:lang="en">Nairi Zarian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wu_Ziniu">
+    <yago:hasName xml:lang="en">Wu Ziniu</yago:hasName>
+    <yago:hasName xml:lang="en">Wú Zìniú</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Zelada">
+    <yago:hasName xml:lang="en">Leo Zelada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mustafa_Zaidi">
+    <yago:hasName xml:lang="en">Mustafa Zaidi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jovan_Jovanovi%C4%87_Zmaj">
+    <yago:hasName xml:lang="en">Jovan Jovanovic Zmaj</yago:hasName>
+    <yago:hasName xml:lang="en">Jovan Jovanović Zmaj</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benny_Ziffer">
+    <yago:hasName xml:lang="en">Benny Ziffer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andon_Zako_%C3%87ajupi">
+    <yago:hasName xml:lang="en">Andon Zako Çajupi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serhiy_Zhadan">
+    <yago:hasName xml:lang="en">Serhiy Zhadan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Zombie">
+    <yago:hasName xml:lang="en">Rob Zombie</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J%C3%B3zef_Bart%C5%82omiej_Zimorowic">
+    <yago:hasName xml:lang="en">Jozef Bartlomiej Zimorowic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Zadoff">
+    <yago:hasName xml:lang="en">Allen Zadoff</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayar_Zokaei">
+    <yago:hasName xml:lang="en">Mayar Zokaei</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaka_%C5%BDeleznikar">
+    <yago:hasName xml:lang="en">Jaka Zeleznikar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerasim_Zeli%C4%87">
+    <yago:hasName xml:lang="en">Gerasim Zelić</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Zacharias">
+    <yago:hasName xml:lang="en">Emil Otto Zacharias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oksana_Zabuzhko">
+    <yago:hasName xml:lang="en">Oksana Zabuzhko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhu_Shuzhen">
+    <yago:hasName xml:lang="en">Shuzhen Zhu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B._M._Suhara">
+    <yago:hasName xml:lang="en">B. M. Zuhara</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Zogby">
+    <yago:hasName xml:lang="en">John Zogby</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammed_Emin_Zeki_Bey">
+    <yago:hasName xml:lang="en">Muhammed Emin Zeki Bey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zacharias_Werner">
+    <yago:hasName xml:lang="en">Friedrich Ludwig Zacharias Werner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%A1szl%C3%B3_Z._Bit%C3%B3">
+    <yago:hasName xml:lang="en">Laszlo Z. Bito</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentino_Zeichen">
+    <yago:hasName xml:lang="en">Valentino Zeichen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerzy_Zawieyski">
+    <yago:hasName xml:lang="en">Jerzy Zawieyski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christiana_Mariana_von_Ziegler">
+    <yago:hasName xml:lang="en">Christiana Mariana von Ziegler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Alakbar_Sabir">
+    <yago:hasName xml:lang="en">Alakbar Zeynalabdin oglu Tahirzadeh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luko_Zore">
+    <yago:hasName xml:lang="en">Luko Zore</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Zafris">
+    <yago:hasName xml:lang="en">Nancy Zafris</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdallah_Zrika">
+    <yago:hasName xml:lang="en">Abdallah Zrika</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerzy_%C5%BBu%C5%82awski">
+    <yago:hasName xml:lang="en">Jerzy Zulawski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Ali_El_Zein">
+    <yago:hasName xml:lang="en">Ahmad Ali El Zein</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fakhar_Zaman">
+    <yago:hasName xml:lang="en">Fakhar Zaman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Zeno_Gand%C3%ADa">
+    <yago:hasName xml:lang="en">Manuel Zeno Gandia</yago:hasName>
+    <yago:hasName xml:lang="en">Manuel Zeno Gandía</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Wiktor_Zawodzi%C5%84ski">
+    <yago:hasName xml:lang="en">Karol Wiktor Zawodzinski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Zhitarenko">
+    <yago:hasName xml:lang="en">Vladimir Zhitarenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanna_Zangrandi">
+    <yago:hasName xml:lang="en">Giovanna Zangrandi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lojze_Zupanc">
+    <yago:hasName xml:lang="en">Lojze Zupanc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Zvantsev">
+    <yago:hasName xml:lang="en">Sergey Zvantsev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Zangwill">
+    <yago:hasName xml:lang="en">Louis Zangwill</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emperor_Gaozong_of_Song">
+    <yago:hasName xml:lang="en">Family name: Zhao (趙)</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwendolyn_Zepeda">
+    <yago:hasName xml:lang="en">Gwendolyn Zepeda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bronis%C5%82aw_Zaleski">
+    <yago:hasName xml:lang="en">Bronisław Zaleski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udo_Z._Karzi">
+    <yago:hasName xml:lang="en">Udo Z. Karzi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakia_Zaki">
+    <yago:hasName xml:lang="en">Sakia Zaki</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Zahn">
+    <yago:hasName xml:lang="en">Timothy Zahn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksander_Zederbaum">
+    <yago:hasName xml:lang="en">Aleksander Zederbaum</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Zoellner">
+    <yago:hasName xml:lang="en">Tom Zoellner</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uri_Zvi_Grinberg">
+    <yago:hasName xml:lang="en">Uri Zvi Greenberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Antonio_Zea">
+    <yago:hasName xml:lang="en">Francisco Antonio Zea</yago:hasName>
+    <yago:hasName xml:lang="en">Francisco Antonio Zea Diaz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Zane">
+    <yago:hasName xml:lang="en">Matt Zane</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Zayd%C3%BAn">
+    <yago:hasName xml:lang="en">Ibn Zaydun</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavlo_Zahrebelnyi">
+    <yago:hasName xml:lang="en">Arhypovych Pavlo Zahrebelnyi</yago:hasName>
+    <yago:hasName xml:lang="en">Pavlo Zahrebelnyi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Zamacona">
+    <yago:hasName xml:lang="en">Jorge Zamacona</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nexhmie_Zaimi">
+    <yago:hasName xml:lang="en">Nexhmie Zaimi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirilo_R._Zayas">
+    <yago:hasName xml:lang="en">Cirilo R. Zayas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joost_Zwagerman">
+    <yago:hasName xml:lang="en">Joost Zwagerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rag%C4%B1p_Zarakolu">
+    <yago:hasName xml:lang="en">Ragip Zarakolu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigory_Eliseev">
+    <yago:hasName xml:lang="en">Grigory Zakharovich Eliseev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piotr_Zbylitowski">
+    <yago:hasName xml:lang="en">Piotr Zbylitowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonas_%C5%BDnidar%C5%A1i%C4%8D">
+    <yago:hasName xml:lang="en">Jonas Znidarsic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rupen_Zartarian">
+    <yago:hasName xml:lang="en">Rupen Zartarian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahla_Zamani">
+    <yago:hasName xml:lang="en">Mahla Zamani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Zorani%C4%87">
+    <yago:hasName xml:lang="en">Petar Zoranic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoran_%C5%BDivkovi%C4%87_(writer)">
+    <yago:hasName xml:lang="en">Zoran Zivkovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Radovan_Zogovi%C4%87">
+    <yago:hasName xml:lang="en">Radovan Zogovic</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komparu_Zempo">
+    <yago:hasName xml:lang="en">Komparu Zempo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dinko_Zlatari%C4%87">
+    <yago:hasName xml:lang="en">Dinko Zlataric</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zafar_Ali_Khan">
+    <yago:hasName xml:lang="en">Maulana Zafar Ali Khan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yulia_Zhadovskaya">
+    <yago:hasName xml:lang="en">Iuliya Valerianovna Zhadovskaya</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duiliu_Zamfirescu">
+    <yago:hasName xml:lang="en">Duiliu Zamfirescu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Zehrer">
+    <yago:hasName xml:lang="en">Hans Zehrer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Chengzhi">
+    <yago:hasName xml:lang="en">Chengzhi Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shlomo_Zemach">
+    <yago:hasName xml:lang="en">Shlomo Zemach</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%89ric_Zemmour">
+    <yago:hasName xml:lang="en">Éric Zemmour</yago:hasName>
+    <yago:hasName xml:lang="en">Eric Zemmour</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernardino_Zapponi">
+    <yago:hasName xml:lang="en">Bernardino Zapponi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Zaalberg">
+    <yago:hasName xml:lang="en">Frans Hendrik Karel Zaalberg</yago:hasName>
+    <yago:hasName xml:lang="en">Karel Zaalberg</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerzy_Zag%C3%B3rski">
+    <yago:hasName xml:lang="en">Jerzy Zagórski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikole_Zivalich">
+    <yago:hasName xml:lang="en">Nikole Zivalich</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Zhukova">
+    <yago:hasName xml:lang="en">Mariya Semyonovna Zhukova</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fay_Zwicky">
+    <yago:hasName xml:lang="en">Fay Zwicky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wojciech_%C5%BBukrowski">
+    <yago:hasName xml:lang="en">Wojciech Zukrowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tymon_Zaborowski">
+    <yago:hasName xml:lang="en">Tymon Zaborowski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shelina_Zahra_Janmohamed">
+    <yago:hasName xml:lang="en">Shelina Zahra Janmohamed</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Zakariasen">
+    <yago:hasName xml:lang="en">William Zakariasen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimiera_Zawistowska">
+    <yago:hasName xml:lang="en">Kazimiera Zawistowska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Zaisi">
+    <yago:hasName xml:lang="en">Xu Zaisi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Zingler">
+    <yago:hasName xml:lang="en">David Zingler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snuki_Zikalala">
+    <yago:hasName xml:lang="en">Snuki Zikalala</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lifen_Zhang">
+    <yago:hasName xml:lang="en">Lifen Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Zonailo">
+    <yago:hasName xml:lang="en">Carolyn Zonailo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomasz_Zan">
+    <yago:hasName xml:lang="en">Tomasz Zan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Zimmer_Bradley">
+    <yago:hasName xml:lang="en">Marion Zimmer Bradley</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norbert_Zongo">
+    <yago:hasName xml:lang="en">Norbert Zongo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petr_Zelenka">
+    <yago:hasName xml:lang="en">Petr Zelenka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilyas_Zhansugurov">
+    <yago:hasName xml:lang="en">Ilyas Zhansugurov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khawaja_Zafar_Iqbal">
+    <yago:hasName xml:lang="en">Khawaja Zafar Iqbal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Leung">
+    <yago:hasName xml:lang="en">lam4 zik6</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mar%C3%ADa_Zambrano">
+    <yago:hasName xml:lang="en">Maria Zambrano</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Zabolotsky">
+    <yago:hasName xml:lang="en">Nikolay Zabolotsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huang_Yi">
+    <yago:hasName xml:lang="en">Huang Zuqiang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Zischka">
+    <yago:hasName xml:lang="en">Anton Emmerich Zischka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciril_Zlobec">
+    <yago:hasName xml:lang="en">Ciril Zlobec</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jens_Zetlitz_Kielland">
+    <yago:hasName xml:lang="en">Jens Zetlitz Kielland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bibi_van_der_Zee">
+    <yago:hasName xml:lang="en">Bibi Van der Zee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perch_Zeytuntsyan">
+    <yago:hasName xml:lang="en">Perch Zeytuntsyan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Zinni">
+    <yago:hasName xml:lang="en">Mark Zinni</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomasin_von_Zirclaere">
+    <yago:hasName xml:lang="en">Thomasin von Zirclaere</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilya_Zimin">
+    <yago:hasName xml:lang="en">Ilya Zimin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfredo_Zitarrosa">
+    <yago:hasName xml:lang="en">Alfredo Zitarrosa</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pawe%C5%82_Zaremba">
+    <yago:hasName xml:lang="en">Paweł Zaremba</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Zook">
+    <yago:hasName xml:lang="en">Chris Zook</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derrick_Z._Jackson">
+    <yago:hasName xml:lang="en">Derrick Z. Jackson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Zhensheng_(photojournalist)">
+    <yago:hasName xml:lang="en">Li Zhensheng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Zhitkov">
+    <yago:hasName xml:lang="en">Boris Zhitkov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Zorich">
+    <yago:hasName xml:lang="en">Alexander Zorich</yago:hasName>
+    <yago:hasName xml:lang="en">Alexander Zorich (</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefanie_Zweig">
+    <yago:hasName xml:lang="en">Stefanie Zweig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Baugh">
+    <yago:hasName xml:lang="en">Laura Zonetta Baugh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafi_Zabor">
+    <yago:hasName xml:lang="en">Rafi Zabor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Adam_z_Veleslav%C3%ADna">
+    <yago:hasName xml:lang="en">Daniel Adam z Veleslavína</yago:hasName>
+    <yago:hasName xml:lang="en">Daniel Z Veleslavina Adam</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iryna_Zhylenko">
+    <yago:hasName xml:lang="en">Iryna Volodymyrivna Zhylenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeami_Motokiyo">
+    <yago:hasName xml:lang="en">Motokiyo Zeami</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Zimler">
+    <yago:hasName xml:lang="en">Richard Zimler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Scott_Zicree">
+    <yago:hasName xml:lang="en">Marc Scott Zicree</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xiaowen_Zeng">
+    <yago:hasName xml:lang="en">Xiaowen Zeng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Zahradn%C3%AD%C4%8Dek">
+    <yago:hasName xml:lang="en">Jan Zahradnicek</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Jim">
+    <yago:hasName xml:lang="en">wong4 zim1</yago:hasName>
+    <yago:hasName xml:lang="en">huang2 zhan1</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katarina_Zrinska">
+    <yago:hasName xml:lang="en">Katarina Zrinska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Jiuling">
+    <yago:hasName xml:lang="en">Jiuling Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basil_Zempilas">
+    <yago:hasName xml:lang="en">Basil Anthony Zempilas</yago:hasName>
+    <yago:hasName xml:lang="en">Basil Zempilas</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Anti_(journalist)">
+    <yago:hasName xml:lang="en">Jing Zhao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dikken_Zwilgmeyer">
+    <yago:hasName xml:lang="en">Dikken Zwilgmeyer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Van_Zandt">
+    <yago:hasName xml:lang="en">Billy Van Zandt</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karen_Van_der_Zee">
+    <yago:hasName xml:lang="en">Karen Van der Zee</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikl%C3%B3s_Zr%C3%ADnyi">
+    <yago:hasName xml:lang="en">Miklós Zrínyi</yago:hasName>
+    <yago:hasName xml:lang="en">Nikola Zrinski</yago:hasName>
+    <yago:hasName xml:lang="en">Nicholas VII of Zrin</yago:hasName>
+    <yago:hasName xml:lang="en">Nicholas Zrinsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zinovy_Zinik">
+    <yago:hasName xml:lang="en">Zinovy Zinik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Zinkhan">
+    <yago:hasName xml:lang="en">George Zinkhan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefania_Zahorska">
+    <yago:hasName xml:lang="en">Stefania Zahorska</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Zimmering">
+    <yago:hasName xml:lang="en">Max Zimmering</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zameer_Naqvi">
+    <yago:hasName xml:lang="en">Syed Zameer Akhtar Naqvi</yago:hasName>
+    <yago:hasName xml:lang="en">Allama Dr.Syed Zameer Akhtar Naqvi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Zarkhi">
+    <yago:hasName xml:lang="en">Aleksandr Zarkhi</yago:hasName>
+    <yago:hasName xml:lang="en">Aleksandr Grigoryevich Zarkhi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J%C3%B3zef_Bohdan_Zaleski">
+    <yago:hasName xml:lang="en">Józef Bohdan Zaleski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermynia_Zur_M%C3%BChlen">
+    <yago:hasName xml:lang="en">Hermynia Zur Muhlen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Zhongxing">
+    <yago:hasName xml:lang="en">Xu Zhongxing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Zemlianichenko">
+    <yago:hasName xml:lang="en">Alexander Zemlianichenko</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Zaitchik">
+    <yago:hasName xml:lang="en">Alexander Zaitchik</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahdri_Zhina_Mandiela">
+    <yago:hasName xml:lang="en">Ahdri Zhina Mandiela</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Zeepvat">
+    <yago:hasName xml:lang="en">Charlotte Zeepvat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Zamrak">
+    <yago:hasName xml:lang="en">Ibn Zamrak</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Han_(Ming_Dynasty)">
+    <yago:hasName xml:lang="en">Han Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janine_Zacharia">
+    <yago:hasName xml:lang="en">Janine Zacharia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadeusz_Zwiefka">
+    <yago:hasName xml:lang="en">Tadeusz Zwiefka</yago:hasName>
+    <yago:hasName xml:lang="en">Tadeusz Antoni Zwiefka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irene_Zoe_Alameda">
+    <yago:hasName xml:lang="en">Irene Zoe Alameda</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Chryzostom_Zachariasiewicz">
+    <yago:hasName xml:lang="en">Jan Chryzostom Zachariasiewicz</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Zoppio">
+    <yago:hasName xml:lang="en">Girolamo Zoppio</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeng_Gong">
+    <yago:hasName xml:lang="en">Gong Zeng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Zinn">
+    <yago:hasName xml:lang="en">Howard Zinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rayko_Zhinzifov">
+    <yago:hasName xml:lang="en">Rayko Zhinzifov</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitomil_Zupan">
+    <yago:hasName xml:lang="en">Vitomil Zupan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Zaid">
+    <yago:hasName xml:lang="en">Gabriel Zaid</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Zwerdling">
+    <yago:hasName xml:lang="en">Daniel Zwerdling</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marty_Zupan">
+    <yago:hasName xml:lang="en">Marty Zupan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Zimmerman">
+    <yago:hasName xml:lang="en">Mary Zimmerman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lijia_Zhang">
+    <yago:hasName xml:lang="en">Lijia Zhang (Zhang Lijia)</yago:hasName>
+    <yago:hasName xml:lang="en">Lijia Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celia_Correas_de_Zapata">
+    <yago:hasName xml:lang="en">Celia Correas de Zapata</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahadur_Shah_II">
+    <yago:hasName xml:lang="en">Abu Zafar Sirajuddin Muhammad Bahadur Shah Zafar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Zagoskin">
+    <yago:hasName xml:lang="en">Mikhail Nikolayevich Zagoskin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jutta_Zilliacus">
+    <yago:hasName xml:lang="en">Jutta Zilliacus</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignaz_Vincenz_Zingerle">
+    <yago:hasName xml:lang="en">Ignaz Vincenz Zingerle</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidonia_Hedwig_Z%C3%A4unemann">
+    <yago:hasName xml:lang="en">Sidonia Hedwig Zaunemann</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_von_Zesen">
+    <yago:hasName xml:lang="en">Philipp von Zesen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabrielle_Zevin">
+    <yago:hasName xml:lang="en">Gabrielle Zevin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonja_Merljak_Zdovc">
+    <yago:hasName xml:lang="en">Sonja Merljak Zdovc</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Zafzaf">
+    <yago:hasName xml:lang="en">Mohamed Zafzaf</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhou_Weihui">
+    <yago:hasName xml:lang="en">Weihui Zhou</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dzmitry_Zavadski">
+    <yago:hasName xml:lang="en">Dmitry Zavadsky</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Zindel">
+    <yago:hasName xml:lang="en">Paul Zindel</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yevgeny_Zamyatin">
+    <yago:hasName xml:lang="en">Yevgeny Zamyatin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calvin_Ziegler">
+    <yago:hasName xml:lang="en">Calvin Ziegler</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Zehnder">
+    <yago:hasName xml:lang="en">Fred Zehnder</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivana_Wong">
+    <yago:hasName xml:lang="en">wang2 wan3 zhi1</yago:hasName>
+    <yago:hasName xml:lang="en">wong4 jyun2 zi1</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Micha%C3%ABl_Zeeman">
+    <yago:hasName xml:lang="en">Michael Zeeman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Zemeckis">
+    <yago:hasName xml:lang="en">Robert Zemeckis</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abu_Zafar_Obaidullah">
+    <yago:hasName xml:lang="en">Abu Zafar Obaidullah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yilin_Zhong">
+    <yago:hasName xml:lang="en">Yilin Zhong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Zusman">
+    <yago:hasName xml:lang="en">Mark Zusman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corneliu_Zelea_Codreanu">
+    <yago:hasName xml:lang="en">Corneliu Zelea Codreanu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apostolo_Zeno">
+    <yago:hasName xml:lang="en">Apostolo Zeno</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annejet_van_der_Zijl">
+    <yago:hasName xml:lang="en">Annejet van der Zijl</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamil_Sidqi_al-Zahawi">
+    <yago:hasName xml:lang="en">Jamil Sidqi Zahawi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jalil_Zaland">
+    <yago:hasName xml:lang="en">Jalil Zaland</yago:hasName>
+    <yago:hasName xml:lang="en">Ustad Jalil Zaland</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Zolotow">
+    <yago:hasName xml:lang="en">Charlotte Zolotow</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefan_Zweig">
+    <yago:hasName xml:lang="en">Stefan Zweig</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Zeta_Acosta">
+    <yago:hasName xml:lang="en">Oscar Zeta Acosta</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Tianyi">
+    <yago:hasName xml:lang="en">Tianyi Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fasi_Zaka">
+    <yago:hasName xml:lang="en">Fasi Zaka</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Zois">
+    <yago:hasName xml:lang="en">Chris L. Zois</yago:hasName>
+    <yago:hasName xml:lang="en">Chris Zois</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Z%C3%A1brana">
+    <yago:hasName xml:lang="en">Jan Zabrana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Andrzej_Zakrzewski">
+    <yago:hasName xml:lang="en">Jan Andrzej Zakrzewski</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhao_Yan">
+    <yago:hasName xml:lang="en">Yan Zhao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Jie_(writer)">
+    <yago:hasName xml:lang="en">Jie Zhang</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariusz_Zaruski">
+    <yago:hasName xml:lang="en">Mariusz Zaruski</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

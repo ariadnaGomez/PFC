@@ -1,0 +1,433 @@
+<rdf:RDF
+    xmlns:yago="http://dbpedia.org/class/yago/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Qoboza">
+    <yago:hasName xml:lang="en">Percy Qoboza</yago:hasName>
+    <yago:hasName xml:lang="en">Percy Peter Tshidiso Qoboza</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Quintana">
+    <yago:hasName xml:lang="en">Leroy Quintana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Quinet">
+    <yago:hasName xml:lang="en">Edgar Quinet</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Quinlan">
+    <yago:hasName xml:lang="en">Arthur Quinlan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liang_Qichao">
+    <yago:hasName xml:lang="en">Liang Qichao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Quinn">
+    <yago:hasName xml:lang="en">Carolyn Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pascal_Quignard">
+    <yago:hasName xml:lang="en">Pascal Quignard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Abdul_Qadeer_Siddiqi_Qadri">
+    <yago:hasName xml:lang="en">Muhammad Abdul Qadeer Siddiqi Qadri</yago:hasName>
+    <yago:hasName xml:lang="en">Muhammed Abdul Qadeer Siddiqui</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Quilter">
+    <yago:hasName xml:lang="en">Laura Quilter</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Q._Wilson">
+    <yago:hasName xml:lang="en">James Q. Wilson</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Ibn_al-Qadi">
+    <yago:hasName xml:lang="en">Ahmad Ibn Qadi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dai_Qing">
+    <yago:hasName xml:lang="en">Dai Qing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Quiambao">
+    <yago:hasName xml:lang="en">Miriam Quiambao</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pascale_Quiviger">
+    <yago:hasName xml:lang="en">Pascale Quiviger</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abid_Qaiyum_Suleri">
+    <yago:hasName xml:lang="en">Dr. Abid Qaiyum Suleri  عابد قيوم سليرى(Urdu)</yago:hasName>
+    <yago:hasName xml:lang="en">Abid Qaiyum Suleri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Qui%C3%B1ones_Vidal">
+    <yago:hasName xml:lang="en">Rafael Quinones Vidal</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Wong_(Hong_Kong_actor)">
+    <yago:hasName xml:lang="en">Huáng Qiūshēng</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sadia_Qureshi">
+    <yago:hasName xml:lang="en">Sadia Qureshi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Mortimer">
+    <yago:hasName xml:lang="en">CBE QC</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rexhep_Qosja">
+    <yago:hasName xml:lang="en">Rexhep Qosja</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ganira_Pashayeva">
+    <yago:hasName xml:lang="en">Ganira Pashayeva Elesger Qizi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nizar_Qabbani">
+    <yago:hasName xml:lang="en">Nizar Qabbani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Quinn_(broadcaster)">
+    <yago:hasName xml:lang="en">Keith Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ofeibea_Quist-Arcton">
+    <yago:hasName xml:lang="en">Ofeibea Quist-Arcton</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Arthur_Quarles">
+    <yago:hasName xml:lang="en">Benjamin Arthur Quarles</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qanate_Kurdo">
+    <yago:hasName xml:lang="en">Курдоев, Канат Калашевич Qanatê Kurdo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ilyas_Qadri">
+    <yago:hasName xml:lang="en">Muhammad Ilyas Attar Qadiri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Lam">
+    <yago:hasName xml:lang="en">lin2 zhen4 qiang2</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Quintana">
+    <yago:hasName xml:lang="en">Mario De Miranda Quintana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MC_Q-Bah">
+    <yago:hasName xml:lang="en">MC Q-Bah</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Xiaolong">
+    <yago:hasName xml:lang="en">Xiaolong Qiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Turbay">
+    <yago:hasName xml:lang="en">Diana Turbay Quintero</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roberto_Quaglia">
+    <yago:hasName xml:lang="en">Roberto Quaglia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haji_Qadir_Koyi">
+    <yago:hasName xml:lang="en">Haji Qadir Koyi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Queneau">
+    <yago:hasName xml:lang="en">Raymond Queneau</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Quintanilla">
+    <yago:hasName xml:lang="en">Carl Quintanilla</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Nadeem_Qasmi">
+    <yago:hasName xml:lang="en">Ahmad Nadeem Qasmi</yago:hasName>
+    <yago:hasName xml:lang="en">Ahmad Nadeem Qasimi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kimberly_Quinn">
+    <yago:hasName xml:lang="en">Kimberly Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Quin">
+    <yago:hasName xml:lang="en">Ann Quin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robbie_Q._Telfer">
+    <yago:hasName xml:lang="en">Robbie Q. Telfer</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elena_Quiroga">
+    <yago:hasName xml:lang="en">Elena Quiroga</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aziz_Qaisi">
+    <yago:hasName xml:lang="en">Aziz Qaisi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shahid_Qadri">
+    <yago:hasName xml:lang="en">Shahid Qadri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Quinn_(Irish_journalist)">
+    <yago:hasName xml:lang="en">David Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sally_Quinn">
+    <yago:hasName xml:lang="en">Sally Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sayyid_Al-Qemany">
+    <yago:hasName xml:lang="en">El Qemany Sayed</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Q._Jordan">
+    <yago:hasName xml:lang="en">John Q. Jordan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Le_Quintrec">
+    <yago:hasName xml:lang="en">Charles le Quintrec</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvatore_Quasimodo">
+    <yago:hasName xml:lang="en">Salvatore Quasimodo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syed_Qasim_Mahmood">
+    <yago:hasName xml:lang="en">Syed Qasim Mahmood</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Quinn_Curtiss">
+    <yago:hasName xml:lang="en">Thomas Quinn Curtiss</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qian_Zhongshu">
+    <yago:hasName xml:lang="en">Zhongshu Qian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pirzada_Qasim">
+    <yago:hasName xml:lang="en">Pirzada Qasim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Quarrington">
+    <yago:hasName xml:lang="en">Paul Quarrington</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracy_Quan">
+    <yago:hasName xml:lang="en">Tracy Quan</yago:hasName>
+    <yago:hasName xml:lang="en">Tray Quan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Herbert_Quick">
+    <yago:hasName xml:lang="en">John Herbert Quick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Jin">
+    <yago:hasName xml:lang="en">Jin Qiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Quzman">
+    <yago:hasName xml:lang="en">Ibn Quzman</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_Quinn">
+    <yago:hasName xml:lang="en">Julia (pseudonym) Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suzi_Q._Smith">
+    <yago:hasName xml:lang="en">Suzi Q. Smith</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%C4%9E%C3%A4del_Qutuy">
+    <yago:hasName xml:lang="en">Ğädel Qutuy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrie_Quinlan">
+    <yago:hasName xml:lang="en">Carrie Quinlan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Quinn">
+    <yago:hasName xml:lang="en">Daniel Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Quigley,_Jr.">
+    <yago:hasName xml:lang="en">Martin Quigley Jr.</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Quillinan">
+    <yago:hasName xml:lang="en">Edward Quillinan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolfo_Quir%C3%B3s">
+    <yago:hasName xml:lang="en">Adolfo Quiros</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Quillian">
+    <yago:hasName xml:lang="en">William H. Quillian</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghulam_Muhammad_Qasir">
+    <yago:hasName xml:lang="en">Ghulam Muhammad Qasir</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robin_Quivers">
+    <yago:hasName xml:lang="en">Robin Quivers</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naheed_Qasimi">
+    <yago:hasName xml:lang="en">Naheed Qasimi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qaysin_Quli">
+    <yago:hasName xml:lang="en">Qaysin Quli</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jazib_Qureshi">
+    <yago:hasName xml:lang="en">Jazib Qureshi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Justin_Quinn">
+    <yago:hasName xml:lang="en">Justin Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nguyen_Quoc_Chanh">
+    <yago:hasName xml:lang="en">Nguyễn Quốc Chánh</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daulat_Qazi">
+    <yago:hasName xml:lang="en">Daulat Qazi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Quilty">
+    <yago:hasName xml:lang="en">Tom Quilty</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reza-Qoli_Khan_Hedayat">
+    <yago:hasName xml:lang="en">Reza Qoli Khan Hedayat</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shen_Qing">
+    <yago:hasName xml:lang="en">Shen Qing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ra%C3%BAl_Quinto">
+    <yago:hasName xml:lang="en">Raul Quinto</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hallie_Quinn_Brown">
+    <yago:hasName xml:lang="en">Hallie Quinn Brown</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrik_Qvortrup">
+    <yago:hasName xml:lang="en">Henrik Qvortrup</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_J._Quirk">
+    <yago:hasName xml:lang="en">Lawrence J. Quirk</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Quindlen">
+    <yago:hasName xml:lang="en">Anna Quindlen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Quinault">
+    <yago:hasName xml:lang="en">Philippe Quinault</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Agust%C3%ADn_Quintero">
+    <yago:hasName xml:lang="en">José Agustín Quintero</yago:hasName>
+    <yago:hasName xml:lang="en">Jose Agustin Quintero</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Najibullah_Quraishi">
+    <yago:hasName xml:lang="en">Najibullah Quraishi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Justin_Quinn_(journalist)">
+    <yago:hasName xml:lang="en">Justin Quinn</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queiroz">
+    <yago:hasName xml:lang="en">José Maria de Eça de Queirós</yago:hasName>
+    <yago:hasName xml:lang="en">Eca De Queirós</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulla_Qahhor">
+    <yago:hasName xml:lang="en">Abdulla Qahhor</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_de_Quevedo">
+    <yago:hasName xml:lang="en">Francisco de Quevedo</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Q._Steele">
+    <yago:hasName xml:lang="en">Mary Q. Steele</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Q._Masur">
+    <yago:hasName xml:lang="en">Harold Q. Masur</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gao_Qinrong">
+    <yago:hasName xml:lang="en">Gao Qinrong</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guzm%C3%A1n_Quintero_Torres">
+    <yago:hasName xml:lang="en">Guzman Quintero Torres</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Quinn_Sullivan">
+    <yago:hasName xml:lang="en">Michael Quinn Sullivan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qiu_Fengjia">
+    <yago:hasName xml:lang="en">Fengjia Qiu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Quincy_(1808%E2%80%931877)">
+    <yago:hasName xml:lang="en">Edmund Quincy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulla_Qodiriy">
+    <yago:hasName xml:lang="en">Abdulla Qodiriy</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanan_Qassab_Hassan">
+    <yago:hasName xml:lang="en">Hanan Qassab Hassanحنان قصاب حسن</yago:hasName>
+    <yago:hasName xml:lang="en">Hanan Qassab Hassan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_de_Quincey">
+    <yago:hasName xml:lang="en">Thomas De Quincey</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antero_de_Quental">
+    <yago:hasName xml:lang="en">Antero de Quental</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._J._Quinnell">
+    <yago:hasName xml:lang="en">A. J. Quinnell</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erfan_Qaneifard">
+    <yago:hasName xml:lang="en">Erphan Qaneeifard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kieron_Quirke">
+    <yago:hasName xml:lang="en">Kieron Quirke</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-A&apos;sha">
+    <yago:hasName xml:lang="en">Maymun Ibn Qays Al Asha</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ash-har_Quraishi">
+    <yago:hasName xml:lang="en">Ash-Har Quraishi</yago:hasName>
+    <yago:hasName xml:lang="en">ASH-HAR QURAISHI</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bano_Qudsia">
+    <yago:hasName xml:lang="en">Bano Qudsia</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Le_Queux">
+    <yago:hasName xml:lang="en">William Le Queux</yago:hasName>
+    <yago:hasName xml:lang="en">William Tufnell Le Queux</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Hebert_Quick">
+    <yago:hasName xml:lang="en">Robert Hebert Quick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ai_Qing">
+    <yago:hasName xml:lang="en">Ai Qing</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Joseph_Quin">
+    <yago:hasName xml:lang="en">Michael Joseph Quin</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Quillard">
+    <yago:hasName xml:lang="en">Pierre Quillard</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos%C3%A9_Bernardino_Quijada_Vivanco">
+    <yago:hasName xml:lang="en">Jose Quijada</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Owais_Raza_Qadri">
+    <yago:hasName xml:lang="en">Muhammad Owais Raza Qadri</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lam_Quang_My">
+    <yago:hasName xml:lang="en">Lam Quang My</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nguy%E1%BB%85n_Qu%E1%BA%A3ng_Tu%C3%A2n">
+    <yago:hasName xml:lang="en">Nguyễn Quảng Tuân</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Qafzezi">
+    <yago:hasName xml:lang="en">Leon Qafzezi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bachir_Qamari">
+    <yago:hasName xml:lang="en">Bachir Qamari</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yair_Qedar">
+    <yago:hasName xml:lang="en">Yair Qedar</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Quillen">
+    <yago:hasName xml:lang="en">Robert Quillen</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Quackenbush">
+    <yago:hasName xml:lang="en">Robert M Quackenbush</yago:hasName>
+    <yago:hasName xml:lang="en">Robert Quackenbush</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ab%C3%BB_&apos;Uthm%C3%A2n_Sa&apos;%C3%AEd_ibn_Hakam_al_Qurashi">
+    <yago:hasName xml:lang="en">Abu 'Uthman Sa'id ibn Hakam al Qurashi</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ei-Q">
+    <yago:hasName xml:lang="en">Ei Q</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_Bo_(novelist)">
+    <yago:hasName xml:lang="en">Bo Qu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aref_Qazvini">
+    <yago:hasName xml:lang="en">Aref Qazvini</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rebecca_Quick">
+    <yago:hasName xml:lang="en">Rebecca Quick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samih_al-Qasim">
+    <yago:hasName xml:lang="en">Samih al- Qasim</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hacken_Lee">
+    <yago:hasName xml:lang="en">lǐ kè qín</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chelsea_Quinn_Yarbro">
+    <yago:hasName xml:lang="en">Chelsea Quinn Yarbro</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ana_Rosa_Quintana">
+    <yago:hasName xml:lang="en">Ana Rosa Quintana</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abai_Qunanbaiuli">
+    <yago:hasName xml:lang="en">Abay Ibrahim Qunanbayuli</yago:hasName>
+    <yago:hasName xml:lang="en">Абай Құнанбайұлы Abay QunanbayuliАбай ҚұнанбаевAbai Kunanbaev</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Quinlan_(film_critic)">
+    <yago:hasName xml:lang="en">David Quinlan</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Thomas_Quick">
+    <yago:hasName xml:lang="en">William Thomas Quick</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Quijada_Ur%C3%ADas">
+    <yago:hasName xml:lang="en">Alfonso Quijada Urias</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qu_Yuan">
+    <yago:hasName xml:lang="en">Yuan Qu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernesto_Qui%C3%B1onez">
+    <yago:hasName xml:lang="en">Ernesto Quiñonez</yago:hasName>
+    <yago:hasName xml:lang="en">Ernesto Quinonez</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Quiller-Couch">
+    <yago:hasName xml:lang="en">Sir Arthur Quiller-Couch</yago:hasName>
+    <yago:hasName xml:lang="en">Arthur Quiller-Couch</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abu_Khalil_Qabbani">
+    <yago:hasName xml:lang="en">Abu Khalil Qabbani</yago:hasName>
+  </rdf:Description>
+</rdf:RDF>

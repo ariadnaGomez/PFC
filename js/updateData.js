@@ -8,7 +8,7 @@ function updateData() {
             $('#updating_gif').hide();
             if (data) {
                 $('#updated').show();
-                $('#not_updated').hide();
+                $('#updated_not').hide();
             } else {
                 $('#updated_not').show();
                 $('#updated').hide();
@@ -17,7 +17,7 @@ function updateData() {
         },
         error: function() {
             $('#updating_gif').hide();
-            $('#not_updated').show();
+            $('#updated_not').show();
             $('#updated').hide();
         }
     });

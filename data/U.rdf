@@ -2,6 +2,9 @@
     xmlns:yago="http://dbpedia.org/class/yago/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uldis_B%C4%93rzi%C5%86%C5%A1">
+    <yago:hasName xml:lang="en">Uldis Berzins</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uma_Bose">
     <yago:hasName xml:lang="en">Uma Bose (Hashi)</yago:hasName>
     <yago:hasName xml:lang="en">Uma Bose</yago:hasName>
@@ -30,14 +33,18 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_Krechel">
     <yago:hasName xml:lang="en">Ursula Krechel</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulamila_Kurai_Wragg">
+    <yago:hasName xml:lang="en">Ulamila Kurai Wragg</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Unk_White">
     <yago:hasName xml:lang="en">Unk White</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Umera_Ahmad">
     <yago:hasName xml:lang="en">Umera Ahmad</yago:hasName>
+    <yago:hasName xml:lang="en">Umaira Ahmed</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ustad_Daman">
-    <yago:hasName xml:lang="en">Ustad Daman</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_Bloom">
+    <yago:hasName xml:lang="en">Ursula Bloom</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uddipana_Goswami">
     <yago:hasName xml:lang="en">Uddipana Goswami</yago:hasName>
@@ -54,6 +61,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uday_Prakash">
     <yago:hasName xml:lang="en">Uday Prakash</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uwe_Tellkamp">
+    <yago:hasName xml:lang="en">Uwe Tellkamp</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ulfat_Idilbi">
     <yago:hasName xml:lang="en">Ulfat Idilbi</yago:hasName>
   </rdf:Description>
@@ -62,6 +72,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_K._Le_Guin">
     <yago:hasName xml:lang="en">Ursula K. Le Guin</yago:hasName>
+    <yago:hasName xml:lang="en">Ursula Kroeber Le Guin</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uro%C5%A1_Zupan">
     <yago:hasName xml:lang="en">Uros Zupan</yago:hasName>
@@ -69,9 +80,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Hamid_Ullah_Afsar">
     <yago:hasName xml:lang="en">Ullah Hamid Afsar</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uallach_ingen_Muinech%C3%A1in">
-    <yago:hasName xml:lang="en">Uallach ingen Muinechain</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uldarico_A._Alviola">
     <yago:hasName xml:lang="en">Uldarico A. Alviola</yago:hasName>
@@ -84,10 +92,6 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Sitta_Umaru_Turay">
     <yago:hasName xml:lang="en">Umaru Sitta Turay</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulick_O%27Connor">
-    <yago:hasName xml:lang="en">Ulick Oconnor</yago:hasName>
-    <yago:hasName xml:lang="en">Ulick O'Connor</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uttam_Gada">
     <yago:hasName xml:lang="en">Uttam Gada</yago:hasName>
@@ -110,6 +114,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Madhusudan_Das">
     <yago:hasName xml:lang="en">Utkal Gourav Madhusudan Das</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uma_Krishnaswami">
+    <yago:hasName xml:lang="en">Uma Krishnaswami</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mir_Babar_Ali_Anis">
     <yago:hasName xml:lang="en">Urdu poet of Mughal era</yago:hasName>
@@ -143,9 +150,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ullrich_Fichtner">
     <yago:hasName xml:lang="en">Ullrich Fichtner</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbano_Tavares_Rodrigues">
-    <yago:hasName xml:lang="en">Urbano Tavares Rodrigues</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Umberto_Eco">
     <yago:hasName xml:lang="en">Umberto Eco</yago:hasName>
   </rdf:Description>
@@ -158,9 +162,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/U%C4%9Fur_G%C3%BCrses">
     <yago:hasName xml:lang="en">Ugur Gurses</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Umar_Kayam">
-    <yago:hasName xml:lang="en">Umar Kayam</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Urmuz">
     <yago:hasName xml:lang="en">Urmuz</yago:hasName>
   </rdf:Description>
@@ -171,18 +172,11 @@
     <yago:hasName xml:lang="en">Uchechi Kalu</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/U._A._Fanthorpe">
-    <yago:hasName xml:lang="en">Ursula Askham Fanthorpe</yago:hasName>
     <yago:hasName xml:lang="en">U.A. Fanthorpe</yago:hasName>
     <yago:hasName xml:lang="en">Ursula Askham Fanthorpe, CBE, FRSL</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Utpal_Dutta">
-    <yago:hasName xml:lang="en">Utpal Datta</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uwe_Siemon-Netto">
     <yago:hasName xml:lang="en">Uwe Siemon-Netto</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghalib">
-    <yago:hasName xml:lang="en">Urdu poet of Mughal era</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uri_Blau">
     <yago:hasName xml:lang="en">Uri Blau</yago:hasName>
@@ -203,6 +197,7 @@
     <yago:hasName xml:lang="en">Urani Rumbo</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Umberto_Saba">
+    <yago:hasName xml:lang="en">Umberto Saba (Poli)</yago:hasName>
     <yago:hasName xml:lang="en">Umberto Saba</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uday_Bhembre">
@@ -224,8 +219,14 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ulrich_Peltzer">
     <yago:hasName xml:lang="en">Ulrich Peltzer</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uthaya_Sankar_SB">
+    <yago:hasName xml:lang="en">Uthaya Sankar Sb</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ubayd_Zakani">
     <yago:hasName xml:lang="en">Ubayd Zakani</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uma_Singh">
+    <yago:hasName xml:lang="en">Uma Singh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Usama_ibn_Munqidh">
     <yago:hasName xml:lang="en">Usama ibn Munqidh</yago:hasName>
@@ -245,6 +246,9 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Usun_Yoon">
     <yago:hasName xml:lang="en">Usun Yoon</yago:hasName>
   </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urtzi_Urrutikoetxea">
+    <yago:hasName xml:lang="en">Urtzi Urrutikoetxea</yago:hasName>
+  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_Vaughan_Williams">
     <yago:hasName xml:lang="en">Ursula Vaughan Williams</yago:hasName>
   </rdf:Description>
@@ -252,11 +256,14 @@
     <yago:hasName xml:lang="en">Uğur Dündar</yago:hasName>
     <yago:hasName xml:lang="en">Ugur Dundar</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohsin_Naqvi">
-    <yago:hasName xml:lang="en">Urdu poet</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jodi_Unruh">
+    <yago:hasName xml:lang="en">Unruh</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/%C3%9Cst%C3%BCn_Bilgen-Reinart">
     <yago:hasName xml:lang="en">Ustun Bilgen-Reinart</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohsin_Naqvi">
+    <yago:hasName xml:lang="en">Urdu poet</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ugo_Betti">
     <yago:hasName xml:lang="en">Ugo Betti</yago:hasName>
@@ -276,8 +283,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Usko_Santavuori">
     <yago:hasName xml:lang="en">Usko Santavuori</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Ursula_Moray_Williams">
-    <yago:hasName xml:lang="en">Ursula Moray Williams</yago:hasName>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulla_Jelpke">
+    <yago:hasName xml:lang="en">Ulla Jelpke</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Una_Marson">
     <yago:hasName xml:lang="en">Una Marson</yago:hasName>
@@ -324,9 +331,6 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/UCSD_Pascal">
     <yago:hasName xml:lang="en">UCSD Pascal/p-System</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Umair_Khan">
-    <yago:hasName xml:lang="en">Umair Khan</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uzma_Aslam_Khan">
     <yago:hasName xml:lang="en">Uzma Aslam Khan</yago:hasName>
   </rdf:Description>
@@ -360,15 +364,8 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Upton_Sinclair">
     <yago:hasName xml:lang="en">Upton Sinclair</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Umarji_Anuradha">
-    <yago:hasName xml:lang="en">Umarji Anuradha</yago:hasName>
-    <yago:hasName xml:lang="en">Umarji Anuradha Kavuri</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Ghalib">
     <yago:hasName xml:lang="en">Urdu poet of Mughal era</yago:hasName>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Uri_Orlev">
-    <yago:hasName xml:lang="en">Uri Orlev</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Ugo_Foscolo">
     <yago:hasName xml:lang="en">Ugo Foscolo</yago:hasName>
@@ -376,12 +373,12 @@
   <rdf:Description rdf:about="http://dbpedia.org/resource/Umar_Alisha">
     <yago:hasName xml:lang="en">Umar Alisha</yago:hasName>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Utako_Yamada">
-    <yago:hasName xml:lang="en">Utako Yamada</yago:hasName>
-  </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/U%C4%9Fur_Mumcu">
     <yago:hasName xml:lang="en">Ugur Mumcu</yago:hasName>
     <yago:hasName xml:lang="en">Uğur Mumcu</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udaya_Dharmawardhana">
+    <yago:hasName xml:lang="en">Udaya Dharmawardhana</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uro%C5%A1_Petrovi%C4%87">
     <yago:hasName xml:lang="en">Uros Petrovic</yago:hasName>
@@ -409,6 +406,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uys_Krige">
     <yago:hasName xml:lang="en">Uys Krige</yago:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulan_Melisbek">
+    <yago:hasName xml:lang="en">Ulan Melisbek</yago:hasName>
   </rdf:Description>
   <rdf:Description rdf:about="http://dbpedia.org/resource/Uri_Shulevitz">
     <yago:hasName xml:lang="en">Uri Shulevitz</yago:hasName>
