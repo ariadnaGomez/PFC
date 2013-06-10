@@ -1,6 +1,6 @@
 <html>
     <head><link href='../css/images/rdf.ico' rel='shortcut icon' type='image/png'></head>
-    <title>Aplicación bibliográfica</title>
+    <title>Bibliographic Application</title>
     <link rel="stylesheet" href="../css/styles/layout.css" type="text/css" />
     <script type="text/javascript" src="../css/scripts/jquery-ui-1.8.12.custom.min.js"></script>
     <script type="text/javascript" src="../css/scripts/jquery-1.4.1.min.js"></script>
@@ -19,8 +19,8 @@
         <div class="wrapper col1">
             <div id="header" class="clear">
                 <div class="fl_left">
-                    <h1><a href="https://github.com/ariadnaGomez/PFC">Aplicaci&oacute;n Bibliogr&aacute;fica</a></h1>
-                    <p>Ari Gomez</p>
+                    <h1><a href="https://github.com/ariadnaGomez/PFC">Bibliographic Application</a></h1>
+                    <p>Aplicaci&oacute;n bibliogr&aacute;fica usando Linked Data</p>
 
                 </div>
 

@@ -3,7 +3,7 @@ function searchDBPedia(authorName, autocomplete) {
         $("#searchTitle").html('Input must not be empty');
 
     } else {
-
+        $("#searchTitle").hide();
         $('#loading_gif').show();
         $.ajax({
             url: 'searchDBPedia.php',

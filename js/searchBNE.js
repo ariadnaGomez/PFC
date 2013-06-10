@@ -4,6 +4,7 @@ function searchBNE(searchBy, offset) {
         $("#searchTitle").html('Input must not be empty');
 
     } else {
+        $("#searchTitle").hide();
         $('#loading_gif').show();
         $.ajax({
             url: 'searchBNE.php',
